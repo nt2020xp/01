@@ -719,13 +719,24 @@ parse=1
 
 103台,#genre#
 
+TVBS新聞,http://103.251.89.243:50007/4gtv-4gtv072/index.m3u8
+東森新聞台,http://103.251.89.243:50007/4gtv-4gtv152/index.m3u8
+
+華視,http://103.251.89.243:50007/4gtv-4gtv041/index.m3u8
+中視,http://103.251.89.243:50007/4gtv-4gtv040/index.m3u8
+台視,http://103.251.89.243:50007/4gtv-4gtv066/index.m3u8
+靖天日本台,http://103.251.89.243:50007/4gtv-4gtv047/index.m3u8
+民視旅遊台,http://103.251.89.243:50007/litv-ftv07/index.m3u8
+亞洲旅遊台,http://103.251.89.243:50007/4gtv-4gtv076/index.m3u8
+愛爾達生活旅遊台,http://103.251.89.243:50007/4gtv-live120/index.m3u8
+
 民視第一台,http://103.251.89.243:50007/4gtv-4gtv003/index.m3u8
 民視台灣台,http://103.251.89.243:50007/4gtv-4gtv001/index.m3u8
 民視,http://103.251.89.243:50007/4gtv-4gtv002/index.m3u8
 大愛電視,http://103.251.89.243:50007/4gtv-live007/index.m3u8
-中視,http://103.251.89.243:50007/4gtv-4gtv040/index.m3u8
+
 中視經典台,http://103.251.89.243:50007/4gtv-4gtv080/index.m3u8
-華視,http://103.251.89.243:50007/4gtv-4gtv041/index.m3u8
+
 龍華洋片台,http://103.251.89.243:50007/litv-longturn02/index.m3u8
 龍華卡通台,http://103.251.89.243:50007/litv-longturn01/index.m3u8
 龍華電影台,http://103.251.89.243:50007/litv-longturn03/index.m3u8
@@ -753,7 +764,7 @@ parse=1
 TVBS精采台,http://103.251.89.243:50007/4gtv-4gtv067/index.m3u8
 愛爾達娛樂台,http://103.251.89.243:50007/4gtv-4gtv070/index.m3u8
 靖天綜合台,http://103.251.89.243:50007/4gtv-4gtv046/index.m3u8
-靖天日本台,http://103.251.89.243:50007/4gtv-4gtv047/index.m3u8
+
 新唐人亞太台,http://103.251.89.243:50007/4gtv-live050/index.m3u8
 ARIRANG阿里郎頻道,http://103.251.89.243:50007/4gtv-4gtv079/index.m3u8
 GlobalTrekker,http://103.251.89.243:50007/4gtv-live112/index.m3u8
@@ -770,11 +781,11 @@ DreamWorks夢工廠動畫,http://103.251.89.243:50007/4gtv-live017/index.m3u8
 MOMO親子台,http://103.251.89.243:50007/4gtv-live107/index.m3u8
 東森購物一台,http://103.251.89.243:50007/4gtv-live047/index.m3u8
 鏡電視新聞台,http://103.251.89.243:50007/4gtv-4gtv075/index.m3u8
-東森新聞台,http://103.251.89.243:50007/4gtv-4gtv152/index.m3u8
+
 華視新聞,http://103.251.89.243:50007/4gtv-4gtv052/index.m3u8
 民視新聞台,http://103.251.89.243:50007/litv-ftv13/index.m3u8
 三立新聞iNEWS,http://103.251.89.243:50007/4gtv-live089/index.m3u8
-TVBS新聞,http://103.251.89.243:50007/4gtv-4gtv072/index.m3u8
+
 東森財經新聞台,http://103.251.89.243:50007/4gtv-4gtv153/index.m3u8
 中視新聞,http://103.251.89.243:50007/4gtv-4gtv074/index.m3u8
 中天新聞台,http://103.251.89.243:50007/4gtv-4gtv009/index.m3u8
@@ -808,14 +819,14 @@ TRACESportStars,http://103.251.89.243:50007/4gtv-4gtv077/index.m3u8
 車迷TV,http://103.251.89.243:50007/4gtv-live201/index.m3u8
 GINXEsportsTV,http://103.251.89.243:50007/4gtv-4gtv053/index.m3u8
 PetClubTV,http://103.251.89.243:50007/4gtv-live110/index.m3u8
-民視旅遊台,http://103.251.89.243:50007/litv-ftv07/index.m3u8
+
 滾動力rollor,http://103.251.89.243:50007/4gtv-live012/index.m3u8
-亞洲旅遊台,http://103.251.89.243:50007/4gtv-4gtv076/index.m3u8
+
 fun探索娛樂台,http://103.251.89.243:50007/4gtv-live011/index.m3u8
 幸福空間居家台,http://103.251.89.243:50007/4gtv-live206/index.m3u8
 LoveNature,http://103.251.89.243:50007/4gtv-live208/index.m3u8
 History歷史頻道,http://103.251.89.243:50007/4gtv-live026/index.m3u8
-愛爾達生活旅遊台,http://103.251.89.243:50007/4gtv-live120/index.m3u8
+
 LUXETVChannel,http://103.251.89.243:50007/4gtv-live121/index.m3u8
 TV5MONDESTYLEHD生活時尚,http://103.251.89.243:50007/4gtv-live122/index.m3u8
 MagellanTV頻道(麥哲倫頻道),http://103.251.89.243:50007/4gtv-live123/index.m3u8
@@ -858,8 +869,6 @@ TVBS台劇台,http://103.251.89.243:50007/4gtv-live088/index.m3u8
 台灣戲劇台,http://103.251.89.243:50007/litv-longturn22/index.m3u8
 Smart知識台,http://103.251.89.243:50007/litv-longturn19/index.m3u8
 台視新聞,http://103.251.89.243:50007/4gtv-4gtv051/index.m3u8
-台視,http://103.251.89.243:50007/4gtv-4gtv066/index.m3u8
+
 第1商業台,http://103.251.89.243:50007/4gtv-4gtv104/index.m3u8
 
-蠟筆小新(中文版),http://103.251.89.243:50007/ofiii165/index.m3u8
-我們這一家,http://103.251.89.243:50007/ofiii166/index.m3u8
