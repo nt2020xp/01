@@ -729,6 +729,7 @@ TVBS新聞,http://103.251.89.243:50007/4gtv-4gtv072/index.m3u8
 民視旅遊台,http://103.251.89.243:50007/litv-ftv07/index.m3u8
 亞洲旅遊台,http://103.251.89.243:50007/4gtv-4gtv076/index.m3u8
 愛爾達生活旅遊台,http://103.251.89.243:50007/4gtv-live120/index.m3u8
+Smart知識台,http://103.251.89.243:50007/litv-longturn19/index.m3u8
 
 民視第一台,http://103.251.89.243:50007/4gtv-4gtv003/index.m3u8
 民視台灣台,http://103.251.89.243:50007/4gtv-4gtv001/index.m3u8
@@ -867,7 +868,7 @@ TVBS台劇台,http://103.251.89.243:50007/4gtv-live088/index.m3u8
 精選動漫台,http://103.251.89.243:50007/4gtv-live024/index.m3u8
 戲劇免費看1台,http://103.251.89.243:50007/4gtv-live010/index.m3u8
 台灣戲劇台,http://103.251.89.243:50007/litv-longturn22/index.m3u8
-Smart知識台,http://103.251.89.243:50007/litv-longturn19/index.m3u8
+
 台視新聞,http://103.251.89.243:50007/4gtv-4gtv051/index.m3u8
 
 第1商業台,http://103.251.89.243:50007/4gtv-4gtv104/index.m3u8
