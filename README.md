@@ -1,3 +1,5 @@
+"static-mozai.4gtv.tv","mozai.4gtv.tv",
+
 
 echo "litv頻道,#genre#\n";
 
