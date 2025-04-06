@@ -22,6 +22,25 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 高雄蓮池潭,https://www.youtube.com/watch?v=BnPoNatG-HE
 淡水漁人碼頭,https://www.youtube.com/watch?v=xwAWSh35uuw
 
+靖天日本台,http://103.251.89.243:50007/4gtv-4gtv047/index.m3u8
+靖天育樂台,http://103.251.89.243:50007/4gtv-4gtv062/index.m3u8
+靖天映畫,http://103.251.89.243:50007/4gtv-4gtv055/index.m3u8
+靖天資訊台,http://103.251.89.243:50007/4gtv-4gtv065/index.m3u8
+靖天電影台,http://103.251.89.243:50007/4gtv-4gtv061/index.m3u8
+靖天綜合台,http://103.251.89.243:50007/4gtv-4gtv046/index.m3u8
+靖天戲劇台,http://103.251.89.243:50007/4gtv-4gtv058/index.m3u8
+靖洋戲劇台,http://103.251.89.243:50007/4gtv-4gtv045/index.m3u8
+靖天卡通台,http://103.251.89.243:50007/4gtv-4gtv044/index.m3u8
+靖洋卡通台,http://103.251.89.243:50007/4gtv-4gtv057/index.m3u8
+
+龍華洋片台,http://103.251.89.243:50007/litv-longturn02/index.m3u8
+龍華日韓台,http://103.251.89.243:50007/litv-longturn11/index.m3u8
+龍華偶像台,http://103.251.89.243:50007/litv-longturn12/index.m3u8
+龍華經典台,http://103.251.89.243:50007/litv-longturn21/index.m3u8
+龍華電影台,http://103.251.89.243:50007/litv-longturn03/index.m3u8
+龍華戲劇台,http://103.251.89.243:50007/litv-longturn18/index.m3u8
+龍華卡通台,http://103.251.89.243:50007/litv-longturn01/index.m3u8
+
 一休和尚,#genre#
 parse=1
 
@@ -378,24 +397,7 @@ CatchPlay電影M,udp://@230.1.2.37:11111
 龍華影劇M,udp://@230.1.2.167:11111
 龍華影劇M,udp://@230.1.2.5:11111
 
-靖天日本台,http://103.251.89.243:50007/4gtv-4gtv047/index.m3u8
-靖天育樂台,http://103.251.89.243:50007/4gtv-4gtv062/index.m3u8
-靖天映畫,http://103.251.89.243:50007/4gtv-4gtv055/index.m3u8
-靖天資訊台,http://103.251.89.243:50007/4gtv-4gtv065/index.m3u8
-靖天電影台,http://103.251.89.243:50007/4gtv-4gtv061/index.m3u8
-靖天綜合台,http://103.251.89.243:50007/4gtv-4gtv046/index.m3u8
-靖天戲劇台,http://103.251.89.243:50007/4gtv-4gtv058/index.m3u8
-靖洋戲劇台,http://103.251.89.243:50007/4gtv-4gtv045/index.m3u8
-靖天卡通台,http://103.251.89.243:50007/4gtv-4gtv044/index.m3u8
-靖洋卡通台,http://103.251.89.243:50007/4gtv-4gtv057/index.m3u8
 
-龍華洋片台,http://103.251.89.243:50007/litv-longturn02/index.m3u8
-龍華日韓台,http://103.251.89.243:50007/litv-longturn11/index.m3u8
-龍華偶像台,http://103.251.89.243:50007/litv-longturn12/index.m3u8
-龍華經典台,http://103.251.89.243:50007/litv-longturn21/index.m3u8
-龍華電影台,http://103.251.89.243:50007/litv-longturn03/index.m3u8
-龍華戲劇台,http://103.251.89.243:50007/litv-longturn18/index.m3u8
-龍華卡通台,http://103.251.89.243:50007/litv-longturn01/index.m3u8
 
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
