@@ -173,8 +173,6 @@ pixman.io 交流群 https://t.me/livednowgroup
 
 (申請)天光云影 https://t.me/mytv_android
 
-哪吒云 https://t.me/nezhasux
-
 點播直播交流群：https://t.me/doubebly001
 
 IPTV研究所 https://t.me/IPTV_9999999
