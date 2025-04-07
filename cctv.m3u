@@ -1,6 +1,3 @@
-About History New snippet
-Delete Now
-Raw
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml,https://epg.v1.mk/fy.xml.gz"
 #EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://epg.v1.mk/logo/北京卫视4K.png" group-title="卫视4K",北京卫视4K
 webview://https://www.btime.com/btv/btvsy_index
