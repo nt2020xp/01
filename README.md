@@ -1,3 +1,7 @@
+4gtv+ofiii http://103.251.89.243:50007/?type=txt
+
+==============
+
 "static-mozai.4gtv.tv","mozai.4gtv.tv",
 
 
@@ -9,7 +13,7 @@ echo "$value[3],","$base_url/tv.php?token=" . urlencode($SECRET_TOKEN) . "&id=" 
 
 =================
 
-4gtv+ofiii http://103.251.89.243:50007/?type=txt
+
 
 =========
 
