@@ -21,19 +21,9 @@ echo "$value[3],","$base_url/tv.php?token=" . urlencode($SECRET_TOKEN) . "&id=" 
 
 =======================
 
-网络源大杂烩 http://ttkx.cc:55/lib/kx2024.txt
-
 东森幼幼 Yoyo TV,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/yoyo_twn/playlist.m3u8
 
 108.181.32.169
-
-169 https://raw.githubusercontent.com/xiongjian83/TvBox/cd9dea854860d4a51d2c6708fb0e389047c825f5/live.m3u
-
-169 https://github.com/xiongjian83/TvBox/tree/cd9dea854860d4a51d2c6708fb0e389047c825f5
-
-169 https://raw.githubusercontent.com/13174771/TvBox5/7c934e3619189d02943f79a918d4a2f52e9015fd/live.txt
-
-169 https://github.com/13174771/TvBox5/tree/7c934e3619189d02943f79a918d4a2f52e9015fd
 
 ========
 
@@ -41,21 +31,9 @@ Host=cache.ott.*.itv.cmvideo.cn=39.135.132.221
 
 Decoder=3
 
-Host=cache.ott.*.itv.cmvideo.cn=39.135.97.81
-
-Decoder=3
-
 ================
 
-https://api.wqwqwq.sbs/itvok.txt
-
 tvbox解密 https://ua.fongmi.eu.org
-
-===========
-
-Host=cache.ott.*.itv.cmvideo.cn=39.135.132.221
-
-Decoder=3
 
 ===================
 
@@ -96,12 +74,6 @@ http://www3.fish2018.ip-ddns.com/p/jsm.json
 "static-mozai.4gtv.tv","mozai.4gtv.tv",
 
 https://fanmingming.com/txt?url=https://live.fanmingming.cn/tv/m3u/ipv6.m3u
-
-https://fanmingming.com/txt?url=https://35455.koyeb.app/tv.m3u
-
-https://fanmingming.com/txt?url=https://1234.koyeb.app/tv.m3u
-
-https://fanmingming.com/txt?url=https://5678.koyeb.app/tv.m3u
 
 https://fanmingming.com/txt?url=https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u
 
