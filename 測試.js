@@ -3,7 +3,7 @@ function main(item) {
     let id = ku9.getQuery(url, "id");
         let domain = id.split('/');
     let headers;
-if (domain[2] === 'http://tv.cctv.com' || domain[2] === 'http://www.yangshipin.cn') { // 使用 || 合并条件，
+if (domain[2] === 'http://tv.cctv.com' || domain[2] === 'http://www.yangshipin.cn' || domain[2] === 'https://www.4gtv.tv' || domain[2] === 'https://www.ofiii.com') { // 使用 || 合并条件，
     headers = {
         'User-Agent': 'Mozilla/5.0 (Linux; Android 10; HMA-AL00 Build/HUAWEIHMA-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.93 Mobile Safari/537.36'
     };
