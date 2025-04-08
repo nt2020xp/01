@@ -1,16 +1,3 @@
-已開啟會話群組。1 封已讀郵件。
-
-移至內容
-透過螢幕閱讀器使用 Gmail
-第 1 個，共 285 個
-正確版webview
-收件匣
-
-sun wende <nt01xp@gmail.com>
-附件
-下午6:28 (1 分鐘前)
-寄給 我、 wendesun805、 wendesun37、 etf3000
-
 function main(item) {
     let url = item.url;
     let id = ku9.getQuery(url, "id");
