@@ -111,14 +111,14 @@ VOA美國之音,http://103.251.89.243:50007/litv-ftv03/index.m3u8
 達文西頻道,http://103.251.89.243:50007/4gtv-4gtv018/index.m3u8
 電影原聲台CMusic,http://103.251.89.243:50007/4gtv-live031/index.m3u8
 靖天日本台,http://103.251.89.243:50007/4gtv-4gtv047/index.m3u8
-靖天歡樂台,http://103.251.89.243:50007/4gtv-4gtv054/index.m3u8
 靖天育樂台,http://103.251.89.243:50007/4gtv-4gtv062/index.m3u8
 靖天映畫台,http://103.251.89.243:50007/4gtv-4gtv055/index.m3u8
+靖天國際台,http://103.251.89.243:50007/4gtv-4gtv063/index.m3u8
 靖天資訊台,http://103.251.89.243:50007/4gtv-4gtv065/index.m3u8
 靖天電影台,http://103.251.89.243:50007/4gtv-4gtv061/index.m3u8
 靖天綜合台,http://103.251.89.243:50007/4gtv-4gtv046/index.m3u8
-靖天國際台,http://103.251.89.243:50007/4gtv-4gtv063/index.m3u8
 靖天戲劇台,http://103.251.89.243:50007/4gtv-4gtv058/index.m3u8
+靖天歡樂台,http://103.251.89.243:50007/4gtv-4gtv054/index.m3u8
 靖洋戲劇台,http://103.251.89.243:50007/4gtv-4gtv045/index.m3u8
 靖天卡通台,http://103.251.89.243:50007/4gtv-4gtv044/index.m3u8
 靖洋卡通台,http://103.251.89.243:50007/4gtv-4gtv057/index.m3u8
