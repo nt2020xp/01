@@ -347,6 +347,18 @@ parse=1
 龍華戲劇台,http://103.251.89.243:50007/litv-longturn18/index.m3u8
 龍華卡通台,http://103.251.89.243:50007/litv-longturn01/index.m3u8
 
+華視,http://103.251.89.243:50007/4gtv-4gtv041/index.m3u8
+中視,http://103.251.89.243:50007/4gtv-4gtv040/index.m3u8
+台視,http://103.251.89.243:50007/4gtv-4gtv066/index.m3u8
+民視,http://103.251.89.243:50007/4gtv-4gtv002/index.m3u8
+
+民視旅遊台,http://103.251.89.243:50007/litv-ftv07/index.m3u8
+亞洲旅遊台,http://103.251.89.243:50007/4gtv-4gtv076/index.m3u8
+愛爾達生活旅遊台,http://103.251.89.243:50007/4gtv-live120/index.m3u8
+Smart知識台,http://103.251.89.243:50007/litv-longturn19/index.m3u8
+霹靂布袋戲,http://103.251.89.243:50007/4gtv-live145/index.m3u8
+LoveNature,http://103.251.89.243:50007/4gtv-live208/index.m3u8
+
 三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
 中天娛樂,http://61.221.215.25:8800/hls/47/index.m3u8
 緯來精采,http://61.221.215.25:8800/hls/48/index.m3u8
@@ -355,6 +367,7 @@ parse=1
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
+
 華視,rtmp://f13h.mine.nu/sat/tv111
 中視,rtmp://f13h.mine.nu/sat/tv091
 台視,rtmp://f13h.mine.nu/sat/tv071
