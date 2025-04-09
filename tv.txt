@@ -771,6 +771,8 @@ CCTV17,http://107.174.52.32/itv.php?id=CCTV17
 兵团卫视,http://107.174.52.32/itv.php?id=兵团卫视
 
 iptv345,#genre#
+parse=1
+
 TVBS HD,https://iptv345.com/?act=play&token=67c94fc937d2afec780132f684cf2c35&tid=litv&id=1
 TVBS新闻台,https://iptv345.com/?act=play&token=952d1083ee9fb6beaaa628507bcdd6b1&tid=litv&id=2
 中天新闻,https://iptv345.com/?act=play&token=ff68d7bafd772ac1e4dac73b4e439f99&tid=litv&id=3
