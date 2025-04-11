@@ -64,34 +64,8 @@ parse=1
 新疆衛視,https://www.yangshipin.cn/tv/home?pid=600152138
 兵團衛視,https://www.yangshipin.cn/tv/home?pid=600193252
 
-CGTN頻道,#genre#
+央視網,#genre#
 parse=1
-
-CGTN,https://www.yangshipin.cn/tv/home?pid=600014550
-CGTN法語,https://www.yangshipin.cn/tv/home?pid=600084704
-CGTN俄語,https://www.yangshipin.cn/tv/home?pid=600084758
-CGTN阿拉伯語,https://www.yangshipin.cn/tv/home?pid=600084782
-CGTN西班牙語,https://www.yangshipin.cn/tv/home?pid=600084744
-CGTN外語紀錄,https://www.yangshipin.cn/tv/home?pid=600084781
-
-數字頻道,#genre#
-parse=1
-
-風雲劇場,https://www.yangshipin.cn/tv/home?pid=600099658
-第一劇場,https://www.yangshipin.cn/tv/home?pid=600099655
-懷舊劇場,https://www.yangshipin.cn/tv/home?pid=600099620
-X世界地理,https://www.yangshipin.cn/tv/home?pid=600099637
-X風雲音樂,https://www.yangshipin.cn/tv/home?pid=600099660
-X兵器科技,https://www.yangshipin.cn/tv/home?pid=600099649
-X風雲足球,https://www.yangshipin.cn/tv/home?pid=600099636
-X高爾夫網球,https://www.yangshipin.cn/tv/home?pid=600099659
-X女性時尚,https://www.yangshipin.cn/tv/home?pid=600099659
-X央視文化精品,https://www.yangshipin.cn/tv/home?pid=600099653
-X央視台球,https://www.yangshipin.cn/tv/home?pid=600099652
-X電視指南,https://www.yangshipin.cn/tv/home?pid=600099656
-X衛生健康,https://www.yangshipin.cn/tv/home?pid=600099651
-
-
 
 1綜合,https://tv.cctv.com/live/cctv1/
 2財經,https://tv.cctv.com/live/cctv2/
