@@ -190,8 +190,6 @@ TMXKK https://t.me/tmxktg
 
 通知群：https://t.me/doubebly003
 
-哪吒云頻道 https://t.me/nezhajiasu
-
 唐三 @tangsan99999
 
 聽音樂 @vkmusbot
@@ -214,17 +212,12 @@ ALLINONE部署指令生成器 https://imgtool.v1.mk/allinone.html
 
 EPG機器人 @myepg_bot
 
-霸霸 @baba_xbot
-
-香港源 @hkanime_bot
 
 恩山訂閱 @NodeRSS_bot
 
 /sub https://www.right.com.cn/forum/forum.php?mod=rss&fid=182
 
-tg delete https://my.telegram.org/auth
-
 services: allinone: image: youshandefeiyang/allinone container_name: allinone privileged: true restart: always ports: - "35455:35455" network_mode: bridge command: -tv=true -aesKey=dbinlpvt2bx5wfqgz484cz49gv4ntxyb -userid=8176560637 -token=943e24c029969bd247581a18cfe31df8691293f7ebfcb320ccd2c438a3bb6a1f372583559bfd4346ac9df4dc0031d4a4d207f0e1c979c425bda120a9f7fd8b43cc94e5e489d670
 
-2024/ at main · nt01xp/2024
-File successfully deleted. 
+
+tg delete https://my.telegram.org/auth
