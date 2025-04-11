@@ -1,6 +1,6 @@
-台灣新聞,#genre#
+測試,#genre#
 parse=1
-20250410 松鼠過冬記,https://tv.cctv.com/2025/04/10/VIDEQheNbCax9oTQ48EUcEIZ250410.shtml
+松鼠過冬記,https://tv.cctv.com/2025/04/10/VIDEQheNbCax9oTQ48EUcEIZ250410.shtml
 
 台灣新聞,#genre#
 
