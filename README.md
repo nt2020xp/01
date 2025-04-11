@@ -2,6 +2,8 @@ https://www.022y.cn/?id=133
 
 整理好的ITV列表：https://gcore.jsdelivr.net/gh/sln654360/itv/itv.txt
 
+itv订阅地址：https://gcore.jsdelivr.net/gh/sln654360/itv/itv3.m3u
+
 
 直播源  https://live.iptv365.org/live.txt
 
