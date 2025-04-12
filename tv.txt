@@ -307,22 +307,22 @@ parse=1
 第280話 大雪與貪心的何老闆,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=JcR79e523n	
 第281話 卸下的招牌和將軍的夢,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=8ccenUrREr	
 第282話 起死回生的何老闆和毀的藉據,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=yaYRktlh2r	
-第283話 動怒的李武靖和下開除令的將軍,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=GKWGBvyKWQ	
-第284話 早市和一坪土地,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=rz232ssLSs	
-第285話 尿床的一休和李武靖的智謀,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=R3sqytWLFV	
-第286話 淘氣公主與夏之宴,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=KPp6bEwYlh	
-第287話 將軍的愛貓,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=8ubqgcSAh2	
-第288話 著迷的如何老闆與某種錯誤,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=7xRWshz2Pe	
-第289話 一休髮型師與眼花的螢幕風,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=QJE9bMssjs	
-第290話 無法步行的孩子和母親教育導論,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=g8RXUytT38	
-第291話 麗心的夫君與吃醋的修念,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=PUC2lLWQnY	
-第292話 割麥與無底水桶,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=jjYqp83dPm	
-第293話 陰錯陽差的李武靖和姬公主,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=coa8kuMqUW	
-第294話 花錢買零食的淘氣公主,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=QfafrgLBtR	
-第295話 漏雨寺廟與意外之財,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=lR7VkQlL9v	
-第296話 燒焦的飯和吃醋的一休,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=685rCgU25w	
-第297話 李武靖進牢和一休的報答,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=lGYpcHzvp9	
-第298話 媽媽、朋友們、安國寺再見了（大結局）,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=eh8ybeysc6	
+第283話 動怒的李武靖和下開除令的將軍,https://xgct-video.vzcdn.net/eb49933d-f407-4efd-b8e9-1869f4ff1c1f/842x480/video.m3u8	
+第284話 早市和一坪土地,https://xgct-video.vzcdn.net/f85fde41-1ddb-4b25-8d7a-c9784911bfbd/842x480/video.m3u8
+第285話 尿床的一休和李武靖的智謀,https://xgct-video.vzcdn.net/da55a79e-ce9a-4627-b095-8c9183bc1ab3/842x480/video.m3u8
+第286話 淘氣公主與夏之宴,https://xgct-video.vzcdn.net/8926cbd8-fac2-4357-9f12-06643aabb737/842x480/video.m3u8
+第287話 將軍的愛貓,https://xgct-video.vzcdn.net/d1399b19-5789-4fa1-8f22-0bd56a7ab201/842x480/video.m3u8
+第288話 著迷的如何老闆與某種錯誤,https://xgct-video.vzcdn.net/883d55dd-7e66-4d49-a046-42f401615754/842x480/video.m3u8
+第289話 一休髮型師與眼花的螢幕風,https://xgct-video.vzcdn.net/52a90601-1ff6-4264-9b32-a035b76a981a/842x480/video.m3u8	
+第290話 無法步行的孩子和母親教育導論,https://xgct-video.vzcdn.net/62040b7a-e00b-4cde-bc5c-2b68e20959d6/842x480/video.m3u8	
+第291話 麗心的夫君與吃醋的修念,https://xgct-video.vzcdn.net/8b303708-2b48-4182-b5c8-396bc29a687b/842x480/video.m3u8
+第292話 割麥與無底水桶,https://xgct-video.vzcdn.net/027871ee-0fc7-41f5-9cc1-6ceb15aa37c1/842x480/video.m3u8
+第293話 陰錯陽差的李武靖和姬公主,https://xgct-video.vzcdn.net/d1e1e712-3727-4e59-bc4a-03b16447bb72/842x480/video.m3u8
+第294話 花錢買零食的淘氣公主,https://xgct-video.vzcdn.net/8ed73758-9138-4c40-9691-cbed05915838/842x480/video.m3u8
+第295話 漏雨寺廟與意外之財,https://xgct-video.vzcdn.net/df79a8a9-8081-4c1b-8342-3ae52e89af1f/842x480/video.m3u8
+第296話 燒焦的飯和吃醋的一休,https://xgct-video.vzcdn.net/bbcf4070-de9c-4a0c-88d0-7924ab2e1f8e/842x480/video.m3u8	
+第297話 李武靖進牢和一休的報答,https://xgct-video.vzcdn.net/5a9648af-cc2d-4b86-ada7-0f6a20a4a8b1/842x480/video.m3u8
+第298話 媽媽、朋友們、安國寺再見了（大結局）,https://xgct-video.vzcdn.net/c6763ae5-ca5e-497c-af7c-21b72c0b5c92/842x480/video.m3u8
 
 靖天龍華,#genre#
 
