@@ -4,6 +4,7 @@ TVBS新聞L,http://103.251.89.243:50007/4gtv-4gtv072/index.m3u8
 TVBS新聞L,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv072
 東森新聞L,http://103.251.89.243:50007/4gtv-4gtv152/index.m3u8
 東森新聞L,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv152
+靖天日本L，http://103.251.89.243:50007/4gtv-4gtv047/index.m3u8
 靖天日本台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv047
 
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
