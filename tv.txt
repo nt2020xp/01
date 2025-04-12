@@ -145,26 +145,26 @@ parse=1
 第118話 馬角與飯糰,https://xgct-video.vzcdn.net/11b22934-661a-467d-92e9-684cdd2b5823/842x480/video.m3u8	
 第119話 雷公和尿床,https://xgct-video.vzcdn.net/816daae7-d3c1-4dba-ade5-41828f48138b/842x480/video.m3u8
 第120話 新右衛門的戀情,https://xgct-video.vzcdn.net/bca0b49c-a037-4d04-b688-5debd03faa6f/842x480/video.m3u8
-第121話 彌生小姐與舊借條,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=a2dpdRHTHS	
-第122話 驕傲的公子,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=blEqQlgHVL	
-第123話 會動的照片,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=KMvSWrphJ4	
-第124話 剩下的一文錢,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=DRyhlf4cZc	
-第125話 怪盜與長老,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=TAbFyGvTmU	
-第126話 昂貴樹蔭,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=PCa4S8pcMA	
-第127話 愛提問的小孩,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=jPuBA69Ag6	
-第128話 將軍與小猴,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=Hyh9eBTThJ	
-第129話小姐們的孝心,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=yNwrqc4NqX	
-第130話 冷汗將軍,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=AchF84MG9x	
-第131話 不白之冤,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=AvcaQprMaA	
-第132話 螢火蟲與幽靈,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=mStod5Sewr	
-第133話 沒 娘的孩子,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=z9K5e7GnnV	
-第134話 小孩子的童心,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=ykKBMKLX3L	
-第135話 一個娃娃,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=qQqCiAseMW	
-第136話 淘氣公主與罪惡,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=K7woiNCe4f	
-第137話 一隻小貓,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=iMQklVL3Sr	
-第138話 漫畫老人,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=WD7xcygHGS	
-第139話 好奇小子與好奇風波,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=amlbpssAtF	
-第140話 化成水的鷹,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=jSzVxKVV4N	
+第121話 彌生小姐與舊借條,https://xgct-video.vzcdn.net/ee08c79f-aabf-445f-97b6-659f601388e9/842x480/video.m3u8
+第122話 驕傲的公子,https://xgct-video.vzcdn.net/541e3310-c94d-4814-8dd6-0f5049489653/842x480/video.m3u8
+第123話 會動的照片,https://xgct-video.vzcdn.net/3b8ca116-83a2-4cf1-b18f-87caa370adf1/842x480/video.m3u8
+第124話 剩下的一文錢,https://xgct-video.vzcdn.net/e9c47a12-3cc9-4384-befe-17a7d5c933bc/842x480/video.m3u8
+第125話 怪盜與長老,https://xgct-video.vzcdn.net/31d953d3-5b90-455f-89b9-505bb8979b93/842x480/video.m3u8
+第126話 昂貴樹蔭,https://xgct-video.vzcdn.net/943277fc-816f-4043-867e-4a5d15eef08c/842x480/video.m3u8
+第127話 愛提問的小孩,https://xgct-video.vzcdn.net/fb77239b-722e-4a08-9454-44c997c74ff2/842x480/video.m3u8
+第128話 將軍與小猴,https://xgct-video.vzcdn.net/8d1390cf-e8af-4e84-9b54-c32e50c0d1f4/842x480/video.m3u8
+第129話小姐們的孝心,https://xgct-video.vzcdn.net/f4e2c06d-8fdf-432c-bbb6-c9e526101d00/842x480/video.m3u8
+第130話 冷汗將軍,https://xgct-video.vzcdn.net/be21f8e0-ac5e-4800-a818-6759fa764a4a/842x480/video.m3u8
+第131話 不白之冤,https://xgct-video.vzcdn.net/8994786e-ea55-4bbb-9f67-398fc530651f/842x480/video.m3u8
+第132話 螢火蟲與幽靈,https://xgct-video.vzcdn.net/a0222059-94dc-42cc-989e-95238fb884e0/842x480/video.m3u8
+第133話 沒娘的孩子,https://xgct-video.vzcdn.net/6df312ca-f9ed-4d89-8ed0-09c8458478a7/842x480/video.m3u8
+第134話 小孩子的童心,https://xgct-video.vzcdn.net/e6403e32-9481-4176-85cf-2f4cfeb6e8d2/842x480/video.m3u8
+第135話 一個娃娃,https://xgct-video.vzcdn.net/284f6b12-ad71-496a-bc5e-5163396d48be/842x480/video.m3u8
+第136話 淘氣公主與罪惡,https://xgct-video.vzcdn.net/a04aab91-9cc1-44b0-a9d6-164f12003731/842x480/video.m3u8
+第137話 一隻小貓,https://xgct-video.vzcdn.net/7152abd7-8095-46f0-b13c-e6a433b870e1/842x480/video.m3u8
+第138話 漫畫老人,https://xgct-video.vzcdn.net/0a16e5c0-c5db-40b6-9b5b-8176fd5b95bf/842x480/video.m3u8
+第139話 好奇小子與好奇風波,https://xgct-video.vzcdn.net/59c75dbb-97ea-4bfc-b6be-c67ba7b2e577/842x480/video.m3u8
+第140話 化成水的鷹,https://xgct-video.vzcdn.net/54a22c26-40b6-4c9e-b5af-8526df329b87/842x480/video.m3u8
 第141話 桔梗店老闆的一加一,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=A9mTq3xwiE	
 第142話 溫泉鄉之旅,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=rgQcqWNv2u	
 第143話 失眠的將軍,https://www.xgcartoon.com/user/page_direct?cartoon_id=congmingdeyixiuyixiuheshangguoyu-shichuigonglang&chapter_id=eyytLtFswb	
