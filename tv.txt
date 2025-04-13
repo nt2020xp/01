@@ -330,32 +330,32 @@ parse=1
 
 柯南劇場版,#genre#
 
-第01部 計時引爆摩天樓,https://www.dailygh.com/user/page_direct?cartoon_id=mingzhentankenanjuchangbanhejiguoyu-qingshangangchang&chapter_id=umpxe7LWNb	
-第02部 第14個目標,https://www.dailygh.com/user/page_direct?cartoon_id=mingzhentankenanjuchangbanhejiguoyu-qingshangangchang&chapter_id=lUnzvhp7sP	
-第03部 世紀末的魔術師,https://www.dailygh.com/user/page_direct?cartoon_id=mingzhentankenanjuchangbanhejiguoyu-qingshangangchang&chapter_id=iW6Zsgyylv	
-第04部 瞳孔中的暗殺者,https://www.dailygh.com/user/page_direct?cartoon_id=mingzhentankenanjuchangbanhejiguoyu-qingshangangchang&chapter_id=ej2wTQE5iv	
-第05部 通往天國的倒計時,https://www.dailygh.com/user/page_direct?cartoon_id=mingzhentankenanjuchangbanhejiguoyu-qingshangangchang&chapter_id=NUb558h7ll	
-第06部 貝克街的亡靈,https://www.dailygh.com/user/page_direct?cartoon_id=mingzhentankenanjuchangbanhejiguoyu-qingshangangchang&chapter_id=W3tc6XNmRk	
-第07部 迷宮的十字路,https://www.dailygh.com/user/page_direct?cartoon_id=mingzhentankenanjuchangbanhejiguoyu-qingshangangchang&chapter_id=C9zhhoVSA7	
-第08部 銀翼的魔術師,https://www.dailygh.com/user/page_direct?cartoon_id=mingzhentankenanjuchangbanhejiguoyu-qingshangangchang&chapter_id=zGgL7DRD5m	
-第09部 水平線上的陰謀,https://www.dailygh.com/user/page_direct?cartoon_id=mingzhentankenanjuchangbanhejiguoyu-qingshangangchang&chapter_id=49SzvFmstV	
-第10部 偵探們的鎮魂歌,https://www.dailygh.com/user/page_direct?cartoon_id=mingzhentankenanjuchangbanhejiguoyu-qingshangangchang&chapter_id=i4NqCVJaxc	
-第11部 紺碧之棺,https://www.dailygh.com/user/page_direct?cartoon_id=mingzhentankenanjuchangbanhejiguoyu-qingshangangchang&chapter_id=paqCobA64R	
-第12部 戰慄的樂譜,https://www.dailygh.com/user/page_direct?cartoon_id=mingzhentankenanjuchangbanhejiguoyu-qingshangangchang&chapter_id=gYHgJ5dpZ4	
-第13部 漆黑的追蹤者,https://www.dailygh.com/user/page_direct?cartoon_id=mingzhentankenanjuchangbanhejiguoyu-qingshangangchang&chapter_id=yayfPbsB7S	
-第14部 天空的遇難船,https://www.dailygh.com/user/page_direct?cartoon_id=mingzhentankenanjuchangbanhejiguoyu-qingshangangchang&chapter_id=ckasofkped	
-第15部 沉默的15分鐘,https://www.dailygh.com/user/page_direct?cartoon_id=mingzhentankenanjuchangbanhejiguoyu-qingshangangchang&chapter_id=TpEuk3hMnN	
-第16部 第11個前鋒,https://www.dailygh.com/user/page_direct?cartoon_id=mingzhentankenanjuchangbanhejiguoyu-qingshangangchang&chapter_id=mWqpgM3Cpi	
-第17部 絕海的偵探,https://www.dailygh.com/user/page_direct?cartoon_id=mingzhentankenanjuchangbanhejiguoyu-qingshangangchang&chapter_id=l5hPqc3xoH	
-第18部 異次元的狙擊手,https://www.dailygh.com/user/page_direct?cartoon_id=mingzhentankenanjuchangbanhejiguoyu-qingshangangchang&chapter_id=5fsq7k9jdP	
-第19部 業火的向日葵,https://www.dailygh.com/user/page_direct?cartoon_id=mingzhentankenanjuchangbanhejiguoyu-qingshangangchang&chapter_id=kwJdHBHdlY	
-第20部 純黑的噩夢,https://www.dailygh.com/user/page_direct?cartoon_id=mingzhentankenanjuchangbanhejiguoyu-qingshangangchang&chapter_id=yFJlMnbu7V	
-第21部 唐紅的戀歌,https://www.dailygh.com/user/page_direct?cartoon_id=mingzhentankenanjuchangbanhejiguoyu-qingshangangchang&chapter_id=45B2hVcWbc	
-第22部 零的執行人,https://www.dailygh.com/user/page_direct?cartoon_id=mingzhentankenanjuchangbanhejiguoyu-qingshangangchang&chapter_id=G8XWeggJKL	
-第23部 紺青之拳,https://www.dailygh.com/user/page_direct?cartoon_id=mingzhentankenanjuchangbanhejiguoyu-qingshangangchang&chapter_id=jFMz3RPnSi	
-第24部 緋色的子彈,https://www.dailygh.com/user/page_direct?cartoon_id=mingzhentankenanjuchangbanhejiguoyu-qingshangangchang&chapter_id=atvQSfq9KE	
-第25部 萬聖節的新娘,https://www.dailygh.com/user/page_direct?cartoon_id=mingzhentankenanjuchangbanhejiguoyu-qingshangangchang&chapter_id=YFhUW65aGd	
-第26部 黑鐵的魚影,https://www.dailygh.com/user/page_direct?cartoon_id=mingzhentankenanjuchangbanhejiguoyu-qingshangangchang&chapter_id=be9VqTWf9F	
+第01部 計時引爆摩天樓,https://xgct-video.vzcdn.net/15e6465c-1742-4b10-826b-3da61e0efdc5/842x480/video.m3u8
+第02部 第14個目標,https://xgct-video.vzcdn.net/a1b9db57-2520-409d-a195-50c9f9d7b046/1280x720/video.m3u8
+第03部 世紀末的魔術師,https://xgct-video.vzcdn.net/dc021645-0753-47ea-88e6-40ad72c76b6a/842x480/video.m3u8
+第04部 瞳孔中的暗殺者,https://xgct-video.vzcdn.net/c15cfb19-e0b5-4503-bef5-3620fc41dc56/842x480/video.m3u8
+第05部 通往天國的倒計時,https://xgct-video.vzcdn.net/f54ba1a2-890d-4f23-8b08-d17944506e4b/854x480/video.m3u8
+第06部 貝克街的亡靈,https://xgct-video.vzcdn.net/5bced5f5-51db-45af-bb04-c489c6349ef0/842x480/video.m3u8
+第07部 迷宮的十字路,https://xgct-video.vzcdn.net/1b45e147-59db-416a-aa84-6ffe5e4482ed/842x480/video.m3u8
+第08部 銀翼的魔術師,https://xgct-video.vzcdn.net/2a7c2457-c7e1-48cd-98ea-820984b51e73/842x480/video.m3u8
+第09部 水平線上的陰謀,https://xgct-video.vzcdn.net/ed1ff59c-c25f-4cd0-83bc-0b07b8c3a9c0/842x480/video.m3u8	
+第10部 偵探們的鎮魂歌,https://xgct-video.vzcdn.net/7a7b4afb-17e2-4108-9371-bacec1bc5f96/842x480/video.m3u8
+第11部 紺碧之棺,https://xgct-video.vzcdn.net/78255398-f38b-4054-ae2e-082b2e56c8d9/842x480/video.m3u8
+第12部 戰慄的樂譜,https://xgct-video.vzcdn.net/75423b3a-096e-44be-892b-0d658303ce53/842x480/video.m3u8
+第13部 漆黑的追蹤者,https://xgct-video.vzcdn.net/f31c3309-3ccc-4eac-875a-a8fa5bede7c7/842x480/video.m3u8
+第14部 天空的遇難船,https://xgct-video.vzcdn.net/572568a7-ad11-459c-9b48-faa5de38e9c9/842x480/video.m3u8	
+第15部 沉默的15分鐘,https://xgct-video.vzcdn.net/a276dbbc-a034-4734-a039-60123c56b8b9/842x480/video.m3u8	
+第16部 第11個前鋒,https://xgct-video.vzcdn.net/90a7b6c3-5b00-42d2-b099-566159e03d55/842x480/video.m3u8	
+第17部 絕海的偵探,https://xgct-video.vzcdn.net/09b53cb9-b569-408d-9c49-f0e83fb3ffb6/842x480/video.m3u8
+第18部 異次元的狙擊手,https://xgct-video.vzcdn.net/259b711b-c9ba-4cb4-9c0a-501cf8945ea9/842x480/video.m3u8
+第19部 業火的向日葵,https://xgct-video.vzcdn.net/c7c12c6a-56e8-4e9f-afa7-83dee36fe140/842x480/video.m3u8	
+第20部 純黑的噩夢,https://xgct-video.vzcdn.net/9c400276-2177-4d70-a008-a5455de4a9fa/842x480/video.m3u8
+第21部 唐紅的戀歌,https://xgct-video.vzcdn.net/34017c10-05dc-4f12-bb10-19714e08170d/842x480/video.m3u8
+第22部 零的執行人,https://xgct-video.vzcdn.net/c3c04ede-eab0-4511-bd8c-dac57c1caa09/842x480/video.m3u8
+第23部 紺青之拳,https://xgct-video.vzcdn.net/0e79817c-0e16-413d-8d48-895eeece9588/842x480/video.m3u8	
+第24部 緋色的子彈,https://xgct-video.vzcdn.net/a052ca83-b4e3-4969-98b1-799b30314950/842x480/video.m3u8
+第25部 萬聖節的新娘,https://xgct-video.vzcdn.net/f0b4d517-65b5-4de0-9e80-89156dfbe63c/842x480/video.m3u8
+第26部 黑鐵的魚影,https://xgct-video.vzcdn.net/1316b02c-4db6-4c29-b533-afe4923a9cf4/1280x720/video.m3u8
 		
 
 
