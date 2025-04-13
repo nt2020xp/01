@@ -23,6 +23,8 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 金門建功嶼,https://www.youtube.com/watch?v=uh_yNAE01w8
 高雄蓮池潭,https://www.youtube.com/watch?v=BnPoNatG-HE
 淡水漁人碼頭,https://www.youtube.com/watch?v=xwAWSh35uuw
+七股岩山旅行,https://youtu.be/zTDEl-r_n5k?si=3fGtuSmKwzNP7M4Q
+
 
 一休和尚,#genre#
 parse=1
