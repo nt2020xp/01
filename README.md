@@ -1,5 +1,9 @@
 https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/1.js
 
+http://a/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv1
+
+https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/1.js?id=https://tv.cctv.com/live/cctv1
+
 ua=
 
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
