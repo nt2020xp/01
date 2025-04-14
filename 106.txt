@@ -17,7 +17,6 @@ GlobalTrekker,http://106.107.177.223:50007/4gtv-live112/index.m3u8
 History歷史頻道,http://106.107.177.223:50007/4gtv-live026/index.m3u8
 HITS頻道,http://106.107.177.223:50007/4gtv-live620/index.m3u8
 INULTRA,http://106.107.177.223:50007/4gtv-live096/index.m3u8
-KLT-靖天國際台,http://106.107.177.223:50007/4gtv-4gtv063/index.m3u8
 Lifetime娛樂頻道,http://106.107.177.223:50007/4gtv-live029/index.m3u8
 LiveABC互動英語頻道,http://106.107.177.223:50007/4gtv-live030/index.m3u8
 LoveNature,http://106.107.177.223:50007/4gtv-live208/index.m3u8
@@ -27,7 +26,6 @@ MezzoLiveHD,http://106.107.177.223:50007/4gtv-4gtv083/index.m3u8
 MOMO親子台,http://106.107.177.223:50007/4gtv-live107/index.m3u8
 MTVLiveHD音樂頻道,http://106.107.177.223:50007/4gtv-live025/index.m3u8
 MyCinemaEuropeHD我的歐洲電影,http://106.107.177.223:50007/4gtv-live157/index.m3u8
-NiceTV靖天歡樂台,http://106.107.177.223:50007/4gtv-4gtv054/index.m3u8
 NickJr.兒童頻道,http://106.107.177.223:50007/4gtv-live032/index.m3u8
 PetClubTV,http://106.107.177.223:50007/4gtv-live110/index.m3u8
 ROCKAction,http://106.107.177.223:50007/4gtv-live138/index.m3u8
@@ -39,7 +37,7 @@ TRACEUrban,http://106.107.177.223:50007/4gtv-4gtv082/index.m3u8
 TV5MONDESTYLEHD生活時尚,http://106.107.177.223:50007/4gtv-live122/index.m3u8
 TVBS,http://106.107.177.223:50007/4gtv-4gtv073/index.m3u8
 TVBS台劇台,http://106.107.177.223:50007/4gtv-live088/index.m3u8
-TVBS新聞,http://106.107.177.223:50007/4gtv-4gtv072/index.m3u8
+TVBS新聞台,http://106.107.177.223:50007/4gtv-4gtv072/index.m3u8
 TVBS精采台,http://106.107.177.223:50007/4gtv-4gtv067/index.m3u8
 TVBS綜藝台,http://106.107.177.223:50007/4gtv-live087/index.m3u8
 TVBS歡樂台,http://106.107.177.223:50007/4gtv-4gtv068/index.m3u8
@@ -116,11 +114,13 @@ VOA美國之音,http://106.107.177.223:50007/litv-ftv03/index.m3u8
 靖天卡通台,http://106.107.177.223:50007/4gtv-4gtv044/index.m3u8
 靖天育樂台,http://106.107.177.223:50007/4gtv-4gtv062/index.m3u8
 靖天映畫,http://106.107.177.223:50007/4gtv-4gtv055/index.m3u8
+靖天國際台,http://106.107.177.223:50007/4gtv-4gtv063/index.m3u8
 靖天資訊台,http://106.107.177.223:50007/4gtv-4gtv065/index.m3u8
 靖天電影台,http://106.107.177.223:50007/4gtv-4gtv061/index.m3u8
 靖天綜合台,http://106.107.177.223:50007/4gtv-4gtv046/index.m3u8
 靖天戲劇台,http://106.107.177.223:50007/4gtv-4gtv058/index.m3u8
-靖洋卡通NiceBingo,http://106.107.177.223:50007/4gtv-4gtv057/index.m3u8
+靖天歡樂台,http://106.107.177.223:50007/4gtv-4gtv054/index.m3u8
+靖洋卡通台,http://106.107.177.223:50007/4gtv-4gtv057/index.m3u8
 靖洋戲劇台,http://106.107.177.223:50007/4gtv-4gtv045/index.m3u8
 滾動力rollor,http://106.107.177.223:50007/4gtv-live012/index.m3u8
 精選動漫台,http://106.107.177.223:50007/4gtv-live024/index.m3u8
@@ -141,5 +141,4 @@ VOA美國之音,http://106.107.177.223:50007/litv-ftv03/index.m3u8
 韓國娛樂台KMTV,http://106.107.177.223:50007/4gtv-4gtv016/index.m3u8
 鏡電視新聞台,http://106.107.177.223:50007/4gtv-4gtv075/index.m3u8
 霹靂布袋戲,http://106.107.177.223:50007/4gtv-live145/index.m3u8
-
 
