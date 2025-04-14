@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/1.js
 
 ua=
 
