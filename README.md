@@ -1,3 +1,7 @@
+https://github.com/a2256569/tv/blob/4b92fbef153c6bf5e44487b7683bb6bce47125d3/4gtv.txt
+
+https://raw.githubusercontent.com/a2256569/tv/4b92fbef153c6bf5e44487b7683bb6bce47125d3/4gtv.txt
+
 https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/1.js
 
 http://a/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv1
