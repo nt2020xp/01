@@ -1,3 +1,5 @@
+:50007/4gtv-4gtv152/index.m3u8
+
 https://github.com/a2256569/tv/blob/4b92fbef153c6bf5e44487b7683bb6bce47125d3/4gtv.txt
 
 https://raw.githubusercontent.com/a2256569/tv/4b92fbef153c6bf5e44487b7683bb6bce47125d3/4gtv.txt
