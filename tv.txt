@@ -24,7 +24,19 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 高雄蓮池潭,https://www.youtube.com/watch?v=BnPoNatG-HE
 淡水漁人碼頭,https://www.youtube.com/watch?v=xwAWSh35uuw
 七股岩山旅行,https://youtu.be/zTDEl-r_n5k?si=3fGtuSmKwzNP7M4Q
+CCTV4K,https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/1.js?id=https://www.yangshipin.cn/tv/home?pid=600002264
 
+CCTV8K,https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/1.js?id=https://www.yangshipin.cn/tv/home?pid=600156816
+
+北京衛視，https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/1.js?id=https://yangshipin.cn/tv/home?pid=600002309
+
+江蘇衛視，https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/1.js?id=https://yangshipin.cn/tv/home?pid=600002521
+
+東方衛視，https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/1.js?id=https://yangshipin.cn/tv/home?pid=600002483
+
+浙江衛視，https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/1.js?id=https://yangshipin.cn/tv/home?pid=600002520
+
+湖南衛視，https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/1.js?id=https://yangshipin.cn/tv/home?pid=600002475
 
 一休和尚,#genre#
 parse=1
