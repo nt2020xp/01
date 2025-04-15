@@ -893,6 +893,7 @@ VOA美國之音,http://106.107.177.223:50007/litv-ftv03/index.m3u8
 
 黑龍江頻道,#genre#
 
+CCTV世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
 黑龍江衛視,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 黑龍江文體,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
 黑龍江影視,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
