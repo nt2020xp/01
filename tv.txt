@@ -902,3 +902,12 @@ ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gec
 黑龍江農業科教,https://www.hljtv.com/live/folder420
 黑龍江少兒,https://www.hljtv.com/live/folder422
 
+黑龍江頻道,#genre#
+
+黑龍江衛視,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
+黑龍江文體,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
+黑龍江影視,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
+黑龍江新聞法治,https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8
+黑龍江都市,https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
+黑龍江農業科教,https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8
+黑龍江少兒,https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
