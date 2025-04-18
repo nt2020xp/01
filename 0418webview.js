@@ -1,21 +1,11 @@
 function main(item) {
     let url = item.url;
     let id = ku9.getQuery(url, "id"); // 從URL中獲取id參數
-    let domain = id.split('/'); // 將id以斜線分割成陣列
     
-    let headers;
-    // 檢查是否為特定域名（使用 || 合併條件）
-    if (domain[2] === 'www.cditv.cn' || domain[2] === 'www.cbg.cn') { 
-        headers = {
-            // 移動端User-Agent
-            'User-Agent': 'Mozilla/5.0 (Linux; Android 10; HMA-AL00 Build/HUAWEIHMA-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.93 Mobile Safari/537.36'
-        };
-    } else {
-        headers = {
-            // 桌面端User-Agent
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36'
-        };
-    }
+    // 統一使用桌面端User-Agent
+    let headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36'
+    };
 
     // 將注入到網頁中的JavaScript代碼
     const jscode = `(function(){
