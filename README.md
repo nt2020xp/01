@@ -299,8 +299,6 @@ ETHTV機上盒使用教學 https://www.tv6868.com/
 
 (驗證)影視TV https://t.me/fongmi_offical
 
-(驗證)APTU-MP3播放器 https://t.me/AptvPlayer
-
 (驗證)pg包 https://t.me/pandagroovechat
 
 pixman.io 交流群 https://t.me/livednowgroup
@@ -309,15 +307,11 @@ pixman.io 交流群 https://t.me/livednowgroup
 
 (申請)夏天影視資源交流群 https://t.me/atv168
 
-(申請)天光云影 https://t.me/mytv_android
-
 點播直播交流群：https://t.me/doubebly001
 
 IPTV研究所 https://t.me/IPTV_9999999
 
 簡單iptv https://t.me/jdiptv2024
-
-ourtv https://t.me/+z1BOPITtAmI4ZWZl
 
 ＋＋＋＋＋＋＋＋＋
 
@@ -338,8 +332,6 @@ ok影視 https://t.me/tvb_ys
 PG节奏熊猫发布频道 https://t.me/PandaGroovePG
 
 天光云影發布 https://t.me/mytv_android_release
-
-TMXKK https://t.me/tmxktg
 
 通知群：https://t.me/doubebly003
 
