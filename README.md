@@ -297,8 +297,6 @@ ETHTV機上盒使用教學 https://www.tv6868.com/
 
 (驗證)大宇的大家庭（电视盒子） https://t.me/Dayuptv
 
-(驗證)影視TV https://t.me/fongmi_offical
-
 (驗證)pg包 https://t.me/pandagroovechat
 
 pixman.io 交流群 https://t.me/livednowgroup
