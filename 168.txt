@@ -1,5 +1,9 @@
 自然傳奇,#genre#
 
+秘境之岛 2,https://a/ku9/js/webview.js?id=https://tv.cctv.com/2025/04/19/VIDEBsj8siROKcC5kAKLyRBv250419.shtml
+秘境之岛 1,https://a/ku9/js/webview.js?id=https://tv.cctv.com/2025/04/18/VIDE5FEAkXWnfvzX6ozWNoVE250418.shtml
+姆武拉历险记,https://a/ku9/js/webview.js?id=https://tv.cctv.com/2025/04/17/VIDEVbwXN22UGLt6GDTGkWm8250417.shtml
+狂野赞比亚,https://a/ku9/js/webview.js?id=https://tv.cctv.com/2025/04/16/VIDEYD43TQXzEArB3newOIVr250416.shtml
 狩猎策略,https://a/ku9/js/webview.js?id=https://tv.cctv.com/2025/04/15/VIDEX926BAqeWHueOQLZcWsd250415.shtml
 怪异的狒狒,https://a/ku9/js/webview.js?id=https://tv.cctv.com/2025/04/14/VIDEjXRzcK3F5Rbl1ONiEVw5250414.shtml
 阿尔卑斯山的生命故事,https://a/ku9/js/webview.js?id=https://tv.cctv.com/2025/04/13/VIDEgZ7n3EAdVjO5SmsiULb8250413.shtml
