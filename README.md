@@ -1,3 +1,8 @@
+SMT影视直播订阅(需翻)：
+
+https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/smt.json
+
+
 :50007/4gtv-4gtv152/index.m3u8
 
 https://github.com/a2256569/tv/blob/4b92fbef153c6bf5e44487b7683bb6bce47125d3/4gtv.txt
