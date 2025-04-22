@@ -28,7 +28,9 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 我們這一家,https://www.youtube.com/watch?v=WHednLn-HjA
 新哆啦A夢,https://www.youtube.com/watch?v=dgAEF2ppKg8
-
+康熙王朝,https://www.youtube.com/watch?v=rDHbRQHqeo8
+雍正王朝,https://www.youtube.com/watch?v=VEW_BRTp-TM
+西游记,https://www.youtube.com/watch?v=ihlGNUljNp8
 
 一休和尚,#genre#
 parse=1
