@@ -26,6 +26,10 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 高雄蓮池潭,https://www.youtube.com/watch?v=BnPoNatG-HE
 淡水漁人碼頭,https://www.youtube.com/watch?v=xwAWSh35uuw
 
+我們這一家,https://www.youtube.com/watch?v=WHednLn-HjA
+新哆啦A夢,https://www.youtube.com/watch?v=dgAEF2ppKg8
+
+
 一休和尚,#genre#
 parse=1
 
