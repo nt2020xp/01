@@ -32,6 +32,12 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 雍正王朝,https://www.youtube.com/watch?v=VEW_BRTp-TM
 西游记,https://www.youtube.com/watch?v=ihlGNUljNp8
 
+TVBS新聞R,http://pixman-4gtv-0-0-5.onrender.com/li-4gtv-4gtv072/index.m3u8
+東森新聞R,http://pixman-4gtv-0-0-5.onrender.com/li-4gtv-4gtv152/index.m3u8
+靖天日本R,http://pixman-4gtv-0-0-5.onrender.com/li-4gtv-4gtv047/index.m3u8
+民視旅遊R,http://pixman-4gtv-0-0-5.onrender.com/li-litv-ftv07/index.m3u8
+亞洲旅遊R,http://pixman-4gtv-0-0-5.onrender.com/li-4gtv-4gtv076/index.m3u8
+
 一休和尚,#genre#
 parse=1
 
