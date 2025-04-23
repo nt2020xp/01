@@ -1,3 +1,13 @@
+不会部署，我都是看这个的，你试试
+
+m3u
+
+http://www.livednow.dpdns.org/?type=m3u
+
+txt
+
+http://www.livednow.dpdns.org/?type=txt
+
 SMT影视直播订阅(需翻)：
 
 https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/smt.json
