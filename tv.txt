@@ -822,6 +822,3 @@ VOA美國之音,http://106.107.177.223:50007/litv-ftv03/index.m3u8
 延边卫视,http://itv.iptv1688.top:2016/itv.php?id=延边卫视
 兵团卫视,http://itv.iptv1688.top:2016/itv.php?id=兵团卫视
 
-CHC家庭影院,http://107.174.52.32/itv.php?id=CHC家庭影院
-CHC影迷电影,http://107.174.52.32/itv.php?id=CHC影迷电影
-CHC动作电影,http://107.174.52.32/itv.php?id=CHC动作电影
