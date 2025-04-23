@@ -822,3 +822,256 @@ VOA美國之音,http://106.107.177.223:50007/litv-ftv03/index.m3u8
 延边卫视,http://itv.iptv1688.top:2016/itv.php?id=延边卫视
 兵团卫视,http://itv.iptv1688.top:2016/itv.php?id=兵团卫视
 
+綜合其他,#genre#
+民視第一台,http://pixman-4gtv-005.onrender.com/4gtv-4gtv003/index.m3u8
+民視台灣台,http://pixman-4gtv-005.onrender.com/4gtv-4gtv001/index.m3u8
+民視HD,http://pixman-4gtv-005.onrender.com/4gtv-4gtv002/index.m3u8
+大愛電視,http://pixman-4gtv-005.onrender.com/4gtv-live007/index.m3u8
+中視,http://pixman-4gtv-005.onrender.com/4gtv-4gtv040/index.m3u8
+華視,http://pixman-4gtv-005.onrender.com/4gtv-4gtv041/index.m3u8
+三立綜合合,http://pixman-4gtv-005.onrender.com/4gtv-live207/index.m3u8
+客家電視,http://pixman-4gtv-005.onrender.com/4gtv-4gtv043/index.m3u8
+中視菁采台,http://pixman-4gtv-005.onrender.com/4gtv-4gtv064/index.m3u8
+靖天綜合,http://pixman-4gtv-005.onrender.com/4gtv-4gtv046/index.m3u8
+靖天日本,http://pixman-4gtv-005.onrender.com/4gtv-4gtv047/index.m3u8
+新唐人亞太台,http://pixman-4gtv-005.onrender.com/4gtv-live050/index.m3u8
+Arirang TV,http://pixman-4gtv-005.onrender.com/4gtv-4gtv079/index.m3u8
+原住民族電視台,http://pixman-4gtv-005.onrender.com/4gtv-live014/index.m3u8
+東森購物四台,http://pixman-4gtv-005.onrender.com/4gtv-live049/index.m3u8
+東森購物一台,http://pixman-4gtv-005.onrender.com/4gtv-live047/index.m3u8
+東森購物一台,http://pixman-4gtv-005.onrender.com/4gtv-4gtv102/index.m3u8
+東森購物一台,http://pixman-4gtv-005.onrender.com/of-4gtv-4gtv102/index.m3u8
+TVBS HD,http://pixman-4gtv-005.onrender.com/4gtv-4gtv073/index.m3u8
+東森購物二台,http://pixman-4gtv-005.onrender.com/4gtv-live046/index.m3u8
+東森購物二台,http://pixman-4gtv-005.onrender.com/4gtv-4gtv103/index.m3u8
+東森購物二台,http://pixman-4gtv-005.onrender.com/of-4gtv-4gtv103/index.m3u8
+靖天育樂,http://pixman-4gtv-005.onrender.com/4gtv-4gtv062/index.m3u8
+靖天國際,http://pixman-4gtv-005.onrender.com/4gtv-4gtv063/index.m3u8
+靖天歡樂,http://pixman-4gtv-005.onrender.com/4gtv-4gtv054/index.m3u8
+靖天資訊,http://pixman-4gtv-005.onrender.com/4gtv-4gtv065/index.m3u8
+韓國娛樂台,http://pixman-4gtv-005.onrender.com/4gtv-4gtv016/index.m3u8
+東森購物三台,http://pixman-4gtv-005.onrender.com/4gtv-live048/index.m3u8
+好消息,http://pixman-4gtv-005.onrender.com/litv-ftv16/index.m3u8
+好消息2台,http://pixman-4gtv-005.onrender.com/litv-ftv17/index.m3u8
+大愛二台,http://pixman-4gtv-005.onrender.com/4gtv-live106/index.m3u8
+人間衛視,http://pixman-4gtv-005.onrender.com/4gtv-live008/index.m3u8
+國會頻道1,http://pixman-4gtv-005.onrender.com/4gtv-4gtv084/index.m3u8
+國會頻道2,http://pixman-4gtv-005.onrender.com/4gtv-4gtv085/index.m3u8
+民視第一台,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv003/index.m3u8
+民視台灣台,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv001/index.m3u8
+中視,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv040/index.m3u8
+華視,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv041/index.m3u8
+中天亞洲台,http://pixman-4gtv-005.onrender.com/4gtv-4gtv109/index.m3u8
+三立綜合合,http://pixman-4gtv-005.onrender.com/4gtv-live207/index.m3u8
+客家電視,http://pixman-4gtv-005.onrender.com/4gtv-4gtv043/index.m3u8
+中視菁采台,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv064/index.m3u8
+靖天綜合,http://pixman-4gtv-005.onrender.com/4gtv-4gtv046/index.m3u8
+靖天日本,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv047/index.m3u8
+Arirang TV,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv079/index.m3u8
+TVBS HD,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv073/index.m3u8
+靖天育樂,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv062/index.m3u8
+靖天國際,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv063/index.m3u8
+靖天歡樂,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv054/index.m3u8
+靖天資訊,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv065/index.m3u8
+韓國娛樂台,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv016/index.m3u8
+好消息,http://pixman-4gtv-005.onrender.com/li-litv-ftv16/index.m3u8
+好消息2台,http://pixman-4gtv-005.onrender.com/li-litv-ftv17/index.m3u8
+國會頻道1,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv084/index.m3u8
+國會頻道2,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv085/index.m3u8
+台視HD,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv066/index.m3u8
+台視HD,http://pixman-4gtv-005.onrender.com/4gtv-4gtv066/index.m3u8
+中視,http://pixman-4gtv-005.onrender.com/of-4gtv-4gtv040/index.m3u8
+華視,http://pixman-4gtv-005.onrender.com/of-4gtv-4gtv041/index.m3u8
+好消息,http://pixman-4gtv-005.onrender.com/of-litv-ftv16/index.m3u8
+好消息2台,http://pixman-4gtv-005.onrender.com/of-litv-ftv17/index.m3u8
+國會頻道1,http://pixman-4gtv-005.onrender.com/of-4gtv-4gtv084/index.m3u8
+國會頻道2,http://pixman-4gtv-005.onrender.com/of-4gtv-4gtv085/index.m3u8
+
+電影戲劇,#genre#
+中視經典台,http://pixman-4gtv-005.onrender.com/4gtv-4gtv080/index.m3u8
+ROCK Entertainment,http://pixman-4gtv-005.onrender.com/4gtv-live080/index.m3u8
+公視戲劇,http://pixman-4gtv-005.onrender.com/4gtv-4gtv042/index.m3u8
+民視影劇,http://pixman-4gtv-005.onrender.com/litv-ftv09/index.m3u8
+HITS,http://pixman-4gtv-005.onrender.com/4gtv-live620/index.m3u8
+霹靂布袋戲,http://pixman-4gtv-005.onrender.com/4gtv-live145/index.m3u8
+靖天戲劇,http://pixman-4gtv-005.onrender.com/4gtv-4gtv058/index.m3u8
+靖洋戲劇,http://pixman-4gtv-005.onrender.com/4gtv-4gtv045/index.m3u8
+金光布袋戲,http://pixman-4gtv-005.onrender.com/4gtv-live144/index.m3u8
+ROCK Action,http://pixman-4gtv-005.onrender.com/4gtv-live138/index.m3u8
+采昌影劇,http://pixman-4gtv-005.onrender.com/4gtv-4gtv049/index.m3u8
+靖天映畫,http://pixman-4gtv-005.onrender.com/4gtv-4gtv055/index.m3u8
+靖天電影,http://pixman-4gtv-005.onrender.com/4gtv-4gtv061/index.m3u8
+影迷數位電影台,http://pixman-4gtv-005.onrender.com/4gtv-4gtv011/index.m3u8
+amc 電影台,http://pixman-4gtv-005.onrender.com/4gtv-4gtv017/index.m3u8
+Cinema World,http://pixman-4gtv-005.onrender.com/4gtv-live069/index.m3u8
+歐洲光影,http://pixman-4gtv-005.onrender.com/4gtv-live157/index.m3u8
+TVBS台劇台,http://pixman-4gtv-005.onrender.com/4gtv-live088/index.m3u8
+經典電影台,http://pixman-4gtv-005.onrender.com/4gtv-live021/index.m3u8
+戲劇免費看1台,http://pixman-4gtv-005.onrender.com/4gtv-live010/index.m3u8
+中視經典台,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv080/index.m3u8
+龍華洋片,http://pixman-4gtv-005.onrender.com/li-litv-longturn02/index.m3u8
+龍華電影,http://pixman-4gtv-005.onrender.com/li-litv-longturn03/index.m3u8
+龍華日韓,http://pixman-4gtv-005.onrender.com/li-litv-longturn11/index.m3u8
+龍華偶像,http://pixman-4gtv-005.onrender.com/li-litv-longturn12/index.m3u8
+龍華戲劇,http://pixman-4gtv-005.onrender.com/li-litv-longturn18/index.m3u8
+龍華經典,http://pixman-4gtv-005.onrender.com/li-litv-longturn21/index.m3u8
+公視戲劇,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv042/index.m3u8
+民視影劇,http://pixman-4gtv-005.onrender.com/li-litv-ftv09/index.m3u8
+靖天戲劇,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv058/index.m3u8
+靖洋戲劇,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv045/index.m3u8
+采昌影劇,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv049/index.m3u8
+靖天映畫,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv055/index.m3u8
+靖天電影,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv061/index.m3u8
+影迷數位電影台,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv011/index.m3u8
+amc 電影台,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv017/index.m3u8
+台灣戲劇台,http://pixman-4gtv-005.onrender.com/li-litv-longturn22/index.m3u8
+台灣戲劇台,http://pixman-4gtv-005.onrender.com/litv-longturn22/index.m3u8
+龍華洋片,http://pixman-4gtv-005.onrender.com/litv-longturn02/index.m3u8
+龍華電影,http://pixman-4gtv-005.onrender.com/litv-longturn03/index.m3u8
+龍華日韓,http://pixman-4gtv-005.onrender.com/litv-longturn11/index.m3u8
+龍華偶像,http://pixman-4gtv-005.onrender.com/litv-longturn12/index.m3u8
+龍華戲劇,http://pixman-4gtv-005.onrender.com/litv-longturn18/index.m3u8
+龍華經典,http://pixman-4gtv-005.onrender.com/litv-longturn21/index.m3u8
+
+音樂綜藝,#genre#
+八大綜藝,http://pixman-4gtv-005.onrender.com/4gtv-4gtv039/index.m3u8
+TVBS精采台,http://pixman-4gtv-005.onrender.com/4gtv-4gtv067/index.m3u8
+ELTA娛樂,http://pixman-4gtv-005.onrender.com/4gtv-4gtv070/index.m3u8
+民視綜藝,http://pixman-4gtv-005.onrender.com/4gtv-4gtv004/index.m3u8
+豬哥亮歌廳秀,http://pixman-4gtv-005.onrender.com/4gtv-4gtv006/index.m3u8
+TVBS歡樂台,http://pixman-4gtv-005.onrender.com/4gtv-4gtv068/index.m3u8
+電影原聲台 CMusic,http://pixman-4gtv-005.onrender.com/4gtv-live031/index.m3u8
+Trace Urban,http://pixman-4gtv-005.onrender.com/4gtv-4gtv082/index.m3u8
+MTV Live,http://pixman-4gtv-005.onrender.com/4gtv-live025/index.m3u8
+MEZZO LIVE HD,http://pixman-4gtv-005.onrender.com/4gtv-4gtv083/index.m3u8
+CLASSICA 古典樂,http://pixman-4gtv-005.onrender.com/4gtv-4gtv059/index.m3u8
+八大精彩,http://pixman-4gtv-005.onrender.com/4gtv-4gtv034/index.m3u8
+TVBS綜藝台,http://pixman-4gtv-005.onrender.com/4gtv-live087/index.m3u8
+八大綜藝,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv039/index.m3u8
+TVBS精采台,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv067/index.m3u8
+ELTA娛樂,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv070/index.m3u8
+民視綜藝,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv004/index.m3u8
+豬哥亮歌廳秀,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv006/index.m3u8
+TVBS歡樂台,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv068/index.m3u8
+Trace Urban,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv082/index.m3u8
+MEZZO LIVE HD,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv083/index.m3u8
+CLASSICA 古典樂,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv059/index.m3u8
+八大精彩,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv034/index.m3u8
+
+生活旅遊,#genre#
+Global Trekker,http://pixman-4gtv-005.onrender.com/4gtv-live112/index.m3u8
+Lifetime,http://pixman-4gtv-005.onrender.com/4gtv-live029/index.m3u8
+INULTRA,http://pixman-4gtv-005.onrender.com/4gtv-live096/index.m3u8
+Pet Club TV,http://pixman-4gtv-005.onrender.com/4gtv-live110/index.m3u8
+民視旅遊,http://pixman-4gtv-005.onrender.com/litv-ftv07/index.m3u8
+滾動力 Rollor,http://pixman-4gtv-005.onrender.com/4gtv-live012/index.m3u8
+亞洲旅遊,http://pixman-4gtv-005.onrender.com/4gtv-4gtv076/index.m3u8
+FUN 4K探索娛樂,http://pixman-4gtv-005.onrender.com/4gtv-live011/index.m3u8
+幸福空間居家台,http://pixman-4gtv-005.onrender.com/4gtv-live206/index.m3u8
+LOVE NATURE,http://pixman-4gtv-005.onrender.com/4gtv-live208/index.m3u8
+ELTA生活旅遊,http://pixman-4gtv-005.onrender.com/4gtv-live120/index.m3u8
+LUXE TV,http://pixman-4gtv-005.onrender.com/4gtv-live121/index.m3u8
+TV5MONDE Style,http://pixman-4gtv-005.onrender.com/4gtv-live122/index.m3u8
+MagellanTV頻道,http://pixman-4gtv-005.onrender.com/4gtv-live123/index.m3u8
+民視旅遊,http://pixman-4gtv-005.onrender.com/li-litv-ftv07/index.m3u8
+亞洲旅遊,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv076/index.m3u8
+Smart知識台,http://pixman-4gtv-005.onrender.com/li-litv-longturn19/index.m3u8
+亞洲旅遊,http://pixman-4gtv-005.onrender.com/of-4gtv-4gtv076/index.m3u8
+Smart知識台,http://pixman-4gtv-005.onrender.com/litv-longturn19/index.m3u8
+
+兒童卡通,#genre#
+LiveABC 互動英語台,http://pixman-4gtv-005.onrender.com/4gtv-live030/index.m3u8
+達文西,http://pixman-4gtv-005.onrender.com/4gtv-4gtv018/index.m3u8
+ELTV生活英語台,http://pixman-4gtv-005.onrender.com/litv-longturn20/index.m3u8
+Nick Jr.,http://pixman-4gtv-005.onrender.com/4gtv-live032/index.m3u8
+Nickelodeon,http://pixman-4gtv-005.onrender.com/4gtv-live105/index.m3u8
+DreamWorks,http://pixman-4gtv-005.onrender.com/4gtv-live017/index.m3u8
+靖天卡通台,http://pixman-4gtv-005.onrender.com/4gtv-4gtv044/index.m3u8
+靖洋卡通,http://pixman-4gtv-005.onrender.com/4gtv-4gtv057/index.m3u8
+MOMO親子,http://pixman-4gtv-005.onrender.com/4gtv-live107/index.m3u8
+經典卡通台,http://pixman-4gtv-005.onrender.com/4gtv-live022/index.m3u8
+精選動漫台,http://pixman-4gtv-005.onrender.com/4gtv-live024/index.m3u8
+龍華卡通,http://pixman-4gtv-005.onrender.com/li-litv-longturn01/index.m3u8
+達文西,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv018/index.m3u8
+ELTV生活英語台,http://pixman-4gtv-005.onrender.com/li-litv-longturn20/index.m3u8
+靖天卡通台,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv044/index.m3u8
+靖洋卡通,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv057/index.m3u8
+ELTV生活英語台,http://pixman-4gtv-005.onrender.com/of-litv-longturn20/index.m3u8
+龍華卡通,http://pixman-4gtv-005.onrender.com/litv-longturn01/index.m3u8
+
+新聞財經,#genre#
+鏡電視新聞台,http://pixman-4gtv-005.onrender.com/4gtv-4gtv075/index.m3u8
+東森新聞,http://pixman-4gtv-005.onrender.com/4gtv-4gtv152/index.m3u8
+華視新聞台,http://pixman-4gtv-005.onrender.com/4gtv-4gtv052/index.m3u8
+民視新聞,http://pixman-4gtv-005.onrender.com/litv-ftv13/index.m3u8
+三立iNEWS,http://pixman-4gtv-005.onrender.com/4gtv-live089/index.m3u8
+東森財經新聞,http://pixman-4gtv-005.onrender.com/4gtv-4gtv153/index.m3u8
+中視新聞台,http://pixman-4gtv-005.onrender.com/4gtv-4gtv074/index.m3u8
+中天新聞台,http://pixman-4gtv-005.onrender.com/4gtv-4gtv009/index.m3u8
+BLOOMBERG TV,http://pixman-4gtv-005.onrender.com/4gtv-live059/index.m3u8
+寰宇新聞,http://pixman-4gtv-005.onrender.com/litv-longturn14/index.m3u8
+寰宇新聞台灣台,http://pixman-4gtv-005.onrender.com/4gtv-4gtv156/index.m3u8
+SBN 全球財經台,http://pixman-4gtv-005.onrender.com/4gtv-live060/index.m3u8
+寰宇財經,http://pixman-4gtv-005.onrender.com/4gtv-4gtv158/index.m3u8
+FRANCE24 英文台,http://pixman-4gtv-005.onrender.com/4gtv-live146/index.m3u8
+半島國際新聞台,http://pixman-4gtv-005.onrender.com/litv-ftv10/index.m3u8
+VOA 美國之音,http://pixman-4gtv-005.onrender.com/litv-ftv03/index.m3u8
+CNBC Asia 財經台,http://pixman-4gtv-005.onrender.com/4gtv-live130/index.m3u8
+DW德國之聲,http://pixman-4gtv-005.onrender.com/4gtv-live071/index.m3u8
+非凡新聞,http://pixman-4gtv-005.onrender.com/4gtv-4gtv010/index.m3u8
+非凡商業,http://pixman-4gtv-005.onrender.com/4gtv-4gtv048/index.m3u8
+台視財經台,http://pixman-4gtv-005.onrender.com/4gtv-4gtv056/index.m3u8
+鏡電視新聞台,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv075/index.m3u8
+東森新聞,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv152/index.m3u8
+民視新聞,http://pixman-4gtv-005.onrender.com/li-litv-ftv13/index.m3u8
+TVBS新聞台,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv072/index.m3u8
+東森財經新聞,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv153/index.m3u8
+中視新聞台,http://pixman-4gtv-005.onrender.com/4gtv-4gtv074/index.m3u8
+中天新聞台,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv009/index.m3u8
+寰宇新聞,http://pixman-4gtv-005.onrender.com/li-litv-longturn14/index.m3u8
+寰宇新聞台灣台,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv156/index.m3u8
+寰宇財經,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv158/index.m3u8
+半島國際新聞台,http://pixman-4gtv-005.onrender.com/li-litv-ftv10/index.m3u8
+VOA 美國之音,http://pixman-4gtv-005.onrender.com/li-litv-ftv03/index.m3u8
+台視新聞台,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv051/index.m3u8
+第1商業台,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv104/index.m3u8
+台視新聞台,http://pixman-4gtv-005.onrender.com/4gtv-4gtv051/index.m3u8
+中視新聞台,http://pixman-4gtv-005.onrender.com/of-4gtv-4gtv074/index.m3u8
+中天新聞台,http://pixman-4gtv-005.onrender.com/of-4gtv-4gtv009/index.m3u8
+寰宇新聞,http://pixman-4gtv-005.onrender.com/of-litv-longturn14/index.m3u8
+寰宇新聞台灣台,http://pixman-4gtv-005.onrender.com/of-4gtv-4gtv156/index.m3u8
+寰宇財經,http://pixman-4gtv-005.onrender.com/of-4gtv-4gtv158/index.m3u8
+第1商業台,http://pixman-4gtv-005.onrender.com/4gtv-4gtv104/index.m3u8
+三立iNEWS,http://pixman-4gtv-005.onrender.com/iNEWS/index.m3u8
+倪珍播新聞,http://pixman-4gtv-005.onrender.com/nnews-zh/index.m3u8
+倪珍英語新聞,http://pixman-4gtv-005.onrender.com/nnews-en/index.m3u8
+倪珍越語新聞,http://pixman-4gtv-005.onrender.com/nnews-vn/index.m3u8
+
+體育競技,#genre#
+TRACE Sport Stars,http://pixman-4gtv-005.onrender.com/4gtv-4gtv077/index.m3u8
+智林體育,http://pixman-4gtv-005.onrender.com/4gtv-4gtv101/index.m3u8
+時尚運動X,http://pixman-4gtv-005.onrender.com/4gtv-4gtv014/index.m3u8
+車迷 TV,http://pixman-4gtv-005.onrender.com/4gtv-live201/index.m3u8
+GINX Esports TV,http://pixman-4gtv-005.onrender.com/4gtv-4gtv053/index.m3u8
+博斯魅力,http://pixman-4gtv-005.onrender.com/litv-longturn04/index.m3u8
+博斯高球I,http://pixman-4gtv-005.onrender.com/litv-longturn05/index.m3u8
+博斯高球II,http://pixman-4gtv-005.onrender.com/litv-longturn06/index.m3u8
+博斯運動I,http://pixman-4gtv-005.onrender.com/litv-longturn07/index.m3u8
+博斯運動II,http://pixman-4gtv-005.onrender.com/litv-longturn08/index.m3u8
+博斯網球,http://pixman-4gtv-005.onrender.com/litv-longturn09/index.m3u8
+博斯無限I,http://pixman-4gtv-005.onrender.com/litv-longturn10/index.m3u8
+博斯無限II,http://pixman-4gtv-005.onrender.com/litv-longturn13/index.m3u8
+TRACE Sport Stars,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv077/index.m3u8
+智林體育,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv101/index.m3u8
+時尚運動X,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv014/index.m3u8
+GINX Esports TV,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv053/index.m3u8
+
+紀實探索,#genre#
+歷史頻道,http://pixman-4gtv-005.onrender.com/4gtv-live026/index.m3u8
+CI 罪案偵查頻道,http://pixman-4gtv-005.onrender.com/4gtv-live027/index.m3u8
+視納華仁紀實頻道,http://pixman-4gtv-005.onrender.com/4gtv-4gtv013/index.m3u8
+影迷數位紀實台,http://pixman-4gtv-005.onrender.com/litv-ftv15/index.m3u8
+視納華仁紀實頻道,http://pixman-4gtv-005.onrender.com/li-4gtv-4gtv013/index.m3u8
+影迷數位紀實台,http://pixman-4gtv-005.onrender.com/li-litv-ftv15/index.m3u8
+
+
