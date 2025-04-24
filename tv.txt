@@ -858,7 +858,8 @@ VOA美國之音,http://106.107.177.223:50007/litv-ftv03/index.m3u8
 戲劇免費看1台,http://106.107.177.223:50007/4gtv-live010/index.m3u8
 韓國娛樂台KMTV,http://106.107.177.223:50007/4gtv-4gtv016/index.m3u8
 
-央视频道,#genre#
+1688,#genre#
+
 CCTV1,http://itv.iptv1688.top:2016/itv.php?id=CCTV1
 CCTV2,http://itv.iptv1688.top:2016/itv.php?id=CCTV2
 CCTV3,http://itv.iptv1688.top:2016/itv.php?id=CCTV3
@@ -877,11 +878,6 @@ CCTV14,http://itv.iptv1688.top:2016/itv.php?id=CCTV14
 CCTV15,http://itv.iptv1688.top:2016/itv.php?id=CCTV15
 CCTV16,http://itv.iptv1688.top:2016/itv.php?id=CCTV16
 CCTV17,http://itv.iptv1688.top:2016/itv.php?id=CCTV17
-CHC家庭影院,http://107.174.52.32/itv.php?id=CHC家庭影院
-CHC影迷电影,http://107.174.52.32/itv.php?id=CHC影迷电影
-CHC动作电影,http://107.174.52.32/itv.php?id=CHC动作电影
-
-卫视频道,#genre#
 
 江苏卫视,http://itv.iptv1688.top:2016/itv.php?id=江苏卫视
 浙江卫视,http://itv.iptv1688.top:2016/itv.php?id=浙江卫视
@@ -889,7 +885,6 @@ CHC动作电影,http://107.174.52.32/itv.php?id=CHC动作电影
 北京卫视,http://itv.iptv1688.top:2016/itv.php?id=北京卫视
 东方卫视,http://itv.iptv1688.top:2016/itv.php?id=东方卫视
 广东卫视,http://itv.iptv1688.top:2016/itv.php?id=广东卫视
-
 东南卫视,http://itv.iptv1688.top:2016/itv.php?id=东南卫视
 辽宁卫视,http://itv.iptv1688.top:2016/itv.php?id=辽宁卫视
 深圳卫视,http://itv.iptv1688.top:2016/itv.php?id=深圳卫视
@@ -917,7 +912,3 @@ CHC动作电影,http://107.174.52.32/itv.php?id=CHC动作电影
 青海卫视,http://itv.iptv1688.top:2016/itv.php?id=青海卫视
 延边卫视,http://itv.iptv1688.top:2016/itv.php?id=延边卫视
 兵团卫视,http://itv.iptv1688.top:2016/itv.php?id=兵团卫视
-
-地方频道,#genre#
-
-
