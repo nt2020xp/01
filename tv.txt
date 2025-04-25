@@ -409,6 +409,9 @@ LoveNature,http://103.251.89.243:50007/4gtv-live208/index.m3u8
 卡通頻道,#genre#
 東森幼幼,http://8964.koyeb.app/smt.php?id=yoyo_twn
 
+CN卡通頻道,http://8964.koyeb.app/smt.php?id=momo1_twn
+
+
 CBeebiesM,udp://@224.1.4.213:11111
 CBeebiesM,udp://@224.1.4.75:11111
 CatchPlay電影M,udp://@230.1.2.217:11111
