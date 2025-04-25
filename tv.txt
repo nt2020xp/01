@@ -383,12 +383,9 @@ parse=1
 愛爾達生活旅遊台,http://106.107.177.223:50007/4gtv-live120/index.m3u8
 Smart知識台,http://106.107.177.223:50007/litv-longturn19/index.m3u8
 
-
-
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
-
 華視,rtmp://f13h.mine.nu/sat/tv111
 中視,rtmp://f13h.mine.nu/sat/tv091
 台視,rtmp://f13h.mine.nu/sat/tv071
@@ -396,9 +393,7 @@ Smart知識台,http://106.107.177.223:50007/litv-longturn19/index.m3u8
 
 卡通頻道,#genre#
 東森幼幼,http://8964.koyeb.app/smt.php?id=yoyo_twn
-
 CN卡通頻道,http://8964.koyeb.app/smt.php?id=momo1_twn
-
 
 CBeebiesM,udp://@224.1.4.213:11111
 CBeebiesM,udp://@224.1.4.75:11111
@@ -448,7 +443,6 @@ CatchPlay電影M,udp://@230.1.2.37:11111
 龍華影劇M,udp://@230.1.2.5:11111
 龍華動畫M,udp://@224.1.4.109:11111
 龍華動畫M,udp://@224.1.4.180:11111
-
 
 日本新聞,#genre#
 
