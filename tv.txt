@@ -482,6 +482,16 @@ KansaiNews24,https://www.youtube.com/watch?v=sTAqx_1Yrww
 
 1688央視衛視,#genre#
 
+CCTV-1 综合 HD,http://8964.koyeb.app/smt.php?id=cctv1
+CCTV-2 财经,http://8964.koyeb.app/smt.php?id=cctv2
+CCTV-9 记录 HD,http://8964.koyeb.app/smt.php?id=cctv9hd
+CCTV-10 科教 HD,http://8964.koyeb.app/smt.php?id=cctv10hd
+CCTV-13 新闻频道,http://8964.koyeb.app/smt.php?id=cctv13
+纬来日本台,http://8964.koyeb.app/smt.php?id=videolandjapan
+纬来电影台,http://8964.koyeb.app/smt.php?id=videolandmovie
+纬来体育台,http://8964.koyeb.app/smt.php?id=videolandsport
+纬来综合台,http://8964.koyeb.app/smt.php?id=videolandzonghe
+
 CCTV1,http://itv.iptv1688.top:2016/itv.php?id=CCTV1
 CCTV2,http://itv.iptv1688.top:2016/itv.php?id=CCTV2
 CCTV3,http://itv.iptv1688.top:2016/itv.php?id=CCTV3
