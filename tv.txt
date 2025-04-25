@@ -473,6 +473,8 @@ CCTV-13 新闻频道,http://8964.koyeb.app/smt.php?id=cctv13
 纬来电影台,http://8964.koyeb.app/smt.php?id=videolandmovie
 纬来体育台,http://8964.koyeb.app/smt.php?id=videolandsport
 纬来综合台,http://8964.koyeb.app/smt.php?id=videolandzonghe
+纬来育乐台,http://8964.koyeb.app/smt.php?id=videolandyule
+纬来精彩台,http://8964.koyeb.app/smt.php?id=videolandspecial_twn
 
 CCTV1,http://itv.iptv1688.top:2016/itv.php?id=CCTV1
 CCTV2,http://itv.iptv1688.top:2016/itv.php?id=CCTV2
