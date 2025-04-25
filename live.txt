@@ -1,3 +1,5 @@
+live,#genre#
+
 amc 電影台,http://www.livednow.dpdns.org/4gtv-4gtv017/index.m3u8
 Arirang TV,http://www.livednow.dpdns.org/4gtv-4gtv079/index.m3u8
 Arirang TV,http://www.livednow.dpdns.org/li-4gtv-4gtv079/index.m3u8
