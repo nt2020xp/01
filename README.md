@@ -30,26 +30,6 @@ http://a/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv1
 
 https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/1.js?id=https://tv.cctv.com/live/cctv1
 
-CCTV4K,https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/1.js?id=https://www.yangshipin.cn/tv/home?pid=600002264
-
-CCTV8K,https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/1.js?id=https://www.yangshipin.cn/tv/home?pid=600156816
-
-北京衛視，https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/1.js?id=https://yangshipin.cn/tv/home?pid=600002309
-
-江蘇衛視，https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/1.js?id=https://yangshipin.cn/tv/home?pid=600002521
-
-東方衛視，https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/1.js?id=https://yangshipin.cn/tv/home?pid=600002483
-
-浙江衛視，https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/1.js?id=https://yangshipin.cn/tv/home?pid=600002520
-
-湖南衛視，https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/1.js?id=https://yangshipin.cn/tv/home?pid=600002475
-
-ua=
-
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-
 自然傳奇  https://tv.cctv.com/lm/zrcq/index.shtml?spm=C28340.PUdOXeMUrKth.S99516.146
 
 ====================
