@@ -1,5 +1,5 @@
 
-https://fanmingming.com/txt?url=http://docker.livednow.dpdns.org/?type=m3u&proxy=true
+
 
 https://fanmingming.com/txt?url=https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/live.m3u
 
