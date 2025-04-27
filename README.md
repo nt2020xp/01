@@ -1,4 +1,4 @@
-"ads":["static-mozai.4gtv.tv","mozai.4gtv.tv"]
+"ads": ["static-mozai.4gtv.tv","mozai.4gtv.tv"]
 
 
 https://fanmingming.com/txt?url=https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/live.m3u
