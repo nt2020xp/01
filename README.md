@@ -183,7 +183,8 @@ echo "$value[3],","$base_url/tv.php?token=" . urlencode($SECRET_TOKEN) . "&id=" 
 
 =========
 
-"rules":[ {"name":"ofiii","hosts": ["www.ofiii.com"],"script": ["const play=document.getElementsByClassName("play_icon")[0];const event=new MouseEvent("click",{bubbles:!0,cancelable:!0,view:window,screenX:100,screenY:100,clientX:50,clientY:50,button:0,shiftKey:!1,ctrlKey:!1,altKey:!1,metaKey:!1,modifierState:0});play.dispatchEvent(event);"]},
+"rules":[
+{"name":"ofiii","hosts": ["www.ofiii.com"],"script": ["const play=document.getElementsByClassName("play_icon")[0];const event=new MouseEvent("click",{bubbles:!0,cancelable:!0,view:window,screenX:100,screenY:100,clientX:50,clientY:50,button:0,shiftKey:!1,ctrlKey:!1,altKey:!1,metaKey:!1,modifierState:0});play.dispatchEvent(event);"]},
 
 =======================
 
