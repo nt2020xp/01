@@ -1,6 +1,6 @@
  "rules": [
         {
-            "name": "ofiii[台湾节点]",
+            "name": "ofiii網頁",
             "hosts": [
                 "www.ofiii.com"
             ],
