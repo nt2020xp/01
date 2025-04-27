@@ -704,7 +704,7 @@ parse=1
 34 TV5MONDE STYLE HD 生活時尚,https://www.4gtv.tv/channel/4gtv-live122?set=1&ch=178
 35 TVBS,https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=183
 36 TVBS台劇台,https://www.4gtv.tv/channel/4gtv-live088?set=1&ch=285
-37 TVBS新聞台,https://www.4gtv.tv/channel/4gtv-4gtv072?set=1&ch=291
+37 X-TVBS新聞台,https://www.4gtv.tv/channel/4gtv-4gtv072?set=1&ch=291
 38 TVBS精采台,https://www.4gtv.tv/channel/4gtv-4gtv067?set=1&ch=227
 39 TVBS綜藝台,https://www.4gtv.tv/channel/4gtv-live087?set=1&ch=284
 40 TVBS歡樂台,https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184
@@ -785,58 +785,50 @@ parse=1
 115 鏡電視新聞台,https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268
 116 霹靂布袋戲,https://www.4gtv.tv/channel/4gtv-live145?set=1&ch=301
 
-ofiii頻道,#genre#
+breezy台灣,#genre#
 
-華視,http://160.22.143.66:8880/index.m3u8?pid=4gtv-4gtv041&sd=1080&proxy=true&token=test
-中視,http://160.22.143.66:8880/index.m3u8?pid=4gtv-4gtv040&sd=1080&proxy=true&token=test
-台視,http://160.22.143.66:8880/index.m3u8?pid=4gtv-4gtv066&sd=1080&proxy=true&token=test
-華視新聞,http://160.22.143.66:8880/index.m3u8?pid=4gtv-4gtv052&sd=1080&proxy=true&token=test
-中視新聞,http://160.22.143.66:8880/index.m3u8?pid=4gtv-4gtv074&sd=1080&proxy=true&token=test
-台視新聞,http://160.22.143.66:8880/index.m3u8?pid=4gtv-4gtv051&sd=1080&proxy=true&token=test
-三立新聞iNEWS,http://160.22.143.66:8880/index.m3u8?pid=iNEWS&sd=1080&proxy=true&token=test
-中天新聞台,http://160.22.143.66:8880/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=true&token=test
-寰宇新聞台灣台,http://160.22.143.66:8880/index.m3u8?pid=4gtv-4gtv156&sd=1080&proxy=true&token=test
-寰宇新聞台,http://160.22.143.66:8880/index.m3u8?pid=litv-longturn14&sd=1080&proxy=true&token=test
-寰宇財經台,http://160.22.143.66:8880/index.m3u8?pid=4gtv-4gtv158&sd=1080&proxy=true&token=test
-亞洲旅遊台,http://160.22.143.66:8880/index.m3u8?pid=4gtv-4gtv076&sd=1080&proxy=true&token=test
-Smart知識台,http://160.22.143.66:8880/index.m3u8?pid=litv-longturn19&sd=1080&proxy=true&token=test
-龍華電影台,http://160.22.143.66:8880/index.m3u8?pid=litv-longturn03&sd=1080&proxy=true&token=test
-龍華洋片台,http://160.22.143.66:8880/index.m3u8?pid=litv-longturn02&sd=1080&proxy=true&token=test
-龍華日韓台,http://160.22.143.66:8880/index.m3u8?pid=litv-longturn11&sd=1080&proxy=true&token=test
-龍華偶像台,http://160.22.143.66:8880/index.m3u8?pid=litv-longturn12&sd=1080&proxy=true&token=test
-龍華戲劇台,http://160.22.143.66:8880/index.m3u8?pid=litv-longturn18&sd=1080&proxy=true&token=test
-龍華經典台,http://160.22.143.66:8880/index.m3u8?pid=litv-longturn21&sd=1080&proxy=true&token=test
-龍華卡通台,http://160.22.143.66:8880/index.m3u8?pid=litv-longturn01&sd=1080&proxy=true&token=test
-
-中天新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv009
 TVBS新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv072
-东森新闻台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv152
-民视新闻台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv13
-镜电视新闻台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv075
-非凡新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv010
-台视新闻台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv051
+东森新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv152
+民视新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv13
+中天新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv009
 华视新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv052
-中视新闻台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv074
-寰宇新闻台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn14
-寰宇新闻台湾台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv156
-半岛国际新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv10
-美国之音,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv03
-东森财经新闻台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv153
-非凡商业,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv048
+中视新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv074
+台视新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv051
+寰宇新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn14
+寰宇台湾,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv156
+镜新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv075
+东森财经新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv153
+非凡新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv010
 台视财经台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv056
-第1商业台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv104
-TVBS,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv073
-台视,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv066
-中视,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv040
+
+民视旅游台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv07
+亚洲旅游台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv076
+Smart知识台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn19
+
 华视,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv041
+中视,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv040
+台视,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv066
 民视,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv002
 民视,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv155
-民视台湾台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv001
-民视第一台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv003
-中天亚洲,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv109
+
+靖天日本台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv047
 靖天综合台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv046
 靖天国际台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv063
 靖天资讯台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv065
+靖天欢乐台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv054
+靖天育乐台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv062
+靖天电影台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv061
+靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv055
+靖洋戏剧台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv045
+靖天戏剧台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv058
+
+龙华电影台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn03
+龙华洋片台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn02
+龙华戏剧台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn18
+龙华日韩台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn11
+龙华偶像台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn12
+龙华经典台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn21
+
 客家电视台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv043
 ARIRANG,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv079
 国会频道1,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv084
@@ -847,27 +839,15 @@ ELTV娱乐,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=
 民视综艺台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv004
 八大综艺,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv039
 八大精彩,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv034
-靖天欢乐台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv054
-靖天育乐台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv062
 中视菁采台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv064
 猪哥亮歌厅秀,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv006
 影迷数位电影台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv011
 amc电影台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv017
-靖天电影台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv061
-靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv055
+
 采昌影剧台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv049
 民视影剧台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv09
-龙华电影台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn03
-龙华洋片台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn02
 公视戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv042
-靖洋戏剧台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv045
-靖天戏剧台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv058
 中视经典台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv080
-靖天日本台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv047
-龙华戏剧台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn18
-龙华日韩台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn11
-龙华偶像台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn12
-龙华经典台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn21
 台湾戏剧台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn22
 时尚运动X,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv014
 GINXEsportsTV,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv053
@@ -883,9 +863,6 @@ GINXEsportsTV,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&
 视纳华仁纪实,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv013
 Globetrotter,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv016
 达文西频道,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv018
-亚洲旅游台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv076
-民视旅游台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv07
-Smart知识台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn19
 靖天卡通台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv044
 靖洋卡通台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv057
 龙华卡通台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn01
@@ -895,3 +872,11 @@ MezzoLiveHD,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id
 好消息1,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv16
 好消息2,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv17
 ELTV生活英语台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn20
+半岛国际新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv10
+美国之音,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv03
+非凡商业,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv048
+第1商业台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv104
+TVBS,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv073
+民视台湾台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv001
+民视第一台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv003
+中天亚洲,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv109
