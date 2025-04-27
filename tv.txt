@@ -785,3 +785,25 @@ parse=1
 115 鏡電視新聞台,https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268
 116 霹靂布袋戲,https://www.4gtv.tv/channel/4gtv-live145?set=1&ch=301
 
+ofiii頻道,#genre#
+
+華視,http://160.22.143.66:8880/index.m3u8?pid=4gtv-4gtv041&sd=1080&proxy=true&token=test
+中視,http://160.22.143.66:8880/index.m3u8?pid=4gtv-4gtv040&sd=1080&proxy=true&token=test
+台視,http://160.22.143.66:8880/index.m3u8?pid=4gtv-4gtv066&sd=1080&proxy=true&token=test
+華視新聞,http://160.22.143.66:8880/index.m3u8?pid=4gtv-4gtv052&sd=1080&proxy=true&token=test
+中視新聞,http://160.22.143.66:8880/index.m3u8?pid=4gtv-4gtv074&sd=1080&proxy=true&token=test
+台視新聞,http://160.22.143.66:8880/index.m3u8?pid=4gtv-4gtv051&sd=1080&proxy=true&token=test
+三立新聞iNEWS,http://160.22.143.66:8880/index.m3u8?pid=iNEWS&sd=1080&proxy=true&token=test
+中天新聞台,http://160.22.143.66:8880/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=true&token=test
+寰宇新聞台灣台,http://160.22.143.66:8880/index.m3u8?pid=4gtv-4gtv156&sd=1080&proxy=true&token=test
+寰宇新聞台,http://160.22.143.66:8880/index.m3u8?pid=litv-longturn14&sd=1080&proxy=true&token=test
+寰宇財經台,http://160.22.143.66:8880/index.m3u8?pid=4gtv-4gtv158&sd=1080&proxy=true&token=test
+亞洲旅遊台,http://160.22.143.66:8880/index.m3u8?pid=4gtv-4gtv076&sd=1080&proxy=true&token=test
+Smart知識台,http://160.22.143.66:8880/index.m3u8?pid=litv-longturn19&sd=1080&proxy=true&token=test
+龍華電影台,http://160.22.143.66:8880/index.m3u8?pid=litv-longturn03&sd=1080&proxy=true&token=test
+龍華洋片台,http://160.22.143.66:8880/index.m3u8?pid=litv-longturn02&sd=1080&proxy=true&token=test
+龍華日韓台,http://160.22.143.66:8880/index.m3u8?pid=litv-longturn11&sd=1080&proxy=true&token=test
+龍華偶像台,http://160.22.143.66:8880/index.m3u8?pid=litv-longturn12&sd=1080&proxy=true&token=test
+龍華戲劇台,http://160.22.143.66:8880/index.m3u8?pid=litv-longturn18&sd=1080&proxy=true&token=test
+龍華經典台,http://160.22.143.66:8880/index.m3u8?pid=litv-longturn21&sd=1080&proxy=true&token=test
+龍華卡通台,http://160.22.143.66:8880/index.m3u8?pid=litv-longturn01&sd=1080&proxy=true&token=test
