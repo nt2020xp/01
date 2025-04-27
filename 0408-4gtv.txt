@@ -37,7 +37,7 @@ parse=1
 34 TV5MONDE STYLE HD 生活時尚,https://www.4gtv.tv/channel/4gtv-live122?set=1&ch=178
 35 TVBS,https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=183
 36 TVBS台劇台,https://www.4gtv.tv/channel/4gtv-live088?set=1&ch=285
-37 TVBS新聞,https://www.4gtv.tv/channel/4gtv-4gtv072?set=1&ch=291
+37 TVBS新聞台,https://www.4gtv.tv/channel/4gtv-4gtv072?set=1&ch=291
 38 TVBS精采台,https://www.4gtv.tv/channel/4gtv-4gtv067?set=1&ch=227
 39 TVBS綜藝台,https://www.4gtv.tv/channel/4gtv-live087?set=1&ch=284
 40 TVBS歡樂台,https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184
@@ -103,16 +103,16 @@ parse=1
 100 靖天綜合台,https://www.4gtv.tv/channel/4gtv-4gtv046?set=1&ch=21
 101 靖天戲劇台,https://www.4gtv.tv/channel/4gtv-4gtv058?set=1&ch=116
 102 靖天歡樂台,https://www.4gtv.tv/channel/4gtv-4gtv054?set=1&ch=119
-103 靖洋卡通Nice Bingo,https://www.4gtv.tv/channel/4gtv-4gtv057?set=1&ch=59
+103 靖洋卡通台,https://www.4gtv.tv/channel/4gtv-4gtv057?set=1&ch=59
 104 靖洋戲劇台,https://www.4gtv.tv/channel/4gtv-4gtv045?set=1&ch=118
 105 滾動力rollor,https://www.4gtv.tv/channel/4gtv-live012?set=1&ch=249
 106 精選動漫台,https://www.4gtv.tv/channel/4gtv-live024?set=1&ch=204
 107 影迷數位紀實台,https://www.4gtv.tv/channel/litv-ftv15?set=1&ch=445
 108 影迷數位電影台,https://www.4gtv.tv/channel/4gtv-4gtv011?set=1&ch=40
 109 豬哥亮歌廳秀,https://www.4gtv.tv/channel/4gtv-4gtv006?set=1&ch=113
-110 寰宇財經台,https://www.4gtv.tv/channel/4gtv-4gtv158?set=1&ch=281
-111 寰宇新聞台,https://www.4gtv.tv/channel/litv-longturn14?set=1&ch=36
-112 寰宇新聞台灣台,https://www.4gtv.tv/channel/4gtv-4gtv156?set=1&ch=280
+110 寰宇台灣台,https://www.4gtv.tv/channel/4gtv-4gtv156?set=1&ch=280
+111 寰宇財經台,https://www.4gtv.tv/channel/4gtv-4gtv158?set=1&ch=281
+112 寰宇新聞台,https://www.4gtv.tv/channel/litv-longturn14?set=1&ch=36
 113 戲劇免費看 1台,https://www.4gtv.tv/channel/4gtv-live010?set=1&ch=270
 114 韓國娛樂台 KMTV,https://www.4gtv.tv/channel/4gtv-4gtv016?set=1&ch=446
 115 鏡電視新聞台,https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268
