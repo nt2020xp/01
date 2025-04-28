@@ -126,6 +126,8 @@ http://www3.fish2018.ip-ddns.com/p/jsm.json
 
 "static-mozai.4gtv.tv","mozai.4gtv.tv",
 
+https://fanmingming.com/txt?url=http://5678.koyeb.app/tv.m3u
+
 https://fanmingming.com/txt?url=https://live.fanmingming.cn/tv/m3u/ipv6.m3u
 
 https://fanmingming.com/txt?url=https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u
