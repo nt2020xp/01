@@ -1,3 +1,5 @@
+http://docker.livednow.dpdns.org/?type=m3u
+
 
 https://fanmingming.com/txt?url=http://docker.livednow.dpdns.org/?type=m3u
 
