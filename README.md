@@ -1,3 +1,7 @@
+
+https://fanmingming.com/txt?url=http://docker.livednow.dpdns.org/?type=m3u
+
+
 "ads": ["static-mozai.4gtv.tv","mozai.4gtv.tv"]
 
 
