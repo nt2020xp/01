@@ -391,6 +391,11 @@ parse=1
 東森幼幼,https://smart.pendy.dpdns.org/Smart.php?id=yoyo_twn
 CN卡通,https://smart.pendy.dpdns.org/Smart.php?id=momo1_twn
 
+緯來日本台,https://smart.pendy.dpdns.org/Smart.php?id=videolandjapan
+緯來電影台,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
+緯來體育台,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
+緯來綜合台,https://smart.pendy.dpdns.org/Smart.php?id=videolandzonghe
+
 
 CBeebiesM,udp://@224.1.4.213:11111
 CBeebiesM,udp://@224.1.4.75:11111
