@@ -29,9 +29,6 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 雍正王朝,https://www.youtube.com/watch?v=VEW_BRTp-TM
 西游记,https://www.youtube.com/watch?v=ihlGNUljNp8
 
-
-
-
 靖天龍華,#genre#
 
 靖天日本,http://docker.livednow.dpdns.org/li-4gtv-4gtv047/index.m3u8
@@ -84,7 +81,6 @@ CatchPlay電影M,udp://@230.1.2.37:11111
 中視M,udp://@224.1.4.10:11111
 台視M,udp://@224.1.4.8:11111
 台視M,udp://@230.1.2.227:11111
-
 
 日本新聞,#genre#
 
@@ -162,7 +158,6 @@ ELTV娛樂,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=
 八大精彩,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv034
 中視菁采台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv064
 豬哥亮歌廳秀,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv006
-
 
 采昌影劇台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv049
 民視影劇台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv09
