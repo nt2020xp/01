@@ -330,35 +330,7 @@ parse=1
 第297話 李武靖進牢和一休的報答,https://xgct-video.vzcdn.net/5a9648af-cc2d-4b86-ada7-0f6a20a4a8b1/842x480/video.m3u8
 第298話 媽媽、朋友們、安國寺再見了（大結局）,https://xgct-video.vzcdn.net/c6763ae5-ca5e-497c-af7c-21b72c0b5c92/842x480/video.m3u8
 
-柯南劇場版,#genre#
 
-1計時引爆摩天樓,https://xgct-video.vzcdn.net/15e6465c-1742-4b10-826b-3da61e0efdc5/842x480/video.m3u8
-2第14個目標,https://xgct-video.vzcdn.net/a1b9db57-2520-409d-a195-50c9f9d7b046/1280x720/video.m3u8
-3世紀末的魔術師,https://xgct-video.vzcdn.net/dc021645-0753-47ea-88e6-40ad72c76b6a/842x480/video.m3u8
-4瞳孔中的暗殺者,https://xgct-video.vzcdn.net/c15cfb19-e0b5-4503-bef5-3620fc41dc56/842x480/video.m3u8
-5通往天國的倒計時,https://xgct-video.vzcdn.net/f54ba1a2-890d-4f23-8b08-d17944506e4b/854x480/video.m3u8
-6貝克街的亡靈,https://xgct-video.vzcdn.net/5bced5f5-51db-45af-bb04-c489c6349ef0/842x480/video.m3u8
-7迷宮的十字路,https://xgct-video.vzcdn.net/1b45e147-59db-416a-aa84-6ffe5e4482ed/842x480/video.m3u8
-8銀翼的魔術師,https://xgct-video.vzcdn.net/2a7c2457-c7e1-48cd-98ea-820984b51e73/842x480/video.m3u8
-9水平線上的陰謀,https://xgct-video.vzcdn.net/ed1ff59c-c25f-4cd0-83bc-0b07b8c3a9c0/842x480/video.m3u8	
-10偵探們的鎮魂歌,https://xgct-video.vzcdn.net/7a7b4afb-17e2-4108-9371-bacec1bc5f96/842x480/video.m3u8
-11紺碧之棺,https://xgct-video.vzcdn.net/78255398-f38b-4054-ae2e-082b2e56c8d9/842x480/video.m3u8
-12戰慄的樂譜,https://xgct-video.vzcdn.net/75423b3a-096e-44be-892b-0d658303ce53/842x480/video.m3u8
-13漆黑的追蹤者,https://xgct-video.vzcdn.net/f31c3309-3ccc-4eac-875a-a8fa5bede7c7/842x480/video.m3u8
-14天空的遇難船,https://xgct-video.vzcdn.net/572568a7-ad11-459c-9b48-faa5de38e9c9/842x480/video.m3u8	
-15沉默的15分鐘,https://xgct-video.vzcdn.net/a276dbbc-a034-4734-a039-60123c56b8b9/842x480/video.m3u8	
-16第11個前鋒,https://xgct-video.vzcdn.net/90a7b6c3-5b00-42d2-b099-566159e03d55/842x480/video.m3u8	
-17絕海的偵探,https://xgct-video.vzcdn.net/09b53cb9-b569-408d-9c49-f0e83fb3ffb6/842x480/video.m3u8
-18異次元的狙擊手,https://xgct-video.vzcdn.net/259b711b-c9ba-4cb4-9c0a-501cf8945ea9/842x480/video.m3u8
-19業火的向日葵,https://xgct-video.vzcdn.net/c7c12c6a-56e8-4e9f-afa7-83dee36fe140/842x480/video.m3u8	
-20純黑的噩夢,https://xgct-video.vzcdn.net/9c400276-2177-4d70-a008-a5455de4a9fa/842x480/video.m3u8
-21唐紅的戀歌,https://xgct-video.vzcdn.net/34017c10-05dc-4f12-bb10-19714e08170d/842x480/video.m3u8
-22零的執行人,https://xgct-video.vzcdn.net/c3c04ede-eab0-4511-bd8c-dac57c1caa09/842x480/video.m3u8
-23紺青之拳,https://xgct-video.vzcdn.net/0e79817c-0e16-413d-8d48-895eeece9588/842x480/video.m3u8	
-24緋色的子彈,https://xgct-video.vzcdn.net/a052ca83-b4e3-4969-98b1-799b30314950/842x480/video.m3u8
-25萬聖節的新娘,https://xgct-video.vzcdn.net/f0b4d517-65b5-4de0-9e80-89156dfbe63c/842x480/video.m3u8
-26黑鐵的魚影,https://xgct-video.vzcdn.net/1316b02c-4db6-4c29-b533-afe4923a9cf4/1280x720/video.m3u8
-		
 靖天龍華,#genre#
 
 靖天日本,http://docker.livednow.dpdns.org/li-4gtv-4gtv047/index.m3u8
@@ -381,31 +353,10 @@ parse=1
 龍華戲劇,http://docker.livednow.dpdns.org/li-litv-longturn18/index.m3u8
 龍華卡通,http://docker.livednow.dpdns.org/li-litv-longturn01/index.m3u8
 
-
-靖天日本,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv047
-靖天綜合,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv046
-靖天國際,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv063
-靖天資訊,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv065
-靖天歡樂,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv054
-靖天育樂,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv062
-靖天電影,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv061
-靖天映畫,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv055
-靖洋戲劇,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv045
-靖天戲劇,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv058
-
-龍華電影,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn03
-龍華洋片,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn02
-龍華戲劇,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn18
-龍華日韓,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn11
-龍華偶像,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn12
-龍華經典,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn21
-
 華視,http://docker.livednow.dpdns.org/li-4gtv-4gtv041/index.m3u8
 中視,http://docker.livednow.dpdns.org/li-4gtv-4gtv040/index.m3u8
 台視,http://docker.livednow.dpdns.org/li-4gtv-4gtv066/index.m3u8
 民視,http://docker.livednow.dpdns.org/4gtv-4gtv002/index.m3u8
-
-
 
 民視旅遊,http://docker.livednow.dpdns.org/li-litv-ftv07/index.m3u8
 民視旅遊,http://docker.livednow.dpdns.org/litv-ftv07/index.m3u8
@@ -433,43 +384,6 @@ CatchPlay電影M,udp://@230.1.2.37:11111
 台視M,udp://@224.1.4.8:11111
 台視M,udp://@230.1.2.227:11111
 
-靖天日本M,udp://@224.1.4.103:11111
-靖天日本M,udp://@230.1.2.221:11111
-靖天育樂M,udp://@224.1.4.28:11111
-靖天育樂M,udp://@230.1.2.194:11111
-靖天映畫M,udp://@224.1.4.28:11111
-靖天映畫M,udp://@230.1.2.236:11111
-靖天國際M,udp://@224.1.4.106:11111
-靖天國際M,udp://@224.1.4.220:11111
-靖天資訊M,udp://@224.1.4.30:11111
-靖天資訊M,udp://@230.1.2.184:11111
-靖天電影M,udp://@224.1.4.42:11111
-靖天電影M,udp://@230.1.2.243:11111
-靖天綜合M,udp://@224.1.4.104:11111
-靖天綜合M,udp://@224.1.4.199:11111
-靖天戲劇M,udp://@224.1.4.40:11111
-靖天戲劇M,udp://@230.1.2.163:11111
-靖洋戲劇M,udp://@224.1.4.107:11111
-靖洋戲劇M,udp://@230.1.2.240:11111
-靖天卡通M,udp://@224.1.4.25:11111
-靖天卡通M,udp://@230.1.2.162:11111
-靖洋卡通M,udp://@224.1.4.23:11111
-靖洋卡通M,udp://@230.1.2.161:11111
-
-龍華電影M,udp://@224.1.4.251:11111
-龍華電影M,udp://@224.1.4.36:11111
-龍華戲劇M,udp://@224.1.4.41:11111
-龍華戲劇M,udp://@230.1.2.149:11111
-龍華洋片M,udp://@224.1.4.37:11111
-龍華洋片M,udp://@230.1.2.211:11111
-龍華偶像M,udp://@224.1.4.39:11111
-龍華偶像M,udp://@230.1.2.156:11111
-龍華影劇M,udp://@230.1.2.167:11111
-龍華經典M,udp://@224.1.4.172:11111
-龍華經典M,udp://@224.1.4.44:11111
-龍華影劇M,udp://@230.1.2.5:11111
-龍華動畫M,udp://@224.1.4.109:11111
-龍華動畫M,udp://@224.1.4.180:11111
 
 日本新聞,#genre#
 
@@ -490,47 +404,6 @@ KansaiNews24,https://www.youtube.com/watch?v=sTAqx_1Yrww
 淡路島猴子,https://www.youtube.com/watch?v=lsxYH2XQQCg
 
 breezy台灣,#genre#
-
-
-TVBS新聞,http://docker.livednow.dpdns.org/li-4gtv-4gtv072/index.m3u8
-東森新聞,http://docker.livednow.dpdns.org/li-4gtv-4gtv152/index.m3u8
-民視新聞,http://docker.livednow.dpdns.org/li-litv-ftv13/index.m3u8
-民視新聞,http://docker.livednow.dpdns.org/litv-ftv13/index.m3u8
-中天新聞,http://docker.livednow.dpdns.org/li-4gtv-4gtv009/index.m3u8
-台視新聞,http://docker.livednow.dpdns.org/li-4gtv-4gtv051/index.m3u8
-東森財經,http://docker.livednow.dpdns.org/li-4gtv-4gtv153/index.m3u8
-非凡新聞,http://docker.livednow.dpdns.org/4gtv-4gtv010/index.m3u8
-寰宇財經,http://docker.livednow.dpdns.org/li-4gtv-4gtv158/index.m3u8
-寰宇新聞,http://docker.livednow.dpdns.org/li-litv-longturn14/index.m3u8
-寰聞台灣,http://docker.livednow.dpdns.org/li-4gtv-4gtv156/index.m3u8
-鏡新聞,http://docker.livednow.dpdns.org/li-4gtv-4gtv075/index.m3u8
-華視,http://docker.livednow.dpdns.org/li-4gtv-4gtv041/index.m3u8
-中視,http://docker.livednow.dpdns.org/li-4gtv-4gtv040/index.m3u8
-台視,http://docker.livednow.dpdns.org/li-4gtv-4gtv066/index.m3u8
-民視,http://docker.livednow.dpdns.org/4gtv-4gtv002/index.m3u8
-民視旅遊,http://docker.livednow.dpdns.org/li-litv-ftv07/index.m3u8
-民視旅遊,http://docker.livednow.dpdns.org/litv-ftv07/index.m3u8
-亞洲旅遊,http://docker.livednow.dpdns.org/li-4gtv-4gtv076/index.m3u8
-Smart知識台,http://docker.livednow.dpdns.org/li-litv-longturn19/index.m3u8
-靖天日本,http://docker.livednow.dpdns.org/li-4gtv-4gtv047/index.m3u8
-靖天育樂,http://docker.livednow.dpdns.org/li-4gtv-4gtv062/index.m3u8
-靖天映畫,http://docker.livednow.dpdns.org/li-4gtv-4gtv055/index.m3u8
-靖天國際,http://docker.livednow.dpdns.org/li-4gtv-4gtv063/index.m3u8
-靖天資訊,http://docker.livednow.dpdns.org/li-4gtv-4gtv065/index.m3u8
-靖天電影,http://docker.livednow.dpdns.org/li-4gtv-4gtv061/index.m3u8
-靖天戲劇,http://docker.livednow.dpdns.org/li-4gtv-4gtv058/index.m3u8
-靖天歡樂,http://docker.livednow.dpdns.org/li-4gtv-4gtv054/index.m3u8
-靖洋戲劇,http://docker.livednow.dpdns.org/li-4gtv-4gtv045/index.m3u8
-靖天卡通,http://docker.livednow.dpdns.org/li-4gtv-4gtv044/index.m3u8
-靖洋卡通,http://docker.livednow.dpdns.org/li-4gtv-4gtv057/index.m3u8
-龍華電影,http://docker.livednow.dpdns.org/li-litv-longturn03/index.m3u8
-龍華洋片,http://docker.livednow.dpdns.org/li-litv-longturn02/index.m3u8
-龍華日韓,http://docker.livednow.dpdns.org/li-litv-longturn11/index.m3u8
-龍華偶像,http://docker.livednow.dpdns.org/li-litv-longturn12/index.m3u8
-龍華經典,http://docker.livednow.dpdns.org/li-litv-longturn21/index.m3u8
-龍華戲劇,http://docker.livednow.dpdns.org/li-litv-longturn18/index.m3u8
-龍華卡通,http://docker.livednow.dpdns.org/li-litv-longturn01/index.m3u8
-
 
 TVBS新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv072
 東森新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv152
@@ -557,13 +430,13 @@ Smart知識台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng
 民視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv155
 
 靖天日本台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv047
+靖天電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv061
+靖天映畫台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv055
 靖天綜合台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv046
 靖天國際台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv063
 靖天資訊台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv065
 靖天歡樂台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv054
 靖天育樂台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv062
-靖天電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv061
-靖天映畫台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv055
 靖洋戲劇台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv045
 靖天戲劇台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv058
 
@@ -626,4 +499,34 @@ TVBS,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4
 民視台灣台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv001
 民視第一台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv003
 中天亞洲,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv109
+
+柯南劇場版,#genre#
+
+1計時引爆摩天樓,https://xgct-video.vzcdn.net/15e6465c-1742-4b10-826b-3da61e0efdc5/842x480/video.m3u8
+2第14個目標,https://xgct-video.vzcdn.net/a1b9db57-2520-409d-a195-50c9f9d7b046/1280x720/video.m3u8
+3世紀末的魔術師,https://xgct-video.vzcdn.net/dc021645-0753-47ea-88e6-40ad72c76b6a/842x480/video.m3u8
+4瞳孔中的暗殺者,https://xgct-video.vzcdn.net/c15cfb19-e0b5-4503-bef5-3620fc41dc56/842x480/video.m3u8
+5通往天國的倒計時,https://xgct-video.vzcdn.net/f54ba1a2-890d-4f23-8b08-d17944506e4b/854x480/video.m3u8
+6貝克街的亡靈,https://xgct-video.vzcdn.net/5bced5f5-51db-45af-bb04-c489c6349ef0/842x480/video.m3u8
+7迷宮的十字路,https://xgct-video.vzcdn.net/1b45e147-59db-416a-aa84-6ffe5e4482ed/842x480/video.m3u8
+8銀翼的魔術師,https://xgct-video.vzcdn.net/2a7c2457-c7e1-48cd-98ea-820984b51e73/842x480/video.m3u8
+9水平線上的陰謀,https://xgct-video.vzcdn.net/ed1ff59c-c25f-4cd0-83bc-0b07b8c3a9c0/842x480/video.m3u8	
+10偵探們的鎮魂歌,https://xgct-video.vzcdn.net/7a7b4afb-17e2-4108-9371-bacec1bc5f96/842x480/video.m3u8
+11紺碧之棺,https://xgct-video.vzcdn.net/78255398-f38b-4054-ae2e-082b2e56c8d9/842x480/video.m3u8
+12戰慄的樂譜,https://xgct-video.vzcdn.net/75423b3a-096e-44be-892b-0d658303ce53/842x480/video.m3u8
+13漆黑的追蹤者,https://xgct-video.vzcdn.net/f31c3309-3ccc-4eac-875a-a8fa5bede7c7/842x480/video.m3u8
+14天空的遇難船,https://xgct-video.vzcdn.net/572568a7-ad11-459c-9b48-faa5de38e9c9/842x480/video.m3u8	
+15沉默的15分鐘,https://xgct-video.vzcdn.net/a276dbbc-a034-4734-a039-60123c56b8b9/842x480/video.m3u8	
+16第11個前鋒,https://xgct-video.vzcdn.net/90a7b6c3-5b00-42d2-b099-566159e03d55/842x480/video.m3u8	
+17絕海的偵探,https://xgct-video.vzcdn.net/09b53cb9-b569-408d-9c49-f0e83fb3ffb6/842x480/video.m3u8
+18異次元的狙擊手,https://xgct-video.vzcdn.net/259b711b-c9ba-4cb4-9c0a-501cf8945ea9/842x480/video.m3u8
+19業火的向日葵,https://xgct-video.vzcdn.net/c7c12c6a-56e8-4e9f-afa7-83dee36fe140/842x480/video.m3u8	
+20純黑的噩夢,https://xgct-video.vzcdn.net/9c400276-2177-4d70-a008-a5455de4a9fa/842x480/video.m3u8
+21唐紅的戀歌,https://xgct-video.vzcdn.net/34017c10-05dc-4f12-bb10-19714e08170d/842x480/video.m3u8
+22零的執行人,https://xgct-video.vzcdn.net/c3c04ede-eab0-4511-bd8c-dac57c1caa09/842x480/video.m3u8
+23紺青之拳,https://xgct-video.vzcdn.net/0e79817c-0e16-413d-8d48-895eeece9588/842x480/video.m3u8	
+24緋色的子彈,https://xgct-video.vzcdn.net/a052ca83-b4e3-4969-98b1-799b30314950/842x480/video.m3u8
+25萬聖節的新娘,https://xgct-video.vzcdn.net/f0b4d517-65b5-4de0-9e80-89156dfbe63c/842x480/video.m3u8
+26黑鐵的魚影,https://xgct-video.vzcdn.net/1316b02c-4db6-4c29-b533-afe4923a9cf4/1280x720/video.m3u8
+		
 
