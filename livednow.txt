@@ -1,0 +1,100 @@
+Arirang TV,http://docker.livednow.dpdns.org/li-4gtv-4gtv079/index.m3u8
+CLASSICA 古典樂,http://docker.livednow.dpdns.org/li-4gtv-4gtv059/index.m3u8
+ELTA娛樂,http://docker.livednow.dpdns.org/li-4gtv-4gtv070/index.m3u8
+ELTV生活英語台,http://docker.livednow.dpdns.org/li-litv-longturn20/index.m3u8
+GINX Esports TV,http://docker.livednow.dpdns.org/li-4gtv-4gtv053/index.m3u8
+MEZZO LIVE HD,http://docker.livednow.dpdns.org/li-4gtv-4gtv083/index.m3u8
+Smart知識台,http://docker.livednow.dpdns.org/li-litv-longturn19/index.m3u8
+TRACE Sport Stars,http://docker.livednow.dpdns.org/li-4gtv-4gtv077/index.m3u8
+Trace Urban,http://docker.livednow.dpdns.org/li-4gtv-4gtv082/index.m3u8
+TVBS HD,http://docker.livednow.dpdns.org/li-4gtv-4gtv073/index.m3u8
+TVBS新聞台,http://docker.livednow.dpdns.org/li-4gtv-4gtv072/index.m3u8
+TVBS精采台,http://docker.livednow.dpdns.org/li-4gtv-4gtv067/index.m3u8
+TVBS歡樂台,http://docker.livednow.dpdns.org/li-4gtv-4gtv068/index.m3u8
+VOA 美國之音,http://docker.livednow.dpdns.org/li-litv-ftv03/index.m3u8
+八大精彩,http://docker.livednow.dpdns.org/li-4gtv-4gtv034/index.m3u8
+八大綜藝,http://docker.livednow.dpdns.org/li-4gtv-4gtv039/index.m3u8
+中天亞洲台,http://docker.livednow.dpdns.org/4gtv-4gtv109/index.m3u8
+中天新聞台,http://docker.livednow.dpdns.org/li-4gtv-4gtv009/index.m3u8
+中視,http://docker.livednow.dpdns.org/li-4gtv-4gtv040/index.m3u8
+中視菁采台,http://docker.livednow.dpdns.org/li-4gtv-4gtv064/index.m3u8
+中視經典台,http://docker.livednow.dpdns.org/li-4gtv-4gtv080/index.m3u8
+公視戲劇,http://docker.livednow.dpdns.org/li-4gtv-4gtv042/index.m3u8
+半島國際新聞台,http://docker.livednow.dpdns.org/li-litv-ftv10/index.m3u8
+台視HD,http://docker.livednow.dpdns.org/li-4gtv-4gtv066/index.m3u8
+台視財經台,http://docker.livednow.dpdns.org/4gtv-4gtv056/index.m3u8
+台視新聞台,http://docker.livednow.dpdns.org/li-4gtv-4gtv051/index.m3u8
+台灣戲劇台,http://docker.livednow.dpdns.org/li-litv-longturn22/index.m3u8
+民視HD,http://docker.livednow.dpdns.org/4gtv-4gtv002/index.m3u8
+民視台灣台,http://docker.livednow.dpdns.org/4gtv-4gtv001/index.m3u8
+民視台灣台,http://docker.livednow.dpdns.org/li-4gtv-4gtv001/index.m3u8
+民視旅遊,http://docker.livednow.dpdns.org/li-litv-ftv07/index.m3u8
+民視旅遊,http://docker.livednow.dpdns.org/litv-ftv07/index.m3u8
+民視第一台,http://docker.livednow.dpdns.org/4gtv-4gtv003/index.m3u8
+民視第一台,http://docker.livednow.dpdns.org/li-4gtv-4gtv003/index.m3u8
+民視新聞,http://docker.livednow.dpdns.org/li-litv-ftv13/index.m3u8
+民視新聞,http://docker.livednow.dpdns.org/litv-ftv13/index.m3u8
+民視綜藝,http://docker.livednow.dpdns.org/4gtv-4gtv004/index.m3u8
+民視綜藝,http://docker.livednow.dpdns.org/li-4gtv-4gtv004/index.m3u8
+民視影劇,http://docker.livednow.dpdns.org/li-litv-ftv09/index.m3u8
+民視影劇,http://docker.livednow.dpdns.org/litv-ftv09/index.m3u8
+好消息,http://docker.livednow.dpdns.org/li-litv-ftv16/index.m3u8
+好消息2台,http://docker.livednow.dpdns.org/li-litv-ftv17/index.m3u8
+亞洲旅遊,http://docker.livednow.dpdns.org/li-4gtv-4gtv076/index.m3u8
+東森財經新聞,http://docker.livednow.dpdns.org/li-4gtv-4gtv153/index.m3u8
+東森新聞,http://docker.livednow.dpdns.org/li-4gtv-4gtv152/index.m3u8
+東森購物一台,http://docker.livednow.dpdns.org/4gtv-4gtv102/index.m3u8
+東森購物二台,http://docker.livednow.dpdns.org/4gtv-4gtv103/index.m3u8
+采昌影劇,http://docker.livednow.dpdns.org/li-4gtv-4gtv049/index.m3u8
+非凡商業,http://docker.livednow.dpdns.org/4gtv-4gtv048/index.m3u8
+非凡新聞,http://docker.livednow.dpdns.org/4gtv-4gtv010/index.m3u8
+原住民族電視台,http://docker.livednow.dpdns.org/4gtv-live014/index.m3u8
+時尚運動X,http://docker.livednow.dpdns.org/li-4gtv-4gtv014/index.m3u8
+國會頻道1,http://docker.livednow.dpdns.org/4gtv-4gtv084/index.m3u8
+國會頻道1,http://docker.livednow.dpdns.org/li-4gtv-4gtv084/index.m3u8
+國會頻道2,http://docker.livednow.dpdns.org/4gtv-4gtv085/index.m3u8
+國會頻道2,http://docker.livednow.dpdns.org/li-4gtv-4gtv085/index.m3u8
+第1商業台,http://docker.livednow.dpdns.org/li-4gtv-4gtv104/index.m3u8
+博斯高球I,http://docker.livednow.dpdns.org/litv-longturn05/index.m3u8
+博斯高球II,http://docker.livednow.dpdns.org/litv-longturn06/index.m3u8
+博斯無限I,http://docker.livednow.dpdns.org/litv-longturn10/index.m3u8
+博斯無限II,http://docker.livednow.dpdns.org/litv-longturn13/index.m3u8
+博斯運動I,http://docker.livednow.dpdns.org/litv-longturn07/index.m3u8
+博斯運動II,http://docker.livednow.dpdns.org/litv-longturn08/index.m3u8
+博斯網球,http://docker.livednow.dpdns.org/litv-longturn09/index.m3u8
+博斯魅力,http://docker.livednow.dpdns.org/litv-longturn04/index.m3u8
+智林體育,http://docker.livednow.dpdns.org/li-4gtv-4gtv101/index.m3u8
+華視,http://docker.livednow.dpdns.org/li-4gtv-4gtv041/index.m3u8
+視納華仁紀實頻道,http://docker.livednow.dpdns.org/li-4gtv-4gtv013/index.m3u8
+經典卡通,http://docker.livednow.dpdns.org/4gtv-live022/index.m3u8
+經典電影,http://docker.livednow.dpdns.org/4gtv-live021/index.m3u8
+達文西,http://docker.livednow.dpdns.org/li-4gtv-4gtv018/index.m3u8
+靖天日本,http://docker.livednow.dpdns.org/li-4gtv-4gtv047/index.m3u8
+靖天卡通,http://docker.livednow.dpdns.org/li-4gtv-4gtv044/index.m3u8
+靖天育樂,http://docker.livednow.dpdns.org/li-4gtv-4gtv062/index.m3u8
+靖天映畫,http://docker.livednow.dpdns.org/li-4gtv-4gtv055/index.m3u8
+靖天國際,http://docker.livednow.dpdns.org/li-4gtv-4gtv063/index.m3u8
+靖天資訊,http://docker.livednow.dpdns.org/li-4gtv-4gtv065/index.m3u8
+靖天電影,http://docker.livednow.dpdns.org/li-4gtv-4gtv061/index.m3u8
+靖天戲劇,http://docker.livednow.dpdns.org/li-4gtv-4gtv058/index.m3u8
+靖天歡樂,http://docker.livednow.dpdns.org/li-4gtv-4gtv054/index.m3u8
+靖洋卡通,http://docker.livednow.dpdns.org/li-4gtv-4gtv057/index.m3u8
+靖洋戲劇,http://docker.livednow.dpdns.org/li-4gtv-4gtv045/index.m3u8
+滾動力 Rollor,http://docker.livednow.dpdns.org/4gtv-live012/index.m3u8
+影迷數位紀實台,http://docker.livednow.dpdns.org/li-litv-ftv15/index.m3u8
+影迷數位電影台,http://docker.livednow.dpdns.org/li-4gtv-4gtv011/index.m3u8
+豬哥亮歌廳秀,http://docker.livednow.dpdns.org/4gtv-4gtv006/index.m3u8
+豬哥亮歌廳秀,http://docker.livednow.dpdns.org/li-4gtv-4gtv006/index.m3u8
+寰宇財經,http://docker.livednow.dpdns.org/li-4gtv-4gtv158/index.m3u8
+寰宇新聞,http://docker.livednow.dpdns.org/li-litv-longturn14/index.m3u8
+寰宇台灣,http://docker.livednow.dpdns.org/li-4gtv-4gtv156/index.m3u8
+龍華日韓,http://docker.livednow.dpdns.org/li-litv-longturn11/index.m3u8
+龍華卡通,http://docker.livednow.dpdns.org/li-litv-longturn01/index.m3u8
+龍華洋片,http://docker.livednow.dpdns.org/li-litv-longturn02/index.m3u8
+龍華偶像,http://docker.livednow.dpdns.org/li-litv-longturn12/index.m3u8
+龍華經典,http://docker.livednow.dpdns.org/li-litv-longturn21/index.m3u8
+龍華電影,http://docker.livednow.dpdns.org/li-litv-longturn03/index.m3u8
+龍華戲劇,http://docker.livednow.dpdns.org/li-litv-longturn18/index.m3u8
+戲劇免費看1台,http://docker.livednow.dpdns.org/4gtv-live010/index.m3u8
+鏡新聞,http://docker.livednow.dpdns.org/li-4gtv-4gtv075/index.m3u8
+
