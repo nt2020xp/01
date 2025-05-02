@@ -1,4 +1,4 @@
-http://docker.livednow.dpdns.org/?type=txt
+https://docker.livednow.dpdns.org/?type=txt
 
 http://docker.livednow.dpdns.org/?type=m3u
 
