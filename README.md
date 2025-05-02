@@ -7,23 +7,6 @@ https://fanmingming.com/txt?url=http://docker.livednow.dpdns.org/?type=m3u
 
 "ads": ["static-mozai.4gtv.tv","mozai.4gtv.tv"]
 
-
-https://fanmingming.com/txt?url=https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/live.m3u
-
-https://fanmingming.com/txt?url=https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/123.m3u
-
-=======================================
-
-不会部署，我都是看这个的，你试试
-
-m3u
-
-http://www.livednow.dpdns.org/?type=m3u
-
-txt
-
-http://www.livednow.dpdns.org/?type=txt
-
 SMT影视直播订阅(需翻)：
 
 https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/smt.json
@@ -31,38 +14,9 @@ https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/m
 
 :50007/4gtv-4gtv152/index.m3u8
 
-https://github.com/a2256569/tv/blob/4b92fbef153c6bf5e44487b7683bb6bce47125d3/4gtv.txt
-
-https://raw.githubusercontent.com/a2256569/tv/4b92fbef153c6bf5e44487b7683bb6bce47125d3/4gtv.txt
-
-https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/1.js
-
-http://a/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv1
-
-https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/1.js?id=https://tv.cctv.com/live/cctv1
-
 自然傳奇  https://tv.cctv.com/lm/zrcq/index.shtml?spm=C28340.PUdOXeMUrKth.S99516.146
 
-====================
-
-
 ===================================
-
-https://www.022y.cn/?id=133
-
-整理好的ITV列表：https://gcore.jsdelivr.net/gh/sln654360/itv/itv.txt
-
-itv订阅地址：https://gcore.jsdelivr.net/gh/sln654360/itv/itv3.m3u
-
-
-直播源  https://live.iptv365.org/live.txt
-
-4gtv+ofiii http://103.251.89.243:50007/?type=txt
-
-==============
-
-"static-mozai.4gtv.tv","mozai.4gtv.tv",
-
 
 echo "litv頻道,#genre#\n";
 
@@ -70,54 +24,9 @@ echo "\n";
 
 echo "$value[3],","$base_url/tv.php?token=" . urlencode($SECRET_TOKEN) . "&id=" . urlencode($key) . "\n";
 
-=================
-
-
-
-=========
-
-"rules":[
-{"name":"ofiii","hosts": ["www.ofiii.com"],"script": ["const play=document.getElementsByClassName("play_icon")[0];const event=new MouseEvent("click",{bubbles:!0,cancelable:!0,view:window,screenX:100,screenY:100,clientX:50,clientY:50,button:0,shiftKey:!1,ctrlKey:!1,altKey:!1,metaKey:!1,modifierState:0});play.dispatchEvent(event);"]},
-
-=======================
-
-东森幼幼 Yoyo TV,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/yoyo_twn/playlist.m3u8
-
-108.181.32.169
-
-========
-
-Host=cache.ott.*.itv.cmvideo.cn=39.135.132.221
-
-Decoder=3
-
-================
-
-tvbox解密 https://ua.fongmi.eu.org
-
-===================
-
-39.135.132.221 cache.ott.ystenlive.itv.cmvideo.cn
-
-39.135.132.221 cache.ott.bestlive.itv.cmvideo.cn
-
-39.135.132.221 cache.ott.wasulive.itv.cmvideo.cn
-
-39.135.132.221 cache.ott.fifalive.itv.cmvideo.cn
-
-39.135.132.221 cache.ott.hnbblive.itv.cmvideo.cn
-
 ============
 
-PG本地包（Sync From Telegram）
-
-同步更新在线接口
-
-http://www.fish2018.ip-ddns.com/p/jsm.json
-
-http://www2.fish2018.ip-ddns.com/p/jsm.json
-
-http://www3.fish2018.ip-ddns.com/p/jsm.json
+tvbox解密 https://ua.fongmi.eu.org
 
 ===========
 
@@ -131,25 +40,11 @@ http://www3.fish2018.ip-ddns.com/p/jsm.json
 
 ===============================================
 
-"static-mozai.4gtv.tv","mozai.4gtv.tv",
-
-https://fanmingming.com/txt?url=http://5678.koyeb.app/tv.m3u
-
-https://fanmingming.com/txt?url=https://live.fanmingming.cn/tv/m3u/ipv6.m3u
-
-https://fanmingming.com/txt?url=https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u
-
 蜂蜜影視或 ok 影視 點播 直播
 
 https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
 
-=======================
-
-itv 節目列表
-
-https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/ITV.txt
-
-==============================
+======================
 
 央視 https://github.com/qist/tvbox/blob/master/jsm.json
 
@@ -160,10 +55,6 @@ https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/ITV.txt
 "ads": [ "static-mozai.4gtv.tv","mozai.4gtv.tv"
 
 tvbox解密 https://ua.fongmi.eu.org
-
-====================
-
-"ads":["static-mozai.4gtv.tv","mozai.4gtv.tv"]}
 
 黑鳥直播源列表格式轉換 https://guihet.com/tvlistconvert.html
 
