@@ -1,3 +1,16 @@
+{
+  "lives": [
+    {
+      "name": "SMT直播(python)",
+      "type": 3,
+      "api": "./live_smt.py",
+      "ext": {}
+    }
+  ]
+}
+
+========
+
 smart https://smart.pendy.dpdns.org/m3u/Smart.m3u
 
 
