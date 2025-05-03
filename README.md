@@ -1,6 +1,29 @@
 
 judy  https://smart.pendy.dpdns.org/judy.json
 
+===========
+{
+     "lives": [
+  {
+    "name": "4GTV - 台湾",
+    "url": "http://docker.livednow.dpdns.org/?type=m3u",
+    "ua": "judy/5.2.1"
+  },
+  {
+    "name": "香港视频 - 安卓",
+    "url": "https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u",
+    "ua": "judy/5.2.1"
+  },
+  {
+    "name": "「咪咕」体育",
+    "url": "https://smart.pendy.dpdns.org/m3u/judy.m3u",
+    "ua": "judy/5.2.1"
+  }
+]
+}
+
+===============
+
 https://fanmingming.com/txt?url=https://www.pantxt.top/f/Z4kHQ/1.m3u
 
 
