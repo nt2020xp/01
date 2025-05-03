@@ -1,6 +1,19 @@
 {
   "lives": [
     {
+      "name": "LITV直播(python)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_litv.py",
+      "ext": {}
+    }
+  ]
+}
+
+≠==========
+
+{
+  "lives": [
+    {
       "name": "SMT直播(python)",
       "type": 3,
       "api": "./live_smt.py",
