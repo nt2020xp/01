@@ -1,4 +1,4 @@
-[https://fanmingming.com/txt?url=https://www.pantxt.top/f/Z4kHQ/1.m3u
+https://fanmingming.com/txt?url=https://www.pantxt.top/f/Z4kHQ/1.m3u
 
 
 http://docker.livednow.dpdns.org/?type=m3u
