@@ -1,4 +1,6 @@
 
+judy  https://smart.pendy.dpdns.org/judy.json
+
 https://fanmingming.com/txt?url=https://www.pantxt.top/f/Z4kHQ/1.m3u
 
 
