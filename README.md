@@ -1,3 +1,5 @@
+serv00直播,https://a90120.serv00.net/anbox/p3plink.txt
+
 https://github.com/alantang1977/X/blob/8f8026a1ace0ec525d6042fe6c134d508e0c4c24/X.json
 ===========
 
