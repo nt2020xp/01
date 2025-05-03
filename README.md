@@ -1,5 +1,8 @@
+smart https://smart.pendy.dpdns.org/m3u/Smart.m3u
+
 
 judy  https://smart.pendy.dpdns.org/judy.json
+
 
 ===========
 {
