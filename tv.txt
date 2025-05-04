@@ -26,9 +26,6 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 高雄蓮池潭,https://www.youtube.com/watch?v=BnPoNatG-HE
 淡水漁人碼頭,https://www.youtube.com/watch?v=xwAWSh35uuw
 
-北桃園機場,https://www.youtube.com/watch?v=wWEnxWA7nnY
-南桃園機場,https://www.youtube.com/watch?v=y3_x8el5ZJY
-桃園機場,https://www.youtube.com/watch?v=q8Bb4CwpECQ
 2財經,p3p://167.114.175.6:55331/5fe15a4400093f55773aac0c576366b8
 9紀錄,p3p://167.114.175.6:55331/600b6ba2000d52801b8cbfda6cd319a2
 10科教,p3p://167.114.175.6:55331/600b6e71000738431b97b6e5675e67a4
