@@ -82,6 +82,8 @@ CatchPlay電影M,udp://@230.1.2.37:11111
 台視M,udp://@224.1.4.8:11111
 台視M,udp://@230.1.2.227:11111
 
+東森幼幼,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/yoyo_twn/playlist.m3u8
+
 我們這一家,https://www.youtube.com/watch?v=WHednLn-HjA
 新哆啦A夢,https://www.youtube.com/watch?v=dgAEF2ppKg8
 
