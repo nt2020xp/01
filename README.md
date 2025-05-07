@@ -1,4 +1,5 @@
 
+webview  https://ghfast.top/https://raw.githubusercontent.com/yaoxieyoulei/YYKM_assets/main/webview.m3u
 
 serv00直播,https://a90120.serv00.net/anbox/p3plink.txt
 
