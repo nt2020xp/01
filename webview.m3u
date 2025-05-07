@@ -1,5 +1,4 @@
 央視,#genre#
-parse=1
 
 CCTV4K,webview://https://www.yangshipin.cn/tv/home?pid=600002264
 CCTV8K,webview://https://www.yangshipin.cn/tv/home?pid=600156816
@@ -26,7 +25,6 @@ CCTV8K,webview://https://www.yangshipin.cn/tv/home?pid=600156816
 
 
 衛視,#genre#
-parse=1
 
 江蘇衛視,webview://https://yangshipin.cn/tv/home?pid=600002521
 浙江衛視,webview://https://yangshipin.cn/tv/home?pid=600002520
