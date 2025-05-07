@@ -1,3 +1,5 @@
+每日更新   https://github.com/kimwang1978/collect-tv-txt/blob/main/live_lite.txt
+
 m3utxt  http://sankei.mo/z.html
 
 
