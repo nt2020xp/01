@@ -72,7 +72,7 @@ webview://https://yangshipin.cn/tv/home?pid=600002532
 webview://https://yangshipin.cn/tv/home?pid=600002503
 #EXTINF:-1 tvg-name="西藏衛視" tvg-logo="https://live.fanmingming.cn/tv/西藏卫视.png" group-title="衛視",西藏衛視
 webview://https://yangshipin.cn/tv/home?pid=600190403
-#EXTINF:-1 tvg-name="兵團衛視" tvg-logo="https://live.fanmingming.cn/tv/兵團衛視.png" group-title="衛視",兵團衛視
+#EXTINF:-1 tvg-name="兵團衛視" tvg-logo="https://live.fanmingming.cn/tv/兵团卫视.png" group-title="衛視",兵團衛視
 webview://https://yangshipin.cn/tv/home?pid=600193252
 #EXTINF:-1 tvg-name="東南衛視" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="衛視",東南衛視
 webview://https://yangshipin.cn/tv/home?pid=600002484
@@ -96,7 +96,7 @@ webview://https://yangshipin.cn/tv/home?pid=600002481
 webview://https://yangshipin.cn/tv/home?pid=600002508
 #EXTINF:-1 tvg-name="雲南衛視" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="衛視",雲南衛視
 webview://https://yangshipin.cn/tv/home?pid=600190402
-#EXTINF:-1 tvg-name="新疆衛視" tvg-logo="https://live.fanmingming.cn/tv/新疆衛視.png" group-title="衛視",新疆衛視
+#EXTINF:-1 tvg-name="新疆衛視" tvg-logo="https://live.fanmingming.cn/tv/新疆卫视.png" group-title="衛視",新疆衛視
 webview://https://yangshipin.cn/tv/home?pid=600152138
 #EXTINF:-1 tvg-name="寧夏衛視" tvg-logo="https://live.fanmingming.cn/tv/宁夏卫视.png" group-title="衛視",寧夏衛視
 webview://https://yangshipin.cn/tv/home?pid=600190737
