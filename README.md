@@ -1,3 +1,5 @@
+m3utxt  http://sankei.mo/z.html
+
 
 webview  https://ghfast.top/https://raw.githubusercontent.com/yaoxieyoulei/YYKM_assets/main/webview.m3u
 
