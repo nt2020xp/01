@@ -108,8 +108,9 @@ webview://https://yangshipin.cn/tv/home?pid=600002485
 webview://https://yangshipin.cn/tv/home?pid=600002505
 #EXTINF:-1 tvg-name="内蒙古衛視" tvg-logo="https://live.fanmingming.cn/tv/内蒙古衛視.png" group-title="衛視",内蒙古衛視
 webview://https://yangshipin.cn/tv/home?pid=600190401
-#EXTINF:-1 tvg-name="黑龍江衛視webview://https://yangshipin.cn/tv/home?pid=600002498" tvg-logo="https://live.fanmingming.cn/tv/黑龍江衛視webview://https://yangshipin.cn/tv/home?pid=600002498.png" group-title="衛視",黑龍江衛視webview://https://yangshipin.cn/tv/home?pid=600002498
-undefined
+#EXTINF:-1 tvg-name="黑龍江衛視" tvg-logo="https://live.fanmingming.cn/tv/黑龍江衛視.png" group-title="衛視",黑龍江衛視
+webview://https://yangshipin.cn/tv/home?pid=600002498
+
 #EXTINF:-1 tvg-name="CCTV風雲劇場" tvg-logo="https://live.fanmingming.cn/tv/CCTV風雲劇場.png" group-title="衛視",CCTV風雲劇場
 webview://https://yangshipin.cn/tv/home?pid=600099658
 #EXTINF:-1 tvg-name="CCTV第一劇場" tvg-logo="https://live.fanmingming.cn/tv/CCTV第一劇場.png" group-title="衛視",CCTV第一劇場
