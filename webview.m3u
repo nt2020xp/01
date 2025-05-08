@@ -111,9 +111,6 @@ webview://https://yangshipin.cn/tv/home?pid=600190401
 #EXTINF:-1 tvg-name="黑龍江衛視" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="衛視",黑龍江衛視
 webview://https://yangshipin.cn/tv/home?pid=600002498
 
-
-#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
-
 #EXTINF:-1 tvg-name="70 東森新聞台" tvg-logo="webview://https://live.fanmingming.cn/tv/70 東森新聞台.png" group-title="4gtv",70 東森新聞台
 webview://https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292
 #EXTINF:-1 tvg-name="61 民視新聞台" tvg-logo="webview://https://live.fanmingming.cn/tv/61 民視新聞台.png" group-title="4gtv",61 民視新聞台
@@ -177,9 +174,6 @@ webview://https://www.4gtv.tv/channel/4gtv-4gtv054?set=1&ch=119
 webview://https://www.4gtv.tv/channel/4gtv-4gtv057?set=1&ch=59
 #EXTINF:-1 tvg-name="104 靖洋戲劇台" tvg-logo="webview://https://live.fanmingming.cn/tv/104 靖洋戲劇台.png" group-title="4gtv",104 靖洋戲劇台
 webview://https://www.4gtv.tv/channel/4gtv-4gtv045?set=1&ch=118
-
-
-
 
 #EXTINF:-1 tvg-name="1 amc電影台" tvg-logo="webview://https://live.fanmingming.cn/tv/1 amc電影台.png" group-title="4gtv",1 amc電影台
 webview://https://www.4gtv.tv/channel/4gtv-4gtv017?set=1&ch=39
