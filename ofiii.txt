@@ -1,0 +1,31 @@
+ofiii,#genre#
+
+8 台視,webview://https://www.ofiii.com/channel/watch/4gtv-4gtv066
+10 中視,webview://https://www.ofiii.com/channel/watch/4gtv-4gtv040
+12 華視,webview://https://www.ofiii.com/channel/watch/4gtv-4gtv041
+14 好消息2台,webview://https://www.ofiii.com/channel/watch/litv-ftv17
+15 好消息,webview://https://www.ofiii.com/channel/watch/litv-ftv16
+20 ELTV生活英語台,webview://https://www.ofiii.com/channel/watch/litv-longturn20
+21 龍華卡通台,webview://https://www.ofiii.com/channel/watch/litv-longturn01
+34 亞洲旅遊台,webview://https://www.ofiii.com/channel/watch/4gtv-4gtv076
+37 Smart知識台,webview://https://www.ofiii.com/channel/watch/litv-longturn19
+40 龍華戲劇台,webview://https://www.ofiii.com/channel/watch/litv-longturn18
+41 台灣戲劇台,webview://https://www.ofiii.com/channel/watch/litv-longturn22
+43 東森購物1台,webview://https://www.ofiii.com/channel/watch/4gtv-4gtv102
+45 龍華偶像台,webview://https://www.ofiii.com/channel/watch/litv-longturn12
+46 龍華日韓台,webview://https://www.ofiii.com/channel/watch/litv-longturn11
+49 東森購物2台,webview://https://www.ofiii.com/channel/watch/4gtv-4gtv103
+52 華視新聞,webview://https://www.ofiii.com/channel/watch/4gtv-4gtv052
+54 三立新聞iNEWS,webview://https://www.ofiii.com/channel/watch/iNEWS
+57 寰宇財經台,webview://https://www.ofiii.com/channel/watch/4gtv-4gtv158
+59 台視新聞,webview://https://www.ofiii.com/channel/watch/4gtv-4gtv051
+60 中視新聞,webview://https://www.ofiii.com/channel/watch/4gtv-4gtv074
+61 中天新聞台,webview://https://www.ofiii.com/channel/watch/4gtv-4gtv009
+62 寰宇新聞台灣台,webview://https://www.ofiii.com/channel/watch/4gtv-4gtv156
+63 寰宇新聞台,webview://https://www.ofiii.com/channel/watch/litv-longturn14
+65 第1商業台,webview://https://www.ofiii.com/channel/watch/4gtv-4gtv104
+66 國會頻道1台,webview://https://www.ofiii.com/channel/watch/4gtv-4gtv084
+67 國會頻道2台,webview://https://www.ofiii.com/channel/watch/4gtv-4gtv085
+69 龍華經典台,webview://https://www.ofiii.com/channel/watch/litv-longturn21
+71 龍華電影台,webview://https://www.ofiii.com/channel/watch/litv-longturn03
+72 龍華洋片台,webview://https://www.ofiii.com/channel/watch/litv-longturn02
