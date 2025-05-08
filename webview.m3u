@@ -133,6 +133,9 @@ webview://https://www.4gtv.tv/channel/litv-longturn14?set=1&ch=36
 webview://https://www.4gtv.tv/channel/4gtv-4gtv156?set=1&ch=280
 #EXTINF:-1 tvg-name="110 寰宇財經台" tvg-logo="webview://https://live.fanmingming.cn/tv/110 寰宇財經台.png" group-title="4gtv",110 寰宇財經台
 webview://https://www.4gtv.tv/channel/4gtv-4gtv158?set=1&ch=281
+#EXTINF:-1 tvg-name="115 鏡新聞" tvg-logo="webview://https://live.fanmingming.cn/tv/115 鏡新聞.png" group-title="4gtv",115 鏡新聞
+webview://https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268
+
 
 #EXTINF:-1 tvg-name="83 華視" tvg-logo="webview://https://live.fanmingming.cn/tv/83 華視.png" group-title="4gtv",83 華視
 webview://https://www.4gtv.tv/channel/4gtv-4gtv041?set=1&ch=6
@@ -177,6 +180,30 @@ webview://https://www.4gtv.tv/channel/4gtv-4gtv045?set=1&ch=118
 
 #EXTINF:-1 tvg-name="1 amc電影台" tvg-logo="webview://https://live.fanmingming.cn/tv/1 amc電影台.png" group-title="4gtv",1 amc電影台
 webview://https://www.4gtv.tv/channel/4gtv-4gtv017?set=1&ch=39
+#EXTINF:-1 tvg-name="108 影迷數位電影台" tvg-logo="webview://https://live.fanmingming.cn/tv/108 影迷數位電影台.png" group-title="4gtv",108 影迷數位電影台
+webview://https://www.4gtv.tv/channel/4gtv-4gtv011?set=1&ch=40
+
+#EXTINF:-1 tvg-name="51 中視菁采台" tvg-logo="webview://https://live.fanmingming.cn/tv/51 中視菁采台.png" group-title="4gtv",51 中視菁采台
+webview://https://www.4gtv.tv/channel/4gtv-4gtv064?set=1&ch=123
+#EXTINF:-1 tvg-name="53 中視經典台" tvg-logo="webview://https://live.fanmingming.cn/tv/53 中視經典台.png" group-title="4gtv",53 中視經典台
+webview://https://www.4gtv.tv/channel/4gtv-4gtv080?set=1&ch=124
+
+#EXTINF:-1 tvg-name="38 TVBS精采台" tvg-logo="webview://https://live.fanmingming.cn/tv/38 TVBS精采台.png" group-title="4gtv",38 TVBS精采台
+webview://https://www.4gtv.tv/channel/4gtv-4gtv067?set=1&ch=227
+#EXTINF:-1 tvg-name="39 TVBS綜藝台" tvg-logo="webview://https://live.fanmingming.cn/tv/39 TVBS綜藝台.png" group-title="4gtv",39 TVBS綜藝台
+webview://https://www.4gtv.tv/channel/4gtv-live087?set=1&ch=284
+#EXTINF:-1 tvg-name="40 TVBS歡樂台" tvg-logo="webview://https://live.fanmingming.cn/tv/40 TVBS歡樂台.png" group-title="4gtv",40 TVBS歡樂台
+webview://https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184
+#EXTINF:-1 tvg-name="36 TVBS台劇台" tvg-logo="webview://https://live.fanmingming.cn/tv/36 TVBS台劇台.png" group-title="4gtv",36 TVBS台劇台
+webview://https://www.4gtv.tv/channel/4gtv-live088?set=1&ch=285
+#EXTINF:-1 tvg-name="37 TVBS新聞" tvg-logo="webview://https://live.fanmingming.cn/tv/37 TVBS新聞.png" group-title="4gtv",37 TVBS新聞
+webview://https://www.4gtv.tv/channel/4gtv-4gtv072?set=1&ch=291
+
+#EXTINF:-1 tvg-name="15 History 歷史頻道" tvg-logo="webview://https://live.fanmingming.cn/tv/15 History 歷史頻道.png" group-title="4gtv",15 History 歷史頻道
+webview://https://www.4gtv.tv/channel/4gtv-live026?set=1&ch=214
+#EXTINF:-1 tvg-name="75 采昌影劇台" tvg-logo="webview://https://live.fanmingming.cn/tv/75 采昌影劇台.png" group-title="4gtv",75 采昌影劇台
+webview://https://www.4gtv.tv/channel/4gtv-4gtv049?set=1&ch=25
+
 #EXTINF:-1 tvg-name="2 ARIRANG阿里郎頻道" tvg-logo="webview://https://live.fanmingming.cn/tv/2 ARIRANG阿里郎頻道.png" group-title="4gtv",2 ARIRANG阿里郎頻道
 webview://https://www.4gtv.tv/channel/4gtv-4gtv079?set=1&ch=189
 #EXTINF:-1 tvg-name="3 Bloomberg TV" tvg-logo="webview://https://live.fanmingming.cn/tv/3 Bloomberg TV.png" group-title="4gtv",3 Bloomberg TV
@@ -203,8 +230,7 @@ webview://https://www.4gtv.tv/channel/4gtv-live011?set=1&ch=274
 webview://https://www.4gtv.tv/channel/4gtv-4gtv053?set=1&ch=179
 #EXTINF:-1 tvg-name="14 Global Trekker" tvg-logo="webview://https://live.fanmingming.cn/tv/14 Global Trekker.png" group-title="4gtv",14 Global Trekker
 webview://https://www.4gtv.tv/channel/4gtv-live112?set=1&ch=252
-#EXTINF:-1 tvg-name="15 History 歷史頻道" tvg-logo="webview://https://live.fanmingming.cn/tv/15 History 歷史頻道.png" group-title="4gtv",15 History 歷史頻道
-webview://https://www.4gtv.tv/channel/4gtv-live026?set=1&ch=214
+
 #EXTINF:-1 tvg-name="16 HITS頻道" tvg-logo="webview://https://live.fanmingming.cn/tv/16 HITS頻道.png" group-title="4gtv",16 HITS頻道
 webview://https://www.4gtv.tv/channel/4gtv-live620?set=1&ch=186
 #EXTINF:-1 tvg-name="17 INULTRA" tvg-logo="webview://https://live.fanmingming.cn/tv/17 INULTRA.png" group-title="4gtv",17 INULTRA
@@ -245,16 +271,8 @@ webview://https://www.4gtv.tv/channel/4gtv-4gtv082?set=1&ch=78
 webview://https://www.4gtv.tv/channel/4gtv-live122?set=1&ch=178
 #EXTINF:-1 tvg-name="35 TVBS" tvg-logo="webview://https://live.fanmingming.cn/tv/35 TVBS.png" group-title="4gtv",35 TVBS
 webview://https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=183
-#EXTINF:-1 tvg-name="36 TVBS台劇台" tvg-logo="webview://https://live.fanmingming.cn/tv/36 TVBS台劇台.png" group-title="4gtv",36 TVBS台劇台
-webview://https://www.4gtv.tv/channel/4gtv-live088?set=1&ch=285
-#EXTINF:-1 tvg-name="37 TVBS新聞" tvg-logo="webview://https://live.fanmingming.cn/tv/37 TVBS新聞.png" group-title="4gtv",37 TVBS新聞
-webview://https://www.4gtv.tv/channel/4gtv-4gtv072?set=1&ch=291
-#EXTINF:-1 tvg-name="38 TVBS精采台" tvg-logo="webview://https://live.fanmingming.cn/tv/38 TVBS精采台.png" group-title="4gtv",38 TVBS精采台
-webview://https://www.4gtv.tv/channel/4gtv-4gtv067?set=1&ch=227
-#EXTINF:-1 tvg-name="39 TVBS綜藝台" tvg-logo="webview://https://live.fanmingming.cn/tv/39 TVBS綜藝台.png" group-title="4gtv",39 TVBS綜藝台
-webview://https://www.4gtv.tv/channel/4gtv-live087?set=1&ch=284
-#EXTINF:-1 tvg-name="40 TVBS歡樂台" tvg-logo="webview://https://live.fanmingming.cn/tv/40 TVBS歡樂台.png" group-title="4gtv",40 TVBS歡樂台
-webview://https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184
+
+
 #EXTINF:-1 tvg-name="41 VOA美國之音" tvg-logo="webview://https://live.fanmingming.cn/tv/41 VOA美國之音.png" group-title="4gtv",41 VOA美國之音
 webview://https://www.4gtv.tv/channel/litv-ftv03?set=1&ch=86
 #EXTINF:-1 tvg-name="42 人間衛視" tvg-logo="webview://https://live.fanmingming.cn/tv/42 人間衛視.png" group-title="4gtv",42 人間衛視
@@ -272,11 +290,7 @@ webview://https://www.4gtv.tv/channel/4gtv-live106?set=1&ch=230
 webview://https://www.4gtv.tv/channel/4gtv-live007?set=1&ch=209
 
 
-#EXTINF:-1 tvg-name="51 中視菁采台" tvg-logo="webview://https://live.fanmingming.cn/tv/51 中視菁采台.png" group-title="4gtv",51 中視菁采台
-webview://https://www.4gtv.tv/channel/4gtv-4gtv064?set=1&ch=123
 
-#EXTINF:-1 tvg-name="53 中視經典台" tvg-logo="webview://https://live.fanmingming.cn/tv/53 中視經典台.png" group-title="4gtv",53 中視經典台
-webview://https://www.4gtv.tv/channel/4gtv-4gtv080?set=1&ch=124
 #EXTINF:-1 tvg-name="54 公視戲劇" tvg-logo="webview://https://live.fanmingming.cn/tv/54 公視戲劇.png" group-title="4gtv",54 公視戲劇
 webview://https://www.4gtv.tv/channel/4gtv-4gtv042?set=1&ch=7
 #EXTINF:-1 tvg-name="55 半島國際新聞台" tvg-logo="webview://https://live.fanmingming.cn/tv/55 半島國際新聞台.png" group-title="4gtv",55 半島國際新聞台
@@ -313,8 +327,7 @@ webview://https://www.4gtv.tv/channel/4gtv-live046?set=1&ch=174
 webview://https://www.4gtv.tv/channel/4gtv-live048?set=1&ch=287
 #EXTINF:-1 tvg-name="74 東森購物四台" tvg-logo="webview://https://live.fanmingming.cn/tv/74 東森購物四台.png" group-title="4gtv",74 東森購物四台
 webview://https://www.4gtv.tv/channel/4gtv-live049?set=1&ch=286
-#EXTINF:-1 tvg-name="75 采昌影劇台" tvg-logo="webview://https://live.fanmingming.cn/tv/75 采昌影劇台.png" group-title="4gtv",75 采昌影劇台
-webview://https://www.4gtv.tv/channel/4gtv-4gtv049?set=1&ch=25
+
 #EXTINF:-1 tvg-name="76 金光布袋戲" tvg-logo="webview://https://live.fanmingming.cn/tv/76 金光布袋戲.png" group-title="4gtv",76 金光布袋戲
 webview://https://www.4gtv.tv/channel/4gtv-live144?set=1&ch=236
 #EXTINF:-1 tvg-name="77 客家電視台" tvg-logo="webview://https://live.fanmingming.cn/tv/77 客家電視台.png" group-title="4gtv",77 客家電視台
@@ -353,8 +366,7 @@ webview://https://www.4gtv.tv/channel/4gtv-live012?set=1&ch=249
 webview://https://www.4gtv.tv/channel/4gtv-live024?set=1&ch=204
 #EXTINF:-1 tvg-name="107 影迷數位紀實台" tvg-logo="webview://https://live.fanmingming.cn/tv/107 影迷數位紀實台.png" group-title="4gtv",107 影迷數位紀實台
 webview://https://www.4gtv.tv/channel/litv-ftv15?set=1&ch=445
-#EXTINF:-1 tvg-name="108 影迷數位電影台" tvg-logo="webview://https://live.fanmingming.cn/tv/108 影迷數位電影台.png" group-title="4gtv",108 影迷數位電影台
-webview://https://www.4gtv.tv/channel/4gtv-4gtv011?set=1&ch=40
+
 #EXTINF:-1 tvg-name="109 豬哥亮歌廳秀" tvg-logo="webview://https://live.fanmingming.cn/tv/109 豬哥亮歌廳秀.png" group-title="4gtv",109 豬哥亮歌廳秀
 webview://https://www.4gtv.tv/channel/4gtv-4gtv006?set=1&ch=113
 
@@ -362,5 +374,3 @@ webview://https://www.4gtv.tv/channel/4gtv-4gtv006?set=1&ch=113
 webview://https://www.4gtv.tv/channel/4gtv-live010?set=1&ch=270
 #EXTINF:-1 tvg-name="114 韓國娛樂台 KMTV" tvg-logo="webview://https://live.fanmingming.cn/tv/114 韓國娛樂台 KMTV.png" group-title="4gtv",114 韓國娛樂台 KMTV
 webview://https://www.4gtv.tv/channel/4gtv-4gtv016?set=1&ch=446
-#EXTINF:-1 tvg-name="115 鏡電視新聞台" tvg-logo="webview://https://live.fanmingming.cn/tv/115 鏡電視新聞台.png" group-title="4gtv",115 鏡電視新聞台
-webview://https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268
