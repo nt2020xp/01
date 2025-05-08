@@ -37,7 +37,7 @@ TRACE Urban,https://www.4gtv.tv/channel/4gtv-4gtv082?set=1&ch=78
 TV5MONDE STYLE HD 生活時尚,https://www.4gtv.tv/channel/4gtv-live122?set=1&ch=178  
 TVBS,https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=183  
 TVBS台劇台,https://www.4gtv.tv/channel/4gtv-live088?set=1&ch=285  
-TVBS新聞,https://www.4gtv.tv/channel/4gtv-4gtv072?set=1&ch=291  
+TVBS新聞台,https://www.4gtv.tv/channel/4gtv-4gtv072?set=1&ch=291  
 TVBS精采台,https://www.4gtv.tv/channel/4gtv-4gtv067?set=1&ch=227  
 TVBS綜藝台,https://www.4gtv.tv/channel/4gtv-live087?set=1&ch=284  
 TVBS歡樂台,https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184  
@@ -103,7 +103,7 @@ VOA美國之音,https://www.4gtv.tv/channel/litv-ftv03?set=1&ch=86
 靖天綜合台,https://www.4gtv.tv/channel/4gtv-4gtv046?set=1&ch=21  
 靖天戲劇台,https://www.4gtv.tv/channel/4gtv-4gtv058?set=1&ch=116  
 靖天歡樂台,https://www.4gtv.tv/channel/4gtv-4gtv054?set=1&ch=119  
-靖洋卡通Nice Bingo,https://www.4gtv.tv/channel/4gtv-4gtv057?set=1&ch=59  
+靖洋卡通台,https://www.4gtv.tv/channel/4gtv-4gtv057?set=1&ch=59  
 靖洋戲劇台,https://www.4gtv.tv/channel/4gtv-4gtv045?set=1&ch=118  
 滾動力rollor,https://www.4gtv.tv/channel/4gtv-live012?set=1&ch=249  
 精選動漫台,https://www.4gtv.tv/channel/4gtv-live024?set=1&ch=204  
