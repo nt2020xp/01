@@ -111,9 +111,3 @@ webview://https://yangshipin.cn/tv/home?pid=600190401
 #EXTINF:-1 tvg-name="黑龍江衛視" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="衛視",黑龍江衛視
 webview://https://yangshipin.cn/tv/home?pid=600002498
 
-#EXTINF:-1 tvg-name="CCTV風雲劇場" tvg-logo="https://live.fanmingming.cn/tv/风云剧场.png" group-title="衛視",CCTV風雲劇場
-webview://https://yangshipin.cn/tv/home?pid=600099658
-#EXTINF:-1 tvg-name="CCTV第一劇場" tvg-logo="https://live.fanmingming.cn/tv/第一剧场.png" group-title="衛視",CCTV第一劇場
-webview://https://yangshipin.cn/tv/home?pid=600099655
-#EXTINF:-1 tvg-name="CCTV懷舊劇場" tvg-logo="https://live.fanmingming.cn/tv/怀旧剧场.png" group-title="衛視",CCTV懷舊劇場
-webview://https://yangshipin.cn/tv/home?pid=600099620
