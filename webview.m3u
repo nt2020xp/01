@@ -141,6 +141,13 @@ https://www.4gtv.tv/channel/4gtv-live120?set=1&ch=237
 #EXTINF:-1 tvg-name="116 霹靂布袋戲" tvg-logo="https://live.fanmingming.cn/tv/116 霹靂布袋戲.png" group-title="4gtv",116 霹靂布袋戲
 https://www.4gtv.tv/channel/4gtv-live145?set=1&ch=301
 
+#EXTINF:-1 tvg-name="83 華視" tvg-logo="https://live.fanmingming.cn/tv/83 華視.png" group-title="4gtv",83 華視
+https://www.4gtv.tv/channel/4gtv-4gtv041?set=1&ch=6
+#EXTINF:-1 tvg-name="50 中視" tvg-logo="https://live.fanmingming.cn/tv/50 中視.png" group-title="4gtv",50 中視
+https://www.4gtv.tv/channel/4gtv-4gtv040?set=1&ch=4
+#EXTINF:-1 tvg-name="57 民視" tvg-logo="https://live.fanmingming.cn/tv/57 民視.png" group-title="4gtv",57 民視
+https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3
+
 #EXTINF:-1 tvg-name="93 靖天日本台" tvg-logo="https://live.fanmingming.cn/tv/93 靖天日本台.png" group-title="4gtv",93 靖天日本台
 https://www.4gtv.tv/channel/4gtv-4gtv047?set=1&ch=22
 #EXTINF:-1 tvg-name="94 靖天卡通台" tvg-logo="https://live.fanmingming.cn/tv/94 靖天卡通台.png" group-title="4gtv",94 靖天卡通台
@@ -263,8 +270,7 @@ https://www.4gtv.tv/channel/4gtv-live106?set=1&ch=230
 #EXTINF:-1 tvg-name="48 大愛電視" tvg-logo="https://live.fanmingming.cn/tv/48 大愛電視.png" group-title="4gtv",48 大愛電視
 https://www.4gtv.tv/channel/4gtv-live007?set=1&ch=209
 
-#EXTINF:-1 tvg-name="50 中視" tvg-logo="https://live.fanmingming.cn/tv/50 中視.png" group-title="4gtv",50 中視
-https://www.4gtv.tv/channel/4gtv-4gtv040?set=1&ch=4
+
 #EXTINF:-1 tvg-name="51 中視菁采台" tvg-logo="https://live.fanmingming.cn/tv/51 中視菁采台.png" group-title="4gtv",51 中視菁采台
 https://www.4gtv.tv/channel/4gtv-4gtv064?set=1&ch=123
 
@@ -276,8 +282,7 @@ https://www.4gtv.tv/channel/4gtv-4gtv042?set=1&ch=7
 https://www.4gtv.tv/channel/litv-ftv10?set=1&ch=85
 #EXTINF:-1 tvg-name="56 尼克兒童頻道" tvg-logo="https://live.fanmingming.cn/tv/56 尼克兒童頻道.png" group-title="4gtv",56 尼克兒童頻道
 https://www.4gtv.tv/channel/4gtv-live105?set=1&ch=185
-#EXTINF:-1 tvg-name="57 民視" tvg-logo="https://live.fanmingming.cn/tv/57 民視.png" group-title="4gtv",57 民視
-https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3
+
 #EXTINF:-1 tvg-name="58 民視台灣台" tvg-logo="https://live.fanmingming.cn/tv/58 民視台灣台.png" group-title="4gtv",58 民視台灣台
 https://www.4gtv.tv/channel/4gtv-4gtv001?set=1&ch=2
 
@@ -323,8 +328,6 @@ https://www.4gtv.tv/channel/4gtv-4gtv084?set=1&ch=170
 https://www.4gtv.tv/channel/4gtv-4gtv085?set=1&ch=171
 #EXTINF:-1 tvg-name="82 智林體育台" tvg-logo="https://live.fanmingming.cn/tv/82 智林體育台.png" group-title="4gtv",82 智林體育台
 https://www.4gtv.tv/channel/4gtv-4gtv101?set=1&ch=58
-#EXTINF:-1 tvg-name="83 華視" tvg-logo="https://live.fanmingming.cn/tv/83 華視.png" group-title="4gtv",83 華視
-https://www.4gtv.tv/channel/4gtv-4gtv041?set=1&ch=6
 
 #EXTINF:-1 tvg-name="85 視納華仁紀實頻道" tvg-logo="https://live.fanmingming.cn/tv/85 視納華仁紀實頻道.png" group-title="4gtv",85 視納華仁紀實頻道
 https://www.4gtv.tv/channel/4gtv-4gtv013?set=1&ch=38
