@@ -565,6 +565,27 @@ TVBS,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4
 4gtv,#genre#
 parse=1
 
+70 東森新聞台,https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292  
+
+59 民視旅遊台,https://www.4gtv.tv/channel/litv-ftv07?set=1&ch=61  
+67 亞洲旅遊台,https://www.4gtv.tv/channel/4gtv-4gtv076?set=1&ch=250  
+86 愛爾達生活旅遊台,https://www.4gtv.tv/channel/4gtv-live120?set=1&ch=237  
+
+
+93 靖天日本台,https://www.4gtv.tv/channel/4gtv-4gtv047?set=1&ch=22  
+94 靖天卡通台,https://www.4gtv.tv/channel/4gtv-4gtv044?set=1&ch=15  
+95 靖天育樂台,https://www.4gtv.tv/channel/4gtv-4gtv062?set=1&ch=83  
+96 靖天映畫台,https://www.4gtv.tv/channel/4gtv-4gtv055?set=1&ch=42  
+97 靖天國際台,https://www.4gtv.tv/channel/4gtv-4gtv063?set=1&ch=84  
+98 靖天資訊台,https://www.4gtv.tv/channel/4gtv-4gtv065?set=1&ch=88  
+99 靖天電影台,https://www.4gtv.tv/channel/4gtv-4gtv061?set=1&ch=82  
+100 靖天綜合台,https://www.4gtv.tv/channel/4gtv-4gtv046?set=1&ch=21  
+101 靖天戲劇台,https://www.4gtv.tv/channel/4gtv-4gtv058?set=1&ch=116  
+102 靖天歡樂台,https://www.4gtv.tv/channel/4gtv-4gtv054?set=1&ch=119  
+103 靖洋卡通Nice Bingo,https://www.4gtv.tv/channel/4gtv-4gtv057?set=1&ch=59  
+104 靖洋戲劇台,https://www.4gtv.tv/channel/4gtv-4gtv045?set=1&ch=118  
+
+
 1 amc電影台,https://www.4gtv.tv/channel/4gtv-4gtv017?set=1&ch=39  
 2 ARIRANG阿里郎頻道,https://www.4gtv.tv/channel/4gtv-4gtv079?set=1&ch=189  
 3 Bloomberg TV,https://www.4gtv.tv/channel/4gtv-live059?set=1&ch=283  
@@ -623,7 +644,7 @@ parse=1
 56 尼克兒童頻道,https://www.4gtv.tv/channel/4gtv-live105?set=1&ch=185  
 57 民視,https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3  
 58 民視台灣台,https://www.4gtv.tv/channel/4gtv-4gtv001?set=1&ch=2  
-59 民視旅遊台,https://www.4gtv.tv/channel/litv-ftv07?set=1&ch=61  
+
 60 民視第一台,https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=1  
 61 民視新聞台,https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=31  
 62 民視綜藝台,https://www.4gtv.tv/channel/4gtv-4gtv004?set=1&ch=16  
@@ -631,10 +652,10 @@ parse=1
 64 好消息,https://www.4gtv.tv/channel/litv-ftv16?set=1&ch=9  
 65 好消息2台,https://www.4gtv.tv/channel/litv-ftv17?set=1&ch=8  
 66 車迷TV,https://www.4gtv.tv/channel/4gtv-live201?set=1&ch=160  
-67 亞洲旅遊台,https://www.4gtv.tv/channel/4gtv-4gtv076?set=1&ch=250  
+
 68 幸福空間居家台,https://www.4gtv.tv/channel/4gtv-live206?set=1&ch=168  
 69 東森財經新聞台,https://www.4gtv.tv/channel/4gtv-4gtv153?set=1&ch=293  
-70 東森新聞台,https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292  
+
 71 東森購物一台,https://www.4gtv.tv/channel/4gtv-live047?set=1&ch=173  
 72 東森購物二台,https://www.4gtv.tv/channel/4gtv-live046?set=1&ch=174  
 73 東森購物三台,https://www.4gtv.tv/channel/4gtv-live048?set=1&ch=287  
@@ -650,25 +671,14 @@ parse=1
 83 華視,https://www.4gtv.tv/channel/4gtv-4gtv041?set=1&ch=6  
 84 華視新聞,https://www.4gtv.tv/channel/4gtv-4gtv052?set=1&ch=34  
 85 視納華仁紀實頻道,https://www.4gtv.tv/channel/4gtv-4gtv013?set=1&ch=38  
-86 愛爾達生活旅遊台,https://www.4gtv.tv/channel/4gtv-live120?set=1&ch=237  
+
 87 愛爾達娛樂台,https://www.4gtv.tv/channel/4gtv-4gtv070?set=1&ch=19  
 88 新唐人亞太台,https://www.4gtv.tv/channel/4gtv-live050?set=1&ch=223  
 89 經典卡通台,https://www.4gtv.tv/channel/4gtv-live022?set=1&ch=202  
 90 經典電影台,https://www.4gtv.tv/channel/4gtv-live021?set=1&ch=201  
 91 達文西頻道,https://www.4gtv.tv/channel/4gtv-4gtv018?set=1&ch=11  
 92 電影原聲台CMusic,https://www.4gtv.tv/channel/4gtv-live031?set=1&ch=218  
-93 靖天日本台,https://www.4gtv.tv/channel/4gtv-4gtv047?set=1&ch=22  
-94 靖天卡通台,https://www.4gtv.tv/channel/4gtv-4gtv044?set=1&ch=15  
-95 靖天育樂台,https://www.4gtv.tv/channel/4gtv-4gtv062?set=1&ch=83  
-96 靖天映畫台,https://www.4gtv.tv/channel/4gtv-4gtv055?set=1&ch=42  
-97 靖天國際台,https://www.4gtv.tv/channel/4gtv-4gtv063?set=1&ch=84  
-98 靖天資訊台,https://www.4gtv.tv/channel/4gtv-4gtv065?set=1&ch=88  
-99 靖天電影台,https://www.4gtv.tv/channel/4gtv-4gtv061?set=1&ch=82  
-100 靖天綜合台,https://www.4gtv.tv/channel/4gtv-4gtv046?set=1&ch=21  
-101 靖天戲劇台,https://www.4gtv.tv/channel/4gtv-4gtv058?set=1&ch=116  
-102 靖天歡樂台,https://www.4gtv.tv/channel/4gtv-4gtv054?set=1&ch=119  
-103 靖洋卡通Nice Bingo,https://www.4gtv.tv/channel/4gtv-4gtv057?set=1&ch=59  
-104 靖洋戲劇台,https://www.4gtv.tv/channel/4gtv-4gtv045?set=1&ch=118  
+
 105 滾動力rollor,https://www.4gtv.tv/channel/4gtv-live012?set=1&ch=249  
 106 精選動漫台,https://www.4gtv.tv/channel/4gtv-live024?set=1&ch=204  
 107 影迷數位紀實台,https://www.4gtv.tv/channel/litv-ftv15?set=1&ch=445  
