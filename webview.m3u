@@ -112,7 +112,7 @@ webview://https://yangshipin.cn/tv/home?pid=600190401
 webview://https://yangshipin.cn/tv/home?pid=600002498
 
 
-#EXTM3U x-tvg-url="webview://https://live.fanmingming.cn/e.xml"
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 
 #EXTINF:-1 tvg-name="70 東森新聞台" tvg-logo="webview://https://live.fanmingming.cn/tv/70 東森新聞台.png" group-title="4gtv",70 東森新聞台
 webview://https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292
