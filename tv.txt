@@ -86,6 +86,10 @@ CatchPlay電影M,udp://@230.1.2.37:11111
 中視,http://1234.koyeb.app/smt.php?id=zhongshihd_twn
 台視,http://1234.koyeb.app/smt.php?id=ttv_taiwan
 八大綜合,http://1234.koyeb.app/smt.php?id=badazhonghe
+東森綜合,http://1234.koyeb.app/smt.php?id=ettvzhonghe
+三立綜合,http://1234.koyeb.app/smt.php?id=sanlizhonghe
+緯來綜合,http://1234.koyeb.app/smt.php?id=videolandzonghe
+
 
 靖天日本台,http://1234.koyeb.app/8964.php?id=4gtv-4gtv047
 靖天育樂台,http://1234.koyeb.app/8964.php?id=4gtv-4gtv062
