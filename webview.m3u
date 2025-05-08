@@ -346,3 +346,65 @@ https://www.4gtv.tv/channel/4gtv-4gtv016?set=1&ch=446
 https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268
 #EXTINF:-1 tvg-name="116 霹靂布袋戲" tvg-logo="https://live.fanmingming.cn/tv/116 霹靂布袋戲.png" group-title="4gtv",116 霹靂布袋戲
 https://www.4gtv.tv/channel/4gtv-live145?set=1&ch=301
+
+
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 tvg-name="8 台視" tvg-logo="https://live.fanmingming.cn/tv/8 台視.png" group-title="ofiii",8 台視
+webview://https://www.ofiii.com/channel/watch/4gtv-4gtv066
+#EXTINF:-1 tvg-name="10 中視" tvg-logo="https://live.fanmingming.cn/tv/10 中視.png" group-title="ofiii",10 中視
+webview://https://www.ofiii.com/channel/watch/4gtv-4gtv040
+#EXTINF:-1 tvg-name="12 華視" tvg-logo="https://live.fanmingming.cn/tv/12 華視.png" group-title="ofiii",12 華視
+webview://https://www.ofiii.com/channel/watch/4gtv-4gtv041
+#EXTINF:-1 tvg-name="14 好消息2台" tvg-logo="https://live.fanmingming.cn/tv/14 好消息2台.png" group-title="ofiii",14 好消息2台
+webview://https://www.ofiii.com/channel/watch/litv-ftv17
+#EXTINF:-1 tvg-name="15 好消息" tvg-logo="https://live.fanmingming.cn/tv/15 好消息.png" group-title="ofiii",15 好消息
+webview://https://www.ofiii.com/channel/watch/litv-ftv16
+#EXTINF:-1 tvg-name="20 ELTV生活英語台" tvg-logo="https://live.fanmingming.cn/tv/20 ELTV生活英語台.png" group-title="ofiii",20 ELTV生活英語台
+webview://https://www.ofiii.com/channel/watch/litv-longturn20
+#EXTINF:-1 tvg-name="21 龍華卡通台" tvg-logo="https://live.fanmingming.cn/tv/21 龍華卡通台.png" group-title="ofiii",21 龍華卡通台
+webview://https://www.ofiii.com/channel/watch/litv-longturn01
+#EXTINF:-1 tvg-name="34 亞洲旅遊台" tvg-logo="https://live.fanmingming.cn/tv/34 亞洲旅遊台.png" group-title="ofiii",34 亞洲旅遊台
+webview://https://www.ofiii.com/channel/watch/4gtv-4gtv076
+#EXTINF:-1 tvg-name="37 Smart知識台" tvg-logo="https://live.fanmingming.cn/tv/37 Smart知識台.png" group-title="ofiii",37 Smart知識台
+webview://https://www.ofiii.com/channel/watch/litv-longturn19
+#EXTINF:-1 tvg-name="40 龍華戲劇台" tvg-logo="https://live.fanmingming.cn/tv/40 龍華戲劇台.png" group-title="ofiii",40 龍華戲劇台
+webview://https://www.ofiii.com/channel/watch/litv-longturn18
+#EXTINF:-1 tvg-name="41 台灣戲劇台" tvg-logo="https://live.fanmingming.cn/tv/41 台灣戲劇台.png" group-title="ofiii",41 台灣戲劇台
+webview://https://www.ofiii.com/channel/watch/litv-longturn22
+#EXTINF:-1 tvg-name="43 東森購物1台" tvg-logo="https://live.fanmingming.cn/tv/43 東森購物1台.png" group-title="ofiii",43 東森購物1台
+webview://https://www.ofiii.com/channel/watch/4gtv-4gtv102
+#EXTINF:-1 tvg-name="45 龍華偶像台" tvg-logo="https://live.fanmingming.cn/tv/45 龍華偶像台.png" group-title="ofiii",45 龍華偶像台
+webview://https://www.ofiii.com/channel/watch/litv-longturn12
+#EXTINF:-1 tvg-name="46 龍華日韓台" tvg-logo="https://live.fanmingming.cn/tv/46 龍華日韓台.png" group-title="ofiii",46 龍華日韓台
+webview://https://www.ofiii.com/channel/watch/litv-longturn11
+#EXTINF:-1 tvg-name="49 東森購物2台" tvg-logo="https://live.fanmingming.cn/tv/49 東森購物2台.png" group-title="ofiii",49 東森購物2台
+webview://https://www.ofiii.com/channel/watch/4gtv-4gtv103
+#EXTINF:-1 tvg-name="52 華視新聞" tvg-logo="https://live.fanmingming.cn/tv/52 華視新聞.png" group-title="ofiii",52 華視新聞
+webview://https://www.ofiii.com/channel/watch/4gtv-4gtv052
+#EXTINF:-1 tvg-name="54 三立新聞iNEWS" tvg-logo="https://live.fanmingming.cn/tv/54 三立新聞iNEWS.png" group-title="ofiii",54 三立新聞iNEWS
+webview://https://www.ofiii.com/channel/watch/iNEWS
+#EXTINF:-1 tvg-name="57 寰宇財經台" tvg-logo="https://live.fanmingming.cn/tv/57 寰宇財經台.png" group-title="ofiii",57 寰宇財經台
+webview://https://www.ofiii.com/channel/watch/4gtv-4gtv158
+#EXTINF:-1 tvg-name="59 台視新聞" tvg-logo="https://live.fanmingming.cn/tv/59 台視新聞.png" group-title="ofiii",59 台視新聞
+webview://https://www.ofiii.com/channel/watch/4gtv-4gtv051
+#EXTINF:-1 tvg-name="60 中視新聞" tvg-logo="https://live.fanmingming.cn/tv/60 中視新聞.png" group-title="ofiii",60 中視新聞
+webview://https://www.ofiii.com/channel/watch/4gtv-4gtv074
+#EXTINF:-1 tvg-name="61 中天新聞台" tvg-logo="https://live.fanmingming.cn/tv/61 中天新聞台.png" group-title="ofiii",61 中天新聞台
+webview://https://www.ofiii.com/channel/watch/4gtv-4gtv009
+#EXTINF:-1 tvg-name="62 寰宇新聞台灣台" tvg-logo="https://live.fanmingming.cn/tv/62 寰宇新聞台灣台.png" group-title="ofiii",62 寰宇新聞台灣台
+webview://https://www.ofiii.com/channel/watch/4gtv-4gtv156
+#EXTINF:-1 tvg-name="63 寰宇新聞台" tvg-logo="https://live.fanmingming.cn/tv/63 寰宇新聞台.png" group-title="ofiii",63 寰宇新聞台
+webview://https://www.ofiii.com/channel/watch/litv-longturn14
+#EXTINF:-1 tvg-name="65 第1商業台" tvg-logo="https://live.fanmingming.cn/tv/65 第1商業台.png" group-title="ofiii",65 第1商業台
+webview://https://www.ofiii.com/channel/watch/4gtv-4gtv104
+#EXTINF:-1 tvg-name="66 國會頻道1台" tvg-logo="https://live.fanmingming.cn/tv/66 國會頻道1台.png" group-title="ofiii",66 國會頻道1台
+webview://https://www.ofiii.com/channel/watch/4gtv-4gtv084
+#EXTINF:-1 tvg-name="67 國會頻道2台" tvg-logo="https://live.fanmingming.cn/tv/67 國會頻道2台.png" group-title="ofiii",67 國會頻道2台
+webview://https://www.ofiii.com/channel/watch/4gtv-4gtv085
+#EXTINF:-1 tvg-name="69 龍華經典台" tvg-logo="https://live.fanmingming.cn/tv/69 龍華經典台.png" group-title="ofiii",69 龍華經典台
+webview://https://www.ofiii.com/channel/watch/litv-longturn21
+#EXTINF:-1 tvg-name="71 龍華電影台" tvg-logo="https://live.fanmingming.cn/tv/71 龍華電影台.png" group-title="ofiii",71 龍華電影台
+webview://https://www.ofiii.com/channel/watch/litv-longturn03
+#EXTINF:-1 tvg-name="72 龍華洋片台" tvg-logo="https://live.fanmingming.cn/tv/72 龍華洋片台.png" group-title="ofiii",72 龍華洋片台
+webview://https://www.ofiii.com/channel/watch/litv-longturn02
+
