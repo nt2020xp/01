@@ -1,3 +1,4 @@
+4gtv,#genre#
 
 #EXTINF:-1 tvg-name="1 amc電影台" tvg-logo="https://live.fanmingming.cn/tv/1 amc電影台.png",1 amc電影台
 webview://https://www.4gtv.tv/channel/4gtv-4gtv017?set=1&ch=39
