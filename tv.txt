@@ -26,8 +26,6 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 高雄蓮池潭,https://www.youtube.com/watch?v=BnPoNatG-HE
 淡水漁人碼頭,https://www.youtube.com/watch?v=xwAWSh35uuw
 
-寒戰2,https://www.youtube.com/watch?v=2HbtAW1zBSg
-
 2財經,p3p://167.114.175.6:55331/5fe15a4400093f55773aac0c576366b8
 9紀錄,p3p://167.114.175.6:55331/600b6ba2000d52801b8cbfda6cd319a2
 10科教,p3p://167.114.175.6:55331/600b6e71000738431b97b6e5675e67a4
@@ -104,8 +102,6 @@ CatchPlay電影M,udp://@230.1.2.37:11111
 龍華戲劇台,http://1234.koyeb.app/8964.php?id=litv-longturn18
 龍華經典台,http://1234.koyeb.app/8964.php?id=litv-longturn21
 龍華卡通台,http://1234.koyeb.app/8964.php?id=litv-longturn01
-
-東森幼幼,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/yoyo_twn/playlist.m3u8
 
 我們這一家,https://www.youtube.com/watch?v=WHednLn-HjA
 新哆啦A夢,https://www.youtube.com/watch?v=dgAEF2ppKg8
