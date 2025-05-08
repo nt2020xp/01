@@ -111,15 +111,15 @@ webview://https://yangshipin.cn/tv/home?pid=600190401
 #EXTINF:-1 tvg-name="黑龍江衛視" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="衛視",黑龍江衛視
 webview://https://yangshipin.cn/tv/home?pid=600002498
 
-#EXTINF:-1 tvg-name="70 東森新聞台" tvg-logo="webview://https://live.fanmingming.cn/tv/70 東森新聞台.png" group-title="4gtv",70 東森新聞台
+#EXTINF:-1 tvg-name="70 東森新聞" tvg-logo="webview://https://live.fanmingming.cn/tv/70 東森新聞.png" group-title="4gtv",70 東森新聞
 webview://https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292
-#EXTINF:-1 tvg-name="61 民視新聞台" tvg-logo="webview://https://live.fanmingming.cn/tv/61 民視新聞台.png" group-title="4gtv",61 民視新聞台
+#EXTINF:-1 tvg-name="61 民視新聞" tvg-logo="webview://https://live.fanmingming.cn/tv/61 民視新聞.png" group-title="4gtv",61 民視新聞
 webview://https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=31
-#EXTINF:-1 tvg-name="45 三立新聞iNEWS" tvg-logo="webview://https://live.fanmingming.cn/tv/45 三立新聞iNEWS.png" group-title="4gtv",45 三立新聞iNEWS
+#EXTINF:-1 tvg-name="45 三立新聞" tvg-logo="webview://https://live.fanmingming.cn/tv/45 三立新聞.png" group-title="4gtv",45 三立新聞
 webview://https://www.4gtv.tv/channel/4gtv-live089?set=1&ch=229
-#EXTINF:-1 tvg-name="49 中天新聞台" tvg-logo="webview://https://live.fanmingming.cn/tv/49 中天新聞台.png" group-title="4gtv",49 中天新聞台
+#EXTINF:-1 tvg-name="49 中天新聞" tvg-logo="webview://https://live.fanmingming.cn/tv/49 中天新聞.png" group-title="4gtv",49 中天新聞
 webview://https://www.4gtv.tv/channel/4gtv-4gtv009?set=1&ch=30
-#EXTINF:-1 tvg-name="69 東森財經新聞台" tvg-logo="webview://https://live.fanmingming.cn/tv/69 東森財經新聞台.png" group-title="4gtv",69 東森財經新聞台
+#EXTINF:-1 tvg-name="69 東森財經" tvg-logo="webview://https://live.fanmingming.cn/tv/69 東森財經.png" group-title="4gtv",69 東森財經
 webview://https://www.4gtv.tv/channel/4gtv-4gtv153?set=1&ch=293
 
 #EXTINF:-1 tvg-name="84 華視新聞" tvg-logo="webview://https://live.fanmingming.cn/tv/84 華視新聞.png" group-title="4gtv",84 華視新聞
@@ -127,11 +127,11 @@ webview://https://www.4gtv.tv/channel/4gtv-4gtv052?set=1&ch=34
 #EXTINF:-1 tvg-name="52 中視新聞" tvg-logo="webview://https://live.fanmingming.cn/tv/52 中視新聞.png" group-title="4gtv",52 中視新聞
 webview://https://www.4gtv.tv/channel/4gtv-4gtv074?set=1&ch=33
 
-#EXTINF:-1 tvg-name="111 寰宇新聞台" tvg-logo="webview://https://live.fanmingming.cn/tv/111 寰宇新聞台.png" group-title="4gtv",111 寰宇新聞台
+#EXTINF:-1 tvg-name="111 寰宇新聞" tvg-logo="webview://https://live.fanmingming.cn/tv/111 寰宇新聞.png" group-title="4gtv",111 寰宇新聞
 webview://https://www.4gtv.tv/channel/litv-longturn14?set=1&ch=36
-#EXTINF:-1 tvg-name="112 寰宇台灣台" tvg-logo="webview://https://live.fanmingming.cn/tv/112 寰宇台灣台.png" group-title="4gtv",112 寰宇台灣台
+#EXTINF:-1 tvg-name="112 寰宇台灣" tvg-logo="webview://https://live.fanmingming.cn/tv/112 寰宇台灣.png" group-title="4gtv",112 寰宇台灣
 webview://https://www.4gtv.tv/channel/4gtv-4gtv156?set=1&ch=280
-#EXTINF:-1 tvg-name="110 寰宇財經台" tvg-logo="webview://https://live.fanmingming.cn/tv/110 寰宇財經台.png" group-title="4gtv",110 寰宇財經台
+#EXTINF:-1 tvg-name="110 寰宇財經" tvg-logo="webview://https://live.fanmingming.cn/tv/110 寰宇財經.png" group-title="4gtv",110 寰宇財經
 webview://https://www.4gtv.tv/channel/4gtv-4gtv158?set=1&ch=281
 #EXTINF:-1 tvg-name="115 鏡新聞" tvg-logo="webview://https://live.fanmingming.cn/tv/115 鏡新聞.png" group-title="4gtv",115 鏡新聞
 webview://https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268
@@ -173,7 +173,7 @@ webview://https://www.4gtv.tv/channel/4gtv-4gtv046?set=1&ch=21
 webview://https://www.4gtv.tv/channel/4gtv-4gtv058?set=1&ch=116
 #EXTINF:-1 tvg-name="102 靖天歡樂台" tvg-logo="webview://https://live.fanmingming.cn/tv/102 靖天歡樂台.png" group-title="4gtv",102 靖天歡樂台
 webview://https://www.4gtv.tv/channel/4gtv-4gtv054?set=1&ch=119
-#EXTINF:-1 tvg-name="103 靖洋卡通Nice Bingo" tvg-logo="webview://https://live.fanmingming.cn/tv/103 靖洋卡通Nice Bingo.png" group-title="4gtv",103 靖洋卡通Nice Bingo
+#EXTINF:-1 tvg-name="103 靖洋卡通台" tvg-logo="webview://https://live.fanmingming.cn/tv/103 靖洋卡通台.png" group-title="4gtv",103 靖洋卡通台
 webview://https://www.4gtv.tv/channel/4gtv-4gtv057?set=1&ch=59
 #EXTINF:-1 tvg-name="104 靖洋戲劇台" tvg-logo="webview://https://live.fanmingming.cn/tv/104 靖洋戲劇台.png" group-title="4gtv",104 靖洋戲劇台
 webview://https://www.4gtv.tv/channel/4gtv-4gtv045?set=1&ch=118
