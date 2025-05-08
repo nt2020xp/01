@@ -2,6 +2,8 @@
 
 #EXTINF:-1 tvg-name="70 東森新聞台" tvg-logo="https://live.fanmingming.cn/tv/70 東森新聞台.png" group-title="4gtv",70 東森新聞台
 https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292
+#EXTINF:-1 tvg-name="61 民視新聞台" tvg-logo="https://live.fanmingming.cn/tv/61 民視新聞台.png" group-title="4gtv",61 民視新聞台
+https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=31
 #EXTINF:-1 tvg-name="45 三立新聞iNEWS" tvg-logo="https://live.fanmingming.cn/tv/45 三立新聞iNEWS.png" group-title="4gtv",45 三立新聞iNEWS
 https://www.4gtv.tv/channel/4gtv-live089?set=1&ch=229
 #EXTINF:-1 tvg-name="49 中天新聞台" tvg-logo="https://live.fanmingming.cn/tv/49 中天新聞台.png" group-title="4gtv",49 中天新聞台
@@ -13,6 +15,13 @@ https://www.4gtv.tv/channel/4gtv-4gtv153?set=1&ch=293
 https://www.4gtv.tv/channel/4gtv-4gtv052?set=1&ch=34
 #EXTINF:-1 tvg-name="52 中視新聞" tvg-logo="https://live.fanmingming.cn/tv/52 中視新聞.png" group-title="4gtv",52 中視新聞
 https://www.4gtv.tv/channel/4gtv-4gtv074?set=1&ch=33
+
+#EXTINF:-1 tvg-name="111 寰宇新聞台" tvg-logo="https://live.fanmingming.cn/tv/111 寰宇新聞台.png" group-title="4gtv",111 寰宇新聞台
+https://www.4gtv.tv/channel/litv-longturn14?set=1&ch=36
+#EXTINF:-1 tvg-name="112 寰宇台灣台" tvg-logo="https://live.fanmingming.cn/tv/112 寰宇台灣台.png" group-title="4gtv",112 寰宇台灣台
+https://www.4gtv.tv/channel/4gtv-4gtv156?set=1&ch=280
+#EXTINF:-1 tvg-name="110 寰宇財經台" tvg-logo="https://live.fanmingming.cn/tv/110 寰宇財經台.png" group-title="4gtv",110 寰宇財經台
+https://www.4gtv.tv/channel/4gtv-4gtv158?set=1&ch=281
 
 #EXTINF:-1 tvg-name="83 華視" tvg-logo="https://live.fanmingming.cn/tv/83 華視.png" group-title="4gtv",83 華視
 https://www.4gtv.tv/channel/4gtv-4gtv041?set=1&ch=6
@@ -27,6 +36,8 @@ https://www.4gtv.tv/channel/litv-ftv07?set=1&ch=61
 https://www.4gtv.tv/channel/4gtv-4gtv076?set=1&ch=250
 #EXTINF:-1 tvg-name="86 愛爾達生活旅遊台" tvg-logo="https://live.fanmingming.cn/tv/86 愛爾達生活旅遊台.png" group-title="4gtv",86 愛爾達生活旅遊台
 https://www.4gtv.tv/channel/4gtv-live120?set=1&ch=237
+#EXTINF:-1 tvg-name="116 霹靂布袋戲" tvg-logo="https://live.fanmingming.cn/tv/116 霹靂布袋戲.png" group-title="4gtv",116 霹靂布袋戲
+https://www.4gtv.tv/channel/4gtv-live145?set=1&ch=301
 
 #EXTINF:-1 tvg-name="93 靖天日本台" tvg-logo="https://live.fanmingming.cn/tv/93 靖天日本台.png" group-title="4gtv",93 靖天日本台
 https://www.4gtv.tv/channel/4gtv-4gtv047?set=1&ch=22
@@ -170,8 +181,7 @@ https://www.4gtv.tv/channel/4gtv-4gtv001?set=1&ch=2
 
 #EXTINF:-1 tvg-name="60 民視第一台" tvg-logo="https://live.fanmingming.cn/tv/60 民視第一台.png" group-title="4gtv",60 民視第一台
 https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=1
-#EXTINF:-1 tvg-name="61 民視新聞台" tvg-logo="https://live.fanmingming.cn/tv/61 民視新聞台.png" group-title="4gtv",61 民視新聞台
-https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=31
+
 #EXTINF:-1 tvg-name="62 民視綜藝台" tvg-logo="https://live.fanmingming.cn/tv/62 民視綜藝台.png" group-title="4gtv",62 民視綜藝台
 https://www.4gtv.tv/channel/4gtv-4gtv004?set=1&ch=16
 #EXTINF:-1 tvg-name="63 民視影劇台" tvg-logo="https://live.fanmingming.cn/tv/63 民視影劇台.png" group-title="4gtv",63 民視影劇台
@@ -239,17 +249,11 @@ https://www.4gtv.tv/channel/litv-ftv15?set=1&ch=445
 https://www.4gtv.tv/channel/4gtv-4gtv011?set=1&ch=40
 #EXTINF:-1 tvg-name="109 豬哥亮歌廳秀" tvg-logo="https://live.fanmingming.cn/tv/109 豬哥亮歌廳秀.png" group-title="4gtv",109 豬哥亮歌廳秀
 https://www.4gtv.tv/channel/4gtv-4gtv006?set=1&ch=113
-#EXTINF:-1 tvg-name="110 寰宇財經台" tvg-logo="https://live.fanmingming.cn/tv/110 寰宇財經台.png" group-title="4gtv",110 寰宇財經台
-https://www.4gtv.tv/channel/4gtv-4gtv158?set=1&ch=281
-#EXTINF:-1 tvg-name="111 寰宇新聞台" tvg-logo="https://live.fanmingming.cn/tv/111 寰宇新聞台.png" group-title="4gtv",111 寰宇新聞台
-https://www.4gtv.tv/channel/litv-longturn14?set=1&ch=36
-#EXTINF:-1 tvg-name="112 寰宇新聞台灣台" tvg-logo="https://live.fanmingming.cn/tv/112 寰宇新聞台灣台.png" group-title="4gtv",112 寰宇新聞台灣台
-https://www.4gtv.tv/channel/4gtv-4gtv156?set=1&ch=280
+
 #EXTINF:-1 tvg-name="113 戲劇免費看 1台" tvg-logo="https://live.fanmingming.cn/tv/113 戲劇免費看 1台.png" group-title="4gtv",113 戲劇免費看 1台
 https://www.4gtv.tv/channel/4gtv-live010?set=1&ch=270
 #EXTINF:-1 tvg-name="114 韓國娛樂台 KMTV" tvg-logo="https://live.fanmingming.cn/tv/114 韓國娛樂台 KMTV.png" group-title="4gtv",114 韓國娛樂台 KMTV
 https://www.4gtv.tv/channel/4gtv-4gtv016?set=1&ch=446
 #EXTINF:-1 tvg-name="115 鏡電視新聞台" tvg-logo="https://live.fanmingming.cn/tv/115 鏡電視新聞台.png" group-title="4gtv",115 鏡電視新聞台
 https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268
-#EXTINF:-1 tvg-name="116 霹靂布袋戲" tvg-logo="https://live.fanmingming.cn/tv/116 霹靂布袋戲.png" group-title="4gtv",116 霹靂布袋戲
-https://www.4gtv.tv/channel/4gtv-live145?set=1&ch=301
+
