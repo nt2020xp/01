@@ -1,3 +1,5 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+
 #EXTINF:-1 tvg-name="70 東森新聞" tvg-logo="webview://https://live.fanmingming.cn/tv/70 東森新聞.png" group-title="4gtv",70 東森新聞
 webview://https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292
 #EXTINF:-1 tvg-name="61 民視新聞" tvg-logo="webview://https://live.fanmingming.cn/tv/61 民視新聞.png" group-title="4gtv",61 民視新聞
