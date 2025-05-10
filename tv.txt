@@ -30,7 +30,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 2財經,https://smart.pendy.dpdns.org/Smart.php?id=cctv2
 9紀錄,https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd
 10科教,https://smart.pendy.dpdns.org/Smart.php?id=cctv10hd
-13新聞,https://smart.pendy.dpdns.org/Smart.php?id=cctv13hd
+13新聞,https://smart.pendy.dpdns.org/Smart.php?id=cctv13
 
 靖天龍華,#genre#
 
