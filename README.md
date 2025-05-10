@@ -1,4 +1,3 @@
-txt  https://fanmingming.com/txt?url=https://docker.livednow.dpdns.org/?type=m3u
 
 18 http://www.fish2018.ip-ddns.com/p/jsm.json
 
