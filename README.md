@@ -1,3 +1,5 @@
+txt  https://fanmingming.com/txt?url=https://docker.livednow.dpdns.org/?type=m3u
+
 18 http://www.fish2018.ip-ddns.com/p/jsm.json
 
 每日更新   https://github.com/kimwang1978/collect-tv-txt/blob/main/live_lite.txt
