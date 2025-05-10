@@ -26,11 +26,6 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 高雄蓮池潭,https://www.youtube.com/watch?v=BnPoNatG-HE
 淡水漁人碼頭,https://www.youtube.com/watch?v=xwAWSh35uuw
 
-1綜合,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
-2財經,https://smart.pendy.dpdns.org/Smart.php?id=cctv2
-9紀錄,https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd
-10科教,https://smart.pendy.dpdns.org/Smart.php?id=cctv10hd
-13新聞,https://smart.pendy.dpdns.org/Smart.php?id=cctv13
 
 靖天龍華,#genre#
 
@@ -689,4 +684,26 @@ VOA美國之音,https://www.4gtv.tv/channel/litv-ftv03?set=1&ch=86
 鏡電視新聞台,https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268  
 霹靂布袋戲,https://www.4gtv.tv/channel/4gtv-live145?set=1&ch=301  
     
+大陸頻道,#genre#
+1綜合,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
+2財經,https://smart.pendy.dpdns.org/Smart.php?id=cctv2
+3綜藝,https://smart.pendy.dpdns.org/Smart.php?id=cctv3
+5體育,https://smart.pendy.dpdns.org/Smart.php?id=cctv5
+5+體育賽事,https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus
+6電影,https://smart.pendy.dpdns.org/Smart.php?id=cctv6
+7國防軍事,https://smart.pendy.dpdns.org/Smart.php?id=cctv7
+8電視劇,https://smart.pendy.dpdns.org/Smart.php?id=cctv8hd
+9紀錄,https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd
+10科教,https://smart.pendy.dpdns.org/Smart.php?id=cctv10hd
+11戲曲,https://smart.pendy.dpdns.org/Smart.php?id=cctv11
+12社會與法,https://smart.pendy.dpdns.org/Smart.php?id=cctv12
+13新聞,https://smart.pendy.dpdns.org/Smart.php?id=cctv13
+14少兒,https://smart.pendy.dpdns.org/Smart.php?id=cctv14
+15音樂,https://smart.pendy.dpdns.org/Smart.php?id=cctv15
+
+江蘇衛視,https://smart.pendy.dpdns.org/Smart.php?id=jiangsu_twn
+浙江衛視,https://smart.pendy.dpdns.org/Smart.php?id=zhejiang_twn
+湖南衛視,https://smart.pendy.dpdns.org/Smart.php?id=hunan_twn
+北京衛視,https://smart.pendy.dpdns.org/Smart.php?id=beijing
+東方衛視,https://smart.pendy.dpdns.org/Smart.php?id=dongfangweishi_twn
     
