@@ -32,34 +32,34 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 靖天龍華,#genre#
 
-靖天日本,http://docker.livednow.dpdns.org/li-4gtv-4gtv047/index.m3u8
-靖天育樂,http://docker.livednow.dpdns.org/li-4gtv-4gtv062/index.m3u8
-靖天映畫,http://docker.livednow.dpdns.org/li-4gtv-4gtv055/index.m3u8
-靖天國際,http://docker.livednow.dpdns.org/li-4gtv-4gtv063/index.m3u8
-靖天資訊,http://docker.livednow.dpdns.org/li-4gtv-4gtv065/index.m3u8
-靖天電影,http://docker.livednow.dpdns.org/li-4gtv-4gtv061/index.m3u8
-靖天戲劇,http://docker.livednow.dpdns.org/li-4gtv-4gtv058/index.m3u8
-靖天歡樂,http://docker.livednow.dpdns.org/li-4gtv-4gtv054/index.m3u8
-靖洋戲劇,http://docker.livednow.dpdns.org/li-4gtv-4gtv045/index.m3u8
-靖天卡通,http://docker.livednow.dpdns.org/li-4gtv-4gtv044/index.m3u8
-靖洋卡通,http://docker.livednow.dpdns.org/li-4gtv-4gtv057/index.m3u8
+靖天日本台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv047
+靖天電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv061
+靖天映畫台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv055
+靖天綜合台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv046
+靖天國際台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv063
+靖天資訊台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv065
+靖天歡樂台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv054
+靖天育樂台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv062
+靖洋戲劇台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv045
+靖天戲劇台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv058
 
-龍華電影,http://docker.livednow.dpdns.org/li-litv-longturn03/index.m3u8
-龍華洋片,http://docker.livednow.dpdns.org/li-litv-longturn02/index.m3u8
-龍華日韓,http://docker.livednow.dpdns.org/li-litv-longturn11/index.m3u8
-龍華偶像,http://docker.livednow.dpdns.org/li-litv-longturn12/index.m3u8
-龍華經典,http://docker.livednow.dpdns.org/li-litv-longturn21/index.m3u8
-龍華戲劇,http://docker.livednow.dpdns.org/li-litv-longturn18/index.m3u8
-龍華卡通,http://docker.livednow.dpdns.org/li-litv-longturn01/index.m3u8
+龍華電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn03
+龍華洋片台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn02
+龍華戲劇台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn18
+龍華日韓台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn11
+龍華偶像台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn12
+龍華經典台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn21
 
-華視,http://docker.livednow.dpdns.org/li-4gtv-4gtv041/index.m3u8
-中視,http://docker.livednow.dpdns.org/li-4gtv-4gtv040/index.m3u8
-台視,http://docker.livednow.dpdns.org/li-4gtv-4gtv066/index.m3u8
-民視,http://docker.livednow.dpdns.org/li-4gtv-4gtv002/index.m3u8
 
-民視旅遊,http://docker.livednow.dpdns.org/li-litv-ftv07/index.m3u8
-亞洲旅遊,http://docker.livednow.dpdns.org/li-4gtv-4gtv076/index.m3u8
-Smart知識台,http://docker.livednow.dpdns.org/li-litv-longturn19/index.m3u8
+華視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv041
+中視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv040
+台視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv066
+民視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv002
+民視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv155
+
+民視旅遊台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv07
+亞洲旅遊台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv076
+Smart知識台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn19
 
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701
