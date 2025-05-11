@@ -535,6 +535,7 @@ TVBS,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4
 1綜合,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
 2財經,https://smart.pendy.dpdns.org/Smart.php?id=cctv2
 3綜藝,https://smart.pendy.dpdns.org/Smart.php?id=cctv3
+4中文國際,https://smart.pendy.dpdns.org/Smart.php?id=cctv4
 5體育,https://smart.pendy.dpdns.org/Smart.php?id=cctv5
 5+體育賽事,https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus
 6電影,https://smart.pendy.dpdns.org/Smart.php?id=cctv6
