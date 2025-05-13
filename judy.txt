@@ -1,4 +1,4 @@
-
+judy,#genre#
 
 民視第一台,http://docker.livednow.dpdns.org/4gtv-4gtv003/index.m3u8
 民視台灣台,http://docker.livednow.dpdns.org/4gtv-4gtv001/index.m3u8
@@ -262,8 +262,7 @@ Focus探索新知台,http://docker.livednow.dpdns.org/ofiii82/index.m3u8
 演唱會直擊,http://docker.livednow.dpdns.org/ofiii91/index.m3u8
 健康問良醫,http://docker.livednow.dpdns.org/ofiii92/index.m3u8
 ASMR行車紀錄,http://docker.livednow.dpdns.org/ofiii94/index.m3u8
-Freeman ,台灣
-饕客揪愛吃,http://docker.livednow.dpdns.org/ofiii96/index.m3u8
+台灣饕客揪愛吃,http://docker.livednow.dpdns.org/ofiii96/index.m3u8
 人氣動漫預告,http://docker.livednow.dpdns.org/ofiii97/index.m3u8
 銀髮聚樂部,http://docker.livednow.dpdns.org/ofiii99/index.m3u8
 錦繡安寧,http://docker.livednow.dpdns.org/ofiii100/index.m3u8
