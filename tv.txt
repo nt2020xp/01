@@ -82,11 +82,6 @@ CatchPlay電影M,udp://@230.1.2.37:11111
 台視M,udp://@224.1.4.8:11111
 台視M,udp://@230.1.2.227:11111
 
-八大綜合,http://1234.koyeb.app/smt.php?id=badazhonghe
-東森綜合,http://1234.koyeb.app/smt.php?id=ettvzhonghe
-三立綜合,http://1234.koyeb.app/smt.php?id=sanlizhonghe
-緯來綜合,http://1234.koyeb.app/smt.php?id=videolandzonghe
-
 日本新聞,#genre#
 
 JapaNews24,https://www.youtube.com/live/coYw-eVU0Ks?si=a_SrIlnGwcXNuiNu
