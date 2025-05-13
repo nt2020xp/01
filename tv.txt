@@ -526,7 +526,7 @@ TVBS,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4
 中天亞洲,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv109
 
 
-110,#genre#
+110106108,#genre#
 
 TVBS新聞台,http://192.168.1.110:8080/9.php?id=4gtv-4gtv072
 東森新聞台,http://192.168.1.110:8080/9.php?id=4gtv-4gtv152
