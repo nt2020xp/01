@@ -707,6 +707,8 @@ VOA美國之音,http://192.168.1.106:8080/9.php?id=litv-ftv03
 ELTV生活英語台,http://192.168.1.106:8080/9.php?id=litv-longturn20
 台灣戲劇台,http://192.168.1.106:8080/9.php?id=litv-longturn22
 
+judy,#genre#
+
 Arirang TV,http://docker.livednow.dpdns.org/li-4gtv-4gtv079/index.m3u8
 CLASSICA 古典樂,http://docker.livednow.dpdns.org/li-4gtv-4gtv059/index.m3u8
 ELTA娛樂,http://docker.livednow.dpdns.org/li-4gtv-4gtv070/index.m3u8
