@@ -163,7 +163,10 @@ ETHTV機上盒使用教學 https://www.tv6868.com/
 
 (申請)极致播放器交流群 https://t.me/jizhi00
 
-(申請)夏天影視資源交流群 https://t.me/atv168
+(申請)夏天影視資源交流群 
+舊的 https://t.me/atv168
+
+新的 https://t.me/mejo168
 
 點播直播交流群：https://t.me/doubebly001
 
