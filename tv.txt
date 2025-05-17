@@ -636,34 +636,3 @@ parse=1
 愛爾達生活旅遊台,https://www.4gtv.tv/channel/4gtv-live120?set=1&ch=237
 霹靂布袋戲,https://www.4gtv.tv/channel/4gtv-live145?set=1&ch=301
 
-飢餓遊戲完整版,#genre#
-
-宜蘭蘇澳／EP01完整版20161023,https://www.youtube.com/watch?v=rbCnd-NaOoU
-苗栗縱貫線／EP02完整版20161030,https://www.youtube.com/watch?v=_YQhfpDHEG8
-基隆市／EP03完整版20161106,https://www.youtube.com/watch?v=Rxp0iwnkFk0
-新北市水金九／EP04完整版20161113,https://www.youtube.com/watch?v=lhY8BYsQY0g
-台中／EP05完整版20161120,https://www.youtube.com/watch?v=JijWbNF9AW8
-南投集集 草屯 ／EP06完整版20161127,https://www.youtube.com/watch?v=q9yByIxcGIE
-新竹／EP07完整版20161204,https://www.youtube.com/watch?v=Fh6rYs2nu1I
-桃園市／EP08完整版20161211,https://www.youtube.com/watch?v=uUTxXUvMstA
-彰化縣／EP09完整版20161218,https://www.youtube.com/watch?v=6qATqRTFn7k
-高雄市／EP10完整版20161225,https://www.youtube.com/watch?v=ph6ouDBFGhs
-台南市／EP11完整版20170101,https://www.youtube.com/watch?v=WodoH13QndI
-新北關渡／EP12完整版20170108,https://www.youtube.com/watch?v=xpJ5VrfbAc0
-宜蘭／EP13 完整版 20170115,https://www.youtube.com/watch?v=SfEaMRWaajE
-南投縣／EP14完整版20170122,https://www.youtube.com/watch?v=UM4F8ZhsRt4
-台北／EP15完整版20170129,https://www.youtube.com/watch?v=LfL20GvuGWg
-彰化市／EP16完整版20170205,https://www.youtube.com/watch?v=wA28vPxkhA0
-新竹縣／EP17完整版20170212,https://www.youtube.com/watch?v=VktP_u8SI0s
-台中市／EP18完整版20170219,https://www.youtube.com/watch?v=NIo2Q2gG2hQ
-苗栗縣／EP19完整版20170226,https://www.youtube.com/watch?v=JnMKrAV83rM
-高雄市／EP20完整版20170305,https://www.youtube.com/watch?v=jO7ADCalbNE
-台南市／EP21完整版20170312,https://www.youtube.com/watch?v=fM5RPV1pf2Y
-基隆市／EP22完整版20170319,https://www.youtube.com/watch?v=UoymOEQan-o
-桃園市／EP23完整版20170326,https://www.youtube.com/watch?v=YPPuxsE55cM
-雲林縣／EP24完整版20170402,https://www.youtube.com/watch?v=oud9ROY1NZw
-雙北市／EP25完整版20170409,https://www.youtube.com/watch?v=_rqSuV5sv6g
-苗栗縣／EP27完整版20170423,https://www.youtube.com/watch?v=M27nLGFyKo0
-新竹內灣／EP28完整版20170430,https://www.youtube.com/watch?v=Tjb4Pf02Jso
-新竹北埔／EP29完整版20170507,https://www.youtube.com/watch?v=J1xbaK6dI-c
-宜蘭縣／EP30完整版20170514,https://www.youtube.com/watch?v=wZo7FGc1Bwk
