@@ -525,19 +525,19 @@ TVBS,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4
 
 litv台灣,#genre#
 
-TVBS新聞台,http://popular-tick-65cc3b7a.koyeb.app/9.php?id=4gtv-4gtv072
-東森新聞台,http://popular-tick-65cc3b7a.koyeb.app/9.php?id=4gtv-4gtv152
-民視新聞台,http://popular-tick-65cc3b7a.koyeb.app/9.php?id=litv-ftv13
+TVBS新聞,http://popular-tick-65cc3b7a.koyeb.app/9.php?id=4gtv-4gtv072
+東森新聞,http://popular-tick-65cc3b7a.koyeb.app/9.php?id=4gtv-4gtv152
+民視新聞,http://popular-tick-65cc3b7a.koyeb.app/9.php?id=litv-ftv13
 華視新聞,http://popular-tick-65cc3b7a.koyeb.app/9.php?id=4gtv-4gtv052
 中視新聞,http://popular-tick-65cc3b7a.koyeb.app/9.php?id=4gtv-4gtv074
 台視新聞,http://popular-tick-65cc3b7a.koyeb.app/9.php?id=4gtv-4gtv051
-中天新聞台,http://popular-tick-65cc3b7a.koyeb.app/9.php?id=4gtv-4gtv009
-東森財經台,http://popular-tick-65cc3b7a.koyeb.app/9.php?id=4gtv-4gtv153
-寰宇新聞台,http://popular-tick-65cc3b7a.koyeb.app/9.php?id=litv-longturn14
-寰宇台灣台,http://popular-tick-65cc3b7a.koyeb.app/9.php?id=4gtv-4gtv156
+中天新聞,http://popular-tick-65cc3b7a.koyeb.app/9.php?id=4gtv-4gtv009
+東森財經,http://popular-tick-65cc3b7a.koyeb.app/9.php?id=4gtv-4gtv153
+寰宇新聞,http://popular-tick-65cc3b7a.koyeb.app/9.php?id=litv-longturn14
+寰宇台灣,http://popular-tick-65cc3b7a.koyeb.app/9.php?id=4gtv-4gtv156
 鏡新聞,http://popular-tick-65cc3b7a.koyeb.app/9.php?id=4gtv-4gtv075
-非凡新聞台,http://popular-tick-65cc3b7a.koyeb.app/9.php?id=4gtv-4gtv010
-非凡商業台,http://popular-tick-65cc3b7a.koyeb.app/9.php?id=4gtv-4gtv048
+非凡新聞,http://popular-tick-65cc3b7a.koyeb.app/9.php?id=4gtv-4gtv010
+非凡商業,http://popular-tick-65cc3b7a.koyeb.app/9.php?id=4gtv-4gtv048
 靖天日本台,http://popular-tick-65cc3b7a.koyeb.app/9.php?id=4gtv-4gtv047
 民視旅遊台,http://popular-tick-65cc3b7a.koyeb.app/9.php?id=litv-ftv07
 亞洲旅遊台,http://popular-tick-65cc3b7a.koyeb.app/9.php?id=4gtv-4gtv076
