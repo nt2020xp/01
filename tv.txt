@@ -94,8 +94,8 @@ TBS NEWS DIG,https://www.youtube.com/watch?v=ohI356mwBp8
 函館山夜景,https://www.youtube.com/watch?v=s--MDmshT3I
 草津温泉,https://www.youtube.com/watch?v=GrEEoEmmrKs
 草津温泉（移動式),https://www.youtube.com/watch?v=B_Sc1v1qR-g
-櫻島火山,https://www.youtube.com/watch?v=PeElJClXtzE
-富士山(芝櫻花),https://www.youtube.com/watch?v=JGyGoXlKZmw
+櫻島火山(遠看),https://www.youtube.com/watch?v=eF9PohrRP_o
+櫻島火山(近看),https://www.youtube.com/watch?v=PeElJClXtzE
 
 一休和尚,#genre#
 parse=1
