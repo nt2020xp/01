@@ -524,7 +524,7 @@ TVBS,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4
 中天亞洲,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv109
 
 
-judy,#genre#
+007台灣頻道,#genre#
 
 Arirang TV,http://docker.livednow.dpdns.org/li-4gtv-4gtv079/index.m3u8
 CLASSICA 古典樂,http://docker.livednow.dpdns.org/li-4gtv-4gtv059/index.m3u8
