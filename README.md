@@ -226,6 +226,8 @@ PG节奏熊猫发布频道 https://t.me/PandaGroovePG
 
 Tvbox接口 https://t.me/TVBoxjkou
 
+iptv研究所 https://t.me/Q_IPTV
+
 唐三 @tangsan99999
 
 聽音樂 @vkmusbot
