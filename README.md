@@ -187,21 +187,16 @@ ETHTV機上盒使用教學 https://www.tv6868.com/
 (申請)极致播放器交流群 https://t.me/jizhi00
 
 (申請)夏天影視資源交流群 
-舊的 https://t.me/atv168
 
-新的 https://t.me/mejo168
+https://t.me/mejo168
 
 點播直播交流群：https://t.me/doubebly001
 
 IPTV研究所 https://t.me/IPTV_9999999
 
-簡單iptv https://t.me/jdiptv2024
-
 唐三影視天下第一 https://t.me/+qTlg0qAVzP9kMmM1
 
 酷9群 https://t.me/Player_Ku9
-
-肥羊TV助手 https://t.me/x188766
 
 mytv https://t.me/mytv_android_channel/1
 
