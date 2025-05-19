@@ -1,5 +1,8 @@
 termux  https://d.icdown.club/repository/main/Alpine_Termux.apk
 
+最简单教程只需两步，给你的旧手机装Docker，无需root_手机安装docker
+https://blog.csdn.net/LJZxiaolongbao/article/details/139145986
+
 
 直播源 https://tv543.cc/1.json
 
