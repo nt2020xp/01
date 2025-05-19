@@ -1,3 +1,6 @@
+alpine-term  http://ghproxy.com/https://github.com/FakeRajbhx/alpine-term/releases/download/New/alpine-term-v16.0-release.apk
+
+
 直播源 https://tv543.cc/1.json
 
 https://raw.githubusercontent.com/hus888yu/app/refs/heads/main/543.php
