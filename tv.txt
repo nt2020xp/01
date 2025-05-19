@@ -526,3 +526,248 @@ TVBS,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4
 
 tv543台灣頻道,#genre#
 
+TVBS新聞,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv072
+東森新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv152
+東森新聞,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv152
+民視新聞,http://tv543.cc/litv.php?token=leifeng&id=li-litv-ftv13
+民視新聞,http://tv543.cc/litv.php?token=leifeng&id=litv-ftv13
+三立iNEWS,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live089
+三立iNEWS,http://tv543.cc/litv.php?token=leifeng&id=iNEWS
+
+中天新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv009
+中天新聞,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv009
+中天新聞,http://tv543.cc/litv.php?token=leifeng&id=of-4gtv-4gtv009
+
+華視新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv052
+華視新聞,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv052
+華視新聞,http://tv543.cc/litv.php?token=leifeng&id=of-4gtv-4gtv052
+中視新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv074
+中視新聞,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv074
+中視新聞,http://tv543.cc/litv.php?token=leifeng&id=of-4gtv-4gtv074
+台視新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv051
+台視新聞,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv051
+東森財經,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv153
+東森財經,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv153
+寰宇新聞,http://tv543.cc/litv.php?token=leifeng&id=li-litv-longturn14
+寰宇新聞,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn14
+寰宇新聞,http://tv543.cc/litv.php?token=leifeng&id=of-litv-longturn14
+寰宇台灣,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv156
+寰宇台灣,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv156
+寰宇台灣,http://tv543.cc/litv.php?token=leifeng&id=of-4gtv-4gtv156
+寰宇財經,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv158
+寰宇財經,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv158
+寰宇財經,http://tv543.cc/litv.php?token=leifeng&id=of-4gtv-4gtv158
+鏡新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv075
+鏡新聞,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv075
+非凡新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv010
+非凡商業,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv048
+
+華視,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv041
+華視,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv041
+華視,http://tv543.cc/litv.php?token=leifeng&id=of-4gtv-4gtv041
+中視,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv040
+中視,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv040
+中視,http://tv543.cc/litv.php?token=leifeng&id=of-4gtv-4gtv040
+台視,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv066
+台視,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv066
+民視,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv002
+
+民視旅遊,http://tv543.cc/litv.php?token=leifeng&id=li-litv-ftv07
+民視旅遊,http://tv543.cc/litv.php?token=leifeng&id=litv-ftv07
+亞洲旅遊,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv076
+亞洲旅遊,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv076
+亞洲旅遊,http://tv543.cc/litv.php?token=leifeng&id=of-4gtv-4gtv076
+ELTA生活旅遊,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live120
+Smart知識台,http://tv543.cc/litv.php?token=leifeng&id=li-litv-longturn19
+Smart知識台,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn19
+霹靂布袋戲,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live145
+
+靖天日本,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv047
+靖天日本,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv047
+靖天卡通,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv044
+靖天卡通,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv044
+靖天育樂,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv062
+靖天育樂,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv062
+靖天映畫,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv055
+靖天映畫,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv055
+靖天國際,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv063
+靖天國際,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv063
+靖天資訊,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv065
+靖天資訊,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv065
+靖天電影,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv061
+靖天電影,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv061
+靖天綜合,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv046
+靖天綜合,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv046
+靖天戲劇,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv058
+靖天戲劇,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv058
+靖天歡樂,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv054
+靖天歡樂,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv054
+靖洋卡通,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv057
+靖洋卡通,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv057
+靖洋戲劇,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv045
+靖洋戲劇,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv045
+
+龍華日韓,http://tv543.cc/litv.php?token=leifeng&id=li-litv-longturn11
+龍華日韓,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn11
+龍華卡通,http://tv543.cc/litv.php?token=leifeng&id=li-litv-longturn01
+龍華卡通,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn01
+龍華洋片,http://tv543.cc/litv.php?token=leifeng&id=li-litv-longturn02
+龍華洋片,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn02
+龍華偶像,http://tv543.cc/litv.php?token=leifeng&id=li-litv-longturn12
+龍華偶像,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn12
+龍華經典,http://tv543.cc/litv.php?token=leifeng&id=li-litv-longturn21
+龍華經典,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn21
+龍華電影,http://tv543.cc/litv.php?token=leifeng&id=li-litv-longturn03
+龍華電影,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn03
+龍華戲劇,http://tv543.cc/litv.php?token=leifeng&id=li-litv-longturn18
+龍華戲劇,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn18
+
+采昌影劇,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv049
+采昌影劇,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv049
+ELTA娛樂,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv070
+ELTA娛樂,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv070
+
+amc 電影台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv017
+amc 電影台,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv017
+影迷數位電影台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv011
+影迷數位電影台,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv011
+
+歷史頻道,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live026
+中視菁采台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv064
+中視菁采台,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv064
+中視經典台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv080
+中視經典台,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv080
+LOVE NATURE,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live208
+Nick Jr.,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live032
+Nickelodeon,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live105
+
+Arirang TV,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv079
+Arirang TV,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv079
+BLOOMBERG TV,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live059
+CI 罪案偵查頻道,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live027
+Cinema World,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live069
+CLASSICA 古典樂,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv059
+CLASSICA 古典樂,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv059
+CNBC Asia 財經台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live130
+DreamWorks,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live017
+DW德國之聲,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live071
+ELTV生活英語台,http://tv543.cc/litv.php?token=leifeng&id=li-litv-longturn20
+ELTV生活英語台,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn20
+ELTV生活英語台,http://tv543.cc/litv.php?token=leifeng&id=of-litv-longturn20
+FRANCE24 英文台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live146
+FUN 4K探索娛樂,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live011
+GINX Esports TV,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv053
+GINX Esports TV,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv053
+Global Trekker,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live112
+HITS,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live620
+INULTRA,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live096
+Lifetime,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live029
+LiveABC 互動英語台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live030
+LUXE TV,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live121
+MagellanTV頻道,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live123
+MEZZO LIVE HD,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv083
+MEZZO LIVE HD,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv083
+MOMO親子,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live107
+MTV Live,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live025
+Pet Club TV,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live110
+ROCK Action,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live138
+ROCK Entertainment,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live080
+SBN 全球財經台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live060
+TRACE Sport Stars,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv077
+TRACE Sport Stars,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv077
+Trace Urban,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv082
+Trace Urban,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv082
+TV5MONDE Style,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live122
+TVBS HD,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv073
+TVBS HD,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv073
+TVBS台劇台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live088
+TVBS精采台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv067
+TVBS精采台,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv067
+TVBS綜藝台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live087
+TVBS歡樂台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv068
+TVBS歡樂台,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv068
+VOA 美國之音,http://tv543.cc/litv.php?token=leifeng&id=li-litv-ftv03
+VOA 美國之音,http://tv543.cc/litv.php?token=leifeng&id=litv-ftv03
+人間衛視,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live008
+八大精彩,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv034
+八大精彩,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv034
+八大綜藝,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv039
+八大綜藝,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv039
+三立綜合合,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live207
+大愛二台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live106
+大愛電視,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live007
+中天亞洲台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv109
+公視戲劇,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv042
+公視戲劇,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv042
+半島國際新聞台,http://tv543.cc/litv.php?token=leifeng&id=li-litv-ftv10
+半島國際新聞台,http://tv543.cc/litv.php?token=leifeng&id=litv-ftv10
+台視財經台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv056
+台灣戲劇台,http://tv543.cc/litv.php?token=leifeng&id=li-litv-longturn22
+台灣戲劇台,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn22
+民視台灣台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv001
+民視台灣台,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv001
+民視第一台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv003
+民視第一台,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv003
+民視綜藝,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv004
+民視綜藝,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv004
+民視影劇,http://tv543.cc/litv.php?token=leifeng&id=li-litv-ftv09
+民視影劇,http://tv543.cc/litv.php?token=leifeng&id=litv-ftv09
+好消息,http://tv543.cc/litv.php?token=leifeng&id=li-litv-ftv16
+好消息,http://tv543.cc/litv.php?token=leifeng&id=litv-ftv16
+好消息,http://tv543.cc/litv.php?token=leifeng&id=of-litv-ftv16
+好消息2台,http://tv543.cc/litv.php?token=leifeng&id=li-litv-ftv17
+好消息2台,http://tv543.cc/litv.php?token=leifeng&id=litv-ftv17
+好消息2台,http://tv543.cc/litv.php?token=leifeng&id=of-litv-ftv17
+車迷 TV,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live201
+幸福空間居家台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live206
+東森購物一台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv102
+東森購物一台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live047
+東森購物一台,http://tv543.cc/litv.php?token=leifeng&id=of-4gtv-4gtv102
+東森購物二台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv103
+東森購物二台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live046
+東森購物二台,http://tv543.cc/litv.php?token=leifeng&id=of-4gtv-4gtv103
+東森購物三台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live048
+東森購物四台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live049
+金光布袋戲,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live144
+客家電視,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv043
+客家電視,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv043
+原住民族電視台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live014
+時尚運動X,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv014
+時尚運動X,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv014
+國會頻道1,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv084
+國會頻道1,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv084
+國會頻道1,http://tv543.cc/litv.php?token=leifeng&id=of-4gtv-4gtv084
+國會頻道2,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv085
+國會頻道2,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv085
+國會頻道2,http://tv543.cc/litv.php?token=leifeng&id=of-4gtv-4gtv085
+第1商業台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv104
+第1商業台,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv104
+博斯高球I,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn05
+博斯高球II,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn06
+博斯無限I,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn10
+博斯無限II,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn13
+博斯運動I,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn07
+博斯運動II,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn08
+博斯網球,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn09
+博斯魅力,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn04
+智林體育,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv101
+智林體育,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv101
+視納華仁紀實頻道,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv013
+視納華仁紀實頻道,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv013
+新唐人亞太台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live050
+經典卡通台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live022
+經典電影台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live021
+達文西,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv018
+達文西,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv018
+電影原聲台 CMusic,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live031
+滾動力 Rollor,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live012
+精選動漫台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live024
+影迷數位紀實台,http://tv543.cc/litv.php?token=leifeng&id=li-litv-ftv15
+影迷數位紀實台,http://tv543.cc/litv.php?token=leifeng&id=litv-ftv15
+歐洲光影,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live157
+豬哥亮歌廳秀,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv006
+豬哥亮歌廳秀,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv006
+戲劇免費看1台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-live010
+韓國娛樂台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv016
+韓國娛樂台,http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv016
+
