@@ -424,7 +424,6 @@ TVBS新聞,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv072/index.m3u8
 民視新聞,http://4gtv.livednow.dpdns.org/li-litv-ftv13/index.m3u8
 民視新聞,http://4gtv.livednow.dpdns.org/litv-ftv13/index.m3u8
 
-X華視新聞,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv052/index.m3u8
 中視新聞,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv074/index.m3u8
 台視新聞,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv051/index.m3u8
 
@@ -459,6 +458,7 @@ Smart知識台,http://4gtv.livednow.dpdns.org/li-litv-longturn19/index.m3u8
 龍華電影,http://4gtv.livednow.dpdns.org/li-litv-longturn03/index.m3u8
 龍華戲劇,http://4gtv.livednow.dpdns.org/li-litv-longturn18/index.m3u8
 
+
 TVBS HD,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv073/index.m3u8
 TVBS精采台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv067/index.m3u8
 TVBS歡樂台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv068/index.m3u8
@@ -466,6 +466,16 @@ TVBS歡樂台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv068/index.m3u8
 中天新聞台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv009/index.m3u8
 中視菁采台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv064/index.m3u8
 中視經典台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv080/index.m3u8
+影迷數位紀實台,http://4gtv.livednow.dpdns.org/li-litv-ftv15/index.m3u8
+影迷數位電影台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv011/index.m3u8
+
+
+寰宇新聞,http://4gtv.livednow.dpdns.org/li-litv-longturn14/index.m3u8
+寰宇台灣,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv156/index.m3u8
+寰宇財經,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv158/index.m3u8
+鏡新聞,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv075/index.m3u8
+非凡商業,http://4gtv.livednow.dpdns.org/4gtv-4gtv048/index.m3u8
+非凡新聞,http://4gtv.livednow.dpdns.org/4gtv-4gtv010/index.m3u8
 
 民視台灣台,http://4gtv.livednow.dpdns.org/4gtv-4gtv001/index.m3u8
 民視台灣台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv001/index.m3u8
@@ -477,15 +487,8 @@ TVBS歡樂台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv068/index.m3u8
 民視影劇,http://4gtv.livednow.dpdns.org/litv-ftv09/index.m3u8
 東森財經新聞,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv153/index.m3u8
 采昌影劇,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv049/index.m3u8
-非凡商業,http://4gtv.livednow.dpdns.org/4gtv-4gtv048/index.m3u8
-非凡新聞,http://4gtv.livednow.dpdns.org/4gtv-4gtv010/index.m3u8
+
 視納華仁紀實頻道,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv013/index.m3u8
 經典電影台,http://4gtv.livednow.dpdns.org/4gtv-live021/index.m3u8
 達文西,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv018/index.m3u8
-影迷數位紀實台,http://4gtv.livednow.dpdns.org/li-litv-ftv15/index.m3u8
-影迷數位電影台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv011/index.m3u8
-寰宇財經,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv158/index.m3u8
-寰宇新聞,http://4gtv.livednow.dpdns.org/li-litv-longturn14/index.m3u8
-寰宇新聞台灣台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv156/index.m3u8
-鏡電視新聞台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv075/index.m3u8
 
