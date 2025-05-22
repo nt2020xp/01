@@ -419,12 +419,12 @@ parse=1
 
 judy直播源,#genre#
 
-TVBS新聞台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv072/index.m3u8
+TVBS新聞,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv072/index.m3u8
 東森新聞,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv152/index.m3u8
 民視新聞,http://4gtv.livednow.dpdns.org/li-litv-ftv13/index.m3u8
 民視新聞,http://4gtv.livednow.dpdns.org/litv-ftv13/index.m3u8
 
-華視新聞,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv052/index.m3u8
+X華視新聞,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv052/index.m3u8
 中視新聞,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv074/index.m3u8
 台視新聞,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv051/index.m3u8
 
