@@ -1,3 +1,5 @@
+ofiii直播源  http://138.2.105.199:50005/Sub.m3u?proxy=true
+
 termux  https://d.icdown.club/repository/main/Alpine_Termux.apk
 
 最简单教程只需两步，给你的旧手机装Docker，无需root_手机安装docker
