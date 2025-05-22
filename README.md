@@ -1,6 +1,6 @@
 
 
-4gtv直播源  [http://138.2.105.199:50005/Sub.m3u?proxy=true](http://tv543.cc/4gtv.m3u)
+4gtv直播源 http://tv543.cc/4gtv.m3u
 
 termux  https://d.icdown.club/repository/main/Alpine_Termux.apk
 
