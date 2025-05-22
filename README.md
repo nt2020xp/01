@@ -2,6 +2,8 @@
 
 4gtv直播源 http://tv543.cc/4gtv.m3u
 
+4gtv直播源 https://fanmingming.com/txt?url=http://tv543.cc/4gtv.m3u
+
 termux  https://d.icdown.club/repository/main/Alpine_Termux.apk
 
 最简单教程只需两步，给你的旧手机装Docker，无需root_手机安装docker
