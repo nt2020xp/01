@@ -73,6 +73,9 @@ CatchPlay電影M,udp://@230.1.2.37:11111
 10科教,http://sport.pendy.dpdns.org/migu/624878405?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 13新聞,http://sport.pendy.dpdns.org/migu/608807423?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 
+飢餓遊戲》點閱人氣榜,https://www.youtube.com/watch?v=fPQpWDmfMso
+飢餓遊戲》一次播到飽,https://www.youtube.com/watch?v=A98LJq71BZg
+
 日本新聞,#genre#
 
 JapaNews24,https://www.youtube.com/live/coYw-eVU0Ks?si=a_SrIlnGwcXNuiNu
