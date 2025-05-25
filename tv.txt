@@ -47,6 +47,7 @@ TVBS新聞L,http://8964.koyeb.app/8964.php?id=4gtv-4gtv072
 亞洲旅遊台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv076
 愛爾達生活旅遊,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live120/index.m3u8
 Smart知識台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn19
+霹靂布袋戲,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live145/index.m3u8
 
 
 卡通頻道,#genre#
