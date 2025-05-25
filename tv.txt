@@ -49,6 +49,7 @@ Smart知識台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng
 
 
 卡通頻道,#genre#
+東森幼幼,https://smart.pendy.dpdns.org/Smart.php?id=yoyo_twn
 
 CBeebiesM,udp://@224.1.4.213:11111
 CBeebiesM,udp://@224.1.4.75:11111
