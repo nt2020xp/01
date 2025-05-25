@@ -1,3 +1,7 @@
+直播源  http://晓峰.azip.dpdns.org:5008/?type=m3u
+
+直播源 https://fanmingming.com/txt?url=http://晓峰.azip.dpdns.org:5008/?type=m3u
+
 直播源 https://fanmingming.com/txt?url=https://smart.pendy.dpdns.org/m3u/merged_judy.m3u
 
 
