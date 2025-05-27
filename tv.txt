@@ -45,10 +45,7 @@ TVBS新聞L,http://8964.koyeb.app/8964.php?id=4gtv-4gtv072
 
 民視旅遊台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv07
 亞洲旅遊台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv076
-愛爾達生活旅遊,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live120/index.m3u8
 Smart知識台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn19
-霹靂布袋戲,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live145/index.m3u8
-
 
 卡通頻道,#genre#
 東森幼幼,https://smart.pendy.dpdns.org/Smart.php?id=yoyo_twn
@@ -72,12 +69,6 @@ CatchPlay電影M,udp://@230.1.2.37:11111
 中視,rtmp://f13h.mine.nu/sat/tv091
 台視,rtmp://f13h.mine.nu/sat/tv071
 民視,rtmp://f13h.mine.nu/sat/tv051
-
-9記錄,http://sport.pendy.dpdns.org/migu/673168140?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-10科教,http://sport.pendy.dpdns.org/migu/624878405?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-13新聞,http://sport.pendy.dpdns.org/migu/608807423?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-
-
 
 日本新聞,#genre#
 
