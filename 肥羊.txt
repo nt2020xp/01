@@ -1,3 +1,4 @@
+肥羊頻道,#genre#
 
 cctv4k,https://nptv.freetv.top/nptv/cctv4k.m3u8
 cctv8k,https://nptv.freetv.top/nptv/cctv8k.m3u8
