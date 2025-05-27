@@ -2,8 +2,8 @@
 
 cctv4k,https://nptv.freetv.top/nptv/cctv4k.m3u8
 cctv8k,https://nptv.freetv.top/nptv/cctv8k.m3u8
-cctv1,https://nptv.freetv.top/nptv/cctv1.m3u8
-cctv2,https://nptv.freetv.top/nptv/cctv2.m3u8
+1綜合,https://nptv.freetv.top/nptv/cctv1.m3u8
+2財經,https://nptv.freetv.top/nptv/cctv2.m3u8
 cctv3,https://nptv.freetv.top/nptv/cctv3.m3u8
 cctv4,https://nptv.freetv.top/nptv/cctv4.m3u8
 cctv5,https://nptv.freetv.top/nptv/cctv5.m3u8
@@ -11,11 +11,11 @@ cctv5p,https://nptv.freetv.top/nptv/cctv5p.m3u8
 cctv6,https://nptv.freetv.top/nptv/cctv6.m3u8
 cctv7,https://nptv.freetv.top/nptv/cctv7.m3u8
 cctv8,https://nptv.freetv.top/nptv/cctv8.m3u8
-cctv9,https://nptv.freetv.top/nptv/cctv9.m3u8
-cctv10,https://nptv.freetv.top/nptv/cctv10.m3u8
+9紀錄,https://nptv.freetv.top/nptv/cctv9.m3u8
+10科教,https://nptv.freetv.top/nptv/cctv10.m3u8
 cctv11,https://nptv.freetv.top/nptv/cctv11.m3u8
 cctv12,https://nptv.freetv.top/nptv/cctv12.m3u8
-cctv13,https://nptv.freetv.top/nptv/cctv13.m3u8
+13新聞,https://nptv.freetv.top/nptv/cctv13.m3u8
 cctv14,https://nptv.freetv.top/nptv/cctv14.m3u8
 cctv15,https://nptv.freetv.top/nptv/cctv15.m3u8
 cctv16,https://nptv.freetv.top/nptv/cctv16.m3u8
