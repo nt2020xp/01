@@ -212,9 +212,7 @@ ETHTV機上盒使用教學 https://www.tv6868.com/
 
 (申請)极致播放器交流群 https://t.me/jizhi00
 
-(申請)夏天影视资源交流
-
-https://t.me/mejo888
+(申請)夏天影视资源交流 https://t.me/mejo888
 
 點播直播交流群：https://t.me/doubebly001
 
