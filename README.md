@@ -1,3 +1,9 @@
+micky bells:
+https://smart.pendy.dpdns.org/m3u/merged_judy.m3u
+
+https://nptv.freetv.top/juhe.m3u
+
+
 1綜合,http://sport.pendy.dpdns.org/migu/608807420?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 
 2財經,http://sport.pendy.dpdns.org/migu/631780532?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
