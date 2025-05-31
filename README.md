@@ -1,4 +1,9 @@
-micky bells:
+
+4gtv直播源 https://fanmingming.com/txt?url=https://smart.pendy.dpdns.org/m3u/merged_judy.m3u
+
+肥羊直播源  https://fanmingming.com/txt?url=https://nptv.freetv.top/juhe.m3u
+
+
 https://smart.pendy.dpdns.org/m3u/merged_judy.m3u
 
 https://nptv.freetv.top/juhe.m3u
