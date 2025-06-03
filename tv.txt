@@ -62,6 +62,7 @@ Smart知識台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng
 
 东森幼幼,p3p://167.114.175.6:55331/62c9a6bb000ac34dc6a767036c5f3878
 
+CN卡通,p3p://167.114.175.6:55331/61ded38e000d52023d43f93e0ee00012
 
 CBeebiesM,udp://@224.1.4.213:11111
 CBeebiesM,udp://@224.1.4.75:11111
