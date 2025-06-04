@@ -11,7 +11,6 @@ TVBS新聞L,http://8964.koyeb.app/4gtv-4gtv072/index.m3u8
 華視新聞L,http://8964.koyeb.app/4gtv-4gtv052/index.m3u8
 中視新聞L,http://8964.koyeb.app/4gtv-4gtv074/index.m3u8
 台視新聞L,http://8964.koyeb.app/4gtv-4gtv051/index.m3u8
-CCTV4中文國際,https://www.youtube.com/watch?v=SdzewdkJa-o
 
 瑞芳九份,https://www.youtube.com/watch?v=XSD5ptYisw8
 象山看台北,https://www.youtube.com/watch?v=z_fY1pj1VBw
