@@ -1,39 +1,16 @@
+直播源  https://fanmingming.com/txt?url=https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/8964.m3u
 
 4gtv直播源 https://fanmingming.com/txt?url=https://smart.pendy.dpdns.org/m3u/merged_judy.m3u
 
 肥羊直播源  https://fanmingming.com/txt?url=https://nptv.freetv.top/juhe.m3u
 
-
 https://smart.pendy.dpdns.org/m3u/merged_judy.m3u
 
 https://nptv.freetv.top/juhe.m3u
 
-
-1綜合,http://sport.pendy.dpdns.org/migu/608807420?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-
-2財經,http://sport.pendy.dpdns.org/migu/631780532?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-
-9記錄,http://sport.pendy.dpdns.org/migu/673168140?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-
-10科教,http://sport.pendy.dpdns.org/migu/624878405?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-
-13新聞,http://sport.pendy.dpdns.org/migu/608807423?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-
-ELTA生活旅遊,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live120/index.m3u8
-
-霹靂布袋戲,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live145/index.m3u8
-
-直播源  http://晓峰.azip.dpdns.org:5008/?type=m3u
-
 直播源 https://fanmingming.com/txt?url=http://晓峰.azip.dpdns.org:5008/?type=m3u
 
 直播源 https://fanmingming.com/txt?url=https://smart.pendy.dpdns.org/m3u/merged_judy.m3u
-
-
-
-4gtv直播源 http://tv543.cc/4gtv.m3u
-
-4gtv直播源 https://fanmingming.com/txt?url=http://tv543.cc/4gtv.m3u
 
 termux  https://d.icdown.club/repository/main/Alpine_Termux.apk
 
