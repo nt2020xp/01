@@ -4,127 +4,20 @@
 
 肥羊直播源  https://fanmingming.com/txt?url=https://nptv.freetv.top/juhe.m3u
 
-https://smart.pendy.dpdns.org/m3u/merged_judy.m3u
-
-https://nptv.freetv.top/juhe.m3u
-
-直播源 https://fanmingming.com/txt?url=http://晓峰.azip.dpdns.org:5008/?type=m3u
-
-直播源 https://fanmingming.com/txt?url=https://smart.pendy.dpdns.org/m3u/merged_judy.m3u
-
 termux  https://d.icdown.club/repository/main/Alpine_Termux.apk
 
-最简单教程只需两步，给你的旧手机装Docker，无需root_手机安装docker
-https://blog.csdn.net/LJZxiaolongbao/article/details/139145986
-
-hus888yu  https://github.com/hus888yu/app
-
-直播源 https://tv543.cc/1.json
-
-543  https://github.com/hus888yu/app/blob/main/543.php
-
-543  https://raw.githubusercontent.com/hus888yu/app/refs/heads/main/543.php
-
-543  https://github.com/hus888yu/app/blob/main/543.m3u
-
-543  https://raw.githubusercontent.com/hus888yu/app/refs/heads/main/543.m3u
-
-
-
-【飢餓遊戲速遞HD】 完整版 https://www.youtube.com/playlist?list=PLs5FSlhHyQb7YrSuEZZo906rcuu2v-1J1
-
-
-
 直播源   http://docker.livednow.dpdns.org/?type=m3u
-
 
 18 http://www.fish2018.ip-ddns.com/p/jsm.json
 
 m3utxt  http://sankei.mo/z.html
 
-
 webview  https://ghfast.top/https://raw.githubusercontent.com/yaoxieyoulei/YYKM_assets/main/webview.m3u
 
 serv00直播,https://a90120.serv00.net/anbox/p3plink.txt
 
-https://github.com/alantang1977/X/blob/8f8026a1ace0ec525d6042fe6c134d508e0c4c24/X.json
-===========
-
-{
-  "lives": [
-    {
-      "name": "LITV直播(python)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_litv.py",
-      "ext": {}
-    }
-  ]
-}
-
-==========
-
-{
-  "lives": [
-    {
-      "name": "SMT直播(python)",
-      "type": 3,
-      "api": "./live_smt.py",
-      "ext": {}
-    }
-  ]
-}
-
-========
-
-smart https://smart.pendy.dpdns.org/m3u/Smart.m3u
-
-
-judy  https://smart.pendy.dpdns.org/judy.json
-
-
-===========
-{
-     "lives": [
-  {
-    "name": "4GTV - 台湾",
-    "url": "http://docker.livednow.dpdns.org/?type=m3u",
-    "ua": "judy/5.2.1"
-  },
-  {
-    "name": "香港视频 - 安卓",
-    "url": "https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u",
-    "ua": "judy/5.2.1"
-  },
-  {
-    "name": "「咪咕」体育",
-    "url": "https://smart.pendy.dpdns.org/m3u/judy.m3u",
-    "ua": "judy/5.2.1"
-  }
-]
-}
-
-===============
-
-https://fanmingming.com/txt?url=https://www.pantxt.top/f/Z4kHQ/1.m3u
-
-https://fanmingming.com/txt?url=https://china8964.koyeb.app/tv.m3u
-
-http://docker.livednow.dpdns.org/?type=m3u
-
-https://fanmingming.com/txt?url=http://docker.livednow.dpdns.org/?type=m3u
-
-https://fanmingming.com/txt?url=https://5678.koyeb.app//tv.m3u
 
 "ads": ["static-mozai.4gtv.tv","mozai.4gtv.tv"]
-
-SMT影视直播订阅(需翻)：
-
-https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/smt.json
-
-
-:50007/4gtv-4gtv152/index.m3u8
-
-自然傳奇  https://tv.cctv.com/lm/zrcq/index.shtml?spm=C28340.PUdOXeMUrKth.S99516.146
 
 ===================================
 
@@ -136,37 +29,11 @@ echo "$value[3],","$base_url/tv.php?token=" . urlencode($SECRET_TOKEN) . "&id=" 
 
 ============
 
-tvbox解密 https://ua.fongmi.eu.org
-
-===========
-
-2財經 https://tv.cctv.com/live/cctv2
-
-9紀錄 https://tv.cctv.com/live/cctvjilu/
-
-10科教 https://tv.cctv.com/live/cctv10
-
-13新聞 https://tv.cctv.com/live/cctv13
-
-===============================================
-
 蜂蜜影視或 ok 影視 點播 直播
 
 https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
 
 ======================
-
-央視 https://github.com/qist/tvbox/blob/master/jsm.json
-
-央視 https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
-
-"ads":["static-mozai.4gtv.tv","mozai.4gtv.tv"]}
-
-"ads": [ "static-mozai.4gtv.tv","mozai.4gtv.tv"
-
-tvbox解密 https://ua.fongmi.eu.org
-
-黑鳥直播源列表格式轉換 https://guihet.com/tvlistconvert.html
 
 4gtv豪華頻道餐,https://www.4gtv.tv/channel?channelSet_id=1
 
@@ -183,10 +50,6 @@ CCTV直播,https://tv.cctv.com/live
 安博機上盒使用教學 https://ub6789.com
 
 小雲機上盒使用教學 https://6868c.cc
-
-易播機上盒使用教學 https://6868jx.com
-
-ETHTV機上盒使用教學 https://www.tv6868.com/
 
 享悅機上盒使用教學 http://43066.cc
 
