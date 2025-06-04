@@ -103,34 +103,18 @@ Tvbox接口 https://t.me/TVBoxjkou
 
 iptv研究所 https://t.me/Q_IPTV
 
-唐三 @tangsan99999
+================
 
 聽音樂 @vkmusbot
 
-@jizhi333
-
 @LookOnbot 機器人
-
-@iWuMingBot 無名
-
-@tuntun0
-
-@beatsing 必勝群管理
-
-夏天 @eiogd
 
 @newallinone_bot
 
 ALLINONE部署指令生成器 https://imgtool.v1.mk/allinone.html
 
-EPG機器人 @myepg_bot
-
-
 恩山訂閱 @NodeRSS_bot
 
 /sub https://www.right.com.cn/forum/forum.php?mod=rss&fid=182
-
-services: allinone: image: youshandefeiyang/allinone container_name: allinone privileged: true restart: always ports: - "35455:35455" network_mode: bridge command: -tv=true -aesKey=dbinlpvt2bx5wfqgz484cz49gv4ntxyb -userid=8176560637 -token=943e24c029969bd247581a18cfe31df8691293f7ebfcb320ccd2c438a3bb6a1f372583559bfd4346ac9df4dc0031d4a4d207f0e1c979c425bda120a9f7fd8b43cc94e5e489d670
-
 
 tg delete https://my.telegram.org/auth
