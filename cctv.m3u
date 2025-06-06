@@ -1,0 +1,112 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="央視",CCTV4K
+webview://https://www.yangshipin.cn/tv/home?pid=600002264
+#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.cn/tv/CCTV8K.png" group-title="央視",CCTV8K
+webview://https://www.yangshipin.cn/tv/home?pid=600156816
+#EXTINF:-1 tvg-name="1綜合" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央視",1綜合
+webview://https://tv.cctv.com/live/cctv1
+#EXTINF:-1 tvg-name="2財經" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央視",2財經
+webview://https://tv.cctv.com/live/cctv2
+#EXTINF:-1 tvg-name="3綜藝" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央視",3綜藝
+webview://https://tv.cctv.com/live/cctv3
+#EXTINF:-1 tvg-name="4亞洲" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央視",4亞洲
+webview://https://tv.cctv.com/live/cctv4
+#EXTINF:-1 tvg-name="4歐洲" tvg-logo="https://live.fanmingming.cn/tv/CCTV4欧洲.png" group-title="央視",4歐洲
+webview://https://tv.cctv.com/live/cctveurope/index.shtml
+#EXTINF:-1 tvg-name="4美洲" tvg-logo="https://live.fanmingming.cn/tv/CCTV4美洲.png" group-title="央視",4美洲
+webview://https://tv.cctv.com/live/cctvamerica
+#EXTINF:-1 tvg-name="5體育" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央視",5體育
+webview://https://tv.cctv.com/live/cctv5
+#EXTINF:-1 tvg-name="5+體育賽事" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="央視",5+體育賽事
+webview://https://tv.cctv.com/live/cctv5plus
+#EXTINF:-1 tvg-name="6電影" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央視",6電影
+webview://https://tv.cctv.com/live/cctv6
+#EXTINF:-1 tvg-name="7國防軍事" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央視",7國防軍事
+webview://https://tv.cctv.com/live/cctv7
+#EXTINF:-1 tvg-name="8電視劇" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="央視",8電視劇
+webview://https://tv.cctv.com/live/cctv8
+#EXTINF:-1 tvg-name="9紀錄" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央視",9紀錄
+webview://https://tv.cctv.com/live/cctvjilu
+#EXTINF:-1 tvg-name="10科教" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="央視",10科教
+webview://https://tv.cctv.com/live/cctv10
+#EXTINF:-1 tvg-name="11戲曲" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="央視",11戲曲
+webview://https://tv.cctv.com/live/cctv11
+#EXTINF:-1 tvg-name="12社會與法" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="央視",12社會與法
+webview://https://tv.cctv.com/live/cctv12
+#EXTINF:-1 tvg-name="13新聞" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="央視",13新聞
+webview://https://tv.cctv.com/live/cctv13
+#EXTINF:-1 tvg-name="14少兒" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="央視",14少兒
+webview://https://tv.cctv.com/live/cctvchild
+#EXTINF:-1 tvg-name="15音樂" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="央視",15音樂
+webview://https://tv.cctv.com/live/cctv15
+#EXTINF:-1 tvg-name="16奧林匹克" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央視",16奧林匹克
+webview://https://tv.cctv.com/live/cctv16
+#EXTINF:-1 tvg-name="17農業農村" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央視",17農業農村
+webview://https://tv.cctv.com/live/cctv17
+#EXTINF:-1 tvg-name="江蘇衛視" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="衛視",江蘇衛視
+webview://https://yangshipin.cn/tv/home?pid=600002521
+#EXTINF:-1 tvg-name="浙江衛視" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="衛視",浙江衛視
+webview://https://yangshipin.cn/tv/home?pid=600002520
+#EXTINF:-1 tvg-name="湖南衛視" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="衛視",湖南衛視
+webview://https://yangshipin.cn/tv/home?pid=600002475
+#EXTINF:-1 tvg-name="北京衛視" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="衛視",北京衛視
+webview://https://yangshipin.cn/tv/home?pid=600002309
+#EXTINF:-1 tvg-name="東方衛視" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="衛視",東方衛視
+webview://https://yangshipin.cn/tv/home?pid=600002483
+#EXTINF:-1 tvg-name="山西衛視" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="衛視",山西衛視
+webview://https://yangshipin.cn/tv/home?pid=600190407
+#EXTINF:-1 tvg-name="山東衛視" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="衛視",山東衛視
+webview://https://yangshipin.cn/tv/home?pid=600002513
+#EXTINF:-1 tvg-name="天津衛視" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="衛視",天津衛視
+webview://https://yangshipin.cn/tv/home?pid=600152137
+#EXTINF:-1 tvg-name="四川衛視" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="衛視",四川衛視
+webview://https://yangshipin.cn/tv/home?pid=600002516
+#EXTINF:-1 tvg-name="甘肅衛視" tvg-logo="https://live.fanmingming.cn/tv/甘肃卫视.png" group-title="衛視",甘肅衛視
+webview://https://yangshipin.cn/tv/home?pid=600190408
+#EXTINF:-1 tvg-name="吉林衛視" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视.png" group-title="衛視",吉林衛視
+webview://https://yangshipin.cn/tv/home?pid=600190405
+#EXTINF:-1 tvg-name="安徽衛視" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="衛視",安徽衛視
+webview://https://yangshipin.cn/tv/home?pid=600002532
+#EXTINF:-1 tvg-name="江西衛視" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png" group-title="衛視",江西衛視
+webview://https://yangshipin.cn/tv/home?pid=600002503
+#EXTINF:-1 tvg-name="西藏衛視" tvg-logo="https://live.fanmingming.cn/tv/西藏卫视.png" group-title="衛視",西藏衛視
+webview://https://yangshipin.cn/tv/home?pid=600190403
+#EXTINF:-1 tvg-name="兵團衛視" tvg-logo="https://live.fanmingming.cn/tv/兵团卫视.png" group-title="衛視",兵團衛視
+webview://https://yangshipin.cn/tv/home?pid=600193252
+#EXTINF:-1 tvg-name="東南衛視" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="衛視",東南衛視
+webview://https://yangshipin.cn/tv/home?pid=600002484
+#EXTINF:-1 tvg-name="河北衛視" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png" group-title="衛視",河北衛視
+webview://https://yangshipin.cn/tv/home?pid=600002493
+#EXTINF:-1 tvg-name="河南衛視" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="衛視",河南衛視
+webview://https://yangshipin.cn/tv/home?pid=600002525
+#EXTINF:-1 tvg-name="青海衛視" tvg-logo="https://live.fanmingming.cn/tv/青海卫视.png" group-title="衛視",青海衛視
+webview://https://yangshipin.cn/tv/home?pid=600190406
+#EXTINF:-1 tvg-name="贵州衛視" tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png" group-title="衛視",贵州衛視
+webview://https://yangshipin.cn/tv/home?pid=600002490
+#EXTINF:-1 tvg-name="重慶衛視" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="衛視",重慶衛視
+webview://https://yangshipin.cn/tv/home?pid=600002531
+#EXTINF:-1 tvg-name="海南衛視" tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png" group-title="衛視",海南衛視
+webview://https://yangshipin.cn/tv/home?pid=600002506
+#EXTINF:-1 tvg-name="陝西衛視" tvg-logo="https://live.fanmingming.cn/tv/陕西卫视.png" group-title="衛視",陝西衛視
+webview://https://yangshipin.cn/tv/home?pid=600190400
+#EXTINF:-1 tvg-name="深圳衛視" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="衛視",深圳衛視
+webview://https://yangshipin.cn/tv/home?pid=600002481
+#EXTINF:-1 tvg-name="湖北衛視" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="衛視",湖北衛視
+webview://https://yangshipin.cn/tv/home?pid=600002508
+#EXTINF:-1 tvg-name="雲南衛視" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="衛視",雲南衛視
+webview://https://yangshipin.cn/tv/home?pid=600190402
+#EXTINF:-1 tvg-name="新疆衛視" tvg-logo="https://live.fanmingming.cn/tv/新疆卫视.png" group-title="衛視",新疆衛視
+webview://https://yangshipin.cn/tv/home?pid=600152138
+#EXTINF:-1 tvg-name="寧夏衛視" tvg-logo="https://live.fanmingming.cn/tv/宁夏卫视.png" group-title="衛視",寧夏衛視
+webview://https://yangshipin.cn/tv/home?pid=600190737
+#EXTINF:-1 tvg-name="廣西衛視" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png" group-title="衛視",廣西衛視
+webview://https://yangshipin.cn/tv/home?pid=600002509
+#EXTINF:-1 tvg-name="廣東衛視" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="衛視",廣東衛視
+webview://https://yangshipin.cn/tv/home?pid=600002485
+#EXTINF:-1 tvg-name="遼寧衛視" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="衛視",遼寧衛視
+webview://https://yangshipin.cn/tv/home?pid=600002505
+#EXTINF:-1 tvg-name="内蒙古衛視" tvg-logo="https://live.fanmingming.cn/tv/内蒙古卫视.png" group-title="衛視",内蒙古衛視
+webview://https://yangshipin.cn/tv/home?pid=600190401
+#EXTINF:-1 tvg-name="黑龍江衛視" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="衛視",黑龍江衛視
+webview://https://yangshipin.cn/tv/home?pid=600002498
