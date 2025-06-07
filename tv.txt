@@ -729,3 +729,16 @@ VOA 美國之音,http://4gtv.livednow.dpdns.org/litv-ftv03/index.m3u8
 鏡電視新聞台,http://4gtv.livednow.dpdns.org/4gtv-4gtv075/index.m3u8
 鏡電視新聞台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv075/index.m3u8
 霹靂布袋戲,http://4gtv.livednow.dpdns.org/4gtv-live145/index.m3u8
+
+儿童频道|Baby TV Eng,http://1234.koyeb.app/smt.php?id=Babytv
+儿童频道|CBeebies,http://1234.koyeb.app/smt.php?id=Cbeebies
+儿童频道|Kids TV,http://1234.koyeb.app/smt.php?id=KidsTV
+儿童频道|Momo TV,http://1234.koyeb.app/smt.php?id=momo1_twn
+儿童频道|Animax,http://1234.koyeb.app/smt.php?id=Animax
+儿童频道|Baby TV,http://1234.koyeb.app/smt.php?id=babytv_twn
+儿童频道|MiaoMi,http://1234.koyeb.app/smt.php?id=MiaoMi
+儿童频道|靖天卡通台,http://1234.koyeb.app/smt.php?id=jingtiancartoon_twn
+儿童频道|东森幼幼 Yoyo TV,http://1234.koyeb.app/smt.php?id=yoyo_twn
+儿童频道|Cartoon Network,http://1234.koyeb.app/smt.php?id=Cn
+儿童频道|Nickelodeon,http://1234.koyeb.app/smt.php?id=Nickelodeon
+儿童频道|Nick Jr,http://1234.koyeb.app/smt.php?id=Nickjr
