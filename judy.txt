@@ -1,4 +1,4 @@
-judy,#genre#
+台灣頻道,#genre#
 
 amc 電影台,http://4gtv.livednow.dpdns.org/4gtv-4gtv017/index.m3u8
 amc 電影台,http://4gtv.livednow.dpdns.org/li-4gtv-4gtv017/index.m3u8
