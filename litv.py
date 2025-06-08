@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
-# @Author  : Doubebly
-# @Time    : 2025/3/23 21:55
+# @Author  : 謝安琪
+# @Time    : 2025/6/6 16:88
 import base64
 import sys
 import time
@@ -46,7 +46,7 @@ class Spider(Spider):
         a = ['#EXTM3U',
  '#EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://logo.doube.eu.org/TVBS新闻.png" group-title="",TVBS新聞', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv072,1,2',
  '#EXTINF:-1 tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://logo.doube.eu.org/东森新闻台.png" group-title="",東森新聞', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv152,1,6',
- '#EXTINF:-1 tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://logo.doube.eu.org/民视新闻台.png" group-title="",民視新聞', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=litv-ftv13,1,7',
+ '#EXTINF:-1 tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://logo.doube.eu.org/民视新闻台.png" group-title="",民視新聞', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=litv-ftv13,1,6',
  '#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://logo.doube.eu.org/中天新闻.png" group-title="",中天新聞', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv009,2,7',
  '#EXTINF:-1 tvg-id="华视新闻" tvg-name="华视新闻" tvg-logo="https://logo.doube.eu.org/华视新闻.png" group-title="",華視新聞', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv052,1,2',
  '#EXTINF:-1 tvg-id="中视新闻台" tvg-name="中视新闻台" tvg-logo="https://logo.doube.eu.org/中视新闻台.png" group-title="",中視新聞', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv074,1,2',
@@ -66,7 +66,7 @@ class Spider(Spider):
  '#EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://logo.doube.eu.org/民视.png" group-title="",民視', f'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv002,1,10',
  '#EXTINF:-1 tvg-id="民视旅游台" tvg-name="民视旅游台" tvg-logo="https://logo.doube.eu.org/民视旅游台.png" group-title="",民視旅遊', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=litv-ftv07,1,7',
  '#EXTINF:-1 tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="https://logo.doube.eu.org/亚洲旅游台.png" group-title="",亞洲旅遊', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv076,1,2',
- '#EXTINF:-1 tvg-id="Smart知识台" tvg-name="Smart知识台" tvg-logo="https://logo.doube.eu.org/Smart知识台.png" group-title="",Smart知識台', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=litv-longturn19,5,2',
+ '#EXTINF:-1 tvg-id="Smart知识台" tvg-name="Smart知识台" tvg-logo="https://logo.doube.eu.org/Smart知识台.png" group-title="",Smart知識台', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=litv-longturn19,5,6',
  '#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://logo.doube.eu.org/靖天日本台.png" group-title="",靖天日本', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv047,1,8',
  '#EXTINF:-1 tvg-id="靖天电影台" tvg-name="靖天电影台" tvg-logo="https://logo.doube.eu.org/靖天电影台.png" group-title="",靖天電影', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv061,1,7',
  '#EXTINF:-1 tvg-id="靖天戏剧台" tvg-name="靖天戏剧台" tvg-logo="https://logo.doube.eu.org/靖天戏剧台.png" group-title="",靖天戲劇', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv058,1,8',
@@ -79,7 +79,7 @@ class Spider(Spider):
  '#EXTINF:-1 tvg-id="靖洋戏剧台" tvg-name="靖洋戏剧台" tvg-logo="https://logo.doube.eu.org/靖洋戏剧台.png" group-title="",靖洋戲劇', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv045,1,6',
  '#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://logo.doube.eu.org/靖天卡通台.png" group-title="",靖天卡通', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv044,1,8',
  '#EXTINF:-1 tvg-id="靖洋卡通台" tvg-name="靖洋卡通台" tvg-logo="https://logo.doube.eu.org/靖洋卡通台.png" group-title="",靖洋卡通', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=4gtv-4gtv057,1,8',
- '#EXTINF:-1 tvg-id="龙华电影台" tvg-name="龙华电影台" tvg-logo="https://logo.doube.eu.org/龙华电影台.png" group-title="",龍華電影', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=litv-longturn03,5,6',
+ '#EXTINF:-1 tvg-id="龙华电影台" tvg-name="龙华电影台" tvg-logo="https://logo.doube.eu.org/龙华电影台.png" group-title="",龍華電影', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=litv-longturn03,5,7',
  '#EXTINF:-1 tvg-id="龙华洋片台" tvg-name="龙华洋片台" tvg-logo="https://logo.doube.eu.org/龙华洋片台.png" group-title="",龍華洋片', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=litv-longturn02,5,2',
  '#EXTINF:-1 tvg-id="龙华经典台" tvg-name="龙华经典台" tvg-logo="https://logo.doube.eu.org/龙华经典台.png" group-title="",龍華經典', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=litv-longturn21,5,2',
  '#EXTINF:-1 tvg-id="龙华日韩台" tvg-name="龙华日韩台" tvg-logo="https://logo.doube.eu.org/龙华日韩台.png" group-title="",龍華日韓', 'http://127.0.0.1:9978/proxy?do=py&type=m3u8&pid=litv-longturn11,5,2',
