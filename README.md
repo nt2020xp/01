@@ -121,6 +121,8 @@ ALLINONE部署指令生成器 https://imgtool.v1.mk/allinone.html
 
 恩山訂閱 @NodeRSS_bot
 
+IPTV研究所機器人 @iptv_institute_bot
+
 /sub https://www.right.com.cn/forum/forum.php?mod=rss&fid=182
 
 tg delete https://my.telegram.org/auth
