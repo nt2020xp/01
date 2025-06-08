@@ -65,7 +65,7 @@ CCTV直播,https://tv.cctv.com/live
 
 (申請)极致播放器交流群 https://t.me/jizhi00
 
-(申請)夏天影视资源交流 https://t.me/mejo888
+(申請)夏天夏天 https://t.me/yannycong888
 
 點播直播交流群：https://t.me/doubebly001
 
