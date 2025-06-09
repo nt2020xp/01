@@ -85,7 +85,7 @@ IPTV研究所 https://t.me/IPTV_9999999
 
 酷9群 https://t.me/Player_Ku9
 
-mytv https://t.me/mytv_android)
+mytv https://t.me/mytv_android
 
 ourtv  https://t.me/+z1BOPITtAmI4ZWZl
 
