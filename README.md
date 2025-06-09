@@ -1,3 +1,11 @@
+543 https://github.com/hus888yu/app/blob/main/543.php
+
+543 https://raw.githubusercontent.com/hus888yu/app/refs/heads/main/543.php
+
+543 https://github.com/hus888yu/app/blob/main/543.m3u
+
+543 https://raw.githubusercontent.com/hus888yu/app/refs/heads/main/543.m3u
+
 直播源  https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt
 
 直播源  https://fanmingming.com/txt?url=https://smart.pendy.dpdns.org/m3u/merged_judy.m3u
