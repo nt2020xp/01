@@ -88,6 +88,19 @@ TBS NEWS DIG,https://www.youtube.com/watch?v=ohI356mwBp8
 櫻島火山(遠看),https://www.youtube.com/watch?v=eF9PohrRP_o
 櫻島火山(近看),https://www.youtube.com/watch?v=PeElJClXtzE
 
+蠟筆小新電影,#genre#
+1993電影【動感超人VS高衩魔王】,https://www.youtube.com/watch?v=ieT3iBtVL34					
+1994電影【不理不理王國的秘寶】,https://www.youtube.com/watch?v=31vbJtkHtrk	
+1995電影【雲黑齋的野心】,https://www.youtube.com/watch?v=ZPZzOw0ZJ9w			
+1996電影【搞怪遊樂園大冒險】,https://www.youtube.com/watch?v=J8rb5Eugx4M				
+1997電影【黑暗珠珠大追擊】,https://www.youtube.com/watch?v=7Cozc1yRkCU
+1998電影【電擊!豬蹄大作戰】,https://www.youtube.com/watch?v=_52TLtnQNtc		
+1999電影【爆發!溫泉激烈大決戰】,https://www.youtube.com/watch?v=gWe1ahkNOxc							
+2000電影【風起雲湧的叢林冒險】,https://www.youtube.com/watch?v=J3_PON_gJvw		
+2016電影【爆睡！夢世界大作戰！】,https://www.youtube.com/watch?v=6aC7T7N3BgM				
+2018電影【功夫小子〜拉麵大亂鬥〜 】,https://www.youtube.com/watch?v=Rg8gLDFu7Bg						
+2019電影【新婚旅行風暴 - 奪回廣志大作戰】,https://www.youtube.com/watch?v=Yjr1yZq_bkc							
+
 一休和尚,#genre#
 parse=1
 
