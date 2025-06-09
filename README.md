@@ -136,3 +136,5 @@ IPTV研究所機器人 @iptv_institute_bot
 /sub https://www.right.com.cn/forum/forum.php?mod=rss&fid=182
 
 tg delete https://my.telegram.org/auth
+
+docker run -d --restart always --privileged=true -p 35455:35455 --name allinone youshandefeiyang/allinone -tv=true -aesKey=wiidoowgrrmxnt0k4ko2wugugewengzt -userid=7234681260 -token=37a716309767df2068fa996995731bc3bf82bdce8762ad87a2c5bd79ff1352bcb35a185ccaf830e3a71951c34dd0a389627ee0798a8ef6b40c0052a976fc966ba32c7ad5642227
