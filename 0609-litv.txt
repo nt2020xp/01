@@ -1,3 +1,6 @@
+litv,#genre#
+parse=1
+
 民視台灣台,https://www.litv.tv/channel/watch/4gtv-4gtv001
 民視第一台,https://www.litv.tv/channel/watch/4gtv-4gtv003
 民視綜藝台,https://www.litv.tv/channel/watch/4gtv-4gtv004
