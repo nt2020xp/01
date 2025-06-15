@@ -1,3 +1,4 @@
+export HTTP_PROXY="https://bptv.freetv.top/"
 
 543 https://github.com/hus888yu/app/blob/main/543.php
 
