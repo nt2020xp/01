@@ -1,5 +1,3 @@
-[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
-
 
 543 https://github.com/hus888yu/app/blob/main/543.php
 
