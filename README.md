@@ -1,3 +1,5 @@
+4gtv https://fanmingming.com/txt?url=http://docker.livednow.dpdns.org/?type=m3u
+
 smart https://fanmingming.com/txt?url=https://smart.pendy.dpdns.org/m3u/Smart.m3u
 
 export HTTP_PROXY="https://bptv.freetv.top/"
