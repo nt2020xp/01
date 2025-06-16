@@ -1,3 +1,5 @@
+smart https://fanmingming.com/txt?url=https://smart.pendy.dpdns.org/m3u/Smart.m3u
+
 export HTTP_PROXY="https://bptv.freetv.top/"
 
 543 https://github.com/hus888yu/app/blob/main/543.php
