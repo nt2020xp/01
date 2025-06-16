@@ -28,6 +28,9 @@ TVBS新聞,http://230taiwan.pendy.dpdns.org/li-4gtv-4gtv072/index.m3u8?proxy=tru
 寰宇台灣,http://230taiwan.pendy.dpdns.org/4gtv-4gtv156/index.m3u8?proxy=true
 寰宇台灣,http://230taiwan.pendy.dpdns.org/li-4gtv-4gtv156/index.m3u8?proxy=true
 寰宇台灣,http://230taiwan.pendy.dpdns.org/of-4gtv-4gtv156/index.m3u8?proxy=true
+寰宇財經,http://230taiwan.pendy.dpdns.org/4gtv-4gtv158/index.m3u8?proxy=true
+寰宇財經,http://230taiwan.pendy.dpdns.org/li-4gtv-4gtv158/index.m3u8?proxy=true
+寰宇財經,http://230taiwan.pendy.dpdns.org/of-4gtv-4gtv158/index.m3u8?proxy=true
 鏡新聞,http://230taiwan.pendy.dpdns.org/4gtv-4gtv075/index.m3u8?proxy=true
 鏡新聞,http://230taiwan.pendy.dpdns.org/li-4gtv-4gtv075/index.m3u8?proxy=true
 非凡新聞,http://230taiwan.pendy.dpdns.org/4gtv-4gtv010/index.m3u8?proxy=true
@@ -95,6 +98,38 @@ Smart知識台,http://230taiwan.pendy.dpdns.org/litv-longturn19/index.m3u8?proxy
 
 amc 電影台,http://230taiwan.pendy.dpdns.org/4gtv-4gtv017/index.m3u8?proxy=true
 amc 電影台,http://230taiwan.pendy.dpdns.org/li-4gtv-4gtv017/index.m3u8?proxy=true
+影迷數位電影台,http://230taiwan.pendy.dpdns.org/4gtv-4gtv011/index.m3u8?proxy=true
+影迷數位電影台,http://230taiwan.pendy.dpdns.org/li-4gtv-4gtv011/index.m3u8?proxy=true
+
+TVBS HD,http://230taiwan.pendy.dpdns.org/4gtv-4gtv073/index.m3u8?proxy=true
+TVBS HD,http://230taiwan.pendy.dpdns.org/li-4gtv-4gtv073/index.m3u8?proxy=true
+TVBS台劇台,http://230taiwan.pendy.dpdns.org/4gtv-live088/index.m3u8?proxy=true
+
+TVBS精采台,http://230taiwan.pendy.dpdns.org/4gtv-4gtv067/index.m3u8?proxy=true
+TVBS精采台,http://230taiwan.pendy.dpdns.org/li-4gtv-4gtv067/index.m3u8?proxy=true
+TVBS綜藝台,http://230taiwan.pendy.dpdns.org/4gtv-live087/index.m3u8?proxy=true
+TVBS歡樂台,http://230taiwan.pendy.dpdns.org/4gtv-4gtv068/index.m3u8?proxy=true
+TVBS歡樂台,http://230taiwan.pendy.dpdns.org/li-4gtv-4gtv068/index.m3u8?proxy=true
+
+八大精彩,http://230taiwan.pendy.dpdns.org/4gtv-4gtv034/index.m3u8?proxy=true
+八大精彩,http://230taiwan.pendy.dpdns.org/li-4gtv-4gtv034/index.m3u8?proxy=true
+八大綜藝,http://230taiwan.pendy.dpdns.org/4gtv-4gtv039/index.m3u8?proxy=true
+八大綜藝,http://230taiwan.pendy.dpdns.org/li-4gtv-4gtv039/index.m3u8?proxy=true
+中視菁采台,http://230taiwan.pendy.dpdns.org/4gtv-4gtv064/index.m3u8?proxy=true
+中視菁采台,http://230taiwan.pendy.dpdns.org/li-4gtv-4gtv064/index.m3u8?proxy=true
+中視經典台,http://230taiwan.pendy.dpdns.org/4gtv-4gtv080/index.m3u8?proxy=true
+中視經典台,http://230taiwan.pendy.dpdns.org/li-4gtv-4gtv080/index.m3u8?proxy=true
+
+民視HD,http://230taiwan.pendy.dpdns.org/4gtv-4gtv002/index.m3u8?proxy=true
+民視台灣台,http://230taiwan.pendy.dpdns.org/4gtv-4gtv001/index.m3u8?proxy=true
+民視台灣台,http://230taiwan.pendy.dpdns.org/li-4gtv-4gtv001/index.m3u8?proxy=true
+民視第一台,http://230taiwan.pendy.dpdns.org/4gtv-4gtv003/index.m3u8?proxy=true
+民視第一台,http://230taiwan.pendy.dpdns.org/li-4gtv-4gtv003/index.m3u8?proxy=true
+民視綜藝,http://230taiwan.pendy.dpdns.org/4gtv-4gtv004/index.m3u8?proxy=true
+民視綜藝,http://230taiwan.pendy.dpdns.org/li-4gtv-4gtv004/index.m3u8?proxy=true
+民視影劇,http://230taiwan.pendy.dpdns.org/li-litv-ftv09/index.m3u8?proxy=true
+民視影劇,http://230taiwan.pendy.dpdns.org/litv-ftv09/index.m3u8?proxy=true
+
 Arirang TV,http://230taiwan.pendy.dpdns.org/4gtv-4gtv079/index.m3u8?proxy=true
 Arirang TV,http://230taiwan.pendy.dpdns.org/li-4gtv-4gtv079/index.m3u8?proxy=true
 BLOOMBERG TV,http://230taiwan.pendy.dpdns.org/4gtv-live059/index.m3u8?proxy=true
@@ -139,54 +174,22 @@ TRACE Sport Stars,http://230taiwan.pendy.dpdns.org/li-4gtv-4gtv077/index.m3u8?pr
 Trace Urban,http://230taiwan.pendy.dpdns.org/4gtv-4gtv082/index.m3u8?proxy=true
 Trace Urban,http://230taiwan.pendy.dpdns.org/li-4gtv-4gtv082/index.m3u8?proxy=true
 TV5MONDE Style,http://230taiwan.pendy.dpdns.org/4gtv-live122/index.m3u8?proxy=true
-TVBS HD,http://230taiwan.pendy.dpdns.org/4gtv-4gtv073/index.m3u8?proxy=true
-TVBS HD,http://230taiwan.pendy.dpdns.org/li-4gtv-4gtv073/index.m3u8?proxy=true
-TVBS台劇台,http://230taiwan.pendy.dpdns.org/4gtv-live088/index.m3u8?proxy=true
 
-TVBS精采台,http://230taiwan.pendy.dpdns.org/4gtv-4gtv067/index.m3u8?proxy=true
-TVBS精采台,http://230taiwan.pendy.dpdns.org/li-4gtv-4gtv067/index.m3u8?proxy=true
-TVBS綜藝台,http://230taiwan.pendy.dpdns.org/4gtv-live087/index.m3u8?proxy=true
-TVBS歡樂台,http://230taiwan.pendy.dpdns.org/4gtv-4gtv068/index.m3u8?proxy=true
-TVBS歡樂台,http://230taiwan.pendy.dpdns.org/li-4gtv-4gtv068/index.m3u8?proxy=true
 VOA 美國之音,http://230taiwan.pendy.dpdns.org/li-litv-ftv03/index.m3u8?proxy=true
 VOA 美國之音,http://230taiwan.pendy.dpdns.org/litv-ftv03/index.m3u8?proxy=true
 人間衛視,http://230taiwan.pendy.dpdns.org/4gtv-live008/index.m3u8?proxy=true
-八大精彩,http://230taiwan.pendy.dpdns.org/4gtv-4gtv034/index.m3u8?proxy=true
-八大精彩,http://230taiwan.pendy.dpdns.org/li-4gtv-4gtv034/index.m3u8?proxy=true
-八大綜藝,http://230taiwan.pendy.dpdns.org/4gtv-4gtv039/index.m3u8?proxy=true
-八大綜藝,http://230taiwan.pendy.dpdns.org/li-4gtv-4gtv039/index.m3u8?proxy=true
 
 三立綜合合,http://230taiwan.pendy.dpdns.org/4gtv-live207/index.m3u8?proxy=true
 大愛二台,http://230taiwan.pendy.dpdns.org/4gtv-live106/index.m3u8?proxy=true
 大愛電視,http://230taiwan.pendy.dpdns.org/4gtv-live007/index.m3u8?proxy=true
 中天亞洲台,http://230taiwan.pendy.dpdns.org/4gtv-4gtv109/index.m3u8?proxy=true
-
-
-中視菁采台,http://230taiwan.pendy.dpdns.org/4gtv-4gtv064/index.m3u8?proxy=true
-中視菁采台,http://230taiwan.pendy.dpdns.org/li-4gtv-4gtv064/index.m3u8?proxy=true
-
-中視經典台,http://230taiwan.pendy.dpdns.org/4gtv-4gtv080/index.m3u8?proxy=true
-中視經典台,http://230taiwan.pendy.dpdns.org/li-4gtv-4gtv080/index.m3u8?proxy=true
 公視戲劇,http://230taiwan.pendy.dpdns.org/4gtv-4gtv042/index.m3u8?proxy=true
 公視戲劇,http://230taiwan.pendy.dpdns.org/li-4gtv-4gtv042/index.m3u8?proxy=true
 半島國際新聞台,http://230taiwan.pendy.dpdns.org/li-litv-ftv10/index.m3u8?proxy=true
 半島國際新聞台,http://230taiwan.pendy.dpdns.org/litv-ftv10/index.m3u8?proxy=true
-
 台視財經台,http://230taiwan.pendy.dpdns.org/4gtv-4gtv056/index.m3u8?proxy=true
-
 台灣戲劇台,http://230taiwan.pendy.dpdns.org/li-litv-longturn22/index.m3u8?proxy=true
 台灣戲劇台,http://230taiwan.pendy.dpdns.org/litv-longturn22/index.m3u8?proxy=true
-民視HD,http://230taiwan.pendy.dpdns.org/4gtv-4gtv002/index.m3u8?proxy=true
-民視台灣台,http://230taiwan.pendy.dpdns.org/4gtv-4gtv001/index.m3u8?proxy=true
-民視台灣台,http://230taiwan.pendy.dpdns.org/li-4gtv-4gtv001/index.m3u8?proxy=true
-
-民視第一台,http://230taiwan.pendy.dpdns.org/4gtv-4gtv003/index.m3u8?proxy=true
-民視第一台,http://230taiwan.pendy.dpdns.org/li-4gtv-4gtv003/index.m3u8?proxy=true
-
-民視綜藝,http://230taiwan.pendy.dpdns.org/4gtv-4gtv004/index.m3u8?proxy=true
-民視綜藝,http://230taiwan.pendy.dpdns.org/li-4gtv-4gtv004/index.m3u8?proxy=true
-民視影劇,http://230taiwan.pendy.dpdns.org/li-litv-ftv09/index.m3u8?proxy=true
-民視影劇,http://230taiwan.pendy.dpdns.org/litv-ftv09/index.m3u8?proxy=true
 好消息,http://230taiwan.pendy.dpdns.org/li-litv-ftv16/index.m3u8?proxy=true
 好消息,http://230taiwan.pendy.dpdns.org/litv-ftv16/index.m3u8?proxy=true
 好消息,http://230taiwan.pendy.dpdns.org/of-litv-ftv16/index.m3u8?proxy=true
@@ -194,10 +197,7 @@ VOA 美國之音,http://230taiwan.pendy.dpdns.org/litv-ftv03/index.m3u8?proxy=tr
 好消息2台,http://230taiwan.pendy.dpdns.org/litv-ftv17/index.m3u8?proxy=true
 好消息2台,http://230taiwan.pendy.dpdns.org/of-litv-ftv17/index.m3u8?proxy=true
 車迷 TV,http://230taiwan.pendy.dpdns.org/4gtv-live201/index.m3u8?proxy=true
-
 幸福空間居家台,http://230taiwan.pendy.dpdns.org/4gtv-live206/index.m3u8?proxy=true
-
-
 東森購物一台,http://230taiwan.pendy.dpdns.org/4gtv-4gtv102/index.m3u8?proxy=true
 東森購物一台,http://230taiwan.pendy.dpdns.org/4gtv-live047/index.m3u8?proxy=true
 東森購物一台,http://230taiwan.pendy.dpdns.org/of-4gtv-4gtv102/index.m3u8?proxy=true
@@ -210,7 +210,6 @@ VOA 美國之音,http://230taiwan.pendy.dpdns.org/litv-ftv03/index.m3u8?proxy=tr
 采昌影劇,http://230taiwan.pendy.dpdns.org/li-4gtv-4gtv049/index.m3u8?proxy=true
 金光布袋戲,http://230taiwan.pendy.dpdns.org/4gtv-live144/index.m3u8?proxy=true
 非凡商業,http://230taiwan.pendy.dpdns.org/4gtv-4gtv048/index.m3u8?proxy=true
-
 客家電視,http://230taiwan.pendy.dpdns.org/4gtv-4gtv043/index.m3u8?proxy=true
 客家電視,http://230taiwan.pendy.dpdns.org/li-4gtv-4gtv043/index.m3u8?proxy=true
 原住民族電視台,http://230taiwan.pendy.dpdns.org/4gtv-live014/index.m3u8?proxy=true
@@ -234,7 +233,6 @@ VOA 美國之音,http://230taiwan.pendy.dpdns.org/litv-ftv03/index.m3u8?proxy=tr
 博斯魅力,http://230taiwan.pendy.dpdns.org/litv-longturn04/index.m3u8?proxy=true
 智林體育,http://230taiwan.pendy.dpdns.org/4gtv-4gtv101/index.m3u8?proxy=true
 智林體育,http://230taiwan.pendy.dpdns.org/li-4gtv-4gtv101/index.m3u8?proxy=true
-
 視納華仁紀實頻道,http://230taiwan.pendy.dpdns.org/4gtv-4gtv013/index.m3u8?proxy=true
 視納華仁紀實頻道,http://230taiwan.pendy.dpdns.org/li-4gtv-4gtv013/index.m3u8?proxy=true
 新唐人亞太台,http://230taiwan.pendy.dpdns.org/4gtv-live050/index.m3u8?proxy=true
@@ -243,22 +241,14 @@ VOA 美國之音,http://230taiwan.pendy.dpdns.org/litv-ftv03/index.m3u8?proxy=tr
 達文西,http://230taiwan.pendy.dpdns.org/4gtv-4gtv018/index.m3u8?proxy=true
 達文西,http://230taiwan.pendy.dpdns.org/li-4gtv-4gtv018/index.m3u8?proxy=true
 電影原聲台 CMusic,http://230taiwan.pendy.dpdns.org/4gtv-live031/index.m3u8?proxy=true
-
 滾動力 Rollor,http://230taiwan.pendy.dpdns.org/4gtv-live012/index.m3u8?proxy=true
 精選動漫台,http://230taiwan.pendy.dpdns.org/4gtv-live024/index.m3u8?proxy=true
 影迷數位紀實台,http://230taiwan.pendy.dpdns.org/li-litv-ftv15/index.m3u8?proxy=true
 影迷數位紀實台,http://230taiwan.pendy.dpdns.org/litv-ftv15/index.m3u8?proxy=true
-影迷數位電影台,http://230taiwan.pendy.dpdns.org/4gtv-4gtv011/index.m3u8?proxy=true
-影迷數位電影台,http://230taiwan.pendy.dpdns.org/li-4gtv-4gtv011/index.m3u8?proxy=true
 歐洲光影,http://230taiwan.pendy.dpdns.org/4gtv-live157/index.m3u8?proxy=true
 豬哥亮歌廳秀,http://230taiwan.pendy.dpdns.org/4gtv-4gtv006/index.m3u8?proxy=true
 豬哥亮歌廳秀,http://230taiwan.pendy.dpdns.org/li-4gtv-4gtv006/index.m3u8?proxy=true
-寰宇財經,http://230taiwan.pendy.dpdns.org/4gtv-4gtv158/index.m3u8?proxy=true
-寰宇財經,http://230taiwan.pendy.dpdns.org/li-4gtv-4gtv158/index.m3u8?proxy=true
-寰宇財經,http://230taiwan.pendy.dpdns.org/of-4gtv-4gtv158/index.m3u8?proxy=true
-
 歷史頻道,http://230taiwan.pendy.dpdns.org/4gtv-live026/index.m3u8?proxy=true
-
 戲劇免費看1台,http://230taiwan.pendy.dpdns.org/4gtv-live010/index.m3u8?proxy=true
 韓國娛樂台,http://230taiwan.pendy.dpdns.org/4gtv-4gtv016/index.m3u8?proxy=true
 韓國娛樂台,http://230taiwan.pendy.dpdns.org/li-4gtv-4gtv016/index.m3u8?proxy=true
