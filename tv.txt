@@ -1054,21 +1054,23 @@ CCTV-17,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
 
 test,#genre#
 
-0001[1920x1080],http://sh.lnott.top:880/dx01.m3u8
-0002[1920x1080],http://sh.lnott.top:880/dx02.m3u8
-0003[1920x1080],http://sh.lnott.top:880/dx03.m3u8
-0004[1920x1080],http://sh.lnott.top:880/dx04.m3u8
-0005[1920x1080],http://sh.lnott.top:880/dx05.m3u8
-0006[1920x1080],http://sh.lnott.top:880/dx06.m3u8
-0008[1920x1080],http://sh.lnott.top:880/dx08.m3u8
-0009[1920x1080],http://sh.lnott.top:880/dx09.m3u8
-0010[1920x1080],http://sh.lnott.top:880/dx10.m3u8
-0011[1920x1080],http://sh.lnott.top:880/dx11.m3u8
-0012[1920x1080],http://sh.lnott.top:880/dx12.m3u8
-0013[1920x1080],http://sh.lnott.top:880/dx13.m3u8
-0014[1920x1080],http://sh.lnott.top:880/dx14.m3u8
-0015[1920x1080],http://sh.lnott.top:880/dx15.m3u8
+1綜合0001[1920x1080],http://sh.lnott.top:880/dx01.m3u8
+2財經0002[1920x1080],http://sh.lnott.top:880/dx02.m3u8
+3綜藝0003[1920x1080],http://sh.lnott.top:880/dx03.m3u8
+4中文國際0004[1920x1080],http://sh.lnott.top:880/dx04.m3u8
+5體育0005[1920x1080],http://sh.lnott.top:880/dx05.m3u8
+6電影0006[1920x1080],http://sh.lnott.top:880/dx06.m3u8
+7國防軍事0007[1920x1080],http://sh.lnott.top:880/dx07.m3u8
+8電視劇0008[1920x1080],http://sh.lnott.top:880/dx08.m3u8
+9紀錄0009[1920x1080],http://sh.lnott.top:880/dx09.m3u8
+10科教0010[1920x1080],http://sh.lnott.top:880/dx10.m3u8
+11戲曲0011[1920x1080],http://sh.lnott.top:880/dx11.m3u8
+12社會與法0012[1920x1080],http://sh.lnott.top:880/dx12.m3u8
+13新聞0013[1920x1080],http://sh.lnott.top:880/dx13.m3u8
+14少兒0014[1920x1080],http://sh.lnott.top:880/dx14.m3u8
+15音樂0015[1920x1080],http://sh.lnott.top:880/dx15.m3u8
 0016[1920x1080],http://sh.lnott.top:880/dx16.m3u8
+0017[1920x1080],http://sh.lnott.top:880/dx17.m3u8
 0018[1920x1080],http://sh.lnott.top:880/dx18.m3u8
 0019[1920x1080],http://sh.lnott.top:880/dx19.m3u8
 0020[1920x1080],http://sh.lnott.top:880/dx20.m3u8
