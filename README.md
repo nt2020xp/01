@@ -1,3 +1,16 @@
+小飛電視
+https://www.y977.com/tv
+
+apk下載
+https://www.y977.com/xiaofeitv_v2.7.0.apk
+
+直播源下載
+http://api.y977.com/iptv.txt.zip
+
+解壓密碼
+xfflchVCWG9941
+=====================================
+
 4gtv https://fanmingming.com/txt?url=http://docker.livednow.dpdns.org/?type=m3u
 
 smart https://fanmingming.com/txt?url=https://smart.pendy.dpdns.org/m3u/Smart.m3u
