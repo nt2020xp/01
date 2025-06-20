@@ -11,8 +11,6 @@ http://api.y977.com/iptv.txt.zip
 xfflchVCWG9941
 =====================================
 
-直播源  https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt
-
 直播源  https://fanmingming.com/txt?url=https://smart.pendy.dpdns.org/m3u/merged_judy.m3u
 
 直播源  https://fanmingming.com/txt?url=https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/8964.m3u
