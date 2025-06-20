@@ -11,12 +11,6 @@ http://api.y977.com/iptv.txt.zip
 xfflchVCWG9941
 =====================================
 
-4gtv https://fanmingming.com/txt?url=http://docker.livednow.dpdns.org/?type=m3u
-
-smart https://fanmingming.com/txt?url=https://smart.pendy.dpdns.org/m3u/Smart.m3u
-
-export HTTP_PROXY="https://bptv.freetv.top/"
-
 543 https://github.com/hus888yu/app/blob/main/543.php
 
 543 https://raw.githubusercontent.com/hus888yu/app/refs/heads/main/543.php
