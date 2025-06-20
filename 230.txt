@@ -1,4 +1,4 @@
-230台灣頻道,#genre#
+台灣頻道,#genre#
 
 TVBS新聞,http://230taiwan.pendy.dpdns.org/li-4gtv-4gtv072/index.m3u8?proxy=true
 東森新聞,http://230taiwan.pendy.dpdns.org/4gtv-4gtv152/index.m3u8?proxy=true
