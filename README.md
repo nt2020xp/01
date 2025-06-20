@@ -19,19 +19,7 @@ xfflchVCWG9941
 
 4gtv直播源 https://fanmingming.com/txt?url=https://smart.pendy.dpdns.org/m3u/merged_judy.m3u
 
-肥羊直播源  https://fanmingming.com/txt?url=https://nptv.freetv.top/juhe.m3u
-
-termux  https://d.icdown.club/repository/main/Alpine_Termux.apk
-
-直播源   http://docker.livednow.dpdns.org/?type=m3u
-
-18 http://www.fish2018.ip-ddns.com/p/jsm.json
-
-m3utxt  http://sankei.mo/z.html
-
 webview  https://ghfast.top/https://raw.githubusercontent.com/yaoxieyoulei/YYKM_assets/main/webview.m3u
-
-serv00直播,https://a90120.serv00.net/anbox/p3plink.txt
 
 
 "ads": ["static-mozai.4gtv.tv","mozai.4gtv.tv"]
