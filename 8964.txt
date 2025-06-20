@@ -1,4 +1,4 @@
-8964,#genre#
+台灣litv,#genre#
 
 TVBS新聞,http://8964.koyeb.app/8964.php?id=4gtv-4gtv072
 東森新聞,http://8964.koyeb.app/8964.php?id=4gtv-4gtv152
