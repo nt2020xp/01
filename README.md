@@ -10,6 +10,8 @@ http://api.y977.com/iptv.txt.zip
 解壓密碼
 xfflchVCWG9941
 =====================================
+直播源 直播源  https://fanmingming.com/txt?url=http://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u
+
 
 直播源  https://fanmingming.com/txt?url=https://smart.pendy.dpdns.org/m3u/merged_judy.m3u
 
