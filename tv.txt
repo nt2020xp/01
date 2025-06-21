@@ -16,6 +16,8 @@ TVBS新聞L,http://230taiwan.pendy.dpdns.org/li-4gtv-4gtv072/index.m3u8?proxy=tr
 金門建功嶼,https://www.youtube.com/watch?v=uh_yNAE01w8
 高雄蓮池潭,https://www.youtube.com/watch?v=BnPoNatG-HE
 淡水漁人碼頭,https://www.youtube.com/watch?v=xwAWSh35uuw
+世界地理,http://www.lizhinas.top:1009/rtp/239.252.219.93:5140
+
 
 靖天龍華,#genre#
 
