@@ -12,15 +12,6 @@ xfflchVCWG9941
 =====================================
 
 
-
-2468直播源  http://2468.koyeb.app/?type=m3u
-
-2468直播源  https://fanmingming.com/txt?url=http://2468.koyeb.app/?type=m3u
-
-8964直播源  http://8964.koyeb.app/?type=m3u
-
-8964直播源  https://fanmingming.com/txt?url=http://8964.koyeb.app/?type=m3u
-
 直播源 直播源  https://fanmingming.com/txt?url=http://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u
 
 
