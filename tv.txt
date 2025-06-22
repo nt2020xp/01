@@ -20,7 +20,6 @@ TVBS新聞,http://8964.koyeb.app/li-4gtv-4gtv072/index.m3u8
 中視新聞,http://8964.koyeb.app/4gtv-4gtv074/index.m3u8
 中視新聞,http://8964.koyeb.app/li-4gtv-4gtv074/index.m3u8
 中視新聞,http://8964.koyeb.app/of-4gtv-4gtv074/index.m3u8
-台視新聞,http://8964.koyeb.app/4gtv-4gtv051/index.m3u8
 台視新聞,http://8964.koyeb.app/li-4gtv-4gtv051/index.m3u8
 東森財經,http://8964.koyeb.app/4gtv-4gtv153/index.m3u8
 東森財經,http://8964.koyeb.app/li-4gtv-4gtv153/index.m3u8
