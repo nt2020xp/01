@@ -4,12 +4,27 @@
 飢餓遊戲》一次播到飽,https://www.youtube.com/wath?v=lpunQRv0QvY
 《蠟筆小新劇場版系列》,https://www.youtube.com/watch?v=TprRWljq7e4
 
-TVBS新聞L,http://230taiwan.pendy.dpdns.org/li-4gtv-4gtv072/index.m3u8?proxy=true
-東森新聞L,http://230taiwan.pendy.dpdns.org/4gtv-4gtv152/index.m3u8?proxy=true
-民視新聞L,http://230taiwan.pendy.dpdns.org/li-litv-ftv13/index.m3u8?proxy=true
-華視新聞L,http://230taiwan.pendy.dpdns.org/4gtv-4gtv052/index.m3u8?proxy=true
-中視新聞L,http://230taiwan.pendy.dpdns.org/4gtv-4gtv074/index.m3u8?proxy=true
-台視新聞L,http://230taiwan.pendy.dpdns.org/4gtv-4gtv051/index.m3u8?proxy=true
+TVBS新聞,http://8964.koyeb.app/li-4gtv-4gtv072/index.m3u8
+東森新聞,http://8964.koyeb.app/4gtv-4gtv152/index.m3u8
+東森新聞,http://8964.koyeb.app/li-4gtv-4gtv152/index.m3u8
+民視新聞,http://8964.koyeb.app/li-litv-ftv13/index.m3u8
+民視新聞,http://8964.koyeb.app/litv-ftv13/index.m3u8
+三立新聞,http://8964.koyeb.app/4gtv-live089/index.m3u8
+三立新聞,http://8964.koyeb.app/iNEWS/index.m3u8
+中天新聞,http://8964.koyeb.app/4gtv-4gtv009/index.m3u8
+中天新聞,http://8964.koyeb.app/li-4gtv-4gtv009/index.m3u8
+中天新聞,http://8964.koyeb.app/of-4gtv-4gtv009/index.m3u8
+華視新聞,http://8964.koyeb.app/4gtv-4gtv052/index.m3u8
+華視新聞,http://8964.koyeb.app/li-4gtv-4gtv052/index.m3u8
+華視新聞,http://8964.koyeb.app/of-4gtv-4gtv052/index.m3u8
+中視新聞,http://8964.koyeb.app/4gtv-4gtv074/index.m3u8
+中視新聞,http://8964.koyeb.app/li-4gtv-4gtv074/index.m3u8
+中視新聞,http://8964.koyeb.app/of-4gtv-4gtv074/index.m3u8
+台視新聞,http://8964.koyeb.app/4gtv-4gtv051/index.m3u8
+台視新聞,http://8964.koyeb.app/li-4gtv-4gtv051/index.m3u8
+東森財經,http://8964.koyeb.app/4gtv-4gtv153/index.m3u8
+東森財經,http://8964.koyeb.app/li-4gtv-4gtv153/index.m3u8
+
 
 瑞芳九份,https://www.youtube.com/watch?v=XSD5ptYisw8
 象山看台北,https://www.youtube.com/watch?v=z_fY1pj1VBw
