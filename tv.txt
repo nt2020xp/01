@@ -12,7 +12,8 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 東森財經,https://www.youtube.com/watch?v=1I2iq41Akmo
-
+寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
+寰宇台灣,https://www.youtube.com/watch?v=w87VGpgd90U
 
 
 瑞芳九份,https://www.youtube.com/watch?v=XSD5ptYisw8
