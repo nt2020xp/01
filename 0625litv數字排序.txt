@@ -24,15 +24,15 @@
 4gtv-4gtv051	台視新聞
 4gtv-4gtv052	華視新聞
 4gtv-4gtv053	GINX Esports TV
-4gtv-4gtv054	Nice TV靖天歡樂台
-4gtv-4gtv055	靖天映畫
+4gtv-4gtv054	靖天歡樂台
+4gtv-4gtv055	靖天映畫台
 4gtv-4gtv056	台視財經
-4gtv-4gtv057	靖洋卡通Nice Bingo
+4gtv-4gtv057	靖洋卡通台
 4gtv-4gtv058	靖天戲劇台
 4gtv-4gtv059	CLASSICA 古典樂
 4gtv-4gtv061	靖天電影台
 4gtv-4gtv062	靖天育樂台
-4gtv-4gtv063	KLT-靖天國際台
+4gtv-4gtv063	靖天國際台
 4gtv-4gtv064	中視菁采台
 4gtv-4gtv065	靖天資訊台
 4gtv-4gtv066	台視
@@ -40,7 +40,7 @@
 4gtv-4gtv068	TVBS歡樂台
 4gtv-4gtv070	愛爾達娛樂台
 4gtv-4gtv072	TVBS新聞
-4gtv-4gtv073	TVBS
+4gtv-4gtv073	TVBS 
 4gtv-4gtv074	中視新聞
 4gtv-4gtv076	亞洲旅遊台
 4gtv-4gtv077	TRACE Sport Stars
@@ -57,13 +57,13 @@
 4gtv-4gtv109	中天亞洲台
 4gtv-4gtv110	Pet Club TV
 4gtv-4gtv152	東森新聞台
-4gtv-4gtv153	東森財經新聞台
+4gtv-4gtv153	東森財經台
 4gtv-4gtv155	民視
-4gtv-4gtv156	寰宇新聞台灣台
+4gtv-4gtv156	寰宇台灣台
 4gtv-4gtv158	寰宇財經台
 litv-ftv07	民視旅遊台
 litv-ftv09	民視影劇台
-litv-ftv10	My Cinema Europe HD 我的歐洲電影
+litv-ftv10	我的歐洲電影
 litv-ftv13	民視新聞台
 litv-ftv15	影迷數位紀實台
 litv-ftv16	好消息
