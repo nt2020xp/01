@@ -60,9 +60,9 @@ TVBS歡樂台,http://8964.koyeb.app/8964.php?id=4gtv-4gtv068
 民視綜藝台,http://8964.koyeb.app/8964.php?id=4gtv-4gtv004
 民視影劇台,http://8964.koyeb.app/8964.php?id=litv-ftv09
 
-采昌影劇台,http://8964.koyeb.app/8964.php?id=4gtv-4gtv049
+采昌影劇,http://8964.koyeb.app/8964.php?id=4gtv-4gtv049
 公視戲劇,http://8964.koyeb.app/8964.php?id=4gtv-4gtv042
-台灣戲劇台,http://8964.koyeb.app/8964.php?id=litv-longturn22
+台灣戲劇,http://8964.koyeb.app/8964.php?id=litv-longturn22
 
 影迷數位電影台,http://8964.koyeb.app/8964.php?id=4gtv-4gtv011
 我的歐洲電影,http://8964.koyeb.app/8964.php?id=litv-ftv10
