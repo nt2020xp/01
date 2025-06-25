@@ -31,6 +31,8 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 寰宇台灣,https://www.youtube.com/watch?v=w87VGpgd90U
 東森財經,https://www.youtube.com/watch?v=1I2iq41Akmo
 
+香港HOY資訊台,https://smart.pendy.dpdns.org/Smart.php?id=hoycaijing_twn
+
 瑞芳九份,https://www.youtube.com/watch?v=XSD5ptYisw8
 象山看台北,https://www.youtube.com/watch?v=z_fY1pj1VBw
 金門建功嶼,https://www.youtube.com/watch?v=uh_yNAE01w8
