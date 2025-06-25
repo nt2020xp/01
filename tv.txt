@@ -6,13 +6,20 @@
 
 TVBS新聞,http://8964.koyeb.app/8964.php?id=4gtv-4gtv072
 東森新聞,http://8964.koyeb.app/8964.php?id=4gtv-4gtv152
+東森財經,http://8964.koyeb.app/8964.php?id=4gtv-4gtv153
 民視新聞,http://8964.koyeb.app/8964.php?id=litv-ftv13
+中天新聞,http://8964.koyeb.app/8964.php?id=4gtv-4gtv009
+
 華視新聞,http://8964.koyeb.app/8964.php?id=4gtv-4gtv052
 中視新聞,http://8964.koyeb.app/8964.php?id=4gtv-4gtv074
 台視新聞,http://8964.koyeb.app/8964.php?id=4gtv-4gtv051
-東森財經,http://8964.koyeb.app/8964.php?id=4gtv-4gtv153
-寰宇新聞,http://8964.koyeb.app/8964.php?id=litv-longturn14
+台視財經,http://8964.koyeb.app/8964.php?id=4gtv-4gtv056
+
 寰宇台灣,http://8964.koyeb.app/8964.php?id=4gtv-4gtv156
+寰宇新聞,http://8964.koyeb.app/8964.php?id=litv-longturn14
+寰宇財經,http://8964.koyeb.app/8964.php?id=4gtv-4gtv158
+非凡新聞,http://8964.koyeb.app/8964.php?id=4gtv-4gtv010
+非凡商業,http://8964.koyeb.app/8964.php?id=4gtv-4gtv048
 
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
