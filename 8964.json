@@ -1,0 +1,10 @@
+{
+  "lives": [
+    {
+      "name": "8964直播(python)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/8964.py",
+      "ext": {}
+    }
+  ]
+}
