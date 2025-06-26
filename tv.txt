@@ -91,6 +91,16 @@ CN卡通頻道,http://1234.koyeb.app/smt.php?id=momo1_twn
 世界地理,http://www.lizhinas.top:1009/rtp/239.252.219.93:5140
 风云剧场,http://www.lizhinas.top:1009/rtp/239.252.219.89:5140
 
+CCTV21,http://221.13.233.54:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV22,http://110.52.99.109:9901/tsfile/live/1001_1.m3u8
+CCTV23,http://ychz.myds.me:35455/mgtv/631780532.m3u8
+CCTV24,http://112.123.243.37:50085/tsfile/live/0002_1.m3u8
+CCTV25,http://221.13.233.118:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV26,http://alist.xicp.fun:35455/mgtv/631780532.m3u8
+CCTV27,http://182.32.159.22:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV28,http://124.128.73.58:9901/tsfile/live/0002_1.m3u8?key=txiptv
+CCTV29,http://1.196.54.1:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+
 CCTV91,http://221.13.233.54:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV92,http://101.74.31.134:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV93,http://ychz.myds.me:35455/mgtv/673168140.m3u8
@@ -101,6 +111,7 @@ CCTV97,http://27.154.89.193:18888/rtp/239.61.2.172:9020
 CCTV98,http://222.169.85.8:9901/tsfile/live/0009_1.m3u8?key=txiptv
 CCTV99,http://112.123.243.37:50085/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV910,http://42.225.117.174:11199/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+
 CCTV101,http://221.13.233.54:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV102,http://101.74.31.134:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV103,http://ychz.myds.me:35455/mgtv/624878405.m3u8
@@ -109,8 +120,6 @@ CCTV105,http://110.52.99.109:9901/tsfile/live/1009_1.m3u8
 CCTV106,http://1.196.54.1:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV107,http://112.123.243.37:50085/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV108,http://222.169.85.8:9901/tsfile/live/0010_1.m3u8
-CCTV109,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8
-CCTV1010,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000506/index.m3u8
 
 CCTV131,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV132,http://ychz.myds.me:35455/mgtv/608807423.m3u8
@@ -119,9 +128,8 @@ CCTV134,http://115.58.218.142:4000/rtp/225.1.4.113:1293
 CCTV135,http://alist.xicp.fun:35455/mgtv/608807423.m3u8
 CCTV136,http://112.123.243.37:50085/tsfile/live/0014_1.m3u8
 CCTV137,http://221.13.233.54:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV138,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8
-CCTV139,https://event.pull.hebtv.com/jishi/cp1.m3u8
-CCTV1310,http://z.b.bkpcp.top/m.php?id=cctv13
+CCTV138,https://event.pull.hebtv.com/jishi/cp1.m3u8
+CCTV139,http://z.b.bkpcp.top/m.php?id=cctv13
 
 日本新聞,#genre#
 
