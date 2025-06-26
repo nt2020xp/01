@@ -91,6 +91,27 @@ CN卡通頻道,http://1234.koyeb.app/smt.php?id=momo1_twn
 世界地理,http://www.lizhinas.top:1009/rtp/239.252.219.93:5140
 风云剧场,http://www.lizhinas.top:1009/rtp/239.252.219.89:5140
 
+CCTV91,http://221.13.233.54:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV92,http://101.74.31.134:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV93,http://ychz.myds.me:35455/mgtv/673168140.m3u8
+CCTV94,http://221.13.233.118:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV95,http://117.13.121.247:4022/rtp/225.1.1.119:5002
+CCTV96,http://113.101.245.46:9988/udp/239.77.0.135:5146
+CCTV97,http://27.154.89.193:18888/rtp/239.61.2.172:9020
+CCTV98,http://222.169.85.8:9901/tsfile/live/0009_1.m3u8?key=txiptv
+CCTV99,http://112.123.243.37:50085/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV910,http://42.225.117.174:11199/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV101,http://221.13.233.54:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV102,http://101.74.31.134:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV103,http://ychz.myds.me:35455/mgtv/624878405.m3u8
+CCTV104,http://221.13.233.118:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV105,http://110.52.99.109:9901/tsfile/live/1009_1.m3u8
+CCTV106,http://1.196.54.1:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV107,http://112.123.243.37:50085/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV108,http://222.169.85.8:9901/tsfile/live/0010_1.m3u8
+CCTV109,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8
+CCTV1010,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000506/index.m3u8
+
 日本新聞,#genre#
 
 JapaNews24,https://www.youtube.com/live/coYw-eVU0Ks?si=a_SrIlnGwcXNuiNu
