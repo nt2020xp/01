@@ -77,8 +77,7 @@ Smart知識台,http://8964.koyeb.app/8964.php?id=litv-longturn19
 
 東森幼幼,http://1234.koyeb.app/smt.php?id=yoyo_twn
 CN卡通頻道,http://1234.koyeb.app/smt.php?id=momo1_twn
-八大綜合,https://smart.pendy.dpdns.org/Smart.php?id=badazhonghe
-東森洋片,https://smart.pendy.dpdns.org/Smart.php?id=ettvwestern
+
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
