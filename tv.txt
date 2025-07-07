@@ -438,7 +438,7 @@ parse=1
 第297話 李武靖進牢和一休的報答,https://xgct-video.vzcdn.net/5a9648af-cc2d-4b86-ada7-0f6a20a4a8b1/842x480/video.m3u8
 第298話 媽媽、朋友們、安國寺再見了（大結局）,https://xgct-video.vzcdn.net/c6763ae5-ca5e-497c-af7c-21b72c0b5c92/842x480/video.m3u8
 
-8964台灣,#genre#
+5678台灣,#genre#
 
 TVBS新聞,http://relieved-eloisa-58239ff1.koyeb.app/8964.php?id=4gtv-4gtv072
 東森新聞,http://relieved-eloisa-58239ff1.koyeb.app/8964.php?id=4gtv-4gtv152
