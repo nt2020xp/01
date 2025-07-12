@@ -209,7 +209,7 @@ webview://https://tv.cctv.com/live/cctv6
 webview://https://tv.cctv.com/live/cctv7
 #EXTINF:-1 tvg-name="8電視劇" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="央視",8電視劇
 webview://https://tv.cctv.com/live/cctv8
-#EXTINF:-1 tvg-name="9紀錄" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央視",9紀錄
+#EXTINF:-1 tvg-name="9紀錄" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央視",CCTV9
 webview://https://tv.cctv.com/live/cctvjilu
 #EXTINF:-1 tvg-name="10科教" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="央視",10科教
 webview://https://tv.cctv.com/live/cctv10
