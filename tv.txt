@@ -1,4 +1,9 @@
 台灣新聞,#genre#
+1綜合,http://59.174.90.97:5555/mgtv/608807420.m3u8
+2財經,http://59.174.90.97:5555/mgtv/631780532.m3u8
+9紀錄,http://59.174.90.97:5555/mgtv/673168140.m3u8
+10科教,http://59.174.90.97:5555/mgtv/624878405.m3u8
+13新聞,http://59.174.90.97:5555/mgtv/608807423.m3u8
 
 飢餓遊戲》點閱人氣榜,https://www.youtube.com/watch?v=bbbp1fuzgSo
 飢餓遊戲》一次播到飽,https://www.youtube.com/wath?v=lpunQRv0QvY
