@@ -17,15 +17,9 @@ http://api.y977.com/iptv.txt.zip
 xfflchVCWG9941
 =====================================
 
-
 直播源 直播源  https://fanmingming.com/txt?url=http://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u
 
-
-直播源  https://fanmingming.com/txt?url=https://smart.pendy.dpdns.org/m3u/merged_judy.m3u
-
 直播源  https://fanmingming.com/txt?url=https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/8964.m3u
-
-4gtv直播源 https://fanmingming.com/txt?url=https://smart.pendy.dpdns.org/m3u/merged_judy.m3u
 
 webview  https://ghfast.top/https://raw.githubusercontent.com/yaoxieyoulei/YYKM_assets/main/webview.m3u
 
