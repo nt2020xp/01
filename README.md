@@ -1,3 +1,5 @@
+直播源 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+
 4gtv  "ads": ["static-mozai.4gtv.tv","mozai.4gtv.tv"]
 
 直播源解密 https://ua.fongmi.eu.org
