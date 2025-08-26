@@ -44,8 +44,6 @@ https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
 
 4gtv豪華頻道餐,https://www.4gtv.tv/channel?channelSet_id=1
 
-4gtv免費頻道,https://www.4gtv.tv/channel?channelSet_id=4
-
 TVBS新聞24,https://www.youtube.com/watch?v=2mCSYvcfhtc
 
 東森新聞24,https://www.youtube.com/watch?v=E0zhe2gkXBs
