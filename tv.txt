@@ -428,6 +428,87 @@ parse=1
 
 
 106台灣,#genre#
+
+TVBS新聞台,http://106.107.177.201:50007/li-4gtv-4gtv072/index.m3u8
+
+東森新聞台,http://106.107.177.201:50007/4gtv-4gtv152/index.m3u8
+東森新聞台,http://106.107.177.201:50007/li-4gtv-4gtv152/index.m3u8
+東森財經新聞台,http://106.107.177.201:50007/4gtv-4gtv153/index.m3u8
+東森財經新聞台,http://106.107.177.201:50007/li-4gtv-4gtv153/index.m3u8
+民視新聞台,http://106.107.177.201:50007/li-litv-ftv13/index.m3u8
+民視新聞台,http://106.107.177.201:50007/litv-ftv13/index.m3u8
+中天新聞台,http://106.107.177.201:50007/4gtv-4gtv009/index.m3u8
+中天新聞台,http://106.107.177.201:50007/li-4gtv-4gtv009/index.m3u8
+中天新聞台,http://106.107.177.201:50007/of-4gtv-4gtv009/index.m3u8
+
+三立新聞iNEWS,http://106.107.177.201:50007/4gtv-live089/index.m3u8
+三立新聞iNEWS,http://106.107.177.201:50007/iNEWS/index.m3u8
+華視新聞,http://106.107.177.201:50007/4gtv-4gtv052/index.m3u8
+中視新聞台,http://106.107.177.201:50007/4gtv-4gtv074/index.m3u8
+中視新聞台,http://106.107.177.201:50007/4gtv-4gtv074/index.m3u8
+中視新聞台,http://106.107.177.201:50007/of-4gtv-4gtv074/index.m3u8
+台視新聞台,http://106.107.177.201:50007/4gtv-4gtv051/index.m3u8
+台視新聞台,http://106.107.177.201:50007/li-4gtv-4gtv051/index.m3u8
+
+華視,http://106.107.177.201:50007/4gtv-4gtv041/index.m3u8
+華視,http://106.107.177.201:50007/li-4gtv-4gtv041/index.m3u8
+華視,http://106.107.177.201:50007/of-4gtv-4gtv041/index.m3u8
+中視,http://106.107.177.201:50007/4gtv-4gtv040/index.m3u8
+中視,http://106.107.177.201:50007/li-4gtv-4gtv040/index.m3u8
+中視,http://106.107.177.201:50007/of-4gtv-4gtv040/index.m3u8
+台視,http://106.107.177.201:50007/4gtv-4gtv066/index.m3u8
+台視,http://106.107.177.201:50007/li-4gtv-4gtv066/index.m3u8
+
+民視旅遊台,http://106.107.177.201:50007/li-litv-ftv07/index.m3u8
+民視旅遊台,http://106.107.177.201:50007/litv-ftv07/index.m3u8
+亞洲旅遊台,http://106.107.177.201:50007/4gtv-4gtv076/index.m3u8
+亞洲旅遊台,http://106.107.177.201:50007/li-4gtv-4gtv076/index.m3u8
+亞洲旅遊台,http://106.107.177.201:50007/of-4gtv-4gtv076/index.m3u8
+愛爾達生活旅遊台,http://106.107.177.201:50007/4gtv-live120/index.m3u8
+Smart知識台,http://106.107.177.201:50007/li-litv-longturn19/index.m3u8
+Smart知識台,http://106.107.177.201:50007/litv-longturn19/index.m3u8
+霹靂布袋戲,http://106.107.177.201:50007/4gtv-live145/index.m3u8
+
+靖天日本台,http://106.107.177.201:50007/4gtv-4gtv047/index.m3u8
+靖天日本台,http://106.107.177.201:50007/li-4gtv-4gtv047/index.m3u8
+靖天歡樂台,http://106.107.177.201:50007/4gtv-4gtv054/index.m3u8
+靖天歡樂台,http://106.107.177.201:50007/li-4gtv-4gtv054/index.m3u8
+靖天育樂台,http://106.107.177.201:50007/4gtv-4gtv062/index.m3u8
+靖天育樂台,http://106.107.177.201:50007/li-4gtv-4gtv062/index.m3u8
+靖天映畫台,http://106.107.177.201:50007/4gtv-4gtv055/index.m3u8
+靖天映畫台,http://106.107.177.201:50007/li-4gtv-4gtv055/index.m3u8
+靖天資訊台,http://106.107.177.201:50007/4gtv-4gtv065/index.m3u8
+靖天資訊台,http://106.107.177.201:50007/li-4gtv-4gtv065/index.m3u8
+靖天電影台,http://106.107.177.201:50007/4gtv-4gtv061/index.m3u8
+靖天電影台,http://106.107.177.201:50007/li-4gtv-4gtv061/index.m3u8
+靖天綜合台,http://106.107.177.201:50007/4gtv-4gtv046/index.m3u8
+靖天綜合台,http://106.107.177.201:50007/4gtv-4gtv046/index.m3u8
+靖天戲劇台,http://106.107.177.201:50007/4gtv-4gtv058/index.m3u8
+靖天戲劇台,http://106.107.177.201:50007/li-4gtv-4gtv058/index.m3u8
+靖洋戲劇台,http://106.107.177.201:50007/4gtv-4gtv045/index.m3u8
+靖洋戲劇台,http://106.107.177.201:50007/li-4gtv-4gtv045/index.m3u8
+靖天國際台,http://106.107.177.201:50007/4gtv-4gtv063/index.m3u8
+靖天國際台,http://106.107.177.201:50007/li-4gtv-4gtv063/index.m3u8
+靖天卡通台,http://106.107.177.201:50007/4gtv-4gtv044/index.m3u8
+靖天卡通台,http://106.107.177.201:50007/li-4gtv-4gtv044/index.m3u8
+靖洋卡通台,http://106.107.177.201:50007/4gtv-4gtv057/index.m3u8
+靖洋卡通台,http://106.107.177.201:50007/li-4gtv-4gtv057/index.m3u8
+
+龍華日韓,http://106.107.177.201:50007/li-litv-longturn11/index.m3u8
+龍華日韓,http://106.107.177.201:50007/litv-longturn11/index.m3u8
+龍華洋片,http://106.107.177.201:50007/li-litv-longturn02/index.m3u8
+龍華洋片,http://106.107.177.201:50007/litv-longturn02/index.m3u8
+龍華偶像,http://106.107.177.201:50007/li-litv-longturn12/index.m3u8
+龍華偶像,http://106.107.177.201:50007/litv-longturn12/index.m3u8
+龍華經典,http://106.107.177.201:50007/li-litv-longturn21/index.m3u8
+龍華經典,http://106.107.177.201:50007/litv-longturn21/index.m3u8
+龍華電影,http://106.107.177.201:50007/li-litv-longturn03/index.m3u8
+龍華電影,http://106.107.177.201:50007/litv-longturn03/index.m3u8
+龍華戲劇,http://106.107.177.201:50007/li-litv-longturn18/index.m3u8
+龍華戲劇,http://106.107.177.201:50007/litv-longturn18/index.m3u8
+龍華卡通,http://106.107.177.201:50007/li-litv-longturn01/index.m3u8
+龍華卡通,http://106.107.177.201:50007/litv-longturn01/index.m3u8
+
 amc電影台,http://106.107.177.201:50007/4gtv-4gtv017/index.m3u8
 amc電影台,http://106.107.177.201:50007/li-4gtv-4gtv017/index.m3u8
 ARIRANG阿里郎頻道,http://106.107.177.201:50007/4gtv-4gtv079/index.m3u8
@@ -451,8 +532,7 @@ Global Trekker,http://106.107.177.201:50007/4gtv-live112/index.m3u8
 History 歷史頻道,http://106.107.177.201:50007/4gtv-live026/index.m3u8
 HITS頻道,http://106.107.177.201:50007/4gtv-live620/index.m3u8
 INULTRA,http://106.107.177.201:50007/4gtv-live096/index.m3u8
-KLT-靖天國際台,http://106.107.177.201:50007/4gtv-4gtv063/index.m3u8
-KLT-靖天國際台,http://106.107.177.201:50007/li-4gtv-4gtv063/index.m3u8
+
 Lifetime 娛樂頻道,http://106.107.177.201:50007/4gtv-live029/index.m3u8
 LiveABC互動英語頻道,http://106.107.177.201:50007/4gtv-live030/index.m3u8
 Love Nature,http://106.107.177.201:50007/4gtv-live208/index.m3u8
@@ -463,16 +543,14 @@ Mezzo Live HD,http://106.107.177.201:50007/li-4gtv-4gtv083/index.m3u8
 MOMO親子台,http://106.107.177.201:50007/4gtv-live107/index.m3u8
 MTV Live HD 音樂頻道,http://106.107.177.201:50007/4gtv-live025/index.m3u8
 My Cinema Europe HD 我的歐洲電影,http://106.107.177.201:50007/4gtv-live157/index.m3u8
-Nice TV 靖天歡樂台,http://106.107.177.201:50007/4gtv-4gtv054/index.m3u8
-Nice TV 靖天歡樂台,http://106.107.177.201:50007/li-4gtv-4gtv054/index.m3u8
+
 Nick Jr. 兒童頻道,http://106.107.177.201:50007/4gtv-live032/index.m3u8
 Nickelodeon,http://106.107.177.201:50007/4gtv-live105/index.m3u8
 Pet Club TV,http://106.107.177.201:50007/4gtv-live110/index.m3u8
 ROCK Action,http://106.107.177.201:50007/4gtv-live138/index.m3u8
 ROCK Entertainment,http://106.107.177.201:50007/4gtv-live080/index.m3u8
 SBN全球財經台,http://106.107.177.201:50007/4gtv-live060/index.m3u8
-Smart知識台,http://106.107.177.201:50007/li-litv-longturn19/index.m3u8
-Smart知識台,http://106.107.177.201:50007/litv-longturn19/index.m3u8
+
 TRACE Sport Stars,http://106.107.177.201:50007/4gtv-4gtv077/index.m3u8
 TRACE Sport Stars,http://106.107.177.201:50007/li-4gtv-4gtv077/index.m3u8
 TRACE Urban,http://106.107.177.201:50007/4gtv-4gtv082/index.m3u8
@@ -481,7 +559,7 @@ TV5MONDE STYLE HD 生活時尚,http://106.107.177.201:50007/4gtv-live122/index.m
 TVBS,http://106.107.177.201:50007/4gtv-4gtv073/index.m3u8
 TVBS,http://106.107.177.201:50007/li-4gtv-4gtv073/index.m3u8
 TVBS台劇台,http://106.107.177.201:50007/4gtv-live088/index.m3u8
-TVBS新聞,http://106.107.177.201:50007/li-4gtv-4gtv072/index.m3u8
+
 TVBS精采台,http://106.107.177.201:50007/4gtv-4gtv067/index.m3u8
 TVBS精采台,http://106.107.177.201:50007/li-4gtv-4gtv067/index.m3u8
 TVBS綜藝台,http://106.107.177.201:50007/4gtv-live087/index.m3u8
@@ -494,46 +572,34 @@ VOA美國之音,http://106.107.177.201:50007/litv-ftv03/index.m3u8
 八大精彩台,http://106.107.177.201:50007/li-4gtv-4gtv034/index.m3u8
 八大綜藝台,http://106.107.177.201:50007/4gtv-4gtv039/index.m3u8
 八大綜藝台,http://106.107.177.201:50007/li-4gtv-4gtv039/index.m3u8
-三立新聞iNEWS,http://106.107.177.201:50007/4gtv-live089/index.m3u8
-三立新聞iNEWS,http://106.107.177.201:50007/iNEWS/index.m3u8
+
 三立綜合台,http://106.107.177.201:50007/4gtv-live207/index.m3u8
 三立綜合台,http://106.107.177.201:50007/4gtv-live207/index.m3u8
 大愛二台,http://106.107.177.201:50007/4gtv-live106/index.m3u8
 大愛電視,http://106.107.177.201:50007/4gtv-live007/index.m3u8
 中天亞洲台,http://106.107.177.201:50007/4gtv-4gtv109/index.m3u8
-中天新聞台,http://106.107.177.201:50007/4gtv-4gtv009/index.m3u8
-中天新聞台,http://106.107.177.201:50007/li-4gtv-4gtv009/index.m3u8
-中天新聞台,http://106.107.177.201:50007/of-4gtv-4gtv009/index.m3u8
-中視,http://106.107.177.201:50007/4gtv-4gtv040/index.m3u8
-中視,http://106.107.177.201:50007/li-4gtv-4gtv040/index.m3u8
-中視,http://106.107.177.201:50007/of-4gtv-4gtv040/index.m3u8
+
 中視菁采台,http://106.107.177.201:50007/4gtv-4gtv064/index.m3u8
 中視菁采台,http://106.107.177.201:50007/li-4gtv-4gtv064/index.m3u8
-中視新聞台,http://106.107.177.201:50007/4gtv-4gtv074/index.m3u8
-中視新聞台,http://106.107.177.201:50007/4gtv-4gtv074/index.m3u8
-中視新聞台,http://106.107.177.201:50007/of-4gtv-4gtv074/index.m3u8
+
 中視經典台,http://106.107.177.201:50007/4gtv-4gtv080/index.m3u8
 中視經典台,http://106.107.177.201:50007/li-4gtv-4gtv080/index.m3u8
 公視戲劇,http://106.107.177.201:50007/4gtv-4gtv042/index.m3u8
 公視戲劇,http://106.107.177.201:50007/li-4gtv-4gtv042/index.m3u8
 半島國際新聞台,http://106.107.177.201:50007/li-litv-ftv10/index.m3u8
 半島國際新聞台,http://106.107.177.201:50007/litv-ftv10/index.m3u8
-台視,http://106.107.177.201:50007/4gtv-4gtv066/index.m3u8
-台視,http://106.107.177.201:50007/li-4gtv-4gtv066/index.m3u8
+
 台視財經台,http://106.107.177.201:50007/4gtv-4gtv056/index.m3u8
-台視新聞台,http://106.107.177.201:50007/4gtv-4gtv051/index.m3u8
-台視新聞台,http://106.107.177.201:50007/li-4gtv-4gtv051/index.m3u8
+
 台灣戲劇,http://106.107.177.201:50007/li-litv-longturn22/index.m3u8
 台灣戲劇,http://106.107.177.201:50007/litv-longturn22/index.m3u8
 民視,http://106.107.177.201:50007/4gtv-4gtv002/index.m3u8
 民視台灣台,http://106.107.177.201:50007/4gtv-4gtv001/index.m3u8
 民視台灣台,http://106.107.177.201:50007/li-4gtv-4gtv001/index.m3u8
-民視旅遊台,http://106.107.177.201:50007/li-litv-ftv07/index.m3u8
-民視旅遊台,http://106.107.177.201:50007/litv-ftv07/index.m3u8
+
 民視第一台,http://106.107.177.201:50007/4gtv-4gtv003/index.m3u8
 民視第一台,http://106.107.177.201:50007/li-4gtv-4gtv003/index.m3u8
-民視新聞台,http://106.107.177.201:50007/li-litv-ftv13/index.m3u8
-民視新聞台,http://106.107.177.201:50007/litv-ftv13/index.m3u8
+
 民視綜藝台,http://106.107.177.201:50007/4gtv-4gtv004/index.m3u8
 民視綜藝台,http://106.107.177.201:50007/li-4gtv-4gtv004/index.m3u8
 民視影劇台,http://106.107.177.201:50007/li-litv-ftv09/index.m3u8
@@ -545,14 +611,9 @@ VOA美國之音,http://106.107.177.201:50007/litv-ftv03/index.m3u8
 好消息2台,http://106.107.177.201:50007/litv-ftv17/index.m3u8
 好消息2台,http://106.107.177.201:50007/of-litv-ftv17/index.m3u8
 車迷TV,http://106.107.177.201:50007/4gtv-live201/index.m3u8
-亞洲旅遊台,http://106.107.177.201:50007/4gtv-4gtv076/index.m3u8
-亞洲旅遊台,http://106.107.177.201:50007/li-4gtv-4gtv076/index.m3u8
-亞洲旅遊台,http://106.107.177.201:50007/of-4gtv-4gtv076/index.m3u8
+
 幸福空間居家台,http://106.107.177.201:50007/4gtv-live206/index.m3u8
-東森財經新聞台,http://106.107.177.201:50007/4gtv-4gtv153/index.m3u8
-東森財經新聞台,http://106.107.177.201:50007/li-4gtv-4gtv153/index.m3u8
-東森新聞台,http://106.107.177.201:50007/4gtv-4gtv152/index.m3u8
-東森新聞台,http://106.107.177.201:50007/li-4gtv-4gtv152/index.m3u8
+
 東森購物一台,http://106.107.177.201:50007/4gtv-4gtv102/index.m3u8
 東森購物一台,http://106.107.177.201:50007/4gtv-live047/index.m3u8
 東森購物一台,http://106.107.177.201:50007/of-4gtv-4gtv102/index.m3u8
@@ -592,13 +653,10 @@ VOA美國之音,http://106.107.177.201:50007/litv-ftv03/index.m3u8
 博斯魅力台,http://106.107.177.201:50007/litv-longturn04/index.m3u8
 智林體育台,http://106.107.177.201:50007/4gtv-4gtv101/index.m3u8
 智林體育台,http://106.107.177.201:50007/li-4gtv-4gtv101/index.m3u8
-華視,http://106.107.177.201:50007/4gtv-4gtv041/index.m3u8
-華視,http://106.107.177.201:50007/li-4gtv-4gtv041/index.m3u8
-華視,http://106.107.177.201:50007/of-4gtv-4gtv041/index.m3u8
-華視新聞,http://106.107.177.201:50007/4gtv-4gtv052/index.m3u8
+
 視納華仁紀實頻道,http://106.107.177.201:50007/4gtv-4gtv013/index.m3u8
 視納華仁紀實頻道,http://106.107.177.201:50007/li-4gtv-4gtv013/index.m3u8
-愛爾達生活旅遊台,http://106.107.177.201:50007/4gtv-live120/index.m3u8
+
 愛爾達娛樂台,http://106.107.177.201:50007/4gtv-4gtv070/index.m3u8
 愛爾達娛樂台,http://106.107.177.201:50007/li-4gtv-4gtv070/index.m3u8
 新唐人亞太台,http://106.107.177.201:50007/4gtv-live050/index.m3u8
@@ -607,26 +665,7 @@ VOA美國之音,http://106.107.177.201:50007/litv-ftv03/index.m3u8
 達文西頻道,http://106.107.177.201:50007/4gtv-4gtv018/index.m3u8
 達文西頻道,http://106.107.177.201:50007/li-4gtv-4gtv018/index.m3u8
 電影原聲台,http://106.107.177.201:50007/4gtv-live031/index.m3u8
-靖天日本台,http://106.107.177.201:50007/4gtv-4gtv047/index.m3u8
-靖天日本台,http://106.107.177.201:50007/li-4gtv-4gtv047/index.m3u8
-靖天卡通台,http://106.107.177.201:50007/4gtv-4gtv044/index.m3u8
-靖天卡通台,http://106.107.177.201:50007/li-4gtv-4gtv044/index.m3u8
-靖天育樂台,http://106.107.177.201:50007/4gtv-4gtv062/index.m3u8
-靖天育樂台,http://106.107.177.201:50007/li-4gtv-4gtv062/index.m3u8
-靖天映畫台,http://106.107.177.201:50007/4gtv-4gtv055/index.m3u8
-靖天映畫台,http://106.107.177.201:50007/li-4gtv-4gtv055/index.m3u8
-靖天資訊台,http://106.107.177.201:50007/4gtv-4gtv065/index.m3u8
-靖天資訊台,http://106.107.177.201:50007/li-4gtv-4gtv065/index.m3u8
-靖天電影台,http://106.107.177.201:50007/4gtv-4gtv061/index.m3u8
-靖天電影台,http://106.107.177.201:50007/li-4gtv-4gtv061/index.m3u8
-靖天綜合台,http://106.107.177.201:50007/4gtv-4gtv046/index.m3u8
-靖天綜合台,http://106.107.177.201:50007/4gtv-4gtv046/index.m3u8
-靖天戲劇台,http://106.107.177.201:50007/4gtv-4gtv058/index.m3u8
-靖天戲劇台,http://106.107.177.201:50007/li-4gtv-4gtv058/index.m3u8
-靖洋卡通台,http://106.107.177.201:50007/4gtv-4gtv057/index.m3u8
-靖洋卡通台,http://106.107.177.201:50007/li-4gtv-4gtv057/index.m3u8
-靖洋戲劇台,http://106.107.177.201:50007/4gtv-4gtv045/index.m3u8
-靖洋戲劇台,http://106.107.177.201:50007/li-4gtv-4gtv045/index.m3u8
+
 滾動力rollor,http://106.107.177.201:50007/4gtv-live012/index.m3u8
 精選動漫台,http://106.107.177.201:50007/4gtv-live024/index.m3u8
 影迷數位紀實台,http://106.107.177.201:50007/li-litv-ftv15/index.m3u8
@@ -644,26 +683,13 @@ VOA美國之音,http://106.107.177.201:50007/litv-ftv03/index.m3u8
 寰宇台灣台,http://106.107.177.201:50007/4gtv-4gtv156/index.m3u8
 寰宇台灣,http://106.107.177.201:50007/li-4gtv-4gtv156/index.m3u8
 寰宇台灣,http://106.107.177.201:50007/of-4gtv-4gtv156/index.m3u8
-龍華日韓,http://106.107.177.201:50007/li-litv-longturn11/index.m3u8
-龍華日韓,http://106.107.177.201:50007/litv-longturn11/index.m3u8
-龍華卡通,http://106.107.177.201:50007/li-litv-longturn01/index.m3u8
-龍華卡通,http://106.107.177.201:50007/litv-longturn01/index.m3u8
-龍華洋片,http://106.107.177.201:50007/li-litv-longturn02/index.m3u8
-龍華洋片,http://106.107.177.201:50007/litv-longturn02/index.m3u8
-龍華偶像,http://106.107.177.201:50007/li-litv-longturn12/index.m3u8
-龍華偶像,http://106.107.177.201:50007/litv-longturn12/index.m3u8
-龍華經典,http://106.107.177.201:50007/li-litv-longturn21/index.m3u8
-龍華經典,http://106.107.177.201:50007/litv-longturn21/index.m3u8
-龍華電影,http://106.107.177.201:50007/li-litv-longturn03/index.m3u8
-龍華電影,http://106.107.177.201:50007/litv-longturn03/index.m3u8
-龍華戲劇,http://106.107.177.201:50007/li-litv-longturn18/index.m3u8
-龍華戲劇,http://106.107.177.201:50007/litv-longturn18/index.m3u8
+
 戲劇免費看 1台,http://106.107.177.201:50007/4gtv-live010/index.m3u8
 韓國娛樂台 KMTV,http://106.107.177.201:50007/4gtv-4gtv016/index.m3u8
 韓國娛樂台 KMTV,http://106.107.177.201:50007/li-4gtv-4gtv016/index.m3u8
 鏡電視新聞台,http://106.107.177.201:50007/4gtv-4gtv075/index.m3u8
 鏡電視新聞台,http://106.107.177.201:50007/li-4gtv-4gtv075/index.m3u8
-霹靂布袋戲,http://106.107.177.201:50007/4gtv-live145/index.m3u8
+
 
 
 tv543央視衛視,#genre#
