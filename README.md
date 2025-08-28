@@ -1,3 +1,7 @@
+港澳台,https://iptv345.com/?tid=gt
+
+litv，https://iptv345.com/?tid=litv
+
 tv543  https://tv543.cc/1.json
 
 4gtv  http://99.iptv543.com/4gtv.m3u
