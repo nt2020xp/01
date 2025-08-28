@@ -2,6 +2,10 @@
 4gtv  http://99.iptv543.com/4gtv.m3u
 
 smart  https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/smart.m3u
+
+4gtv  https://fanmingming.com/txt?url=http://99.iptv543.com/4gtv.m3u
+
+smart  https://fanmingming.com/txt?url=https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/smart.m3u
  
  
  "ads": [
