@@ -1,3 +1,16 @@
+ "ads": [
+        "static-mozai.4gtv.tv",
+        "s3t3d2y8.afcdn.net"
+    ],
+    "lives": [
+      {"name":"543","url":"http://99.iptv543.com/4gtv.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+       {
+    "name": "SMT",
+    "url": "https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/smart.m3u",
+    "type": 3,
+    "ua": "Goiptv/8.8.8"
+    
+
 直播源 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
 
 直播源 https://fanmingming.com/txt?url=https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
