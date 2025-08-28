@@ -666,7 +666,7 @@ VOA美國之音,http://106.107.177.201:50007/litv-ftv03/index.m3u8
 霹靂布袋戲,http://106.107.177.201:50007/4gtv-live145/index.m3u8
 
 
-中國,#genre#
+tv543央視衛視,#genre#
 CCTV1,http://tv543.cc/Smart.php?id=cctv1
 CCTV2,http://tv543.cc/Smart.php?id=cctv2
 CCTV3,http://tv543.cc/Smart.php?id=cctv3
