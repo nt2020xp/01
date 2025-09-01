@@ -729,6 +729,50 @@ CCTV央视台球,https://iptv345.com/?act=play&token=02afeb4f7063ce96711e78d17e4
 CCTV高尔夫网球,https://iptv345.com/?act=play&token=40cf785038d4867084c850c77d71a5ac&tid=ys&id=42
 CCTV女性时尚,https://iptv345.com/?act=play&token=43ad30fc673782ea0fe6b03121fb0888&tid=ys&id=43
 	
+345衛視,#genre#
+
+湖南卫视,https://iptv345.com/?act=play&token=820aed74d7aad1309d0647f80278fa00&tid=ws&id=1
+江苏卫视,https://iptv345.com/?act=play&token=05aabec1a9491961c82be481345e27b6&tid=ws&id=2
+浙江卫视,https://iptv345.com/?act=play&token=ffce9230714a37c41e4399306c98c247&tid=ws&id=3
+东方卫视,https://iptv345.com/?act=play&token=41dc212012da30ab0150a5d296c5595f&tid=ws&id=4
+北京卫视,https://iptv345.com/?act=play&token=fb2dcf572ac3c41ece570ea638b68fc6&tid=ws&id=5
+深圳卫视,https://iptv345.com/?act=play&token=e475d680a3d2f0518fcfda4ce86faff2&tid=ws&id=6
+广东卫视,https://iptv345.com/?act=play&token=2dbdf3dfc44499db65c1761d05cecefb&tid=ws&id=7
+安徽卫视,https://iptv345.com/?act=play&token=9d0e7068d08d05386bcf35fecd377da0&tid=ws&id=8
+东南卫视,https://iptv345.com/?act=play&token=f278acb2772271b826d30903a48a7fef&tid=ws&id=9
+河北卫视,https://iptv345.com/?act=play&token=73765678435d14554696ec0ba799d5c3&tid=ws&id=10
+黑龙江卫视,https://iptv345.com/?act=play&token=eeed7b60ed9aa517d88503b84ce9b1db&tid=ws&id=11
+湖北卫视,https://iptv345.com/?act=play&token=caddd13fda045d50450b6f11c5b42d3f&tid=ws&id=12
+江西卫视,https://iptv345.com/?act=play&token=b87b01a251a3b43e383aff8f88ea9d52&tid=ws&id=13
+辽宁卫视,https://iptv345.com/?act=play&token=7b2203ffaf919b2b64cd10d6618942d5&tid=ws&id=14
+海南卫视,https://iptv345.com/?act=play&token=0d3d4b82bd0e1570f68aed4b6f396df8&tid=ws&id=15
+山东卫视,https://iptv345.com/?act=play&token=288c337a3cbcea9120ad495357c29136&tid=ws&id=16
+四川卫视,https://iptv345.com/?act=play&token=0be3d4de25cf87ae75c9feac5d314814&tid=ws&id=17
+天津卫视,https://iptv345.com/?act=play&token=e54420543319f89a7adb102af60e75d7&tid=ws&id=18
+重庆卫视,https://iptv345.com/?act=play&token=36b2f029edf2937016c5c8015456800d&tid=ws&id=19
+贵州卫视,https://iptv345.com/?act=play&token=4a75f2d0dbe672c9217157e93de164d3&tid=ws&id=20
+吉林卫视,https://iptv345.com/?act=play&token=30982e6c7f96a0cb7a5989b37413609d&tid=ws&id=21
+广西卫视,https://iptv345.com/?act=play&token=37b5d3afae99a37be379b5d9bf22cb01&tid=ws&id=22
+河南卫视,https://iptv345.com/?act=play&token=61b262c2f4c66c01e3bd529cd2ebfde6&tid=ws&id=23
+甘肃卫视,https://iptv345.com/?act=play&token=782bc6ec68d2d42e53f7a45f4bfd40e7&tid=ws&id=24
+青海卫视,https://iptv345.com/?act=play&token=aa2197ed0670de64229bc39995f39027&tid=ws&id=25
+云南卫视,https://iptv345.com/?act=play&token=cdc4dfc15da1d856dda29ca7dee0a883&tid=ws&id=26
+内蒙古卫视,https://iptv345.com/?act=play&token=4210126ba202182fd2c62f94f228c1d2&tid=ws&id=27
+山西卫视,https://iptv345.com/?act=play&token=4c67179f4da27d341086f9547e0cd4fa&tid=ws&id=28
+陕西卫视,https://iptv345.com/?act=play&token=2bcdd425ae6730f10bdf3357523409b4&tid=ws&id=29
+兵团卫视,https://iptv345.com/?act=play&token=677cde117855ed339bf89a27a8e47e81&tid=ws&id=30
+新疆卫视,https://iptv345.com/?act=play&token=201ff6e9f72499fe4a8dd157adfd5f01&tid=ws&id=31
+西藏卫视,https://iptv345.com/?act=play&token=3388749d0f8fb3240c19648afeffb72e&tid=ws&id=32
+宁夏卫视,https://iptv345.com/?act=play&token=2cbd9c3976d0f4902fac814bb6f130f0&tid=ws&id=33
+延边卫视,https://iptv345.com/?act=play&token=907921e7886438cd6cecd31056e5f8c2&tid=ws&id=34
+康巴卫视,https://iptv345.com/?act=play&token=94aa281740152aeec6f9e0b83d0d06b0&tid=ws&id=35
+大湾区卫视,https://iptv345.com/?act=play&token=99c4da1c9d1c2edda7ef0aeb444ae43e&tid=ws&id=36
+广东珠江频道,https://iptv345.com/?act=play&token=62f60dc5e938c03a7901488dfd80350f&tid=ws&id=37
+厦门卫视,https://iptv345.com/?act=play&token=d2cb276cc2f4543d8649ca984c584348&tid=ws&id=38
+安多卫视,https://iptv345.com/?act=play&token=7e085da6846416290bb240546c1dfe9e&tid=ws&id=39
+农林卫视,https://iptv345.com/?act=play&token=61496b4cd4fe13e3b6975cd9e3f5ef29&tid=ws&id=40
+三沙卫视,https://iptv345.com/?act=play&token=d3a6e130780aadf0b3b6aa88269a8331&tid=ws&id=41
+	
 
 
 
