@@ -1,4 +1,27 @@
-東森幼幼  iptv.4666888.xyz/iptv.php?id=20213
+纬来体育,http://iptv.4666888.xyz/iptv.php?id=20225 
+
+纬来日本,http://iptv.4666888.xyz/iptv.php?id=20226 
+
+纬来电影,http://iptv.4666888.xyz/iptv.php?id=20227 
+
+纬来综合,http://iptv.4666888.xyz/iptv.php?id=20228 
+
+纬来精采,http://iptv.4666888.xyz/iptv.php?id=20229 
+
+东森综合,http://iptv.4666888.xyz/iptv.php?id=20206 
+
+东森戏剧,http://iptv.4666888.xyz/iptv.php?id=20207 
+
+东森超视,http://iptv.4666888.xyz/iptv.php?id=20208 
+
+东森美洲,http://iptv.4666888.xyz/iptv.php?id=20210 
+
+东森电影,http://iptv.4666888.xyz/iptv.php?id=20211 
+
+东森洋片,http://iptv.4666888.xyz/iptv.php?id=20212 
+
+东森幼幼,http://iptv.4666888.xyz/iptv.php?id=20213 
+
 
 直播源  https://d.kstore.dev/download/15114/HKoo.txt
 
