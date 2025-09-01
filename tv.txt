@@ -685,6 +685,8 @@ KTSF26(美),http://iptv.4666888.xyz/iptv.php?id=20290
 靖天资讯,http://iptv.4666888.xyz/iptv.php?id=20302
 
 345央視,#genre#
+parse=1
+
 CCTV1综合,https://iptv345.com/?act=play&token=3e2d1acdcdb8b3873654444a6310dbd6&tid=ys&id=1
 CCTV2财经,https://iptv345.com/?act=play&token=dcee1becd218ca542a250f2f36dc9477&tid=ys&id=2
 CCTV3综艺,https://iptv345.com/?act=play&token=009e7650c40e47b3a87a9595f5b87777&tid=ys&id=3
@@ -730,6 +732,8 @@ CCTV高尔夫网球,https://iptv345.com/?act=play&token=40cf785038d4867084c850c7
 CCTV女性时尚,https://iptv345.com/?act=play&token=43ad30fc673782ea0fe6b03121fb0888&tid=ys&id=43
 	
 345衛視,#genre#
+parse=1
+
 
 湖南卫视,https://iptv345.com/?act=play&token=820aed74d7aad1309d0647f80278fa00&tid=ws&id=1
 江苏卫视,https://iptv345.com/?act=play&token=05aabec1a9491961c82be481345e27b6&tid=ws&id=2
@@ -775,6 +779,9 @@ CCTV女性时尚,https://iptv345.com/?act=play&token=43ad30fc673782ea0fe6b03121f
 
 
 345港台,#genre#
+parse=1
+
+
 凤凰卫视中文台,https://iptv345.com/?act=play&token=6065929572176d97b2142c7ab9cde004&tid=gt&id=1
 凤凰卫视资讯台,https://iptv345.com/?act=play&token=a4ddf1587dd2c04dc0b653653a38d7d1&tid=gt&id=2
 凤凰卫视香港台,https://iptv345.com/?act=play&token=283046d1dc1b0b7b83cf3cb11a8279d0&tid=gt&id=3
