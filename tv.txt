@@ -772,6 +772,72 @@ CCTV女性时尚,https://iptv345.com/?act=play&token=43ad30fc673782ea0fe6b03121f
 安多卫视,https://iptv345.com/?act=play&token=7e085da6846416290bb240546c1dfe9e&tid=ws&id=39
 农林卫视,https://iptv345.com/?act=play&token=61496b4cd4fe13e3b6975cd9e3f5ef29&tid=ws&id=40
 三沙卫视,https://iptv345.com/?act=play&token=d3a6e130780aadf0b3b6aa88269a8331&tid=ws&id=41
+
+
+345港台,#genre#
+凤凰卫视中文台,https://iptv345.com/?act=play&token=6065929572176d97b2142c7ab9cde004&tid=gt&id=1
+凤凰卫视资讯台,https://iptv345.com/?act=play&token=a4ddf1587dd2c04dc0b653653a38d7d1&tid=gt&id=2
+凤凰卫视香港台,https://iptv345.com/?act=play&token=283046d1dc1b0b7b83cf3cb11a8279d0&tid=gt&id=3
+TVB翡翠台,https://iptv345.com/?act=play&token=3200d171faffe596d2f0f5eba0e29c6d&tid=gt&id=5
+TVB无线新闻台,https://iptv345.com/?act=play&token=06f2d809eb0b542b8cfc97d53c82ef53&tid=gt&id=6
+TVB Plus,https://iptv345.com/?act=play&token=2a208e0a3c553594476cb21d3c20139d&tid=gt&id=8
+TVB明珠台,https://iptv345.com/?act=play&token=4a51637eab53114fa02d8554cd8cd240&tid=gt&id=9
+香港有线新闻台,https://iptv345.com/?act=play&token=8d2304340a24218e1003028418a3d140&tid=gt&id=11
+香港有线18台,https://iptv345.com/?act=play&token=1657f037e34dd4ddd19b1cd27a579dec&tid=gt&id=12
+NOW直播台,https://iptv345.com/?act=play&token=1cb5da88f569bb5d9d2364f226f9358c&tid=gt&id=16
+NOW新闻台,https://iptv345.com/?act=play&token=75edf8eeaeeaecf7d4b9c2195cbe7383&tid=gt&id=17
+NOW财经台,https://iptv345.com/?act=play&token=c663000ad387934bfd3784fdba92cef2&tid=gt&id=18
+ViuTV,https://iptv345.com/?act=play&token=cb546e2adc3ad8a7882377a4825b0e56&tid=gt&id=19
+ViuTV6,https://iptv345.com/?act=play&token=a271b447f4a440e03a9662808b09c711&tid=gt&id=20
+HOY国际财经台,https://iptv345.com/?act=play&token=ba01ce2b8e0d13fc89b61f891abb649c&tid=gt&id=22
+HOY资讯台,https://iptv345.com/?act=play&token=4ce31a4fbc87cd8f7580eb34bf09a4d7&tid=gt&id=23
+HOY TV,https://iptv345.com/?act=play&token=499fb1c571801e149d7597b9db2c3599&tid=gt&id=24
+港台电视31,https://iptv345.com/?act=play&token=fc71d0e6943c573a5f91c0fdd3e91bb3&tid=gt&id=26
+港台电视32,https://iptv345.com/?act=play&token=d5dfb41cd95e2c4852c6dfd103c03e44&tid=gt&id=27
+香港卫视HKS,https://iptv345.com/?act=play&token=be53f6f9f889c10484a8de3622c0e5c3&tid=gt&id=30
+耀才财经,https://iptv345.com/?act=play&token=9b8ace760e8ec32c63013cca062788ac&tid=gt&id=32
+澳门莲花,https://iptv345.com/?act=play&token=8fc1687695b8eaa8fce34634029c10b4&tid=gt&id=35
+澳門卫视,https://iptv345.com/?act=play&token=4b1b5fb33f01e6c67ab0d0651f9d4afe&tid=gt&id=36
+澳视资讯,https://iptv345.com/?act=play&token=d6ad9e96b5cca88e58567016a6fe3816&tid=gt&id=37
+澳視澳門,https://iptv345.com/?act=play&token=deef81dd6f08aa7c8b972020d7eafb9c&tid=gt&id=38
+澳門Macau,https://iptv345.com/?act=play&token=29b789fffb342259cd6170bb9a14e09c&tid=gt&id=39
+澳视综艺,https://iptv345.com/?act=play&token=b0d2ae86f1f41a41d1c29bc008e07a57&tid=gt&id=40
+澳亚卫视,https://iptv345.com/?act=play&token=34221070bfab4d3d2930ddaff51b49d7&tid=gt&id=41
+中天新闻台,https://iptv345.com/?act=play&token=ece9c815b40d763e00c279ee9474c3ab&tid=gt&id=43
+东森新闻台,https://iptv345.com/?act=play&token=477ff8875c6d700d6ff02faf58ddeb80&tid=gt&id=44
+东森财经新闻台,https://iptv345.com/?act=play&token=cccf8892059a20248e552b44a27704e7&tid=gt&id=45
+中视新闻台,https://iptv345.com/?act=play&token=fe4f248e8312f50f1652da44b54d7d08&tid=gt&id=46
+台视新闻台,https://iptv345.com/?act=play&token=09c31192df64c356ed52599310ffd28e&tid=gt&id=47
+三立新闻台,https://iptv345.com/?act=play&token=b3d22c1806e4eb64e442783b840d21fc&tid=gt&id=48
+民视新闻台,https://iptv345.com/?act=play&token=0595b2d785dc5f4d2ed096eddde09377&tid=gt&id=50
+华视新闻台,https://iptv345.com/?act=play&token=9c0a02fa7457aeb6852805735f507dff&tid=gt&id=51
+镜电视新闻台,https://iptv345.com/?act=play&token=6ae03b5721f1699537401ad836b7322c&tid=gt&id=52
+寰宇新闻台,https://iptv345.com/?act=play&token=91f56f2079ada2adfb75a6c147ea6936&tid=gt&id=53
+寰宇新闻台湾台,https://iptv345.com/?act=play&token=02b92cfeaa10d44e89911699d49a4c47&tid=gt&id=54
+TVBS新闻台,https://iptv345.com/?act=play&token=5d0871d4a1a7659ccdfedb3a8c78bd76&tid=gt&id=55
+TVBS HD,https://iptv345.com/?act=play&token=35f5fed085dd2cfdc6f4c14ee199a36a&tid=gt&id=56
+TVBS欢乐台,https://iptv345.com/?act=play&token=523c1ba78f81fbb01c61a819e5643b41&tid=gt&id=57
+中视HD,https://iptv345.com/?act=play&token=c98a5e1ed1b1375fa365e63d60798e5c&tid=gt&id=60
+台视HD,https://iptv345.com/?act=play&token=bf6f1a727591b8a6aaa979385ec5504f&tid=gt&id=61
+民视HD,https://iptv345.com/?act=play&token=0e01bcb3455f0638b6d6df5d5df00f88&tid=gt&id=62
+华视HD,https://iptv345.com/?act=play&token=faee6f90068321d5ec1de207b16bbe9e&tid=gt&id=63
+三立台湾台,https://iptv345.com/?act=play&token=f69cdd913fd985ef6877d64431ff945c&tid=gt&id=65
+民视台湾台,https://iptv345.com/?act=play&token=3d2295f3bed461afc0e7ec14defb5930&tid=gt&id=67
+民视第一台,https://iptv345.com/?act=play&token=3823524115568d007969fead63137a29&tid=gt&id=68
+民视综艺台,https://iptv345.com/?act=play&token=8e0f7c10e41b07483fb6d4da6610a985&tid=gt&id=69
+民视旅游台,https://iptv345.com/?act=play&token=00cd8ac6d6c2a6e4426405ed89fa7296&tid=gt&id=70
+民视影剧台,https://iptv345.com/?act=play&token=a5e28aca3f4ed2b9b457e28df4184dc7&tid=gt&id=71
+緯來體育台,https://iptv345.com/?act=play&token=2958106d64931db84390316750e1e428&tid=gt&id=73
+纬来日本台,https://iptv345.com/?act=play&token=37cd9458bc7b728ed6a3977899f65a28&tid=gt&id=74
+纬来育乐台,https://iptv345.com/?act=play&token=4d808a05c3a1aae22d2ee3d220553a02&tid=gt&id=75
+ELEVEN 1（DAZN 1）,https://iptv345.com/?act=play&token=1d0521c6b068a428bdd144ed4ef0d764&tid=gt&id=76
+ELEVEN 2（DAZN 2）,https://iptv345.com/?act=play&token=0aa6e4cac6c14496e4e10ae03d9697b6&tid=gt&id=77
+爱尔达体育1台,https://iptv345.com/?act=play&token=e793570e2549c102caba83ab0ff2aadf&tid=gt&id=79
+爱尔达体育2台,https://iptv345.com/?act=play&token=fd53d9031d3df8311d01cfc12fe79d25&tid=gt&id=80
+爱尔达体育3台,https://iptv345.com/?act=play&token=be031cabbe93e218a5650cf2e92f10ed&tid=gt&id=81
+爱尔达体育4台,https://iptv345.com/?act=play&token=4ce0387828e5490d780483555e3edb8b&tid=gt&id=82
+大爱一台,https://iptv345.com/?act=play&token=d130dd0dd90f92bcc4f7c658cc2e45b8&tid=gt&id=83
+大爱二台,https://iptv345.com/?act=play&token=aab78923b00a787af6030d0d0ac030e7&tid=gt&id=84
 	
 
 
