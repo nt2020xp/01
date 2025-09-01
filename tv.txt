@@ -423,3 +423,29 @@ parse=1
 第297話 李武靖進牢和一休的報答,https://xgct-video.vzcdn.net/5a9648af-cc2d-4b86-ada7-0f6a20a4a8b1/842x480/video.m3u8
 第298話 媽媽、朋友們、安國寺再見了（大結局）,https://xgct-video.vzcdn.net/c6763ae5-ca5e-497c-af7c-21b72c0b5c92/842x480/video.m3u8
 
+
+mg央視,#genre#
+
+1綜合,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
+
+2財經,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv2
+
+3綜藝,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv3
+
+4中文國際,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4
+
+5體育,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5
+
+5+體育賽事,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5p
+
+6電影,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv6
+
+7國防軍事,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv7
+
+8電視劇,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv8
+
+9紀錄,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv9
+
+10科教,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv10
+
+13新聞,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv13
