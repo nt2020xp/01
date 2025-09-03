@@ -1,3 +1,8 @@
+Yahoo! 奇摩輸入法 v1.1.2535 最終版
+
+https://github.com/Pseric/keykey_backup/blob/master/YahooKeyKey-Windows-x64-1.1.2535-zh-TW.exe
+
+
 mg央視,#genre#
 
 1綜合,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
