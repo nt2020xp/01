@@ -1,3 +1,16 @@
+Mursor大佬的GitHub
+
+https://github.com/mursor1985/LIVE
+
+直播源订阅链接如下： 
+
+https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/iptv.m3u
+
+直播源订阅链接如下：
+
+https://sub.ottiptv.cc/iptv.m3u
+
+
 自動抓源,https://raw.githubusercontent.com/10000ge10000/iptv-api/1497d715037c9ff08c3f079dff1ce5513066d6db/output/user_result.txt
 
 霹靂布袋戲,https://php.946985.xyz/4gtv.php?ch=4gtv-live145
