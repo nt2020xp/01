@@ -4,7 +4,9 @@ https://github.com/mursor1985/LIVE
 
 直播源订阅链接如下： 
 
-https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/iptv.m3u
+直播源  https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/iptv.m3u
+
+直播源  https://fanmingming.com/txt?url=https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/iptv.m3u
 
 直播源订阅链接如下：
 
