@@ -1,3 +1,5 @@
+mg央視,#genre#
+
 1綜合,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
 2財經,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv2
 3綜藝,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv3
