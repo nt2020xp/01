@@ -577,3 +577,12 @@ mursor衛視,#genre#
 遼寧衛視,https://mursor.ottiptv.cc/mcp/liaoning.m3u8
 內蒙古衛視,https://mursor.ottiptv.cc/mcp/neimenggu.m3u8
 黑龍江衛視,https://mursor.ottiptv.cc/mcp/heilongjiang.m3u8
+
+cctv16,https://mursor.ottiptv.cc/mst/cctv16.m3u8
+cctv16,https://mursor.ottiptv.cc/mcp/cctv16.m3u8
+cctv4k,https://mursor.ottiptv.cc/mxw/cctv4k.m3u8
+cctv4k,https://mursor.ottiptv.cc/mcp/cctv4k.m3u8
+cctv8k,https://mursor.ottiptv.cc/mcp/cctv8k.m3u8
+第一劇場,https://mursor.ottiptv.cc/mcp/dyjc.m3u8
+風雲劇場,https://mursor.ottiptv.cc/mcp/fyjc.m3u8
+懷舊劇場,https://mursor.ottiptv.cc/mcp/hjjc.m3u8
