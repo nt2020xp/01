@@ -1,4 +1,4 @@
-千與千尋,https://play.hhuus.com/play/kazZvm8a/index.m3u8
+千與千尋國語,https://play.hhuus.com/play/kazZvm8a/index.m3u8
 
 小鴨影音動畫  https://777tv.ai/vod/show/id/24.html
 
