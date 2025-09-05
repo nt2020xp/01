@@ -1,5 +1,4 @@
 CCTV,#genre#
-parse=1
 
 CCTV4K,webview://https://www.yangshipin.cn/tv/home?pid=600002264
 CCTV8K,webview://https://www.yangshipin.cn/tv/home?pid=600156816
