@@ -1,11 +1,13 @@
+東森幼幼,http://iptv.4666888.xyz/iptv.php?id=20213
+
+CN卡通,http://iptv.4666888.xyz/iptv.php?id=20262
+
+八大综合,http://iptv.4666888.xyz/iptv.php?id=20198
+
+
 風云TV直播源,http://iptv.4666888.xyz/FYTV.m3u
 
 風云TV直播源,https://fanmingming.com/txt?url=http://iptv.4666888.xyz/FYTV.m3u
-
-
-
-
-
 
 444 https://github.com/suxuang/myIPTV
 
