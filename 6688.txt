@@ -1,5 +1,5 @@
 港澳频道-,#genre#
-风云TV-TG群,https://t.me/qytv888
+
 凤凰中文,http://iptv.4666888.xyz/iptv.php?id=20060
 凤凰资讯,http://iptv.4666888.xyz/iptv.php?id=20061
 凤凰香港,http://iptv.4666888.xyz/iptv.php?id=20062
@@ -84,7 +84,7 @@ Hub都会,http://iptv.4666888.xyz/iptv.php?id=20288
 新时代2,http://iptv.4666888.xyz/iptv.php?id=20313
 
 台湾频道,#genre#
-风云TV-TG群,https://t.me/qytv888
+
 TVBS新闻,http://iptv.4666888.xyz/iptv.php?id=20168
 TVBSNew,http://iptv.4666888.xyz/iptv.php?id=20309
 LIVE三立,http://iptv.4666888.xyz/iptv.php?id=20169
@@ -233,7 +233,7 @@ HISTORY历史,http://iptv.4666888.xyz/iptv.php?id=20289
 新唐人,http://iptv.4666888.xyz/iptv.php?id=20312
 
 国外电影,#genre#
-风云TV-TG群,https://t.me/qytv888
+
 松视1,http://iptv.4666888.xyz/iptv.php?id=20143
 松视2,http://iptv.4666888.xyz/iptv.php?id=20144
 松视3,http://iptv.4666888.xyz/iptv.php?id=20145
