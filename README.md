@@ -1,3 +1,5 @@
+河南建成大学IPTV：http://iptv.huuc.edu.cn/
+
 CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 CCTV2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
