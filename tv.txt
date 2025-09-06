@@ -583,6 +583,7 @@ TV5MONDE STYLE HD 生活時尚,https://www.4gtv.tv/channel/4gtv-live122?set=1&ch
 戲劇免費看 1台,https://www.4gtv.tv/channel/4gtv-live010?set=1&ch=270
 
 河南建成大學,#genre#
+parse=1
 
 CCTV-1高清,http://iptv.huuc.edu.cn/player.html?channel=cctv1hd
 CCTV-2高清,http://iptv.huuc.edu.cn/player.html?channel=cctv2hd
