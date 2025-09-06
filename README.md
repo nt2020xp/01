@@ -1,3 +1,14 @@
+CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+
+CCTV2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
+
+CCTV9,http://120.76.248.139/live/bfgd/4200000128.m3u8
+
+CCTV10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
+
+CCTV13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
+
+
 每日更新 https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt
 
 
