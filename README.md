@@ -1,3 +1,5 @@
+订阅链接-IPV4专用（推荐）：https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+
 河南建成大学IPTV：http://iptv.huuc.edu.cn/
 
 CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
