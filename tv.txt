@@ -5,9 +5,9 @@
 
 張韶涵-隱形的翅膀,https://youtu.be/4MNl824IQDY?si=q4Rhh5hf4JQZIPhu
 夢然-少年,https://www.youtube.com/watch?v=efKva-XmV48
-回到未來1國語,https://v1.qrssv.com/202308/19/KazWHVJh222/video/index.m3u8
-回到未來2國語,https://v5.qrssv.com/202408/07/umwcucQx7G7/video/2000k_1080/hls/index.m3u8
-回到未來3國語,https://v9.fentvoss.com/sdv9/202408/07/nN14HFCS0E18/video/index.m3u8
+龍貓國語,https://xgct-video.vzcdn.net/46bc39c7-1d8c-4526-9e63-2e83a64d0d6c/842x480/video.m3u8
+魔女宅急便國語,https://xgct-video.vzcdn.net/80ea4f1e-8638-48b7-83f5-23b91d94fda7/842x480/video.m3u8
+百變狸貓國語,https://xgct-video.vzcdn.net/11e65cee-a046-4adf-a427-168f2946dc2e/842x480/video.m3u8
 千與千尋國語,https://play.hhuus.com/play/kazZvm8a/index.m3u8
 57怪奇物語,https://www.youtube.com/live/k0uJVhYX12Y?si=61OfOEYGafnTCkTX
 
@@ -48,8 +48,6 @@ TVBS新聞,http://2025.koyeb.app/8964.php?id=4gtv-4gtv072
 靖天戲劇台,http://2025.koyeb.app/8964.php?id=4gtv-4gtv058
 靖天歡樂台,http://2025.koyeb.app/8964.php?id=4gtv-4gtv054
 靖洋戲劇台,http://2025.koyeb.app/8964.php?id=4gtv-4gtv045
-靖天卡通台,http://2025.koyeb.app/8964.php?id=4gtv-4gtv044
-靖洋卡通台,http://2025.koyeb.app/8964.php?id=4gtv-4gtv057
 
 龍華電影台,http://2025.koyeb.app/8964.php?id=litv-longturn03
 龍華洋片台,http://2025.koyeb.app/8964.php?id=litv-longturn02
@@ -57,7 +55,6 @@ TVBS新聞,http://2025.koyeb.app/8964.php?id=4gtv-4gtv072
 龍華日韓台,http://2025.koyeb.app/8964.php?id=litv-longturn11
 龍華偶像台,http://2025.koyeb.app/8964.php?id=litv-longturn12
 龍華戲劇台,http://2025.koyeb.app/8964.php?id=litv-longturn18
-龍華卡通台,http://2025.koyeb.app/8964.php?id=litv-longturn01
 
 華視,http://2025.koyeb.app/8964.php?id=4gtv-4gtv041
 中視,http://2025.koyeb.app/8964.php?id=4gtv-4gtv040
@@ -71,10 +68,9 @@ Smart知識台,http://2025.koyeb.app/8964.php?id=litv-longturn19
 卡通頻道,#genre#
 東森幼幼,http://iptv.4666888.xyz/iptv.php?id=20213
 CN卡通,http://iptv.4666888.xyz/iptv.php?id=20262
-八大综合,http://iptv.4666888.xyz/iptv.php?id=20198
+
 我們這一家,https://www.youtube.com/watch?v=WHednLn-HjA
 新哆啦A夢,https://www.youtube.com/watch?v=MW2KnxHzCJU
-蠟筆小新TV版,https://www.youtube.com/watch?v=N6lNLi8AKI4
 
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701
@@ -665,7 +661,6 @@ CHC家庭影院,http://iptv.huuc.edu.cn/player.html?channel=chctv
 北京影视高清,http://iptv.huuc.edu.cn/player.html?channel=btv4hd
 北京新闻高清,http://iptv.huuc.edu.cn/player.html?channel=btv9hd
 北京纪实高清,http://iptv.huuc.edu.cn/player.html?channel=btv11hd
-
 
 
 
