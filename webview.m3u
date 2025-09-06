@@ -293,11 +293,11 @@ webview://https://yangshipin.cn/tv/home?pid=600190401
 #EXTINF:-1 tvg-name="黑龍江衛視" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="衛視",黑龍江衛視
 webview://https://yangshipin.cn/tv/home?pid=600002498
 
-#EXTINF:-1 tvg-name="TVBS新聞台" tvg-logo="https://live.fanmingming.cn/tv/TVBS新聞台.png" group-title="4gtv#genre#",TVBS新聞台
+#EXTINF:-1 tvg-name="TVBS新聞台" tvg-logo="https://live.fanmingming.cn/tv/TVBS新聞台.png" group-title="4gtv",TVBS新聞台
 webview://https://www.4gtv.tv/channel/4gtv-4gtv072?set=1&ch=291
-#EXTINF:-1 tvg-name="東森新聞台" tvg-logo="https://live.fanmingming.cn/tv/東森新聞台.png" group-title="4gtv#genre#",東森新聞台
+#EXTINF:-1 tvg-name="東森新聞台" tvg-logo="https://live.fanmingming.cn/tv/東森新聞台.png" group-title="4gtv",東森新聞台
 webview://https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292
-#EXTINF:-1 tvg-name="東森財經台" tvg-logo="https://live.fanmingming.cn/tv/東森財經台.png" group-title="4gtv#genre#",東森財經台
+#EXTINF:-1 tvg-name="東森財經台" tvg-logo="https://live.fanmingming.cn/tv/東森財經台.png" group-title="4gtv",東森財經台
 webview://https://www.4gtv.tv/channel/4gtv-4gtv153?set=1&ch=293
 #EXTINF:-1 tvg-name="民視新聞台" tvg-logo="https://live.fanmingming.cn/tv/民視新聞台.png" group-title="4gtv#genre#",民視新聞台
 webview://https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=31
