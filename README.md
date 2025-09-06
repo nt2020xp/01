@@ -1,3 +1,7 @@
+bh  https://github.com/xiaoran67/update/blob/911c0081bce3b6094dca387fa728650eb3db3a06/assets/snapshot/2025-09-01/20250901203301_bhzb.txt#L510
+
+bh  https://raw.githubusercontent.com/xiaoran67/update/911c0081bce3b6094dca387fa728650eb3db3a06/assets/snapshot/2025-09-01/20250901203301_bhzb.txt
+
 東森幼幼,http://iptv.4666888.xyz/iptv.php?id=20213
 
 CN卡通,http://iptv.4666888.xyz/iptv.php?id=20262
