@@ -1,8 +1,3 @@
-
-//      >>> 当前时间是：2025-09-11 17:50:45 <<<
-//  关注微信公众号【神秘的哥哥们】有惊喜哦！！！
-//  当前接口：https://3043.kstore.space/bhvip/bh/bh2.json
-
 {
 "spider":"assets://bhdc/宝盒/spider.jar",
 "sites":[
@@ -288,6 +283,5 @@
 {"category":4,"name":"mediacodec-hevc","value":"1"},
 {"category":1,"name":"dns_cache_timeout","value":"600000000"}]}
 ],
-"ads":["static-mozai.4gtv.tv"],
-"wallpaper":"https://深色壁纸.xxooo.cf/","logo":"assets://bhdc/宝盒/logo.gif","disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img","notice":"🌈欢迎使用宝盒，软件接口免费请勿贩售~\n\n备用公众号【宝盒资源】"
+"ads":["static-mozai.4gtv.tv"]
 }
