@@ -237,6 +237,8 @@ webview://https://yangshipin.cn/tv/home?pid=600190401
 webview://https://yangshipin.cn/tv/home?pid=600002498
 
 #EXTM3U
+#EXTINF:-1 group-title="江蘇衛視" ,江蘇衛視
+webview://https://live.jstv.com/?channelId=
 #EXTINF:-1 group-title="浙江衛視" ,浙江衛視
 webview://https://www.cztv.com/liveTV/101
 #EXTINF:-1 group-title="浙江衛視" ,錢江都市
