@@ -286,14 +286,14 @@ webview://https://www.gdtv.cn/tvChannelDetail/100
 #EXTINF:-1 group-title="廣東衛視" ,紀錄片
 webview://https://www.gdtv.cn/tvChannelDetail/94
 #EXTINF:-1 group-title="黑龍江衛視" ,黑龍江衛視
-webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljws
+webview://https://www.hljtv.com/live/folder418
 #EXTINF:-1 group-title="黑龍江衛視" ,都市頻道
-webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljds
+webview://https://www.hljtv.com/live/folder419
 #EXTINF:-1 group-title="黑龍江衛視" ,影視頻道
 webview://https://www.hljtv.com/live/folder425
 #EXTINF:-1 group-title="黑龍江衛視" ,文體頻道
-webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljwt
+webview://https://www.hljtv.com/live/folder423
 #EXTINF:-1 group-title="黑龍江衛視" ,農業科教頻道
-webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljnykj
+webview://https://www.hljtv.com/live/folder420
 #EXTINF:-1 group-title="黑龍江衛視" ,新聞法治
-webview://https://www.dbw.cn/zhibodan/zhibo_dan/heilongjiang
+webview://https://www.hljtv.com/live/folder424
