@@ -1,3 +1,25 @@
+浙江頻道,#genre#
+
+浙江衛視,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+
+錢江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+
+經濟生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+
+教科影視,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+
+民生休閒,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+
+新聞,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+
+少兒頻道,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+
+浙江國際,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+
+好易購,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+
+之江紀錄,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+
 
 浙江衛視,https://www.cztv.com/liveTV/101
 
