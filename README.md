@@ -1,3 +1,23 @@
+黑龍江衛視,#genre#
+
+黑龍江衛視,webview://https://www.hljtv.com/live/folder418
+
+黑龍江文體,webview://https://www.hljtv.com/live/folder423
+
+黑龍江影視,webview://https://www.hljtv.com/live/folder425
+
+黑龍江新聞法治,webview://https://www.hljtv.com/live/folder424
+
+黑龍江農業科教,webview://https://www.hljtv.com/live/folder419
+
+黑龍江少兒,webview://https://www.hljtv.com/live/folder422
+
+哈爾濱新聞綜合,webview://https://www.hrbtv.net/folder79/folder81
+
+哈爾濱生活,webview://https://www.hrbtv.net/folder79/folder85
+
+哈爾濱影視,webview://https://www.hrbtv.net/folder79/folder87
+
 江蘇衛視,#genre#
 
 江蘇衛視,webview://https://live.jstv.com/?channelId=534
