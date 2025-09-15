@@ -2,8 +2,6 @@
 
 央视网：https://tv.cctv.com/live/
 
-央视影音（移动/桌面版）：https://app.cctv.com/
-
 央视频：https://www.yangshipin.cn/tv/home
 
 广东荔枝网：https://gdtv.cn/tvChannelDetail/51
