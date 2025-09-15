@@ -1,18 +1,16 @@
-江苏·新闻,webview://https://live.jstv.com/?channelId=536
+江蘇城市,webview://https://live.jstv.com/?channelId=535
 
-江苏·城市,webview://https://live.jstv.com/?channelId=535
+江蘇綜藝,webview://https://live.jstv.com/?channelId=556
 
-江苏·体育休闲,webview://https://live.jstv.com/?channelId=537
+江蘇影視,webview://https://live.jstv.com/?channelId=542
 
-江苏·综艺,webview://https://live.jstv.com/?channelId=556
+江蘇教育,webview://https://live.jstv.com/?channelId=545
 
-江苏·影视,webview://https://live.jstv.com/?channelId=542
+江蘇體育休閒,webview://https://live.jstv.com/?channelId=537
 
-江苏·教育,webview://https://live.jstv.com/?channelId=545
+優漫卡通,webview://https://live.jstv.com/?channelId=543
 
-江苏·国际,webview://https://live.jstv.com/?channelId=544
-
-优漫卡通,webview://https://live.jstv.com/?channelId=543
+江蘇國際,webview://https://live.jstv.com/?channelId=544
 
 浙江頻道,#genre#
 
