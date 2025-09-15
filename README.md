@@ -4,9 +4,11 @@
 
 江蘇影視,webview://https://live.jstv.com/?channelId=542
 
+江蘇新聞,webview://https://live.jstv.com/?channelId=
+
 江蘇教育,webview://https://live.jstv.com/?channelId=545
 
-江蘇體育休閒,webview://https://live.jstv.com/?channelId=537
+體育休閒,webview://https://live.jstv.com/?channelId=537
 
 優漫卡通,webview://https://live.jstv.com/?channelId=543
 
