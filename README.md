@@ -1,3 +1,19 @@
+江苏·新闻,webview://https://live.jstv.com/?channelId=536
+
+江苏·城市,webview://https://live.jstv.com/?channelId=535
+
+江苏·体育休闲,webview://https://live.jstv.com/?channelId=537
+
+江苏·综艺,webview://https://live.jstv.com/?channelId=556
+
+江苏·影视,webview://https://live.jstv.com/?channelId=542
+
+江苏·教育,webview://https://live.jstv.com/?channelId=545
+
+江苏·国际,webview://https://live.jstv.com/?channelId=544
+
+优漫卡通,webview://https://live.jstv.com/?channelId=543
+
 浙江頻道,#genre#
 
 浙江衛視,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
