@@ -1,3 +1,23 @@
+官方电视直播
+
+央视网：https://tv.cctv.com/live/
+
+央视影音（移动/桌面版）：https://app.cctv.com/
+
+央视频：https://www.yangshipin.cn/tv/home
+
+广东荔枝网：https://gdtv.cn/tvChannelDetail/51
+
+江苏荔枝网：https://live.jstv.com/
+
+广西网络广播电视台：https://tv.gxtv.cn/
+
+芒果TV：https://live.mgtv.com/
+
+新蓝网・浙江网台：https://www.cztv.com/liveTV
+
+
+
 12134  https://raw.githubusercontent.com/xmz-Ruby/FList/c666d6b7bb3314a0fa77c23b72559aefb8f8a21a/public/tvbox/tv.md
 
 
