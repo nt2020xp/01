@@ -1,3 +1,5 @@
+江蘇衛視,#genre#
+
 江蘇衛視,webview://https://live.jstv.com/?channelId=524
 
 江蘇城市,webview://https://live.jstv.com/?channelId=535
