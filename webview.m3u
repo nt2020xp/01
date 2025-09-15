@@ -236,64 +236,64 @@ webview://https://yangshipin.cn/tv/home?pid=600190401
 #EXTINF:-1 tvg-name="黑龍江衛視" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="衛視",黑龍江衛視
 webview://https://yangshipin.cn/tv/home?pid=600002498
 
-#EXTINF:-1 tvg-name="江蘇衛視" tvg-logo="https://live.fanmingming.cn/tv/江蘇衛視.png" group-title="江蘇頻道",江蘇衛視
+#EXTINF:-1 tvg-name="江蘇衛視" tvg-logo="https://live.fanmingming.cn/tv/江蘇衛視.png" group-title="江蘇",江蘇衛視
 webview://https://live.jstv.com/?channelId=534
-#EXTINF:-1 tvg-name="江蘇城市" tvg-logo="https://live.fanmingming.cn/tv/江蘇城市.png" group-title="江蘇頻道",江蘇城市
+#EXTINF:-1 tvg-name="江蘇城市" tvg-logo="https://live.fanmingming.cn/tv/江蘇城市.png" group-title="江蘇",江蘇城市
 webview://https://live.jstv.com/?channelId=535
-#EXTINF:-1 tvg-name="江蘇綜藝" tvg-logo="https://live.fanmingming.cn/tv/江蘇綜藝.png" group-title="江蘇頻道",江蘇綜藝
+#EXTINF:-1 tvg-name="江蘇綜藝" tvg-logo="https://live.fanmingming.cn/tv/江蘇綜藝.png" group-title="江蘇",江蘇綜藝
 webview://https://live.jstv.com/?channelId=556
-#EXTINF:-1 tvg-name="江蘇影視" tvg-logo="https://live.fanmingming.cn/tv/江蘇影視.png" group-title="江蘇頻道",江蘇影視
+#EXTINF:-1 tvg-name="江蘇影視" tvg-logo="https://live.fanmingming.cn/tv/江蘇影視.png" group-title="江蘇",江蘇影視
 webview://https://live.jstv.com/?channelId=542
-#EXTINF:-1 tvg-name="江蘇新聞" tvg-logo="https://live.fanmingming.cn/tv/江蘇新聞.png" group-title="江蘇頻道",江蘇新聞
+#EXTINF:-1 tvg-name="江蘇新聞" tvg-logo="https://live.fanmingming.cn/tv/江蘇新聞.png" group-title="江蘇",江蘇新聞
 webview://https://live.jstv.com/?channelId=536
-#EXTINF:-1 tvg-name="江蘇教育" tvg-logo="https://live.fanmingming.cn/tv/江蘇教育.png" group-title="江蘇頻道,江蘇教育
+#EXTINF:-1 tvg-name="江蘇教育" tvg-logo="https://live.fanmingming.cn/tv/江蘇教育.png" group-title="江蘇,江蘇教育
 webview://https://live.jstv.com/?channelId=545
-#EXTINF:-1 tvg-name="體育休閒" tvg-logo="https://live.fanmingming.cn/tv/體育休閒.png" group-title="江蘇頻道",體育休閒
+#EXTINF:-1 tvg-name="體育休閒" tvg-logo="https://live.fanmingming.cn/tv/體育休閒.png" group-title="江蘇",體育休閒
 webview://https://live.jstv.com/?channelId=537
-#EXTINF:-1 tvg-name="優漫卡通" tvg-logo="https://live.fanmingming.cn/tv/優漫卡通.png" group-title="江蘇頻道",優漫卡通
+#EXTINF:-1 tvg-name="優漫卡通" tvg-logo="https://live.fanmingming.cn/tv/優漫卡通.png" group-title="江蘇",優漫卡通
 webview://https://live.jstv.com/?channelId=543
-#EXTINF:-1 tvg-name="江蘇國際" tvg-logo="https://live.fanmingming.cn/tv/江蘇國際.png" group-title="江蘇頻道",江蘇國際
+#EXTINF:-1 tvg-name="江蘇國際" tvg-logo="https://live.fanmingming.cn/tv/江蘇國際.png" group-title="江蘇",江蘇國際
 webview://https://live.jstv.com/?channelId=544
 
 
 
-#EXTINF:-1 tvg-name="浙江衛視" tvg-logo="https://live.fanmingming.cn/tv/浙江衛視.png" group-title="浙江頻道",浙江衛視
+#EXTINF:-1 tvg-name="浙江衛視" tvg-logo="https://live.fanmingming.cn/tv/浙江衛視.png" group-title="浙江",浙江衛視
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-#EXTINF:-1 tvg-name="錢江都市" tvg-logo="https://live.fanmingming.cn/tv/錢江都市.png" group-title="浙江頻道",錢江都市
+#EXTINF:-1 tvg-name="錢江都市" tvg-logo="https://live.fanmingming.cn/tv/錢江都市.png" group-title="浙江",錢江都市
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 tvg-name="經濟生活" tvg-logo="https://live.fanmingming.cn/tv/經濟生活.png" group-title="浙江頻道",經濟生活
+#EXTINF:-1 tvg-name="經濟生活" tvg-logo="https://live.fanmingming.cn/tv/經濟生活.png" group-title="浙江",經濟生活
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 tvg-name="教科影視" tvg-logo="https://live.fanmingming.cn/tv/教科影視.png" group-title="浙江頻道",教科影視
+#EXTINF:-1 tvg-name="教科影視" tvg-logo="https://live.fanmingming.cn/tv/教科影視.png" group-title="浙江",教科影視
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 tvg-name="民生休閒" tvg-logo="https://live.fanmingming.cn/tv/民生休閒.png" group-title="浙江頻道",民生休閒
+#EXTINF:-1 tvg-name="民生休閒" tvg-logo="https://live.fanmingming.cn/tv/民生休閒.png" group-title="浙江",民生休閒
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 tvg-name="新聞" tvg-logo="https://live.fanmingming.cn/tv/新聞.png" group-title="浙江頻道",新聞
+#EXTINF:-1 tvg-name="新聞" tvg-logo="https://live.fanmingming.cn/tv/新聞.png" group-title="浙江",新聞
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1 tvg-name="少兒頻道" tvg-logo="https://live.fanmingming.cn/tv/少兒頻道.png" group-title="浙江頻道",少兒頻道
+#EXTINF:-1 tvg-name="少兒頻道" tvg-logo="https://live.fanmingming.cn/tv/少兒頻道.png" group-title="浙江",少兒頻道
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江國際" tvg-logo="https://live.fanmingming.cn/tv/浙江國際.png" group-title="浙江頻道",浙江國際
+#EXTINF:-1 tvg-name="浙江國際" tvg-logo="https://live.fanmingming.cn/tv/浙江國際.png" group-title="浙江",浙江國際
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 tvg-name="之江紀錄" tvg-logo="https://live.fanmingming.cn/tv/之江紀錄.png" group-title="浙江頻道",之江紀錄
+#EXTINF:-1 tvg-name="之江紀錄" tvg-logo="https://live.fanmingming.cn/tv/之江紀錄.png" group-title="浙江",之江紀錄
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 tvg-name="好易購" tvg-logo="https://live.fanmingming.cn/tv/好易購.png" group-title="浙江頻道",好易購
+#EXTINF:-1 tvg-name="好易購" tvg-logo="https://live.fanmingming.cn/tv/好易購.png" group-title="浙江",好易購
 https://ali-m-l.cztv.com/channels/lantian/channel011/1080p.m3u8
 
 
-#EXTINF:-1 tvg-name="黑龍江衛視" tvg-logo="https://live.fanmingming.cn/tv/黑龍江衛視.png" group-title="黑龍江頻道",黑龍江衛視
+#EXTINF:-1 tvg-name="黑龍江衛視" tvg-logo="https://live.fanmingming.cn/tv/黑龍江衛視.png" group-title="黑龍江頻,黑龍江衛視
 webview://https://www.hljtv.com/live/folder418
-#EXTINF:-1 tvg-name="黑龍江文體" tvg-logo="https://live.fanmingming.cn/tv/黑龍江文體.png" group-title="黑龍江頻道",黑龍江文體
+#EXTINF:-1 tvg-name="黑龍江文體" tvg-logo="https://live.fanmingming.cn/tv/黑龍江文體.png" group-title="黑龍江",黑龍江文體
 webview://https://www.hljtv.com/live/folder423
-#EXTINF:-1 tvg-name="黑龍江影視" tvg-logo="https://live.fanmingming.cn/tv/黑龍江影視.png" group-title="黑龍江頻道,黑龍江影視
+#EXTINF:-1 tvg-name="黑龍江影視" tvg-logo="https://live.fanmingming.cn/tv/黑龍江影視.png" group-title="黑龍江,黑龍江影視
 webview://https://www.hljtv.com/live/folder425
-#EXTINF:-1 tvg-name="黑龍江新聞法治" tvg-logo="https://live.fanmingming.cn/tv/黑龍江新聞法治.png" group-title="黑龍江頻道",黑龍江新聞法治
+#EXTINF:-1 tvg-name="黑龍江新聞法治" tvg-logo="https://live.fanmingming.cn/tv/黑龍江新聞法治.png" group-title="黑龍江",黑龍江新聞法治
 webview://https://www.hljtv.com/live/folder424
-#EXTINF:-1 tvg-name="黑龍江農業科教" tvg-logo="https://live.fanmingming.cn/tv/黑龍江農業科教.png" group-title="黑龍江頻道,黑龍江農業科教
+#EXTINF:-1 tvg-name="黑龍江農業科教" tvg-logo="https://live.fanmingming.cn/tv/黑龍江農業科教.png" group-title="黑龍江,黑龍江農業科教
 webview://https://www.hljtv.com/live/folder419
-#EXTINF:-1 tvg-name="黑龍江少兒" tvg-logo="https://live.fanmingming.cn/tv/黑龍江少兒.png" group-title="黑龍江頻道",黑龍江少兒
+#EXTINF:-1 tvg-name="黑龍江少兒" tvg-logo="https://live.fanmingming.cn/tv/黑龍江少兒.png" group-title="黑龍江",黑龍江少兒
 webview://https://www.hljtv.com/live/folder422
-#EXTINF:-1 tvg-name="哈爾濱新聞綜合" tvg-logo="https://live.fanmingming.cn/tv/哈爾濱新聞綜合.png" group-title="黑龍江頻道",哈爾濱新聞綜合
+#EXTINF:-1 tvg-name="哈爾濱新聞綜合" tvg-logo="https://live.fanmingming.cn/tv/哈爾濱新聞綜合.png" group-title="黑龍江",哈爾濱新聞綜合
 webview://https://www.hrbtv.net/folder79/folder81
-#EXTINF:-1 tvg-name="哈爾濱生活" tvg-logo="https://live.fanmingming.cn/tv/哈爾濱生活.png" group-title="黑龍江頻道",哈爾濱生活
+#EXTINF:-1 tvg-name="哈爾濱生活" tvg-logo="https://live.fanmingming.cn/tv/哈爾濱生活.png" group-title="黑龍江",哈爾濱生活
 webview://https://www.hrbtv.net/folder79/folder85
-#EXTINF:-1 tvg-name="哈爾濱影視" tvg-logo="https://live.fanmingming.cn/tv/哈爾濱影視.png" group-title="黑龍江頻道",哈爾濱影視
+#EXTINF:-1 tvg-name="哈爾濱影視" tvg-logo="https://live.fanmingming.cn/tv/哈爾濱影視.png" group-title="黑龍江",哈爾濱影視
 webview://https://www.hrbtv.net/folder79/folder87
