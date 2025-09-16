@@ -1,4 +1,4 @@
-浙江頻道,#genre#
+酷9浙江,#genre#
 
 浙江衛視,http://A/ku9/js/webview.js?id=https://www.cztv.com/liveTV/101
 錢江都市,http://A/ku9/js/webview.js?id=https://www.cztv.com/liveTV/102
