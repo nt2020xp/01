@@ -321,15 +321,15 @@ HITS,http://iptv.4666888.xyz/iptv.php?id=20283
 江蘇,#genre#
 partse=1
 
-江蘇衛視,webview://https://live.jstv.com/?channelId=534
-江蘇城市,webview://https://live.jstv.com/?channelId=535
-江蘇綜藝,webview://https://live.jstv.com/?channelId=556
-江蘇影視,webview://https://live.jstv.com/?channelId=542
-江蘇新聞,webview://https://live.jstv.com/?channelId=536
-江蘇教育,webview://https://live.jstv.com/?channelId=545
-體育休閒,webview://https://live.jstv.com/?channelId=537
-優漫卡通,webview://https://live.jstv.com/?channelId=543
-江蘇國際,webview://https://live.jstv.com/?channelId=544
+江蘇衛視,https://live.jstv.com/?channelId=534
+江蘇城市,https://live.jstv.com/?channelId=535
+江蘇綜藝,https://live.jstv.com/?channelId=556
+江蘇影視,https://live.jstv.com/?channelId=542
+江蘇新聞,https://live.jstv.com/?channelId=536
+江蘇教育,https://live.jstv.com/?channelId=545
+體育休閒,https://live.jstv.com/?channelId=537
+優漫卡通,https://live.jstv.com/?channelId=543
+江蘇國際,https://live.jstv.com/?channelId=544
 
 浙江,#genre#
 
