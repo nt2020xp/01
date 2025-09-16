@@ -137,6 +137,10 @@ parse=1
 愛爾達生活旅遊台,https://www.4gtv.tv/channel/4gtv-live120?set=1&ch=237
 霹靂布袋戲,https://www.4gtv.tv/channel/4gtv-live145?set=1&ch=301
 
+江蘇衛視,#genre#
+parse=1
+江蘇衛視,https://live.jstv.com
+
 
 央視衛視,#genre#
 1綜合,https://live.catvod.com/catvod_com.php?id=cctv1&token=95b5715d774d7408b9d4738b67036d648abe03ef638636153caea5c3cedf7437%3A1757897715
