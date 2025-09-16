@@ -13,7 +13,7 @@
 
 黑龍江,#genre#
 
-黑龍江衛視,whttp://A/ku9/js/webview.js?id=https://www.hljtv.com/live/folder418
+黑龍江衛視,http://A/ku9/js/webview.js?id=https://www.hljtv.com/live/folder418
 黑龍江文體,http://A/ku9/js/webview.js?id=https://www.hljtv.com/live/folder423
 黑龍江影視,http://A/ku9/js/webview.js?id=https://www.hljtv.com/live/folder425
 黑龍江新聞法治,http://A/ku9/js/webview.js?id=https://www.hljtv.com/live/folder424
