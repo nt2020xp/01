@@ -1,4 +1,5 @@
 黑龍江衛視,#genre#
+parse=1
 
 黑龍江衛視,https://zmt-m.hljtv.com/live_tv.html?tv_id=10&curTime=1757990237311
 
