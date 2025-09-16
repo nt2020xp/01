@@ -1,3 +1,20 @@
+
+#EXTINF:-1 tvg-name="黑龍江衛視" tvg-logo="https://live.fanmingming.cn/tv/黑龍江衛視.png" group-title="黑龍江",黑龍江衛視
+https://zmt-m.hljtv.com/live_tv.html?tv_id=10
+#EXTINF:-1 tvg-name="黑龍江都市" tvg-logo="https://live.fanmingming.cn/tv/黑龍江都市.png" group-title="黑龍江",黑龍江都市
+https://zmt-m.hljtv.com/live_tv.html?tv_id=50
+#EXTINF:-1 tvg-name="黑龍江新聞法治" tvg-logo="https://live.fanmingming.cn/tv/黑龍江新聞法治.png" group-title="黑龍江",黑龍江新聞法治
+https://zmt-m.hljtv.com/live_tv.html?tv_id=49
+#EXTINF:-1 tvg-name="黑龍江文體" tvg-logo="https://live.fanmingming.cn/tv/黑龍江文體.png" group-title="黑龍江",黑龍江文體
+https://zmt-m.hljtv.com/live_tv.html?tv_id=11
+#EXTINF:-1 tvg-name="黑龍江少兒" tvg-logo="https://live.fanmingming.cn/tv/黑龍江少兒.png" group-title="黑龍江",黑龍江少兒
+https://zmt-m.hljtv.com/live_tv.html?tv_id=16
+#EXTINF:-1 tvg-name="黑龍江影視" tvg-logo="https://live.fanmingming.cn/tv/黑龍江影視.png" group-title="黑龍江",黑龍江影視
+https://zmt-m.hljtv.com/live_tv.html?tv_id=12
+#EXTINF:-1 tvg-name="黑龍江農業科教" tvg-logo="https://live.fanmingming.cn/tv/黑龍江農業科教.png" group-title="黑龍江",黑龍江農業科教
+https://zmt-m.hljtv.com/live_tv.html?tv_id=15
+
+
 黑龍江衛視,#genre#
 parse=1
 
