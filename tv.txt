@@ -318,22 +318,6 @@ LOVE_NATURE,http://iptv.4666888.xyz/iptv.php?id=20281
 MagellanTV頻道,http://iptv.4666888.xyz/iptv.php?id=20282
 HITS,http://iptv.4666888.xyz/iptv.php?id=20283
 
-江蘇,#genre#
-parse=1
-江蘇衛視,https://live.jstv.com
-
-浙江,#genre#
-
-浙江衛視,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-錢江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-經濟生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-教科影視,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-民生休閒,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-新聞,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-少兒頻道,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江國際,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-好易購,https://ali-m-l.cztv.com/channels/lantian/channel011/1080p.m3u8
-之江紀錄,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 
 黑龍江,#genre#
 parse=1
