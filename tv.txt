@@ -158,3 +158,13 @@ parse=1
 北京衛視,https://live.catvod.com/catvod_com.php?id=beijing&token=a37687f3dcb212ac845feca65a52cde73b0230cf1f842e4f1e965498c0815f8e%3A1757897715
 東方衛視,https://live.catvod.com/catvod_com.php?id=dongfangweishi_twn&token=b4a8df77704abebb537bd79002b7cf75ecba553c3fff58c265d61595fc7bafe4%3A1757897715
 
+黑龍江,#genre#
+parse=1
+
+黑龍江衛視,https://www.dbw.cn/zhibodan/zhibo_dan/hljws
+黑龍江都市,https://www.dbw.cn/zhibodan/zhibo_dan/hljds
+黑龍江新聞法治,https://www.dbw.cn/zhibodan/zhibo_dan/heilongjiang
+黑龍江文體,https://www.dbw.cn/zhibodan/zhibo_dan/hljwt
+黑龍江少兒,https://www.dbw.cn/zhibodan/zhibo_dan/hljse
+黑龍江影視,https://www.dbw.cn/zhibodan/zhibo_dan/hljys
+黑龍江農業科教,https://www.dbw.cn/zhibodan/zhibo_dan/hljnykj
