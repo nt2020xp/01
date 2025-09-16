@@ -20,5 +20,4 @@
 新聞,https://www.cztv.com/liveTV/107
 少兒頻道,https://www.cztv.com/liveTV/108
 浙江國際,https://www.cztv.com/liveTV/110
-好易購,https://www.cztv.com/liveTV/111
 之江紀錄,https://www.cztv.com/liveTV/112
