@@ -153,6 +153,16 @@ parse=1
 浙江國際,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 之江紀錄,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 
+黑龍江,#genre#
+parse=1
+
+黑龍江衛視,https://zmt-m.hljtv.com/live_tv.html?tv_id=10
+黑龍江都市,https://zmt-m.hljtv.com/live_tv.html?tv_id=50
+黑龍江新聞法治,https://zmt-m.hljtv.com/live_tv.html?tv_id=49
+黑龍江文體,https://zmt-m.hljtv.com/live_tv.html?tv_id=11
+黑龍江少兒,https://zmt-m.hljtv.com/live_tv.html?tv_id=16
+黑龍江影視,https://zmt-m.hljtv.com/live_tv.html?tv_id=12
+黑龍江農業科教,https://zmt-m.hljtv.com/live_tv.html?tv_id=15
 
 央視衛視,#genre#
 1綜合,https://live.catvod.com/catvod_com.php?id=cctv1&token=95b5715d774d7408b9d4738b67036d648abe03ef638636153caea5c3cedf7437%3A1757897715
@@ -178,16 +188,7 @@ parse=1
 北京衛視,https://live.catvod.com/catvod_com.php?id=beijing&token=a37687f3dcb212ac845feca65a52cde73b0230cf1f842e4f1e965498c0815f8e%3A1757897715
 東方衛視,https://live.catvod.com/catvod_com.php?id=dongfangweishi_twn&token=b4a8df77704abebb537bd79002b7cf75ecba553c3fff58c265d61595fc7bafe4%3A1757897715
 
-黑龍江,#genre#
-parse=1
 
-X黑龍江衛視,https://zmt-m.hljtv.com/live_tv.html?tv_id=10
-黑龍江都市,https://zmt-m.hljtv.com/live_tv.html?tv_id=50
-黑龍江新聞法治,https://zmt-m.hljtv.com/live_tv.html?tv_id=49
-黑龍江文體,https://zmt-m.hljtv.com/live_tv.html?tv_id=11
-黑龍江少兒,https://zmt-m.hljtv.com/live_tv.html?tv_id=16
-黑龍江影視,https://zmt-m.hljtv.com/live_tv.html?tv_id=12
-黑龍江農業科教,https://zmt-m.hljtv.com/live_tv.html?tv_id=15
 
 catvod頻道,#genre#
 
