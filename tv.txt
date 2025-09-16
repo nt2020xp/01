@@ -141,39 +141,31 @@ parse=1
 
 
 央视频道,#genre#
-1 综合 HD,https://live.catvod.com/catvod_com.php?id=cctv1&token=95b5715d774d7408b9d4738b67036d648abe03ef638636153caea5c3cedf7437%3A1757897715
-2 财经,https://live.catvod.com/catvod_com.php?id=cctv2&token=9bb12cbf0def1925dc6aa39b4b18754fed17ecf1cdacffb36e976d04c25eaefb%3A1757897715
-3 综艺 HD,https://live.catvod.com/catvod_com.php?id=cctv3&token=2acc6889eb1ca57492b9341e61fc787a5e6da9e819cdbecc2b9209bca687fb4c%3A1757897715
-4 中文国际,https://live.catvod.com/catvod_com.php?id=cctv4&token=9a33a83350ca4afa5e88bd96b4e23b4560611eb237c81a948b92badac49d26af%3A1757897715
-4 新闻台,https://live.catvod.com/catvod_com.php?id=Cctv4&token=3d090e32ae0541af82a0864a7011b74e0e63d75706e0ed8adf2b78b731e6f4e3%3A1757897715
-5 体育频道,https://live.catvod.com/catvod_com.php?id=cctv5&token=333afbf5083ef8bed31ebb77fbb34bf6ddde5926b8445005782c03a402544f58%3A1757897715
-5+ 体育赛事 HD,https://live.catvod.com/catvod_com.php?id=cctv5plus&token=71b4ca9420867f37b0c8b2b6b8fc1b54baa4a479bb93f0cc60084c4dde58cdea%3A1757897715
+1綜合,https://live.catvod.com/catvod_com.php?id=cctv1&token=95b5715d774d7408b9d4738b67036d648abe03ef638636153caea5c3cedf7437%3A1757897715
+2財經,https://live.catvod.com/catvod_com.php?id=cctv2&token=9bb12cbf0def1925dc6aa39b4b18754fed17ecf1cdacffb36e976d04c25eaefb%3A1757897715
+3綜藝,https://live.catvod.com/catvod_com.php?id=cctv3&token=2acc6889eb1ca57492b9341e61fc787a5e6da9e819cdbecc2b9209bca687fb4c%3A1757897715
+4中文國際,https://live.catvod.com/catvod_com.php?id=cctv4&token=9a33a83350ca4afa5e88bd96b4e23b4560611eb237c81a948b92badac49d26af%3A1757897715
+5體育,https://live.catvod.com/catvod_com.php?id=cctv5&token=333afbf5083ef8bed31ebb77fbb34bf6ddde5926b8445005782c03a402544f58%3A1757897715
+5+體育赛事 HD,https://live.catvod.com/catvod_com.php?id=cctv5plus&token=71b4ca9420867f37b0c8b2b6b8fc1b54baa4a479bb93f0cc60084c4dde58cdea%3A1757897715
 6電影,https://live.catvod.com/catvod_com.php?id=cctv6&token=ffc0336db1f330bb0f291d249d6979f64786060defe8fbb12ea6f618e7f95ce7%3A1757897715
-7 军事农业,https://live.catvod.com/catvod_com.php?id=cctv7&token=60dcd3cf50978039824d4873b7938bb496d4114b7b2100799670b5a3896e7d07%3A1757897715
-8 电视剧 HD,https://live.catvod.com/catvod_com.php?id=cctv8hd&token=74a97a5e8ec70989e6aaf7a9141914e220e938167ed690a10b6d63aa073500ec%3A1757897715
-9 记录 HD,https://live.catvod.com/catvod_com.php?id=cctv9hd&token=29e57b7047924cf37ca482474af7330cb4aa2038668fdcd9d1057cd8c72e3d9f%3A1757897715
-10 科教 HD,https://live.catvod.com/catvod_com.php?id=cctv10hd&token=6f5eb19c81de205a7a1e1496343e911b03d500790f2dfc70540ed636bbdbc1fb%3A1757897715
-11 戏曲,https://live.catvod.com/catvod_com.php?id=cctv11&token=7aa9bc36ef2b533f05973bf4201892bff30c999ef25a42d5060d66d2e2c9c82b%3A1757897715
-12 社会与法,https://live.catvod.com/catvod_com.php?id=cctv12&token=921ff67fdac72ddd60cdbc643eeaa4197ca5172cb911867d38b5f62181f461a6%3A1757897715
-13 新闻频道,https://live.catvod.com/catvod_com.php?id=cctv13&token=094b627cee5c47e47d678cf0e3b8697aecfdc5bbb42a410945177f62ce42c208%3A1757897715
-14 少儿,https://live.catvod.com/catvod_com.php?id=cctv14&token=1540867d147c9a11e93f651cb28ee8853ba3f1e04c52b4d5679222223436392b%3A1757897715
-15 音乐,https://live.catvod.com/catvod_com.php?id=cctv15&token=8931ab556004f73f6b5959a4af643ddf118d1ecae71273b46121e8db18fefca9%3A1757897715
+7國防軍事,https://live.catvod.com/catvod_com.php?id=cctv7&token=60dcd3cf50978039824d4873b7938bb496d4114b7b2100799670b5a3896e7d07%3A1757897715
+8電視劇,https://live.catvod.com/catvod_com.php?id=cctv8hd&token=74a97a5e8ec70989e6aaf7a9141914e220e938167ed690a10b6d63aa073500ec%3A1757897715
+9紀錄,https://live.catvod.com/catvod_com.php?id=cctv9hd&token=29e57b7047924cf37ca482474af7330cb4aa2038668fdcd9d1057cd8c72e3d9f%3A1757897715
+10科教,https://live.catvod.com/catvod_com.php?id=cctv10hd&token=6f5eb19c81de205a7a1e1496343e911b03d500790f2dfc70540ed636bbdbc1fb%3A1757897715
+11戲曲,https://live.catvod.com/catvod_com.php?id=cctv11&token=7aa9bc36ef2b533f05973bf4201892bff30c999ef25a42d5060d66d2e2c9c82b%3A1757897715
+12社會與法,https://live.catvod.com/catvod_com.php?id=cctv12&token=921ff67fdac72ddd60cdbc643eeaa4197ca5172cb911867d38b5f62181f461a6%3A1757897715
+13新聞,https://live.catvod.com/catvod_com.php?id=cctv13&token=094b627cee5c47e47d678cf0e3b8697aecfdc5bbb42a410945177f62ce42c208%3A1757897715
+14少兒,https://live.catvod.com/catvod_com.php?id=cctv14&token=1540867d147c9a11e93f651cb28ee8853ba3f1e04c52b4d5679222223436392b%3A1757897715
+15音樂,https://live.catvod.com/catvod_com.php?id=cctv15&token=8931ab556004f73f6b5959a4af643ddf118d1ecae71273b46121e8db18fefca9%3A1757897715
 
 卫视频道,#genre#
 
-江苏卫视,https://live.catvod.com/catvod_com.php?id=jiangsu_twn&token=d7a01ea5f33b819941bc2839749079a0f27c2b748865ae08d713a93cb6e47db7%3A1757897715
-浙江卫视,https://live.catvod.com/catvod_com.php?id=zhejiang_twn&token=f237e8650d02dc30345368c9c8b873d3b060eb0789acef92d99c57f8d6e73f8c%3A1757897715
-湖南卫视,https://live.catvod.com/catvod_com.php?id=hunan_twn&token=52e14507675ff3c08318a2d0dbd513e2e84b048525cbd7951c64368139657543%3A1757897715
-北京卫视,https://live.catvod.com/catvod_com.php?id=beijing&token=a37687f3dcb212ac845feca65a52cde73b0230cf1f842e4f1e965498c0815f8e%3A1757897715
-东方卫视,https://live.catvod.com/catvod_com.php?id=dongfangweishi_twn&token=b4a8df77704abebb537bd79002b7cf75ecba553c3fff58c265d61595fc7bafe4%3A1757897715
-深圳卫视,https://live.catvod.com/catvod_com.php?id=shenzhen&token=9de6787121c275c636cd11b6945655443215f4eeac9d22326aaf67bb7352f582%3A1757897715
-福建东南卫视,https://live.catvod.com/catvod_com.php?id=fujian&token=6ff288b331b8a9211b3e4f9cd6889289ba5b8107a6df1c0b7dd021592253a66f%3A1757897715
-广东南方卫视,https://live.catvod.com/catvod_com.php?id=nanfang_twn&token=a93b91c46f6ca9bf849b9206b686eb8655fee1050f695afb8beda228eefc7890%3A1757897715
-广东卫视,https://live.catvod.com/catvod_com.php?id=guangdongweishi_twn&token=dd4a5f6b361d21ac684dd7b3e8b1db827088b2bac6ac37cf0612cba0e452f068%3A1757897715
-珠江台,https://live.catvod.com/catvod_com.php?id=zhujiang&token=7da781a2ad37a8cfc9b4a0f0bf64e344a5236956e5ac0cda22e8ec44697b119a%3A1757897715
-广西卫视,https://live.catvod.com/catvod_com.php?id=guangxi&token=afc25edbebd4efef62e6fe1ff77c9ef8aea7d837fef8a68a2a744af5bdd4d45e%3A1757897715
-湖北卫视,https://live.catvod.com/catvod_com.php?id=hubei&token=adbf9b175956aed1310fe7ed80586dd7279f6b8ae75a2b143189259783548859%3A1757897715
-四川卫视,https://live.catvod.com/catvod_com.php?id=sichuan_twn&token=1e99165c3521b5dd7f27f152e7dd291388a01fcb8bb083166bb049410723b5ab%3A1757897715
+江蘇衛視,https://live.catvod.com/catvod_com.php?id=jiangsu_twn&token=d7a01ea5f33b819941bc2839749079a0f27c2b748865ae08d713a93cb6e47db7%3A1757897715
+浙江衛視,https://live.catvod.com/catvod_com.php?id=zhejiang_twn&token=f237e8650d02dc30345368c9c8b873d3b060eb0789acef92d99c57f8d6e73f8c%3A1757897715
+湖南衛視,https://live.catvod.com/catvod_com.php?id=hunan_twn&token=52e14507675ff3c08318a2d0dbd513e2e84b048525cbd7951c64368139657543%3A1757897715
+北京衛視,https://live.catvod.com/catvod_com.php?id=beijing&token=a37687f3dcb212ac845feca65a52cde73b0230cf1f842e4f1e965498c0815f8e%3A1757897715
+東方衛視,https://live.catvod.com/catvod_com.php?id=dongfangweishi_twn&token=b4a8df77704abebb537bd79002b7cf75ecba553c3fff58c265d61595fc7bafe4%3A1757897715
+
 
 风云台湾,#genre#
 TVBS新闻,http://iptv.4666888.xyz/iptv.php?id=20168
