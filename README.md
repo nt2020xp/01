@@ -18,7 +18,7 @@ https://zmt-m.hljtv.com/live_tv.html?tv_id=15
 黑龍江衛視,#genre#
 parse=1
 
-黑龍江衛視,https://zmt-m.hljtv.com/live_tv.html?tv_id=10
+X黑龍江衛視,https://zmt-m.hljtv.com/live_tv.html?tv_id=10
 
 黑龍江都市,https://zmt-m.hljtv.com/live_tv.html?tv_id=50
 
@@ -26,7 +26,7 @@ parse=1
 
 黑龍江文體,https://zmt-m.hljtv.com/live_tv.html?tv_id=11
 
-黑龍江少兒,https://zmt-m.hljtv.com/live_tv.html?tv_id=16
+X黑龍江少兒,https://zmt-m.hljtv.com/live_tv.html?tv_id=16
 
 黑龍江影視,https://zmt-m.hljtv.com/live_tv.html?tv_id=12
 
