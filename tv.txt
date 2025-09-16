@@ -351,6 +351,6 @@ X黑龍江衛視,https://zmt-m.hljtv.com/live_tv.html?tv_id=10
 黑龍江都市,https://zmt-m.hljtv.com/live_tv.html?tv_id=50
 黑龍江新聞法治,https://zmt-m.hljtv.com/live_tv.html?tv_id=49
 黑龍江文體,https://zmt-m.hljtv.com/live_tv.html?tv_id=11
-X黑龍江少兒,https://zmt-m.hljtv.com/live_tv.html?tv_id=16
+黑龍江少兒,https://zmt-m.hljtv.com/live_tv.html?tv_id=16
 黑龍江影視,https://zmt-m.hljtv.com/live_tv.html?tv_id=12
 黑龍江農業科教,https://zmt-m.hljtv.com/live_tv.html?tv_id=15
