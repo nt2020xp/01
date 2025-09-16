@@ -1,15 +1,3 @@
-天光黑龍江,#genre#
-
-黑龍江衛視,webview://https://www.hljtv.com/live/folder418
-黑龍江文體,webview://https://www.hljtv.com/live/folder423
-黑龍江影視,webview://https://www.hljtv.com/live/folder425
-黑龍江新聞法治,webview://https://www.hljtv.com/live/folder424
-黑龍江農業科教,webview://https://www.hljtv.com/live/folder419
-黑龍江少兒,webview://https://www.hljtv.com/live/folder422
-哈爾濱新聞綜合,webview://https://www.hrbtv.net/folder79/folder81
-哈爾濱生活,webview://https://www.hrbtv.net/folder79/folder85
-哈爾濱影視,webview://https://www.hrbtv.net/folder79/folder87
-
 影視黑龍江,#genre#
 partse=1
 
@@ -23,7 +11,7 @@ partse=1
 
 酷9黑龍江,#genre#
 
-x黑龍江衛視,http://A/ku9/js/webview.js?id=https://zmt-m.hljtv.com/live_tv.html?tv_id=10
+黑龍江衛視,http://A/ku9/js/webview.js?id=https://zmt-m.hljtv.com/live_tv.html?tv_id=10
 黑龍江都市,http://A/ku9/js/webview.js?id=https://zmt-m.hljtv.com/live_tv.html?tv_id=50
 黑龍江新聞法治,http://A/ku9/js/webview.js?id=https://zmt-m.hljtv.com/live_tv.html?tv_id=49
 黑龍江文體,http://A/ku9/js/webview.js?id=https://zmt-m.hljtv.com/live_tv.html?tv_id=11
@@ -47,21 +35,4 @@ webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=12
 #EXTINF:-1 tvg-name="黑龍江農業科教" tvg-logo="https://live.fanmingming.cn/tv/黑龍江農業科教.png" group-title="黑龍江1",黑龍江農業科教
 webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=15
 
-#EXTINF:-1 tvg-name="黑龍江衛視" tvg-logo="https://live.fanmingming.cn/tv/黑龍江衛視.png" group-title="黑龍江2",黑龍江衛視
-webview://https://www.hljtv.com/live/folder418
-#EXTINF:-1 tvg-name="黑龍江文體" tvg-logo="https://live.fanmingming.cn/tv/黑龍江文體.png" group-title="黑龍江2",黑龍江文體
-webview://https://www.hljtv.com/live/folder423
-#EXTINF:-1 tvg-name="黑龍江影視" tvg-logo="https://live.fanmingming.cn/tv/黑龍江影視.png" group-title="黑龍江2",黑龍江影視
-webview://https://www.hljtv.com/live/folder425
-#EXTINF:-1 tvg-name="黑龍江新聞法治" tvg-logo="https://live.fanmingming.cn/tv/黑龍江新聞法治.png" group-title="黑龍江2",黑龍江新聞法治
-webview://https://www.hljtv.com/live/folder424
-#EXTINF:-1 tvg-name="黑龍江農業科教" tvg-logo="https://live.fanmingming.cn/tv/黑龍江農業科教.png" group-title="黑龍江2",黑龍江農業科教
-webview://https://www.hljtv.com/live/folder419
-#EXTINF:-1 tvg-name="黑龍江少兒" tvg-logo="https://live.fanmingming.cn/tv/黑龍江少兒.png" group-title="黑龍江2",黑龍江少兒
-webview://https://www.hljtv.com/live/folder422
-#EXTINF:-1 tvg-name="哈爾濱新聞綜合" tvg-logo="https://live.fanmingming.cn/tv/哈爾濱新聞綜合.png" group-title="黑龍江2",哈爾濱新聞綜合
-webview://https://www.hrbtv.net/folder79/folder81
-#EXTINF:-1 tvg-name="哈爾濱生活" tvg-logo="https://live.fanmingming.cn/tv/哈爾濱生活.png" group-title="黑龍江2",哈爾濱生活
-webview://https://www.hrbtv.net/folder79/folder85
-#EXTINF:-1 tvg-name="哈爾濱影視" tvg-logo="https://live.fanmingming.cn/tv/哈爾濱影視.png" group-title="黑龍江2",哈爾濱影視
-webview://https://www.hrbtv.net/folder79/folder87
+#
