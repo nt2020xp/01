@@ -22,6 +22,23 @@
 黑龍江農業科教,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljnykj
 
 
+#EXTINF:-1 tvg-name="黑龍江衛視" tvg-logo="https://live.fanmingming.cn/tv/黑龍江衛視.png" group-title="黑龍江",黑龍江衛視
+webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljws
+#EXTINF:-1 tvg-name="黑龍江都市" tvg-logo="https://live.fanmingming.cn/tv/黑龍江都市.png" group-title="黑龍江",黑龍江都市
+webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljds
+#EXTINF:-1 tvg-name="黑龍江新聞法治" tvg-logo="https://live.fanmingming.cn/tv/黑龍江新聞法治.png" group-title="黑龍江",黑龍江新聞法治
+webview://https://www.dbw.cn/zhibodan/zhibo_dan/heilongjiang
+#EXTINF:-1 tvg-name="黑龍江文體" tvg-logo="https://live.fanmingming.cn/tv/黑龍江文體.png" group-title="黑龍江",黑龍江文體
+webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljwt
+#EXTINF:-1 tvg-name="黑龍江少兒" tvg-logo="https://live.fanmingming.cn/tv/黑龍江少兒.png" group-title="黑龍江",黑龍江少兒
+webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljse
+#EXTINF:-1 tvg-name="黑龍江影視" tvg-logo="https://live.fanmingming.cn/tv/黑龍江影視.png" group-title="黑龍江",黑龍江影視
+webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljys
+#EXTINF:-1 tvg-name="黑龍江農業科教" tvg-logo="https://live.fanmingming.cn/tv/黑龍江農業科教.png" group-title="黑龍江",黑龍江農業科教
+webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljnykj
+
+
+
 
 影視黑龍江,#genre#
 partse=1
