@@ -34,5 +34,3 @@ webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=16
 webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=12
 #EXTINF:-1 tvg-name="黑龍江農業科教" tvg-logo="https://live.fanmingming.cn/tv/黑龍江農業科教.png" group-title="黑龍江1",黑龍江農業科教
 webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=15
-
-#
