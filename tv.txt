@@ -140,23 +140,23 @@ parse=1
 
 
 央视频道,#genre#
-CCTV-1 综合 HD,https://live.catvod.com/catvod_com.php?id=cctv1&token=95b5715d774d7408b9d4738b67036d648abe03ef638636153caea5c3cedf7437%3A1757897715
-CCTV-2 财经,https://live.catvod.com/catvod_com.php?id=cctv2&token=9bb12cbf0def1925dc6aa39b4b18754fed17ecf1cdacffb36e976d04c25eaefb%3A1757897715
-CCTV-3 综艺 HD,https://live.catvod.com/catvod_com.php?id=cctv3&token=2acc6889eb1ca57492b9341e61fc787a5e6da9e819cdbecc2b9209bca687fb4c%3A1757897715
-CCTV-4 中文国际,https://live.catvod.com/catvod_com.php?id=cctv4&token=9a33a83350ca4afa5e88bd96b4e23b4560611eb237c81a948b92badac49d26af%3A1757897715
-CCTV4 新闻台,https://live.catvod.com/catvod_com.php?id=Cctv4&token=3d090e32ae0541af82a0864a7011b74e0e63d75706e0ed8adf2b78b731e6f4e3%3A1757897715
-CCTV-5 体育频道,https://live.catvod.com/catvod_com.php?id=cctv5&token=333afbf5083ef8bed31ebb77fbb34bf6ddde5926b8445005782c03a402544f58%3A1757897715
-CCTV-5+ 体育赛事 HD,https://live.catvod.com/catvod_com.php?id=cctv5plus&token=71b4ca9420867f37b0c8b2b6b8fc1b54baa4a479bb93f0cc60084c4dde58cdea%3A1757897715
-CCTV-6,https://live.catvod.com/catvod_com.php?id=cctv6&token=ffc0336db1f330bb0f291d249d6979f64786060defe8fbb12ea6f618e7f95ce7%3A1757897715
-CCTV-7 军事农业,https://live.catvod.com/catvod_com.php?id=cctv7&token=60dcd3cf50978039824d4873b7938bb496d4114b7b2100799670b5a3896e7d07%3A1757897715
-CCTV-8 电视剧 HD,https://live.catvod.com/catvod_com.php?id=cctv8hd&token=74a97a5e8ec70989e6aaf7a9141914e220e938167ed690a10b6d63aa073500ec%3A1757897715
-CCTV-9 记录 HD,https://live.catvod.com/catvod_com.php?id=cctv9hd&token=29e57b7047924cf37ca482474af7330cb4aa2038668fdcd9d1057cd8c72e3d9f%3A1757897715
-CCTV-10 科教 HD,https://live.catvod.com/catvod_com.php?id=cctv10hd&token=6f5eb19c81de205a7a1e1496343e911b03d500790f2dfc70540ed636bbdbc1fb%3A1757897715
-CCTV-11 戏曲,https://live.catvod.com/catvod_com.php?id=cctv11&token=7aa9bc36ef2b533f05973bf4201892bff30c999ef25a42d5060d66d2e2c9c82b%3A1757897715
-CCTV-12 社会与法,https://live.catvod.com/catvod_com.php?id=cctv12&token=921ff67fdac72ddd60cdbc643eeaa4197ca5172cb911867d38b5f62181f461a6%3A1757897715
-CCTV-13 新闻频道,https://live.catvod.com/catvod_com.php?id=cctv13&token=094b627cee5c47e47d678cf0e3b8697aecfdc5bbb42a410945177f62ce42c208%3A1757897715
-CCTV-14 少儿,https://live.catvod.com/catvod_com.php?id=cctv14&token=1540867d147c9a11e93f651cb28ee8853ba3f1e04c52b4d5679222223436392b%3A1757897715
-CCTV-15 音乐,https://live.catvod.com/catvod_com.php?id=cctv15&token=8931ab556004f73f6b5959a4af643ddf118d1ecae71273b46121e8db18fefca9%3A1757897715
+1 综合 HD,https://live.catvod.com/catvod_com.php?id=cctv1&token=95b5715d774d7408b9d4738b67036d648abe03ef638636153caea5c3cedf7437%3A1757897715
+2 财经,https://live.catvod.com/catvod_com.php?id=cctv2&token=9bb12cbf0def1925dc6aa39b4b18754fed17ecf1cdacffb36e976d04c25eaefb%3A1757897715
+3 综艺 HD,https://live.catvod.com/catvod_com.php?id=cctv3&token=2acc6889eb1ca57492b9341e61fc787a5e6da9e819cdbecc2b9209bca687fb4c%3A1757897715
+4 中文国际,https://live.catvod.com/catvod_com.php?id=cctv4&token=9a33a83350ca4afa5e88bd96b4e23b4560611eb237c81a948b92badac49d26af%3A1757897715
+4 新闻台,https://live.catvod.com/catvod_com.php?id=Cctv4&token=3d090e32ae0541af82a0864a7011b74e0e63d75706e0ed8adf2b78b731e6f4e3%3A1757897715
+5 体育频道,https://live.catvod.com/catvod_com.php?id=cctv5&token=333afbf5083ef8bed31ebb77fbb34bf6ddde5926b8445005782c03a402544f58%3A1757897715
+5+ 体育赛事 HD,https://live.catvod.com/catvod_com.php?id=cctv5plus&token=71b4ca9420867f37b0c8b2b6b8fc1b54baa4a479bb93f0cc60084c4dde58cdea%3A1757897715
+6電影,https://live.catvod.com/catvod_com.php?id=cctv6&token=ffc0336db1f330bb0f291d249d6979f64786060defe8fbb12ea6f618e7f95ce7%3A1757897715
+7 军事农业,https://live.catvod.com/catvod_com.php?id=cctv7&token=60dcd3cf50978039824d4873b7938bb496d4114b7b2100799670b5a3896e7d07%3A1757897715
+8 电视剧 HD,https://live.catvod.com/catvod_com.php?id=cctv8hd&token=74a97a5e8ec70989e6aaf7a9141914e220e938167ed690a10b6d63aa073500ec%3A1757897715
+9 记录 HD,https://live.catvod.com/catvod_com.php?id=cctv9hd&token=29e57b7047924cf37ca482474af7330cb4aa2038668fdcd9d1057cd8c72e3d9f%3A1757897715
+10 科教 HD,https://live.catvod.com/catvod_com.php?id=cctv10hd&token=6f5eb19c81de205a7a1e1496343e911b03d500790f2dfc70540ed636bbdbc1fb%3A1757897715
+11 戏曲,https://live.catvod.com/catvod_com.php?id=cctv11&token=7aa9bc36ef2b533f05973bf4201892bff30c999ef25a42d5060d66d2e2c9c82b%3A1757897715
+12 社会与法,https://live.catvod.com/catvod_com.php?id=cctv12&token=921ff67fdac72ddd60cdbc643eeaa4197ca5172cb911867d38b5f62181f461a6%3A1757897715
+13 新闻频道,https://live.catvod.com/catvod_com.php?id=cctv13&token=094b627cee5c47e47d678cf0e3b8697aecfdc5bbb42a410945177f62ce42c208%3A1757897715
+14 少儿,https://live.catvod.com/catvod_com.php?id=cctv14&token=1540867d147c9a11e93f651cb28ee8853ba3f1e04c52b4d5679222223436392b%3A1757897715
+15 音乐,https://live.catvod.com/catvod_com.php?id=cctv15&token=8931ab556004f73f6b5959a4af643ddf118d1ecae71273b46121e8db18fefca9%3A1757897715
 
 卫视频道,#genre#
 
