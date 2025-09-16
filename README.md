@@ -1,3 +1,4 @@
+直播源 https://live.catvod.com/catvod_com.php
 
 #EXTINF:-1 tvg-name="黑龍江衛視" tvg-logo="https://live.fanmingming.cn/tv/黑龍江衛視.png" group-title="黑龍江",黑龍江衛視
 https://zmt-m.hljtv.com/live_tv.html?tv_id=10
