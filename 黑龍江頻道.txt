@@ -1,4 +1,3 @@
-
 天光黑龍江,#genre#
 
 黑龍江衛視,webview://https://www.hljtv.com/live/folder418
@@ -14,23 +13,13 @@
 影視黑龍江,#genre#
 partse=1
 
-x黑龍江衛視,https://zmt-m.hljtv.com/live_tv.html?tv_id=10
+黑龍江衛視,https://zmt-m.hljtv.com/live_tv.html?tv_id=10
 黑龍江都市,https://zmt-m.hljtv.com/live_tv.html?tv_id=50
 黑龍江新聞法治,https://zmt-m.hljtv.com/live_tv.html?tv_id=49
 黑龍江文體,https://zmt-m.hljtv.com/live_tv.html?tv_id=11
 黑龍江少兒,https://zmt-m.hljtv.com/live_tv.html?tv_id=16
 黑龍江影視,https://zmt-m.hljtv.com/live_tv.html?tv_id=12
 黑龍江農業科教,https://zmt-m.hljtv.com/live_tv.html?tv_id=15
-
-酷9黑龍江,#genre#
-
-x黑龍江衛視,http://A/ku9/js/webview.js?id=https://zmt-m.hljtv.com/live_tv.html?tv_id=10
-黑龍江都市,http://A/ku9/js/webview.js?id=https://zmt-m.hljtv.com/live_tv.html?tv_id=50
-黑龍江新聞法治,http://A/ku9/js/webview.js?id=https://zmt-m.hljtv.com/live_tv.html?tv_id=49
-黑龍江文體,http://A/ku9/js/webview.js?id=https://zmt-m.hljtv.com/live_tv.html?tv_id=11
-黑龍江少兒,http://A/ku9/js/webview.js?id=https://zmt-m.hljtv.com/live_tv.html?tv_id=16
-黑龍江影視,http://A/ku9/js/webview.js?id=https://zmt-m.hljtv.com/live_tv.html?tv_id=12
-黑龍江農業科教,http://A/ku9/js/webview.js?id=https://zmt-m.hljtv.com/live_tv.html?tv_id=15
 
 酷9黑龍江,#genre#
 
