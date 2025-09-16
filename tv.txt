@@ -218,56 +218,13 @@ CCTV-15 音乐,https://live.catvod.com/catvod_com.php?id=cctv15&token=3af2c84cf6
 湖北卫视,https://live.catvod.com/catvod_com.php?id=hubei&token=12f612a67c0742ec131aeacc9778562b0c750887a3ab9d42ffaec942a85bf4ba%3A1757999602
 四川卫视,https://live.catvod.com/catvod_com.php?id=sichuan_twn&token=c34349a814d697dd6a3966f59e30257a532c47aaab7bda5c461f782650791f91%3A1757999602
 东方卫视,https://live.catvod.com/catvod_com.php?id=dongfangweishi_twn&token=81fe2950936e7f30aa2c1156f952765c7422ed0fc118cbef53515c49b662258a%3A1757999602
-CGTN,https://live.catvod.com/catvod_com.php?id=CGTN&token=ce4bc35751bb8ef4d15dedc33d592faec256ea4f8228d871b4a19482a5338239%3A1757999602
-Astro Premier League 1,https://live.catvod.com/catvod_com.php?id=go_assp1&token=36bd4222a16e603937d61360d0f077499935021297cc644181ac1c5da88746a5%3A1757999602
-Astro EPL 1 backup,https://live.catvod.com/catvod_com.php?id=go_assp1x&token=afe812efb8e8addaf6a3f9275468eb86effe909cea68df9d389282eea0091700%3A1757999602
-Astro Premier League 2,https://live.catvod.com/catvod_com.php?id=go_assp2&token=cc3b6a402e4a6a9d7aab9fe9ed92585e8b523506f66d0973561734dc6201fba2%3A1757999602
-Astro Grandstand,https://live.catvod.com/catvod_com.php?id=go_assp3&token=b8fd4c1b64c11968b226299d3a05da997e9c88fcfd9f80e3c917728206bdb25d%3A1757999602
-Astro Football,https://live.catvod.com/catvod_com.php?id=go_assp4&token=0165c6be8f24013ba6ad162ed3847eb391f1f3e7791ae0db360709dda6a5236f%3A1757999602
-Astro Sports Plus,https://live.catvod.com/catvod_com.php?id=go_sportsplus&token=4c782757023d4c1bc0b6250da4d4398d7706f33c5218984f484460f4a6a76061%3A1757999602
-Astro Badminton 1,https://live.catvod.com/catvod_com.php?id=go_badminton1&token=c34a50241eab8f8fd0c40d9061a376993de0c95d708d82ffb2fd94a16bb12e37%3A1757999602
-Astro Badminton 2,https://live.catvod.com/catvod_com.php?id=go_badminton2&token=61ec72d7e6200cf7aaf607342a5d4693d3422f781b1e51b6f36c0a45d7acd246%3A1757999602
-Astro W-Sports,https://live.catvod.com/catvod_com.php?id=go_assp5&token=5084b83135b91c91a0ebd78f7662ef608184862f3a3b7db928fcb73ef4ebf10c%3A1757999602
-Supersports 1,https://live.catvod.com/catvod_com.php?id=Assp1&token=b89e902c4b0582d096af1199244d9b900e6d9899205a43390cdd208d15e140fa%3A1757999602
-Supersports 2,https://live.catvod.com/catvod_com.php?id=Assp2&token=1049d0b08c62d2d68a9c2cd6b4545b73c6742ecd66796853d88f298be4423b08%3A1757999602
-Supersports 3,https://live.catvod.com/catvod_com.php?id=Assp3&token=7661f98439746d81b1fba6d6eacfd1979f5cc621a70cec5aa01c3d7df0f2c864%3A1757999602
-Supersports 4,https://live.catvod.com/catvod_com.php?id=Assp4&token=f58aaf7ad8bf3786c665bd12a1b8a055ce5db73732e1451960c11d3b0bdc5fcf%3A1757999602
-WWE,https://live.catvod.com/catvod_com.php?id=Wwe&token=d43c3265431d5b218fddf7d9321f2e32993de2874c9bc9d17872f011e090f2b4%3A1757999602
-Fight Sports,https://live.catvod.com/catvod_com.php?id=Fs&token=36be6da0a4900c05356c38808aa3227d937b791617045a337eeb5d62cf21b2f2%3A1757999602
-NBA TV,https://live.catvod.com/catvod_com.php?id=Nba&token=a3932e6533e7ec518100d2c86990cc5ec6d9ae19f6d2d28759c64f8bac8454b6%3A1757999602
-Astro Cricket,https://live.catvod.com/catvod_com.php?id=Acricket&token=266090302e264316e7d6cade27f58051d7fe8b1b865fc4afa077cc3e2cbabef8%3A1757999602
-Astro Golf,https://live.catvod.com/catvod_com.php?id=Agolf&token=78eb8c47d8b1ab421e21f48bcb87d431a00d64e58a1b28e2deeaeae7db56bf0a%3A1757999602
-Tnt Sports 1,https://live.catvod.com/catvod_com.php?id=6fac0aaead&token=dc74bb3fd20770c2e1c11b20b3966c10a557a9734118d2c3ccddce03bbd8bee3%3A1757999602
-TNT Sports 2,https://live.catvod.com/catvod_com.php?id=d9a76a79cc&token=9b84c77b8e6613484f5320b412f03b5464d3681f52c5e0d0f5e1087cc0f1e1eb%3A1757999602
-TNT Sports 3,https://live.catvod.com/catvod_com.php?id=5fea4d73db&token=21cfb98bfa4f81992601f756c7f48fae5d3915252fc009ecb627b2e2820f4b89%3A1757999602
-TNT Sports 4,https://live.catvod.com/catvod_com.php?id=tntsport4&token=11720f95655de3237028a0e7f95fd6b120e052b4895d1f3131b02b310acfc14a%3A1757999602
-Sony Ten 1,https://live.catvod.com/catvod_com.php?id=ten1_raj&token=8e06126e8dcb65806338e8da6b063e38cfc9c9c3d0836c6268aa9cbdec5bff46%3A1757999602
-Sony Ten 2,https://live.catvod.com/catvod_com.php?id=ten2_raj&token=acae3eee50b7f2281e021f7c3e27b5de1ae08e59c2a5553bd3596e281f77a59f%3A1757999602
-Sony Ten 3,https://live.catvod.com/catvod_com.php?id=ten3_raj&token=b7335d8b27ccd5a74f1224e0d5f88b332b38014bc677e46104361aa9c4a2893b%3A1757999602
-SPOTV 1 HD,https://live.catvod.com/catvod_com.php?id=go_spotv&token=b81341f29ba4c95af022e2f9c54a95af6457d0bad6f1806e54a5bfba7d3b5de9%3A1757999602
-SPO TV 2,https://live.catvod.com/catvod_com.php?id=go_spotv2&token=1bd669cf118dca67cc6d8b7b1777bcaecc72380c2e1d4d28033af064c85ce230%3A1757999602
-Skysports F1,https://live.catvod.com/catvod_com.php?id=tiankongf1&token=fee535ecbc6008248df2503957e4890b999752b766b9e55c14d3c2e78fc3bf16%3A1757999602
-Skysports Cricket,https://live.catvod.com/catvod_com.php?id=tiankongcricket&token=106217fd6a31f0b21367e9b509c7e27ac9fe4bd446f85e5bf36fdd98c3cee334%3A1757999602
-Skysports EPL,https://live.catvod.com/catvod_com.php?id=tiankongepl&token=2a96b5da36eab113a55ebb3c204ee159c4cd7569c00c094a65332f21f7f52a1e%3A1757999602
-Skysports Main Event,https://live.catvod.com/catvod_com.php?id=tiankongmain&token=6f861ebbaf91f59bab1c0f1c1dfa4dcc701791952c74efb762de201aaccc1490%3A1757999602
-Skysports News,https://live.catvod.com/catvod_com.php?id=tiankongnews&token=cd29bbe8bcef2279922d247d3d332968f8452d960e7fb5afaf373557c30e5445%3A1757999602
-Skysports Mix,https://live.catvod.com/catvod_com.php?id=tiankongmix&token=c5784625091a1a8d538d8c52683649825a51a9e1e7f35fcc264caf02d16d6516%3A1757999602
+
+
 爱尔达体育1台,https://live.catvod.com/catvod_com.php?id=eltasport_twn&token=176a0f628610e22d12ce995e59f6e2705203859d2a2a4d88d1beeef498dcb930%3A1757999602
 爱尔达体育2台,https://live.catvod.com/catvod_com.php?id=eltasport2_twn&token=39dd22430e120a5d0e37afc54a10cd8d462583398ed4dda59d65be9c92c57e28%3A1757999602
 爱尔达体育3台,https://live.catvod.com/catvod_com.php?id=eltasport3_twn&token=d166f98fbd572bccd442b6324fca4d6ddf917a59d692582990cee6d0730069b9%3A1757999602
 爱尔达体育4台,https://live.catvod.com/catvod_com.php?id=eltasports4_twn&token=5fc6d237fa52badc038d2d2e4da6a4c60d75f7770675e93542cf3d57c215d602%3A1757999602
-小公視,https://live.catvod.com/catvod_com.php?id=pts3_twn&token=844f6ba4d8e4567be2fe4240a84a1205968f679c939872867c1f9665fcbaee27%3A1757999602
-DAZN 1,https://live.catvod.com/catvod_com.php?id=dazn1_twn&token=01bdcb4b5e52782ac115dc2a16fcd97bb2fb9008f5d65bdae5c07b9312f773ca%3A1757999602
-DAZN 2,https://live.catvod.com/catvod_com.php?id=dazn2_twn&token=de0b2460298e50c0dfb248157477d8181d05d1cea38f926e5fcbec4a2def7b3e%3A1757999602
-Rugby Pass TV,https://live.catvod.com/catvod_com.php?id=Rugbypasstv&token=720dc8a173e64daf472d893456d0c8320fe647d56f9af977cfff3fcc3c2d5e3e%3A1757999602
-RTM Sports HD,https://live.catvod.com/catvod_com.php?id=Rtmsport&token=3ee05adb2d98f4ef09bebe398f12722041e82fb11ae66d3f92984848091e8ccc%3A1757999602
-Arena,https://live.catvod.com/catvod_com.php?id=Arena&token=e9511d6e50748174e921dba7c8f27a7f7912dc77721984c1a8f477704bb48bf6%3A1757999602
-Arena 2,https://live.catvod.com/catvod_com.php?id=Arena2&token=924c94a72d96bcd4d5a6d3b3167a433cf7e81e5dfc1a49d02c5f1ab16b2fffe2%3A1757999602
-BolaArena 1,https://live.catvod.com/catvod_com.php?id=Bolaarena1&token=46e7f808b7b637668ce2bc56e4adc0d9548ad0dcd11fbb90ec474bfa7d8440b7%3A1757999602
-BolaArena 2,https://live.catvod.com/catvod_com.php?id=Bolaarena2&token=2f0e688299b40b65d519baac19b466d996687abeb7fd225e0b14ca2709c106e3%3A1757999602
-Astro Beinsports 1,https://live.catvod.com/catvod_com.php?id=Astrobein1&token=fa867e48161076fc13c3ba921af85b09bfdb44b6d902332a5a9a2a56d4bb3def%3A1757999602
-Astro Beinsports 2,https://live.catvod.com/catvod_com.php?id=Astrobein2&token=72992ecbf416473cf1b5b554be206d4de80fb29fbbd8545830c7da340bfce57a%3A1757999602
-Astro Beinsports 3,https://live.catvod.com/catvod_com.php?id=Astrobein3&token=84126f962bb3644590eb2b4e70d74a293f9fb361020f12f725225f1d83e26b39%3A1757999602
+
 TVBS News 新闻台,https://live.catvod.com/catvod_com.php?id=tvbs_n&token=01101ad7d31d36b13d22724014d03e022f2c0ed63a1bc5d56b7610304f6ea60c%3A1757999602
 TVBS 欢乐台 （备份）,https://live.catvod.com/catvod_com.php?id=tvbshuanle_twn&token=a01b36eed5a3a9a66be34e2b6e9120145fe97fb2b86b830922bc18f8d0f2d987%3A1757999602
 TVBS HD,https://live.catvod.com/catvod_com.php?id=tvbs&token=bf69a9cd20a1bfb1c7c93d68705a8151d6729bc6a800f7c93f5cd818f852a661%3A1757999602
