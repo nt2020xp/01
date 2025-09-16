@@ -7,27 +7,3 @@ parse=1
 
 江蘇衛視,http://A/ku9/js/webview.js?id=https://live.jstv.com
 
-江蘇,#genre#
-
-江蘇衛視,video://https://live.jstv.com/?channelId=534
-江蘇城市,video://https://live.jstv.com/?channelId=535
-江蘇綜藝,video://https://live.jstv.com/?channelId=556
-江蘇影視,video://https://live.jstv.com/?channelId=542
-江蘇新聞,video://https://live.jstv.com/?channelId=536
-江蘇教育,video://https://live.jstv.com/?channelId=545
-體育休閒,video://https://live.jstv.com/?channelId=537
-優漫卡通,video://https://live.jstv.com/?channelId=543
-江蘇國際,video://https://live.jstv.com/?channelId=544
-
-
-江蘇,#genre#
-
-江蘇衛視,http://A/ku9/js/webview.js?id=https://live.jstv.com/?channelId=534
-江蘇城市,http://A/ku9/js/webview.js?id=https://live.jstv.com/?channelId=535
-江蘇綜藝,http://A/ku9/js/webview.js?id=https://live.jstv.com/?channelId=556
-江蘇影視,http://A/ku9/js/webview.js?id=https://live.jstv.com/?channelId=542
-江蘇新聞,http://A/ku9/js/webview.js?id=https://live.jstv.com/?channelId=536
-江蘇教育,http://A/ku9/js/webview.js?id=https://live.jstv.com/?channelId=545
-體育休閒,http://A/ku9/js/webview.js?id=https://live.jstv.com/?channelId=537
-優漫卡通,http://A/ku9/js/webview.js?id=https://live.jstv.com/?channelId=543
-江蘇國際,http://A/ku9/js/webview.js?id=https://live.jstv.com/?channelId=544
