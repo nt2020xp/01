@@ -1,3 +1,5 @@
+酒店高清  https://raw.githubusercontent.com/adminouyang/dszby/refs/heads/main/py/iptv%E6%BA%90%E6%94%B6%E9%9B%86%E6%A3%80%E6%B5%8B/%E4%B8%BB%E9%A2%91%E9%81%93/%E4%B8%93%E4%BA%AB%E9%A2%91%E9%81%93/%E2%99%AA%E9%85%92%E5%BA%97%E9%AB%98%E6%B8%85.txt
+
 自動收集直播源 https://github.com/adminouyang/dszby/tree/b626c84e356ef7dca79c171ee934648a2955db7a/py/GTJM
 
 直播源 https://live.catvod.com/catvod_com.php
