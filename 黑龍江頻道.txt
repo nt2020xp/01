@@ -23,10 +23,10 @@
 哈爾濱生活,http://A/ku9/js/webview.js?id=https://www.hrbtv.net/folder79/folder85
 哈爾濱影視,http://A/ku9/js/webview.js?id=https://www.hrbtv.net/folder79/folder87
 
-黑龍江,#genre#
+影視黑龍江,#genre#
 partse=1
 
-黑龍江衛視,https://zmt-m.hljtv.com/live_tv.html?tv_id=10
+x黑龍江衛視,https://zmt-m.hljtv.com/live_tv.html?tv_id=10
 黑龍江都市,https://zmt-m.hljtv.com/live_tv.html?tv_id=50
 黑龍江新聞法治,https://zmt-m.hljtv.com/live_tv.html?tv_id=49
 黑龍江文體,https://zmt-m.hljtv.com/live_tv.html?tv_id=11
@@ -36,7 +36,7 @@ partse=1
 
 酷9黑龍江,#genre#
 
-黑龍江衛視,http://A/ku9/js/webview.js?id=https://zmt-m.hljtv.com/live_tv.html?tv_id=10
+x黑龍江衛視,http://A/ku9/js/webview.js?id=https://zmt-m.hljtv.com/live_tv.html?tv_id=10
 黑龍江都市,http://A/ku9/js/webview.js?id=https://zmt-m.hljtv.com/live_tv.html?tv_id=50
 黑龍江新聞法治,http://A/ku9/js/webview.js?id=https://zmt-m.hljtv.com/live_tv.html?tv_id=49
 黑龍江文體,http://A/ku9/js/webview.js?id=https://zmt-m.hljtv.com/live_tv.html?tv_id=11
