@@ -137,13 +137,9 @@ parse=1
 愛爾達生活旅遊台,https://www.4gtv.tv/channel/4gtv-live120?set=1&ch=237
 霹靂布袋戲,https://www.4gtv.tv/channel/4gtv-live145?set=1&ch=301
 
-江蘇衛視,#genre#
+江蘇浙江,#genre#
 parse=1
 江蘇衛視,https://live.jstv.com
-
-浙江頻道,#genre#
-parse=1
-
 浙江衛視,https://www.cztv.com/liveTV/101
 錢江都市,https://www.cztv.com/liveTV/102
 經濟生活,https://www.cztv.com/liveTV/103
