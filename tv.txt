@@ -138,7 +138,7 @@ parse=1
 霹靂布袋戲,https://www.4gtv.tv/channel/4gtv-live145?set=1&ch=301
 
 
-央视频道,#genre#
+央視衛視,#genre#
 1綜合,https://live.catvod.com/catvod_com.php?id=cctv1&token=95b5715d774d7408b9d4738b67036d648abe03ef638636153caea5c3cedf7437%3A1757897715
 2財經,https://live.catvod.com/catvod_com.php?id=cctv2&token=9bb12cbf0def1925dc6aa39b4b18754fed17ecf1cdacffb36e976d04c25eaefb%3A1757897715
 3綜藝,https://live.catvod.com/catvod_com.php?id=cctv3&token=2acc6889eb1ca57492b9341e61fc787a5e6da9e819cdbecc2b9209bca687fb4c%3A1757897715
@@ -155,8 +155,6 @@ parse=1
 13新聞,https://live.catvod.com/catvod_com.php?id=cctv13&token=094b627cee5c47e47d678cf0e3b8697aecfdc5bbb42a410945177f62ce42c208%3A1757897715
 14少兒,https://live.catvod.com/catvod_com.php?id=cctv14&token=1540867d147c9a11e93f651cb28ee8853ba3f1e04c52b4d5679222223436392b%3A1757897715
 15音樂,https://live.catvod.com/catvod_com.php?id=cctv15&token=8931ab556004f73f6b5959a4af643ddf118d1ecae71273b46121e8db18fefca9%3A1757897715
-
-卫视频道,#genre#
 
 江蘇衛視,https://live.catvod.com/catvod_com.php?id=jiangsu_twn&token=d7a01ea5f33b819941bc2839749079a0f27c2b748865ae08d713a93cb6e47db7%3A1757897715
 浙江衛視,https://live.catvod.com/catvod_com.php?id=zhejiang_twn&token=f237e8650d02dc30345368c9c8b873d3b060eb0789acef92d99c57f8d6e73f8c%3A1757897715
