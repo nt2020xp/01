@@ -1,3 +1,7 @@
+酷9江蘇,#genre#
+
+江蘇衛視,http://A/ku9/js/webview.js?id=https://live.jstv.com
+
 組播頻道  https://raw.githubusercontent.com/adminouyang/dszby/refs/heads/main/py/iptv%E6%BA%90%E6%94%B6%E9%9B%86%E6%A3%80%E6%B5%8B/%E4%B8%BB%E9%A2%91%E9%81%93/%E4%B8%93%E4%BA%AB%E9%A2%91%E9%81%93/%E2%99%AA%E7%BB%84%E6%92%AD%E9%A2%91%E9%81%93.txt
 
 酒店高清  https://raw.githubusercontent.com/adminouyang/dszby/refs/heads/main/py/iptv%E6%BA%90%E6%94%B6%E9%9B%86%E6%A3%80%E6%B5%8B/%E4%B8%BB%E9%A2%91%E9%81%93/%E4%B8%93%E4%BA%AB%E9%A2%91%E9%81%93/%E2%99%AA%E9%85%92%E5%BA%97%E9%AB%98%E6%B8%85.txt
