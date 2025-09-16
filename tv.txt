@@ -157,8 +157,8 @@ CCTV-12 社会与法,https://live.catvod.com/catvod_com.php?id=cctv12&token=921f
 CCTV-13 新闻频道,https://live.catvod.com/catvod_com.php?id=cctv13&token=094b627cee5c47e47d678cf0e3b8697aecfdc5bbb42a410945177f62ce42c208%3A1757897715
 CCTV-14 少儿,https://live.catvod.com/catvod_com.php?id=cctv14&token=1540867d147c9a11e93f651cb28ee8853ba3f1e04c52b4d5679222223436392b%3A1757897715
 CCTV-15 音乐,https://live.catvod.com/catvod_com.php?id=cctv15&token=8931ab556004f73f6b5959a4af643ddf118d1ecae71273b46121e8db18fefca9%3A1757897715
-卫视频道,#genre#
 
+卫视频道,#genre#
 
 江苏卫视,https://live.catvod.com/catvod_com.php?id=jiangsu_twn&token=d7a01ea5f33b819941bc2839749079a0f27c2b748865ae08d713a93cb6e47db7%3A1757897715
 浙江卫视,https://live.catvod.com/catvod_com.php?id=zhejiang_twn&token=f237e8650d02dc30345368c9c8b873d3b060eb0789acef92d99c57f8d6e73f8c%3A1757897715
@@ -318,3 +318,18 @@ LOVE_NATURE,http://iptv.4666888.xyz/iptv.php?id=20281
 MagellanTV頻道,http://iptv.4666888.xyz/iptv.php?id=20282
 HITS,http://iptv.4666888.xyz/iptv.php?id=20283
 
+黑龍江衛視,#genre#
+
+黑龍江衛視,https://zmt-m.hljtv.com/live_tv.html?tv_id=10&curTime=1757990237311
+
+黑龍江都市,https://zmt-m.hljtv.com/live_tv.html?tv_id=50&curTime=1757990264874
+
+黑龍江新聞法治,https://zmt-m.hljtv.com/live_tv.html?tv_id=49&curTime=1757990288424
+
+黑龍江文體,https://zmt-m.hljtv.com/live_tv.html?tv_id=11&curTime=1757990311126
+
+黑龍江少兒,https://zmt-m.hljtv.com/live_tv.html?tv_id=16&curTime=1757990332619
+
+黑龍江影視,https://zmt-m.hljtv.com/live_tv.html?tv_id=12&curTime=1757990137260
+
+黑龍江農業科教,https://zmt-m.hljtv.com/live_tv.html?tv_id=15&curTime=1757990381085
