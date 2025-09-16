@@ -18,6 +18,6 @@
 黑龍江農業科教,http://A/ku9/js/webview.js?id=https://www.hljtv.com/live/folder419
 黑龍江少兒,http://A/ku9/js/webview.js?id=https://www.hljtv.com/live/folder422
 哈爾濱新聞綜合,http://A/ku9/js/webview.js?id=https://www.hrbtv.net/folder79/folder81
-哈爾濱生活,whttp://A/ku9/js/webview.js?id=https://www.hrbtv.net/folder79/folder85
+哈爾濱生活,http://A/ku9/js/webview.js?id=https://www.hrbtv.net/folder79/folder85
 哈爾濱影視,http://A/ku9/js/webview.js?id=https://www.hrbtv.net/folder79/folder87
 
