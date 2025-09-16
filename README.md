@@ -1,4 +1,18 @@
+黑龍江衛視,#genre#
+
+黑龍江衛視,https://zmt-m.hljtv.com/live_tv.html?tv_id=10&curTime=1757990237311
+
+黑龍江都市,https://zmt-m.hljtv.com/live_tv.html?tv_id=50&curTime=1757990264874
+
+黑龍江新聞法治,https://zmt-m.hljtv.com/live_tv.html?tv_id=49&curTime=1757990288424
+
+黑龍江文體,https://zmt-m.hljtv.com/live_tv.html?tv_id=11&curTime=1757990311126
+
+黑龍江少兒,https://zmt-m.hljtv.com/live_tv.html?tv_id=16&curTime=1757990332619
+
 黑龍江影視,https://zmt-m.hljtv.com/live_tv.html?tv_id=12&curTime=1757990137260
+
+黑龍江農業科教,https://zmt-m.hljtv.com/live_tv.html?tv_id=15&curTime=1757990381085
 
 寶盒  https://3043.kstore.space/bhvip/bh/bhzb4.txt
 
