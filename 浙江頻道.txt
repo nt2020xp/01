@@ -21,3 +21,16 @@
 少兒頻道,https://www.cztv.com/liveTV/108
 浙江國際,https://www.cztv.com/liveTV/110
 之江紀錄,https://www.cztv.com/liveTV/112
+
+浙江頻道,#genre#
+
+浙江衛視,https://www.cztv.com/liveTV/101
+錢江都市,https://www.cztv.com/liveTV/102
+經濟生活,https://www.cztv.com/liveTV/103
+教科影視,https://www.cztv.com/liveTV/104
+民生休閒,https://www.cztv.com/liveTV/106
+新聞,https://www.cztv.com/liveTV/107
+少兒頻道,https://www.cztv.com/liveTV/108
+浙江國際,https://www.cztv.com/liveTV/110
+之江紀錄,https://www.cztv.com/liveTV/112
+
