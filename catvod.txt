@@ -1,3 +1,5 @@
+catvod頻道,#genre#
+
 翡翠台,https://live.catvod.com/catvod_com.php?id=jade_twn&token=3fe8edca0c22888ccaaa465f94017858aaf33256e674163ceb34426bda9ff994%3A1757999602
 翡翠台 backup,https://live.catvod.com/catvod_com.php?id=Jade_xue&token=fc1b7297c8f0cacfef9ff9411278ec6afbb69ded96d5106365b34e81b072aff6%3A1757999602
 iNews 新闻台,https://live.catvod.com/catvod_com.php?id=inews_twn&token=c182cd1ade8baf37f469960e2009de309f2448157e031554629d0ba796403afa%3A1757999602
