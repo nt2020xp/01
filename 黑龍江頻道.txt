@@ -1,3 +1,18 @@
+東北網  https://www.dbw.cn/zhibodan/zhibo_dan
+
+
+黑龍江,#genre#
+
+黑龍江衛視,https://www.dbw.cn/zhibodan/zhibo_dan/hljws
+黑龍江都市,https://www.dbw.cn/zhibodan/zhibo_dan/hljds
+黑龍江新聞法治,https://www.dbw.cn/zhibodan/zhibo_dan/heilongjiang
+黑龍江文體,https://www.dbw.cn/zhibodan/zhibo_dan/hljwt
+黑龍江少兒,https://www.dbw.cn/zhibodan/zhibo_dan/hljse
+黑龍江影視,https://www.dbw.cn/zhibodan/zhibo_dan/hljys
+黑龍江農業科教,https://www.dbw.cn/zhibodan/zhibo_dan/hljnykj
+
+
+
 影視黑龍江,#genre#
 partse=1
 
