@@ -197,8 +197,6 @@ webview://https://yangshipin.cn/tv/home?pid=600002532
 webview://https://yangshipin.cn/tv/home?pid=600002503
 #EXTINF:-1 tvg-name="西藏衛視" tvg-logo="https://live.fanmingming.cn/tv/西藏卫视.png" group-title="衛視",西藏衛視
 webview://https://yangshipin.cn/tv/home?pid=600190403
-#EXTINF:-1 tvg-name="兵團衛視" tvg-logo="https://live.fanmingming.cn/tv/兵团卫视.png" group-title="衛視",兵團衛視
-webview://https://yangshipin.cn/tv/home?pid=600193252
 #EXTINF:-1 tvg-name="東南衛視" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="衛視",東南衛視
 webview://https://yangshipin.cn/tv/home?pid=600002484
 #EXTINF:-1 tvg-name="河北衛視" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png" group-title="衛視",河北衛視
