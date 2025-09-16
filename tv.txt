@@ -319,6 +319,7 @@ MagellanTV頻道,http://iptv.4666888.xyz/iptv.php?id=20282
 HITS,http://iptv.4666888.xyz/iptv.php?id=20283
 
 黑龍江衛視,#genre#
+parse=1
 
 黑龍江衛視,https://zmt-m.hljtv.com/live_tv.html?tv_id=10&curTime=1757990237311
 
