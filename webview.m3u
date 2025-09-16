@@ -258,36 +258,36 @@ https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 tvg-name="之江紀錄" tvg-logo="https://live.fanmingming.cn/tv/之江紀錄.png" group-title="浙江",之江紀錄
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 
-#EXTINF:-1 tvg-name="黑龍江衛視" tvg-logo="https://live.fanmingming.cn/tv/黑龍江衛視.png" group-title="黑龍江",黑龍江衛視
+#EXTINF:-1 tvg-name="黑龍江衛視" tvg-logo="https://live.fanmingming.cn/tv/黑龍江衛視.png" group-title="黑龍江1",黑龍江衛視
 webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=10
-#EXTINF:-1 tvg-name="黑龍江都市" tvg-logo="https://live.fanmingming.cn/tv/黑龍江都市.png" group-title="黑龍江",黑龍江都市
+#EXTINF:-1 tvg-name="黑龍江都市" tvg-logo="https://live.fanmingming.cn/tv/黑龍江都市.png" group-title="黑龍江1",黑龍江都市
 webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=50
-#EXTINF:-1 tvg-name="黑龍江新聞法治" tvg-logo="https://live.fanmingming.cn/tv/黑龍江新聞法治.png" group-title="黑龍江",黑龍江新聞法治
+#EXTINF:-1 tvg-name="黑龍江新聞法治" tvg-logo="https://live.fanmingming.cn/tv/黑龍江新聞法治.png" group-title="黑龍江1",黑龍江新聞法治
 webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=49
-#EXTINF:-1 tvg-name="黑龍江文體" tvg-logo="https://live.fanmingming.cn/tv/黑龍江文體.png" group-title="黑龍江",黑龍江文體
+#EXTINF:-1 tvg-name="黑龍江文體" tvg-logo="https://live.fanmingming.cn/tv/黑龍江文體.png" group-title="黑龍江1",黑龍江文體
 webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=11
-#EXTINF:-1 tvg-name="黑龍江少兒" tvg-logo="https://live.fanmingming.cn/tv/黑龍江少兒.png" group-title="黑龍江",黑龍江少兒
+#EXTINF:-1 tvg-name="黑龍江少兒" tvg-logo="https://live.fanmingming.cn/tv/黑龍江少兒.png" group-title="黑龍江1",黑龍江少兒
 webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=16
-#EXTINF:-1 tvg-name="黑龍江影視" tvg-logo="https://live.fanmingming.cn/tv/黑龍江影視.png" group-title="黑龍江",黑龍江影視
+#EXTINF:-1 tvg-name="黑龍江影視" tvg-logo="https://live.fanmingming.cn/tv/黑龍江影視.png" group-title="黑龍江1",黑龍江影視
 webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=12
-#EXTINF:-1 tvg-name="黑龍江農業科教" tvg-logo="https://live.fanmingming.cn/tv/黑龍江農業科教.png" group-title="黑龍江",黑龍江農業科教
+#EXTINF:-1 tvg-name="黑龍江農業科教" tvg-logo="https://live.fanmingming.cn/tv/黑龍江農業科教.png" group-title="黑龍江1",黑龍江農業科教
 webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=15
 
-#EXTINF:-1 tvg-name="黑龍江衛視" tvg-logo="https://live.fanmingming.cn/tv/黑龍江衛視.png" group-title="黑龍江衛視",黑龍江衛視
+#EXTINF:-1 tvg-name="黑龍江衛視" tvg-logo="https://live.fanmingming.cn/tv/黑龍江衛視.png" group-title="黑龍江2",黑龍江衛視
 webview://https://www.hljtv.com/live/folder418
-#EXTINF:-1 tvg-name="黑龍江文體" tvg-logo="https://live.fanmingming.cn/tv/黑龍江文體.png" group-title="黑龍江衛視",黑龍江文體
+#EXTINF:-1 tvg-name="黑龍江文體" tvg-logo="https://live.fanmingming.cn/tv/黑龍江文體.png" group-title="黑龍江2",黑龍江文體
 webview://https://www.hljtv.com/live/folder423
-#EXTINF:-1 tvg-name="黑龍江影視" tvg-logo="https://live.fanmingming.cn/tv/黑龍江影視.png" group-title="黑龍江衛視",黑龍江影視
+#EXTINF:-1 tvg-name="黑龍江影視" tvg-logo="https://live.fanmingming.cn/tv/黑龍江影視.png" group-title="黑龍江2",黑龍江影視
 webview://https://www.hljtv.com/live/folder425
-#EXTINF:-1 tvg-name="黑龍江新聞法治" tvg-logo="https://live.fanmingming.cn/tv/黑龍江新聞法治.png" group-title="黑龍江衛視",黑龍江新聞法治
+#EXTINF:-1 tvg-name="黑龍江新聞法治" tvg-logo="https://live.fanmingming.cn/tv/黑龍江新聞法治.png" group-title="黑龍江2",黑龍江新聞法治
 webview://https://www.hljtv.com/live/folder424
-#EXTINF:-1 tvg-name="黑龍江農業科教" tvg-logo="https://live.fanmingming.cn/tv/黑龍江農業科教.png" group-title="黑龍江衛視",黑龍江農業科教
+#EXTINF:-1 tvg-name="黑龍江農業科教" tvg-logo="https://live.fanmingming.cn/tv/黑龍江農業科教.png" group-title="黑龍江2",黑龍江農業科教
 webview://https://www.hljtv.com/live/folder419
-#EXTINF:-1 tvg-name="黑龍江少兒" tvg-logo="https://live.fanmingming.cn/tv/黑龍江少兒.png" group-title="黑龍江衛視",黑龍江少兒
+#EXTINF:-1 tvg-name="黑龍江少兒" tvg-logo="https://live.fanmingming.cn/tv/黑龍江少兒.png" group-title="黑龍江2",黑龍江少兒
 webview://https://www.hljtv.com/live/folder422
-#EXTINF:-1 tvg-name="哈爾濱新聞綜合" tvg-logo="https://live.fanmingming.cn/tv/哈爾濱新聞綜合.png" group-title="黑龍江衛視",哈爾濱新聞綜合
+#EXTINF:-1 tvg-name="哈爾濱新聞綜合" tvg-logo="https://live.fanmingming.cn/tv/哈爾濱新聞綜合.png" group-title="黑龍江2",哈爾濱新聞綜合
 webview://https://www.hrbtv.net/folder79/folder81
-#EXTINF:-1 tvg-name="哈爾濱生活" tvg-logo="https://live.fanmingming.cn/tv/哈爾濱生活.png" group-title="黑龍江衛視",哈爾濱生活
+#EXTINF:-1 tvg-name="哈爾濱生活" tvg-logo="https://live.fanmingming.cn/tv/哈爾濱生活.png" group-title="黑龍江2",哈爾濱生活
 webview://https://www.hrbtv.net/folder79/folder85
-#EXTINF:-1 tvg-name="哈爾濱影視" tvg-logo="https://live.fanmingming.cn/tv/哈爾濱影視.png" group-title="黑龍江衛視",哈爾濱影視
+#EXTINF:-1 tvg-name="哈爾濱影視" tvg-logo="https://live.fanmingming.cn/tv/哈爾濱影視.png" group-title="黑龍江2",哈爾濱影視
 webview://https://www.hrbtv.net/folder79/folder87
