@@ -1,5 +1,5 @@
 
-黑龍江衛視,#genre#
+天光黑龍江,#genre#
 
 黑龍江衛視,webview://https://www.hljtv.com/live/folder418
 黑龍江文體,webview://https://www.hljtv.com/live/folder423
