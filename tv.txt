@@ -1,4 +1,4 @@
-台灣新聞,#genre#
+我的最愛,#genre#
 
 東森幼幼1,http://iptv.4666888.xyz/iptv.php?id=20213
 東森幼幼2,https://live.catvod.com/catvod_com.php?id=yoyo_twn&token=1b50c949df8718675ba6d0b9692c3ff4b6f54764204f4274a90900c1bb5befe0%3A1757999602
@@ -15,6 +15,8 @@
 鐵達尼號國語,https://play.hhuus.com/play/zbqzXgDd/index.m3u8
 明天過後(後天),https://vodcnd01.rsfcxq.com/20250407/0mLXf1R7/3722kb/hls/index.m3u8
 57怪奇物語,https://www.youtube.com/live/k0uJVhYX12Y?si=61OfOEYGafnTCkTX
+
+台灣新聞,#genre#
 
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
