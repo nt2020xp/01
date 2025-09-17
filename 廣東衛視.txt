@@ -1,3 +1,21 @@
+酷9廣東,#genre#
+parse=1
+
+廣東衛視,http://a/ku9/js/webview.js?id=https://www.gdtv.cn/tvChannelDetail/43
+廣東珠江,http://a/ku9/js/webview.js?id=https://www.gdtv.cn/tvChannelDetail/44
+廣東新聞,http://a/ku9/js/webview.js?id=https://www.gdtv.cn/tvChannelDetail/45
+廣東民生,http://a/ku9/js/webview.js?id=https://www.gdtv.cn/tvChannelDetail/48
+廣東體育育,http://a/ku9/js/webview.js?id=https://www.gdtv.cn/tvChannelDetail/47
+大湾區衛視,http://a/ku9/js/webview.js?id=https://www.gdtv.cn/tvChannelDetail/51
+大湾區衛視（海外版）,http://a/ku9/js/webview.js?id=https://www.gdtv.cn/tvChannelDetail/46
+廣東影视,http://a/ku9/js/webview.js?id=https://www.gdtv.cn/tvChannelDetail/53
+4K超高清,http://a/ku9/js/webview.js?id=https://www.gdtv.cn/tvChannelDetail/16
+廣東少兒,http://a/ku9/js/webview.js?id=https://www.gdtv.cn/tvChannelDetail/54
+廣東移動,http://a/ku9/js/webview.js?id=https://www.gdtv.cn/tvChannelDetail/74
+荔枝台,http://a/ku9/js/webview.js?id=https://www.gdtv.cn/tvChannelDetail/100
+紀錄片,http://a/ku9/js/webview.js?id=https://www.gdtv.cn/tvChannelDetail/9
+
+
 廣東,#genre#
 parse=1
 
