@@ -13,3 +13,30 @@
 廣東移動,webview://https://www.gdtv.cn/tvChannelDetail/74
 荔枝台,webview://https://www.gdtv.cn/tvChannelDetail/100
 紀錄片,webview://https://www.gdtv.cn/tvChannelDetail/9
+
+#EXTINF:-1 tvg-name="廣東衛視" tvg-logo="https://live.fanmingming.cn/tv/廣東衛視.png" group-title="廣東",廣東衛視
+webview://https://www.gdtv.cn/tvChannelDetail/43
+#EXTINF:-1 tvg-name="廣東珠江" tvg-logo="https://live.fanmingming.cn/tv/廣東珠江.png" group-title="廣東",廣東珠江
+webview://https://www.gdtv.cn/tvChannelDetail/44
+#EXTINF:-1 tvg-name="廣東新聞" tvg-logo="https://live.fanmingming.cn/tv/廣東新聞.png" group-title="廣東",廣東新聞
+webview://https://www.gdtv.cn/tvChannelDetail/45
+#EXTINF:-1 tvg-name="廣東民生" tvg-logo="https://live.fanmingming.cn/tv/廣東民生.png" group-title="廣東",廣東民生
+webview://https://www.gdtv.cn/tvChannelDetail/48
+#EXTINF:-1 tvg-name="廣東體育育" tvg-logo="https://live.fanmingming.cn/tv/廣東體育育.png" group-title="廣東",廣東體育育
+webview://https://www.gdtv.cn/tvChannelDetail/47
+#EXTINF:-1 tvg-name="大湾區衛視" tvg-logo="https://live.fanmingming.cn/tv/大湾區衛視.png" group-title="廣東",大湾區衛視
+webview://https://www.gdtv.cn/tvChannelDetail/51
+#EXTINF:-1 tvg-name="大湾區衛視（海外版）" tvg-logo="https://live.fanmingming.cn/tv/大湾區衛視（海外版）.png" group-title="廣東",大湾區衛視（海外版）
+webview://https://www.gdtv.cn/tvChannelDetail/46
+#EXTINF:-1 tvg-name="廣東影视" tvg-logo="https://live.fanmingming.cn/tv/廣東影视.png" group-title="廣東",廣東影视
+webview://https://www.gdtv.cn/tvChannelDetail/53
+#EXTINF:-1 tvg-name="4K超高清" tvg-logo="https://live.fanmingming.cn/tv/4K超高清.png" group-title="廣東",4K超高清
+webview://https://www.gdtv.cn/tvChannelDetail/16
+#EXTINF:-1 tvg-name="廣東少兒" tvg-logo="https://live.fanmingming.cn/tv/廣東少兒.png" group-title="廣東",廣東少兒
+webview://https://www.gdtv.cn/tvChannelDetail/54
+#EXTINF:-1 tvg-name="廣東移動" tvg-logo="https://live.fanmingming.cn/tv/廣東移動.png" group-title="廣東",廣東移動
+webview://https://www.gdtv.cn/tvChannelDetail/74
+#EXTINF:-1 tvg-name="荔枝台" tvg-logo="https://live.fanmingming.cn/tv/荔枝台.png" group-title="廣東",荔枝台
+webview://https://www.gdtv.cn/tvChannelDetail/100
+#EXTINF:-1 tvg-name="紀錄片" tvg-logo="https://live.fanmingming.cn/tv/紀錄片.png" group-title="廣東",紀錄片
+webview://https://www.gdtv.cn/tvChannelDetail/9
