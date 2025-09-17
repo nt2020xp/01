@@ -1,0 +1,13 @@
+廣東衛視,webview://https://www.gdtv.cn/tvChannelDetail/43
+廣東珠江,webview://https://www.gdtv.cn/tvChannelDetail/44
+廣東新聞,webview://https://www.gdtv.cn/tvChannelDetail/45
+廣東民生,webview://https://www.gdtv.cn/tvChannelDetail/48
+廣東體育育,webview://https://www.gdtv.cn/tvChannelDetail/47
+大湾區衛視,webview://https://www.gdtv.cn/tvChannelDetail/51
+大湾區衛視（海外版）,webview://https://www.gdtv.cn/tvChannelDetail/46
+廣東影视,webview://https://www.gdtv.cn/tvChannelDetail/53
+4K超高清,webview://https://www.gdtv.cn/tvChannelDetail/16
+廣東少兒,webview://https://www.gdtv.cn/tvChannelDetail/54
+廣東移動,webview://https://www.gdtv.cn/tvChannelDetail/74
+荔枝台,webview://https://www.gdtv.cn/tvChannelDetail/100
+紀錄片,webview://https://www.gdtv.cn/tvChannelDetail/9
