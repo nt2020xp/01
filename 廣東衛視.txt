@@ -1,5 +1,4 @@
 酷9廣東,#genre#
-parse=1
 
 廣東衛視,http://a/ku9/js/webview.js?id=https://www.gdtv.cn/tvChannelDetail/43
 廣東珠江,http://a/ku9/js/webview.js?id=https://www.gdtv.cn/tvChannelDetail/44
