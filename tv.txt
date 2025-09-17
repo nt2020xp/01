@@ -158,6 +158,20 @@ parse=1
 北京衛視,https://live.catvod.com/catvod_com.php?id=beijing&token=a37687f3dcb212ac845feca65a52cde73b0230cf1f842e4f1e965498c0815f8e%3A1757897715
 東方衛視,https://live.catvod.com/catvod_com.php?id=dongfangweishi_twn&token=b4a8df77704abebb537bd79002b7cf75ecba553c3fff58c265d61595fc7bafe4%3A1757897715
 
+江蘇浙江,#genre#
+parse=1
+江蘇衛視,https://live.jstv.com
+浙江衛視,https://www.cztv.com/liveTV/101
+錢江都市,https://www.cztv.com/liveTV/102
+經濟生活,https://www.cztv.com/liveTV/103
+教科影視,https://www.cztv.com/liveTV/104
+民生休閒,https://www.cztv.com/liveTV/106
+新聞,https://www.cztv.com/liveTV/107
+少兒頻道,https://www.cztv.com/liveTV/108
+浙江國際,https://www.cztv.com/liveTV/110
+之江紀錄,https://www.cztv.com/liveTV/112
+
+
 黑龍江,#genre#
 parse=1
 
