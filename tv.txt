@@ -295,6 +295,7 @@ TV5MONDE STYLE HD 生活時尚,https://www.4gtv.tv/channel/4gtv-live122?set=1&ch
 江蘇浙江,#genre#
 parse=1
 江蘇衛視,https://live.jstv.com
+
 浙江衛視,https://www.cztv.com/liveTV/101
 錢江都市,https://www.cztv.com/liveTV/102
 經濟生活,https://www.cztv.com/liveTV/103
@@ -304,10 +305,6 @@ parse=1
 少兒頻道,https://www.cztv.com/liveTV/108
 浙江國際,https://www.cztv.com/liveTV/110
 之江紀錄,https://www.cztv.com/liveTV/112
-
-
-黑龍江,#genre#
-parse=1
 
 黑龍江衛視,https://www.dbw.cn/zhibodan/zhibo_dan/hljws
 黑龍江都市,https://www.dbw.cn/zhibodan/zhibo_dan/hljds
