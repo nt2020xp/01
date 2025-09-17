@@ -13,7 +13,6 @@ TVBS新聞台,https://www.4gtv.tv/channel/4gtv-4gtv072?set=1&ch=291
 寰宇台灣台,https://www.4gtv.tv/channel/4gtv-4gtv156?set=1&ch=280
 寰宇新聞台,https://www.4gtv.tv/channel/litv-longturn14?set=1&ch=36
 鏡新聞台,https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268
-NHK WORLD-JAPAN,https://www.4gtv.tv/channel/4gtv-live168?set=1&ch=461
 
 華視,https://www.4gtv.tv/channel/4gtv-4gtv041?set=1&ch=6
 中視,https://www.4gtv.tv/channel/4gtv-4gtv040?set=1&ch=4
@@ -57,7 +56,7 @@ TVBS歡樂台,https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184
 公視戲劇,https://www.4gtv.tv/channel/4gtv-4gtv042?set=1&ch=7
 
 amc電影台,https://www.4gtv.tv/channel/4gtv-4gtv017?set=1&ch=39
-My Cinema Europe HD 我的歐洲電影,https://www.4gtv.tv/channel/litv-ftv10?set=1&ch=463
+我的歐洲電影,https://www.4gtv.tv/channel/litv-ftv10?set=1&ch=463
 History 歷史頻道,https://www.4gtv.tv/channel/4gtv-live026?set=1&ch=214
 Love Nature,https://www.4gtv.tv/channel/4gtv-live208?set=1&ch=139
 
@@ -127,3 +126,4 @@ TV5MONDE STYLE HD 生活時尚,https://www.4gtv.tv/channel/4gtv-live122?set=1&ch
 滾動力rollor,https://www.4gtv.tv/channel/4gtv-live012?set=1&ch=249
 豬哥亮歌廳秀,https://www.4gtv.tv/channel/4gtv-4gtv006?set=1&ch=113
 戲劇免費看 1台,https://www.4gtv.tv/channel/4gtv-live010?set=1&ch=270
+NHK WORLD-JAPAN,https://www.4gtv.tv/channel/4gtv-live168?set=1&ch=461
