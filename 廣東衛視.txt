@@ -15,7 +15,7 @@
 紀錄片,http://a/ku9/js/webview.js?id=https://www.gdtv.cn/tvChannelDetail/9
 
 
-廣東,#genre#
+影視廣東,#genre#
 parse=1
 
 廣東衛視,https://www.gdtv.cn/tvChannelDetail/43
@@ -32,7 +32,7 @@ parse=1
 荔枝台,https://www.gdtv.cn/tvChannelDetail/100
 紀錄片,https://www.gdtv.cn/tvChannelDetail/9
 
-廣東,#genre#
+天光廣東,#genre#
 
 廣東衛視,webview://https://www.gdtv.cn/tvChannelDetail/43
 廣東珠江,webview://https://www.gdtv.cn/tvChannelDetail/44
