@@ -47,6 +47,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東京歌舞伎町1,https://www.youtube.com/watch?v=DjdUEyjx8GM
 東京歌舞伎町2,https://www.youtube.com/watch?v=gFRtAAmiFbE
 渋谷交差点,https://www.youtube.com/watch?v=tujkoXI8rWM
+富士山忍野八海,https://www.youtube.com/watch?v=sm3xXTfDtGE
 函館山夜景,https://www.youtube.com/watch?v=s--MDmshT3I
 草津温泉,https://www.youtube.com/watch?v=GrEEoEmmrKs
 草津温泉（移動式),https://www.youtube.com/watch?v=B_Sc1v1qR-g
