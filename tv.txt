@@ -1,7 +1,6 @@
 我的最愛,#genre#
 
-東森幼幼1,http://iptv.4666888.xyz/iptv.php?id=20213
-東森幼幼2,https://live.catvod.com/catvod_com.php?id=yoyo_twn&token=1b50c949df8718675ba6d0b9692c3ff4b6f54764204f4274a90900c1bb5befe0%3A1757999602
+東森幼幼,https://live.catvod.com/catvod_com.php?id=yoyo_twn&token=1b50c949df8718675ba6d0b9692c3ff4b6f54764204f4274a90900c1bb5befe0%3A1757999602
 我們這一家,https://www.youtube.com/watch?v=XvZCYDICPW8
 新哆啦A夢,https://www.youtube.com/watch?v=1tawwsoLhKY
 蠟筆小新TV版,https://www.youtube.com/watch?v=bVZ2efejj3I
@@ -292,26 +291,4 @@ NHK WORLD-JAPAN,https://www.4gtv.tv/channel/4gtv-live168?set=1&ch=461
 湖南衛視,https://live.catvod.com/catvod_com.php?id=hunan_twn&token=52e14507675ff3c08318a2d0dbd513e2e84b048525cbd7951c64368139657543%3A1757897715
 北京衛視,https://live.catvod.com/catvod_com.php?id=beijing&token=a37687f3dcb212ac845feca65a52cde73b0230cf1f842e4f1e965498c0815f8e%3A1757897715
 東方衛視,https://live.catvod.com/catvod_com.php?id=dongfangweishi_twn&token=b4a8df77704abebb537bd79002b7cf75ecba553c3fff58c265d61595fc7bafe4%3A1757897715
-
-江蘇浙江,#genre#
-parse=1
-江蘇衛視,https://live.jstv.com
-
-浙江衛視,https://www.cztv.com/liveTV/101
-錢江都市,https://www.cztv.com/liveTV/102
-經濟生活,https://www.cztv.com/liveTV/103
-教科影視,https://www.cztv.com/liveTV/104
-民生休閒,https://www.cztv.com/liveTV/106
-新聞,https://www.cztv.com/liveTV/107
-少兒頻道,https://www.cztv.com/liveTV/108
-浙江國際,https://www.cztv.com/liveTV/110
-之江紀錄,https://www.cztv.com/liveTV/112
-
-黑龍江衛視,https://www.dbw.cn/zhibodan/zhibo_dan/hljws
-黑龍江都市,https://www.dbw.cn/zhibodan/zhibo_dan/hljds
-黑龍江新聞法治,https://www.dbw.cn/zhibodan/zhibo_dan/heilongjiang
-黑龍江文體,https://www.dbw.cn/zhibodan/zhibo_dan/hljwt
-黑龍江少兒,https://www.dbw.cn/zhibodan/zhibo_dan/hljse
-黑龍江影視,https://www.dbw.cn/zhibodan/zhibo_dan/hljys
-黑龍江農業科教,https://www.dbw.cn/zhibodan/zhibo_dan/hljnykj
 
