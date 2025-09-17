@@ -4,50 +4,8 @@
 
 江蘇衛視,http://A/ku9/js/webview.js?id=https://live.jstv.com
 
-組播頻道  https://raw.githubusercontent.com/adminouyang/dszby/refs/heads/main/py/iptv%E6%BA%90%E6%94%B6%E9%9B%86%E6%A3%80%E6%B5%8B/%E4%B8%BB%E9%A2%91%E9%81%93/%E4%B8%93%E4%BA%AB%E9%A2%91%E9%81%93/%E2%99%AA%E7%BB%84%E6%92%AD%E9%A2%91%E9%81%93.txt
-
-酒店高清  https://raw.githubusercontent.com/adminouyang/dszby/refs/heads/main/py/iptv%E6%BA%90%E6%94%B6%E9%9B%86%E6%A3%80%E6%B5%8B/%E4%B8%BB%E9%A2%91%E9%81%93/%E4%B8%93%E4%BA%AB%E9%A2%91%E9%81%93/%E2%99%AA%E9%85%92%E5%BA%97%E9%AB%98%E6%B8%85.txt
-
-自動收集直播源 https://github.com/adminouyang/dszby/tree/b626c84e356ef7dca79c171ee934648a2955db7a/py/GTJM
-
-網路收集 https://raw.githubusercontent.com/adminouyang/dszby/b626c84e356ef7dca79c171ee934648a2955db7a/py/GTJM/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86.txt
 
 直播源 https://live.catvod.com/catvod_com.php
-
-#EXTINF:-1 tvg-name="黑龍江衛視" tvg-logo="https://live.fanmingming.cn/tv/黑龍江衛視.png" group-title="黑龍江",黑龍江衛視
-https://zmt-m.hljtv.com/live_tv.html?tv_id=10
-#EXTINF:-1 tvg-name="黑龍江都市" tvg-logo="https://live.fanmingming.cn/tv/黑龍江都市.png" group-title="黑龍江",黑龍江都市
-https://zmt-m.hljtv.com/live_tv.html?tv_id=50
-#EXTINF:-1 tvg-name="黑龍江新聞法治" tvg-logo="https://live.fanmingming.cn/tv/黑龍江新聞法治.png" group-title="黑龍江",黑龍江新聞法治
-https://zmt-m.hljtv.com/live_tv.html?tv_id=49
-#EXTINF:-1 tvg-name="黑龍江文體" tvg-logo="https://live.fanmingming.cn/tv/黑龍江文體.png" group-title="黑龍江",黑龍江文體
-https://zmt-m.hljtv.com/live_tv.html?tv_id=11
-#EXTINF:-1 tvg-name="黑龍江少兒" tvg-logo="https://live.fanmingming.cn/tv/黑龍江少兒.png" group-title="黑龍江",黑龍江少兒
-https://zmt-m.hljtv.com/live_tv.html?tv_id=16
-#EXTINF:-1 tvg-name="黑龍江影視" tvg-logo="https://live.fanmingming.cn/tv/黑龍江影視.png" group-title="黑龍江",黑龍江影視
-https://zmt-m.hljtv.com/live_tv.html?tv_id=12
-#EXTINF:-1 tvg-name="黑龍江農業科教" tvg-logo="https://live.fanmingming.cn/tv/黑龍江農業科教.png" group-title="黑龍江",黑龍江農業科教
-https://zmt-m.hljtv.com/live_tv.html?tv_id=15
-
-
-黑龍江衛視,#genre#
-parse=1
-
-X黑龍江衛視,https://zmt-m.hljtv.com/live_tv.html?tv_id=10
-
-黑龍江都市,https://zmt-m.hljtv.com/live_tv.html?tv_id=50
-
-黑龍江新聞法治,https://zmt-m.hljtv.com/live_tv.html?tv_id=49
-
-黑龍江文體,https://zmt-m.hljtv.com/live_tv.html?tv_id=11
-
-X黑龍江少兒,https://zmt-m.hljtv.com/live_tv.html?tv_id=16
-
-黑龍江影視,https://zmt-m.hljtv.com/live_tv.html?tv_id=12
-
-黑龍江農業科教,https://zmt-m.hljtv.com/live_tv.html?tv_id=15
-
-
 
 寶盒  https://3043.kstore.space/bhvip/bh/bhzb4.txt
 
@@ -61,138 +19,8 @@ X黑龍江少兒,https://zmt-m.hljtv.com/live_tv.html?tv_id=16
 
 江苏荔枝网：https://live.jstv.com/
 
-广西网络广播电视台：https://tv.gxtv.cn/
-
-芒果TV：https://live.mgtv.com/
-
-新蓝网・浙江网台：https://www.cztv.com/liveTV
-
-
 
 12134  https://raw.githubusercontent.com/xmz-Ruby/FList/c666d6b7bb3314a0fa77c23b72559aefb8f8a21a/public/tvbox/tv.md
-
-
-黑龍江衛視,#genre#
-
-黑龍江衛視,webview://https://www.hljtv.com/live/folder418
-
-黑龍江文體,webview://https://www.hljtv.com/live/folder423
-
-黑龍江影視,webview://https://www.hljtv.com/live/folder425
-
-黑龍江新聞法治,webview://https://www.hljtv.com/live/folder424
-
-黑龍江農業科教,webview://https://www.hljtv.com/live/folder419
-
-黑龍江少兒,webview://https://www.hljtv.com/live/folder422
-
-哈爾濱新聞綜合,webview://https://www.hrbtv.net/folder79/folder81
-
-哈爾濱生活,webview://https://www.hrbtv.net/folder79/folder85
-
-哈爾濱影視,webview://https://www.hrbtv.net/folder79/folder87
-
-江蘇衛視,#genre#
-
-江蘇衛視,webview://https://live.jstv.com/?channelId=534
-
-江蘇城市,webview://https://live.jstv.com/?channelId=535
-
-江蘇綜藝,webview://https://live.jstv.com/?channelId=556
-
-江蘇影視,webview://https://live.jstv.com/?channelId=542
-
-江蘇新聞,webview://https://live.jstv.com/?channelId=536
-
-江蘇教育,webview://https://live.jstv.com/?channelId=545
-
-體育休閒,webview://https://live.jstv.com/?channelId=537
-
-優漫卡通,webview://https://live.jstv.com/?channelId=543
-
-江蘇國際,webview://https://live.jstv.com/?channelId=544
-
-浙江頻道,#genre#
-
-浙江衛視,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-
-錢江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-
-經濟生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-
-教科影視,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-
-民生休閒,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-
-新聞,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-
-少兒頻道,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-
-浙江國際,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-
-好易購,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-
-之江紀錄,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-
-
-浙江衛視,https://www.cztv.com/liveTV/101
-
-錢江都市,https://www.cztv.com/liveTV/102
-
-經濟生活,https://www.cztv.com/liveTV/103
-
-教科影視,https://www.cztv.com/liveTV/104
-
-民生休閒,https://www.cztv.com/liveTV/106
-
-新聞,https://www.cztv.com/liveTV/107
-
-少兒頻道,https://www.cztv.com/liveTV/108
-
-浙江國際,https://www.cztv.com/liveTV/110
-
-之江紀錄,https://www.cztv.com/liveTV/112
-
-廣東衛視,https://www.gdtv.cn/tvChannelDetail/43
-
-廣東珠江,https://www.gdtv.cn/tvChannelDetail/44
-
-廣東新聞,https://www.gdtv.cn/tvChannelDetail/45
-
-廣東民生,https://www.gdtv.cn/tvChannelDetail/48
-
-廣東體育,https://www.gdtv.cn/tvChannelDetail/47
-
-大灣區衛視,https://www.gdtv.cn/tvChannelDetail/51
-
-大灣區衛視海外版,https://www.gdtv.cn/tvChannelDetail/46
-
-廣東影視,https://www.gdtv.cn/tvChannelDetail/53
-
-4K超高清,https://www.gdtv.cn/tvChannelDetail/16
-
-廣東少兒,https://www.gdtv.cn/tvChannelDetail/54
-
-嘉佳卡通,https://www.gdtv.cn/tvChannelDetail/66
-
-廣東移動,https://www.gdtv.cn/tvChannelDetail/74
-
-廣東台經典劇,https://www.gdtv.cn/tvChannelDetail/100
-
-紀錄片,https://www.gdtv.cn/tvChannelDetail/94
-
-黑龍江衛視,https://www.dbw.cn/zhibodan/zhibo_dan/hljws
-
-都市頻道,https://www.dbw.cn/zhibodan/zhibo_dan/hljds
-
-影視頻道,https://www.dbw.cn/zhibodan/zhibo_dan/hljys
-
-文體頻道,https://www.dbw.cn/zhibodan/zhibo_dan/hljwt
-
-農業科教頻道,https://www.dbw.cn/zhibodan/zhibo_dan/hljnykj
-
-新聞法治,https://www.dbw.cn/zhibodan/zhibo_dan/heilongjiang
-
 
 
 江蘇衛視官網直播
@@ -205,10 +33,8 @@ https://zmtv.cztv.com/cmsh5-share/prod/cztv-tvLive/index.html?pageId=101
 https://www.dbw.cn/zhibodan/zhibo_dan/hljws
 
 
-
 bh,
 https://fanmingming.com/txt?url=https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/bh.m3u
-
 
 
 宝盒专享
