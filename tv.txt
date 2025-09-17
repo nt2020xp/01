@@ -169,19 +169,3 @@ parse=1
 黑龍江影視,https://www.dbw.cn/zhibodan/zhibo_dan/hljys
 黑龍江農業科教,https://www.dbw.cn/zhibodan/zhibo_dan/hljnykj
 
-廣東,#genre#
-parse=1
-
-廣東衛視,https://www.gdtv.cn/tvChannelDetail/43
-廣東珠江,https://www.gdtv.cn/tvChannelDetail/44
-廣東新聞,https://www.gdtv.cn/tvChannelDetail/45
-廣東民生,https://www.gdtv.cn/tvChannelDetail/48
-廣東體育育,https://www.gdtv.cn/tvChannelDetail/47
-大湾區衛視,https://www.gdtv.cn/tvChannelDetail/51
-大湾區衛視（海外版）,https://www.gdtv.cn/tvChannelDetail/46
-廣東影视,https://www.gdtv.cn/tvChannelDetail/53
-4K超高清,https://www.gdtv.cn/tvChannelDetail/16
-廣東少兒,https://www.gdtv.cn/tvChannelDetail/54
-廣東移動,https://www.gdtv.cn/tvChannelDetail/74
-荔枝台,https://www.gdtv.cn/tvChannelDetail/100
-紀錄片,https://www.gdtv.cn/tvChannelDetail/9
