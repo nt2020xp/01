@@ -43,17 +43,6 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 高雄蓮池潭,https://www.youtube.com/watch?v=BnPoNatG-HE
 淡水漁人碼頭,https://www.youtube.com/watch?v=xwAWSh35uuw
 
-澳門議事亭前地,https://www.youtube.com/watch?v=ctYalRx7kY4
-東京歌舞伎町1,https://www.youtube.com/watch?v=DjdUEyjx8GM
-東京歌舞伎町2,https://www.youtube.com/watch?v=gFRtAAmiFbE
-渋谷交差点,https://www.youtube.com/watch?v=tujkoXI8rWM
-富士山忍野八海,https://www.youtube.com/watch?v=sm3xXTfDtGE
-函館山夜景,https://www.youtube.com/watch?v=s--MDmshT3I
-草津温泉,https://www.youtube.com/watch?v=GrEEoEmmrKs
-草津温泉（移動式),https://www.youtube.com/watch?v=B_Sc1v1qR-g
-櫻島火山(遠看),https://www.youtube.com/watch?v=eF9PohrRP_o
-櫻島火山(近看),https://www.youtube.com/watch?v=PeElJClXtzE
-
 靖天龍華,#genre#
 
 靖天日本台,http://2025.koyeb.app/8964.php?id=4gtv-4gtv047
@@ -82,6 +71,17 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 民視旅遊台,http://2025.koyeb.app/8964.php?id=litv-ftv07
 亞洲旅遊台,http://2025.koyeb.app/8964.php?id=4gtv-4gtv076
 Smart知識台,http://2025.koyeb.app/8964.php?id=litv-longturn19
+
+澳門議事亭前地,https://www.youtube.com/watch?v=ctYalRx7kY4
+東京歌舞伎町1,https://www.youtube.com/watch?v=DjdUEyjx8GM
+東京歌舞伎町2,https://www.youtube.com/watch?v=gFRtAAmiFbE
+渋谷交差点,https://www.youtube.com/watch?v=tujkoXI8rWM
+富士山忍野八海,https://www.youtube.com/watch?v=sm3xXTfDtGE
+函館山夜景,https://www.youtube.com/watch?v=s--MDmshT3I
+草津温泉,https://www.youtube.com/watch?v=GrEEoEmmrKs
+草津温泉（移動式),https://www.youtube.com/watch?v=B_Sc1v1qR-g
+櫻島火山(遠看),https://www.youtube.com/watch?v=eF9PohrRP_o
+櫻島火山(近看),https://www.youtube.com/watch?v=PeElJClXtzE
 
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701
