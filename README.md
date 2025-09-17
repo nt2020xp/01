@@ -4,7 +4,6 @@
 
 江蘇衛視,http://A/ku9/js/webview.js?id=https://live.jstv.com
 
-
 直播源 https://live.catvod.com/catvod_com.php
 
 寶盒  https://3043.kstore.space/bhvip/bh/bhzb4.txt
@@ -37,28 +36,9 @@ bh,
 https://fanmingming.com/txt?url=https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/bh.m3u
 
 
-宝盒专享
-
-bh  https://github.com/xiaoran67/update/blob/911c0081bce3b6094dca387fa728650eb3db3a06/assets/snapshot/2025-09-01/20250901203301_bhzb.txt#L510
-
-bh  https://raw.githubusercontent.com/xiaoran67/update/911c0081bce3b6094dca387fa728650eb3db3a06/assets/snapshot/2025-09-01/20250901203301_bhzb.txt
-
-東森幼幼,http://iptv.4666888.xyz/iptv.php?id=20213
-
-CN卡通,http://iptv.4666888.xyz/iptv.php?id=20262
-
-八大综合,http://iptv.4666888.xyz/iptv.php?id=20198
-
-
 風云TV直播源,http://iptv.4666888.xyz/FYTV.m3u
 
 風云TV直播源,https://fanmingming.com/txt?url=http://iptv.4666888.xyz/FYTV.m3u
-
-444 https://github.com/suxuang/myIPTV
-
-订阅链接-IPV4专用（推荐）：https://fanmingming.com/txt?url=https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
-
-订阅链接-IPV4专用（推荐）：https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 
 
 河南建成大学IPTV：http://iptv.huuc.edu.cn/
@@ -104,33 +84,6 @@ https://sub.ottiptv.cc/iptv.m3u
 Yahoo! 奇摩輸入法 v1.1.2535 最終版
 
 https://github.com/Pseric/keykey_backup/blob/master/YahooKeyKey-Windows-x64-1.1.2535-zh-TW.exe
-
-
-mg央視,#genre#
-
-1綜合,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
-
-2財經,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv2
-
-3綜藝,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv3
-
-4中文國際,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4
-
-5體育,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5
-
-5+體育賽事,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5p
-
-6電影,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv6
-
-7國防軍事,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv7
-
-8電視劇,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv8
-
-9紀錄,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv9
-
-10科教,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv10
-
-13新聞,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv13
 
 直播源 https://raw.githubusercontent.com/alantang1977/X/cc4a4d8d44ddaa6dfa3ee8c500367341f13f6fc7/emoji/X.txt
 
