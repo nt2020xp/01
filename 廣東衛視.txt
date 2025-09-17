@@ -1,3 +1,5 @@
+廣東,#genre#
+
 廣東衛視,webview://https://www.gdtv.cn/tvChannelDetail/43
 廣東珠江,webview://https://www.gdtv.cn/tvChannelDetail/44
 廣東新聞,webview://https://www.gdtv.cn/tvChannelDetail/45
