@@ -2,7 +2,9 @@
 
 酷9江蘇,#genre#
 
-江蘇衛視,http://A/ku9/js/webview.js?id=https://live.jstv.com
+江蘇衛視 http://live.jstv.com
+
+新藍網  https://www.cztv.com/liveTV
 
 直播源 https://live.catvod.com/catvod_com.php
 
