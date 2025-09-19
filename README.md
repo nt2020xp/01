@@ -1,3 +1,22 @@
+增加一下央视新闻客户端的，画质很不错！
+
+
+cctv1,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
+
+cctv2,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103
+
+cctv4,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952
+
+cctv7,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=8516529981177953694
+
+cctv9,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=7252237247689203957
+
+cctv10,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=14589146016461298119
+
+cctv13,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228
+
+cctv4k,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=2127841942201075403
+
 4gtv,#genre#
 
 https://tv.iill.top/m3u/Gather
