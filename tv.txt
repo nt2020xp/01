@@ -290,14 +290,3 @@ TV5MONDE STYLE HD 生活時尚,https://www.4gtv.tv/channel/4gtv-live122?set=1&ch
 深圳衛視,https://live.catvod.com/catvod_com.php?id=shenzhen&token=0968d94256c952b6ec1779153d9f750b878e17a0001ac76d3c49dd03dc7acf80%3A1758241876
 東南衛視,https://live.catvod.com/catvod_com.php?id=fujian&token=16ba7472379a1e168a4b1d90f0762eb1c43f5f9ac2339c9b5f9503e445b67640%3A1758241876
 
-測試頻道,#genre#
-parse=1
-
-cctv1,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
-cctv2,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103
-cctv4,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952
-cctv7,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=8516529981177953694
-cctv9,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=7252237247689203957
-cctv10,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=14589146016461298119
-cctv13,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228
-cctv4k,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=2127841942201075403
