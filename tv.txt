@@ -274,17 +274,23 @@ CCTV-12 社会与法,https://live.catvod.com/catvod_com.php?id=cctv12&token=efda
 CCTV-13 新闻频道,https://live.catvod.com/catvod_com.php?id=cctv13&token=8773e1f9ae834fae02306514f6d63a956a2b6df9fdefff152a71892d109259dd%3A1758241876
 CCTV-14 少儿,https://live.catvod.com/catvod_com.php?id=cctv14&token=c3be2dbeb81f1172f9026ccbfd7a3faa74d583b62f0ad84139e83c33d0e2c2eb%3A1758241876
 CCTV-15 音乐,https://live.catvod.com/catvod_com.php?id=cctv15&token=4ebba8e55437ab330f3410dc340540d49146e25ce91936acf4ef51d189399a81%3A1758241876
+
 卫视频道,#genre#
-湖南卫视,https://live.catvod.com/catvod_com.php?id=hunan_twn&token=28a277a107d2394eb02c6cf4b540792247715cef0b360466573a672e50173b12%3A1758241876
-浙江卫视,https://live.catvod.com/catvod_com.php?id=zhejiang_twn&token=2ead4f6c094ee45bcc824dec8adb7d07d9ef8c18aee9121cf87f6bd3ab9dddea%3A1758241876
+
 江苏卫视,https://live.catvod.com/catvod_com.php?id=jiangsu_twn&token=cee04e39d716b808fadbe2947debbd3bc25404232119353401f6c2d1b66c5bd8%3A1758241876
+浙江卫视,https://live.catvod.com/catvod_com.php?id=zhejiang_twn&token=2ead4f6c094ee45bcc824dec8adb7d07d9ef8c18aee9121cf87f6bd3ab9dddea%3A1758241876
+湖南卫视,https://live.catvod.com/catvod_com.php?id=hunan_twn&token=28a277a107d2394eb02c6cf4b540792247715cef0b360466573a672e50173b12%3A1758241876
+北京卫视,https://live.catvod.com/catvod_com.php?id=beijing&token=8e2209fbc358fdb55118a1e33b266902384e84f24da149cc4ce45d3906be0830%3A1758241876
+东方卫视,https://live.catvod.com/catvod_com.php?id=dongfangweishi_twn&token=8cf875cd2b3ed59f562947bc20ea6ad9cac80edd7b660e4dd8d733a465232735%3A1758241876
+
+
 深圳卫视,https://live.catvod.com/catvod_com.php?id=shenzhen&token=0968d94256c952b6ec1779153d9f750b878e17a0001ac76d3c49dd03dc7acf80%3A1758241876
 福建东南卫视,https://live.catvod.com/catvod_com.php?id=fujian&token=16ba7472379a1e168a4b1d90f0762eb1c43f5f9ac2339c9b5f9503e445b67640%3A1758241876
 广东南方卫视,https://live.catvod.com/catvod_com.php?id=nanfang_twn&token=7edf412225c57c61069de36324b905b3d539aec365ef3a481a7138ccde45a517%3A1758241876
 广东卫视,https://live.catvod.com/catvod_com.php?id=guangdongweishi_twn&token=2e5b76cdd33afd777512d245280e4c8276403c94b6413a0a5dc5b39ae4b728c2%3A1758241876
-北京卫视,https://live.catvod.com/catvod_com.php?id=beijing&token=8e2209fbc358fdb55118a1e33b266902384e84f24da149cc4ce45d3906be0830%3A1758241876
+
 珠江台,https://live.catvod.com/catvod_com.php?id=zhujiang&token=89b6a13ca394bf4b8f63edd234d5b59ac42299d139c5159f471062e332ae3473%3A1758241876
 广西卫视,https://live.catvod.com/catvod_com.php?id=guangxi&token=c5f194d78dad16d87889e7596616da1ff1b9c901c088633b8613804030341a0f%3A1758241876
 湖北卫视,https://live.catvod.com/catvod_com.php?id=hubei&token=cc6445e82dbc6cde5a9077aac458bf5605839bf045d67e4414de810771e96dde%3A1758241876
 四川卫视,https://live.catvod.com/catvod_com.php?id=sichuan_twn&token=9798cc356d99aaabd355647cc63eaf9e171cfe0138b2da5c58619c46e856e75d%3A1758241876
-东方卫视,https://live.catvod.com/catvod_com.php?id=dongfangweishi_twn&token=8cf875cd2b3ed59f562947bc20ea6ad9cac80edd7b660e4dd8d733a465232735%3A1758241876
+
