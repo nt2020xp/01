@@ -285,7 +285,7 @@ TV5MONDE STYLE HD 生活時尚,https://www.4gtv.tv/channel/4gtv-live122?set=1&ch
 
 深圳衛視,https://live.catvod.com/catvod_com.php?id=shenzhen&token=0968d94256c952b6ec1779153d9f750b878e17a0001ac76d3c49dd03dc7acf80%3A1758241876
 東南衛視,https://live.catvod.com/catvod_com.php?id=fujian&token=16ba7472379a1e168a4b1d90f0762eb1c43f5f9ac2339c9b5f9503e445b67640%3A1758241876
-南方衛視,https://live.catvod.com/catvod_com.php?id=nanfang_twn&token=7edf412225c57c61069de36324b905b3d539aec365ef3a481a7138ccde45a517%3A1758241876
+
 廣東衛視,https://live.catvod.com/catvod_com.php?id=guangdongweishi_twn&token=2e5b76cdd33afd777512d245280e4c8276403c94b6413a0a5dc5b39ae4b728c2%3A1758241876
 廣西衛視,https://live.catvod.com/catvod_com.php?id=guangxi&token=c5f194d78dad16d87889e7596616da1ff1b9c901c088633b8613804030341a0f%3A1758241876
 湖北衛視,https://live.catvod.com/catvod_com.php?id=hubei&token=cc6445e82dbc6cde5a9077aac458bf5605839bf045d67e4414de810771e96dde%3A1758241876
@@ -295,7 +295,7 @@ TV5MONDE STYLE HD 生活時尚,https://www.4gtv.tv/channel/4gtv-live122?set=1&ch
 自然傳奇,#genre#
 parse=1
 
-20250918 狮子兄弟,https://tv.cctv.com/2025/09/18/VIDERvQsTwYcWm4whMU6jPo2250918.shtml			
+20250918 狮子兄弟,webview://https://tv.cctv.com/2025/09/18/VIDERvQsTwYcWm4whMU6jPo2250918.shtml			
 20250917 自然的博弈,https://tv.cctv.com/2025/09/17/VIDEvQjwVCFDlGepXkmaWzzQ250917.shtml			
 20250916 蛇行非洲,https://tv.cctv.com/2025/09/16/VIDE5y7g1mOpQxPPyucPoMld250916.shtml			
 20250915 神秘的蛇 澳大利亚,https://tv.cctv.com/2025/09/15/VIDE3vnvdeX6JEUegYDbNWI9250915.shtml			
