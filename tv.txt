@@ -256,25 +256,13 @@ TV5MONDE STYLE HD 生活時尚,https://www.4gtv.tv/channel/4gtv-live122?set=1&ch
 豬哥亮歌廳秀,https://www.4gtv.tv/channel/4gtv-4gtv006?set=1&ch=113
 戲劇免費看 1台,https://www.4gtv.tv/channel/4gtv-live010?set=1&ch=270
 
-江蘇浙江,#genre#
-parse=1
+央視客戶端,#genre#
 
-江蘇衛視,https://live.jstv.com
-浙江衛視,https://www.cztv.com/liveTV/101
-錢江都市,https://www.cztv.com/liveTV/102
-經濟生活,https://www.cztv.com/liveTV/103
-教科影視,https://www.cztv.com/liveTV/104
-民生休閒,https://www.cztv.com/liveTV/106
-新聞,https://www.cztv.com/liveTV/107
-少兒頻道,https://www.cztv.com/liveTV/108
-浙江國際,https://www.cztv.com/liveTV/110
-之江紀錄,https://www.cztv.com/liveTV/112
-
-黑龍江,#genre#
-partse=1
-
-黑龍江影視,https://zmt-m.hljtv.com/live_tv.html?tv_id=12
-黑龍江都市,https://zmt-m.hljtv.com/live_tv.html?tv_id=50
-黑龍江新聞法治,https://zmt-m.hljtv.com/live_tv.html?tv_id=49
-黑龍江文體,https://zmt-m.hljtv.com/live_tv.html?tv_id=11
-黑龍江農業科教,https://zmt-m.hljtv.com/live_tv.html?tv_id=15
+cctv1,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
+cctv2,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103
+cctv4,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952
+cctv7,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=8516529981177953694
+cctv9,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=7252237247689203957
+cctv10,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=14589146016461298119
+cctv13,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228
+cctv4k,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=2127841942201075403
