@@ -293,7 +293,7 @@ TV5MONDE STYLE HD 生活時尚,https://www.4gtv.tv/channel/4gtv-live122?set=1&ch
 
 
 自然傳奇,#genre#
-PARSE=1
+parse=1
 
 20250918 狮子兄弟,https://tv.cctv.com/2025/09/18/VIDERvQsTwYcWm4whMU6jPo2250918.shtml			
 20250917 自然的博弈,https://tv.cctv.com/2025/09/17/VIDEvQjwVCFDlGepXkmaWzzQ250917.shtml			
