@@ -234,44 +234,57 @@ webview://https://yangshipin.cn/tv/home?pid=600190401
 #EXTINF:-1 tvg-name="黑龍江衛視" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="衛視",黑龍江衛視
 webview://https://yangshipin.cn/tv/home?pid=600002498
 
-#EXTINF:-1 tvg-name="黑龍江衛視" tvg-logo="https://live.fanmingming.cn/tv/黑龍江衛視.png" group-title="黑龍江",黑龍江衛視
-webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=10
-#EXTINF:-1 tvg-name="黑龍江文體" tvg-logo="https://live.fanmingming.cn/tv/黑龍江文體.png" group-title="黑龍江",黑龍江文體
-webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=11
-#EXTINF:-1 tvg-name="黑龍江影視" tvg-logo="https://live.fanmingming.cn/tv/黑龍江影視.png" group-title="黑龍江",黑龍江影視
-webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=12
-#EXTINF:-1 tvg-name="黑龍江新聞法治" tvg-logo="https://live.fanmingming.cn/tv/黑龍江新聞法治.png" group-title="黑龍江",黑龍江新聞法治
-webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=49
-#EXTINF:-1 tvg-name="黑龍江都市" tvg-logo="https://live.fanmingming.cn/tv/黑龍江都市.png" group-title="黑龍江",黑龍江都市
-webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=50
-#EXTINF:-1 tvg-name="黑龍江農業科教" tvg-logo="https://live.fanmingming.cn/tv/黑龍江農業科教.png" group-title="黑龍江",黑龍江農業科教
-webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=15
-
-
-f5950d8c5f860c233b4ba7709e5881b8010178a9c2f4945edf9%3A1758241876
-12社會與法,https://live.catvod.com/catvod_com.php?id=cctv12&token=efda41434af38994784b3b6d6e1d49f7b3a88c2aa1dd04e67fed1b1d2f1c5593%3A1758241876
-13新聞,https://live.catvod.com/catvod_com.php?id=cctv13&token=8773e1f9ae834fae02306514f6d63a956a2b6df9fdefff152a71892d109259dd%3A1758241876
-14少兒,https://live.catvod.com/catvod_com.php?id=cctv14&token=c3be2dbeb81f1172f9026ccbfd7a3faa74d583b62f0ad84139e83c33d0e2c2eb%3A1758241876
-15音樂,https://live.catvod.com/catvod_com.php?id=cctv15&token=4ebba8e55437ab330f3410dc340540d49146e25ce91936acf4ef51d189399a81%3A1758241876
-
-衛視頻道,#genre#
-
-江蘇衛視,https://live.catvod.com/catvod_com.php?id=jiangsu_twn&token=cee04e39d716b808fadbe2947debbd3bc25404232119353401f6c2d1b66c5bd8%3A1758241876
-浙江衛視,https://live.catvod.com/catvod_com.php?id=zhejiang_twn&token=2ead4f6c094ee45bcc824dec8adb7d07d9ef8c18aee9121cf87f6bd3ab9dddea%3A1758241876
-湖南衛視,https://live.catvod.com/catvod_com.php?id=hunan_twn&token=28a277a107d2394eb02c6cf4b540792247715cef0b360466573a672e50173b12%3A1758241876
-北京衛視,https://live.catvod.com/catvod_com.php?id=beijing&token=8e2209fbc358fdb55118a1e33b266902384e84f24da149cc4ce45d3906be0830%3A1758241876
-東方衛視,https://live.catvod.com/catvod_com.php?id=dongfangweishi_twn&token=8cf875cd2b3ed59f562947bc20ea6ad9cac80edd7b660e4dd8d733a465232735%3A1758241876
-
-廣東衛視,https://live.catvod.com/catvod_com.php?id=guangdongweishi_twn&token=2e5b76cdd33afd777512d245280e4c8276403c94b6413a0a5dc5b39ae4b728c2%3A1758241876
-廣西衛視,https://live.catvod.com/catvod_com.php?id=guangxi&token=c5f194d78dad16d87889e7596616da1ff1b9c901c088633b8613804030341a0f%3A1758241876
-湖北衛視,https://live.catvod.com/catvod_com.php?id=hubei&token=cc6445e82dbc6cde5a9077aac458bf5605839bf045d67e4414de810771e96dde%3A1758241876
-四川衛視,https://live.catvod.com/catvod_com.php?id=sichuan_twn&token=9798cc356d99aaabd355647cc63eaf9e171cfe0138b2da5c58619c46e856e75d%3A1758241876
-深圳衛視,https://live.catvod.com/catvod_com.php?id=shenzhen&token=0968d94256c952b6ec1779153d9f750b878e17a0001ac76d3c49dd03dc7acf80%3A1758241876
-東南衛視,https://live.catvod.com/catvod_com.php?id=fujian&token=16ba7472379a1e168a4b1d90f0762eb1c43f5f9ac2339c9b5f9503e445b67640%3A1758241876
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-name="1綜合" tvg-logo="https://live.fanmingming.cn/tv/1綜合.png" group-title="央視衛視",1綜合
+https://live.catvod.com/catvod_com.php?id=cctv1&token=3d7dcdf94e57621adaabf47331082bfb061193c4e5b661ad43dfb2edd7beada7%3A1758241876
+#EXTINF:-1 tvg-name="2財經" tvg-logo="https://live.fanmingming.cn/tv/2財經.png" group-title="央視衛視",2財經
+https://live.catvod.com/catvod_com.php?id=cctv2&token=3fe4dad7146805d2c69659c45e2f35937a4a0196b565db7fc1154b6060990ad7%3A1758241876
+#EXTINF:-1 tvg-name="3綜藝" tvg-logo="https://live.fanmingming.cn/tv/3綜藝.png" group-title="央視衛視",3綜藝
+https://live.catvod.com/catvod_com.php?id=cctv3&token=b8d421239d5c890fbcdc806dbc28f973fba5e4e759171f3d448a5f2217d0803b%3A1758241876
+#EXTINF:-1 tvg-name="4中文國際" tvg-logo="https://live.fanmingming.cn/tv/4中文國際.png" group-title="央視衛視",4中文國際
+https://live.catvod.com/catvod_com.php?id=cctv4&token=0faef515d86a79cc975320c5397884fbc9911ca26fbf50a1f6a9429cb52379b3%3A1758241876
+#EXTINF:-1 tvg-name="5體育" tvg-logo="https://live.fanmingming.cn/tv/5體育.png" group-title="央視衛視",5體育
+https://live.catvod.com/catvod_com.php?id=cctv5&token=bbea3d9c7ab9de0647991aadf0f6b04198801906b6db8b709b519f78b9c6ada9%3A1758241876
+#EXTINF:-1 tvg-name="5+體育賽事" tvg-logo="https://live.fanmingming.cn/tv/5+體育賽事.png" group-title="央視衛視",5+體育賽事
+https://live.catvod.com/catvod_com.php?id=cctv5plus&token=998677052f13a39d4617d2c62d372ac3c30737bdd65914dab71bf7d76919a3dc%3A1758241876
+#EXTINF:-1 tvg-name="6電影" tvg-logo="https://live.fanmingming.cn/tv/6電影.png" group-title="央視衛視",6電影
+https://live.catvod.com/catvod_com.php?id=cctv6&token=6939b28454b64069174c72282d042953b37923d16c36c9fecc953197c04c8385%3A1758241876
+#EXTINF:-1 tvg-name="7國防軍事" tvg-logo="https://live.fanmingming.cn/tv/7國防軍事.png" group-title="央視衛視",7國防軍事
+https://live.catvod.com/catvod_com.php?id=cctv7&token=b6c14bcf7e718ef0c16ad0625d4605ce08279d5f88d4c6dd3a61b13e3afb434b%3A1758241876
+#EXTINF:-1 tvg-name="8電視劇" tvg-logo="https://live.fanmingming.cn/tv/8電視劇.png" group-title="央視衛視",8電視劇
+https://live.catvod.com/catvod_com.php?id=cctv8hd&token=ef57196e5daa61ae069a1c079f26f9594c9b1e234699c11aa30f98dc96baf1eb%3A1758241876
+#EXTINF:-1 tvg-name="9紀錄" tvg-logo="https://live.fanmingming.cn/tv/9紀錄.png" group-title="央視衛視",9紀錄
+https://live.catvod.com/catvod_com.php?id=cctv9hd&token=aced4a31e25ba182f7d4e23160326707e0bef1faa5a1aacf24bab073bcc410dd%3A1758241876
+#EXTINF:-1 tvg-name="10科教" tvg-logo="https://live.fanmingming.cn/tv/10科教.png" group-title="央視衛視",10科教
+https://live.catvod.com/catvod_com.php?id=cctv10hd&token=9cd29dff82db3da55ca49693ad83e2c21149a2d8858a2171642e48d0ce4836e5%3A1758241876
+#EXTINF:-1 tvg-name="11戲曲" tvg-logo="https://live.fanmingming.cn/tv/11戲曲.png" group-title="央視衛視",11戲曲
+https://live.catvod.com/catvod_com.php?id=cctv11&token=23bf4767ea79ef5950d8c5f860c233b4ba7709e5881b8010178a9c2f4945edf9%3A1758241876
+#EXTINF:-1 tvg-name="12社會與法" tvg-logo="https://live.fanmingming.cn/tv/12社會與法.png" group-title="央視衛視",12社會與法
+https://live.catvod.com/catvod_com.php?id=cctv12&token=efda41434af38994784b3b6d6e1d49f7b3a88c2aa1dd04e67fed1b1d2f1c5593%3A1758241876
+#EXTINF:-1 tvg-name="13新聞" tvg-logo="https://live.fanmingming.cn/tv/13新聞.png" group-title="央視衛視",13新聞
+https://live.catvod.com/catvod_com.php?id=cctv13&token=8773e1f9ae834fae02306514f6d63a956a2b6df9fdefff152a71892d109259dd%3A1758241876
+#EXTINF:-1 tvg-name="14少兒" tvg-logo="https://live.fanmingming.cn/tv/14少兒.png" group-title="央視衛視",14少兒
+https://live.catvod.com/catvod_com.php?id=cctv14&token=c3be2dbeb81f1172f9026ccbfd7a3faa74d583b62f0ad84139e83c33d0e2c2eb%3A1758241876
+#EXTINF:-1 tvg-name="15音樂" tvg-logo="https://live.fanmingming.cn/tv/15音樂.png" group-title="央視衛視",15音樂
+https://live.catvod.com/catvod_com.php?id=cctv15&token=4ebba8e55437ab330f3410dc340540d49146e25ce91936acf4ef51d189399a81%3A1758241876
+#EXTINF:-1 tvg-name="江蘇衛視" tvg-logo="https://live.fanmingming.cn/tv/江蘇衛視.png" group-title="央視衛視",江蘇衛視
+https://live.catvod.com/catvod_com.php?id=jiangsu_twn&token=cee04e39d716b808fadbe2947debbd3bc25404232119353401f6c2d1b66c5bd8%3A1758241876
+#EXTINF:-1 tvg-name="浙江衛視" tvg-logo="https://live.fanmingming.cn/tv/浙江衛視.png" group-title="央視衛視",浙江衛視
+https://live.catvod.com/catvod_com.php?id=zhejiang_twn&token=2ead4f6c094ee45bcc824dec8adb7d07d9ef8c18aee9121cf87f6bd3ab9dddea%3A1758241876
+#EXTINF:-1 tvg-name="湖南衛視" tvg-logo="https://live.fanmingming.cn/tv/湖南衛視.png" group-title="央視衛視",湖南衛視
+https://live.catvod.com/catvod_com.php?id=hunan_twn&token=28a277a107d2394eb02c6cf4b540792247715cef0b360466573a672e50173b12%3A1758241876
+#EXTINF:-1 tvg-name="北京衛視" tvg-logo="https://live.fanmingming.cn/tv/北京衛視.png" group-title="央視衛視",北京衛視
+https://live.catvod.com/catvod_com.php?id=beijing&token=8e2209fbc358fdb55118a1e33b266902384e84f24da149cc4ce45d3906be0830%3A1758241876
+#EXTINF:-1 tvg-name="東方衛視" tvg-logo="https://live.fanmingming.cn/tv/東方衛視.png" group-title="央視衛視",東方衛視
+https://live.catvod.com/catvod_com.php?id=dongfangweishi_twn&token=8cf875cd2b3ed59f562947bc20ea6ad9cac80edd7b660e4dd8d733a465232735%3A1758241876
+#EXTINF:-1 tvg-name="廣東衛視" tvg-logo="https://live.fanmingming.cn/tv/廣東衛視.png" group-title="央視衛視",廣東衛視
+https://live.catvod.com/catvod_com.php?id=guangdongweishi_twn&token=2e5b76cdd33afd777512d245280e4c8276403c94b6413a0a5dc5b39ae4b728c2%3A1758241876
+#EXTINF:-1 tvg-name="廣西衛視" tvg-logo="https://live.fanmingming.cn/tv/廣西衛視.png" group-title="央視衛視",廣西衛視
+https://live.catvod.com/catvod_com.php?id=guangxi&token=c5f194d78dad16d87889e7596616da1ff1b9c901c088633b8613804030341a0f%3A1758241876
+#EXTINF:-1 tvg-name="湖北衛視" tvg-logo="https://live.fanmingming.cn/tv/湖北衛視.png" group-title="央視衛視",湖北衛視
+https://live.catvod.com/catvod_com.php?id=hubei&token=cc6445e82dbc6cde5a9077aac458bf5605839bf045d67e4414de810771e96dde%3A1758241876
+#EXTINF:-1 tvg-name="四川衛視" tvg-logo="https://live.fanmingming.cn/tv/四川衛視.png" group-title="央視衛視",四川衛視
+https://live.catvod.com/catvod_com.php?id=sichuan_twn&token=9798cc356d99aaabd355647cc63eaf9e171cfe0138b2da5c58619c46e856e75d%3A1758241876
+#EXTINF:-1 tvg-name="深圳衛視" tvg-logo="https://live.fanmingming.cn/tv/深圳衛視.png" group-title="央視衛視",深圳衛視
+https://live.catvod.com/catvod_com.php?id=shenzhen&token=0968d94256c952b6ec1779153d9f750b878e17a0001ac76d3c49dd03dc7acf80%3A1758241876
+#EXTINF:-1 tvg-name="東南衛視" tvg-logo="https://live.fanmingming.cn/tv/東南衛視.png" group-title="央視衛視",東南衛視
+https://live.catvod.com/catvod_com.php?id=fujian&token=16ba7472379a1e168a4b1d90f0762eb1c43f5f9ac2339c9b5f9503e445b67640%3A1758241876
