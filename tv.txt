@@ -106,6 +106,8 @@ CINEMAX,https://live.catvod.com/catvod_com.php?id=cinemax_twn&token=bfca5cf58dd8
 美亚电影,https://live.catvod.com/catvod_com.php?id=meiyamovie_twn&token=c8cace0c6787ed50cd7d570efe4399cd49f8b8881d06d034f9578dc71eaec45f%3A1758078877
 星卫电影,https://live.catvod.com/catvod_com.php?id=xingwei_movie&token=2cf26a3eae716396d87f89c62ded31769013048a410cf28a04cf21a90418105b%3A1758078877
 amc電影,https://live.catvod.com/catvod_com.php?id=starmoviesgold_twn&token=647ab04a54a8b262857446d7c441b2e07d6fea72321fa8a82c36a298230d1c46%3A1758078877
+翡翠台 backup,https://live.catvod.com/catvod_com.php?id=Jade_xue&token=7cea5021844883ad43b9524dd79274710cd0bd72ae18a711169b5a57ee49e343%3A1758078877
+iNews 新闻台,https://live.catvod.com/catvod_com.php?id=inews_twn&token=dbc7bce11d07f40a692226359c7114ea85460a8982de29e12042facefedc0e22%3A1758078877
 
 日本新聞,#genre#
 
