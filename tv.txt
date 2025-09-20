@@ -301,6 +301,7 @@ TV5MONDE STYLE HD 生活時尚,https://www.4gtv.tv/channel/4gtv-live122?set=1&ch
 北京衛視,https://live.catvod.com/catvod_com.php?id=beijing&token=8e2209fbc358fdb55118a1e33b266902384e84f24da149cc4ce45d3906be0830%3A1758241876
 
 浪花淘盡,#genre#
+parse=1
 
 第1集,https://gimy.ai/eps/209753-5-1.html
 第2集,https://gimy.ai/eps/209753-5-2.html
