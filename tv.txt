@@ -100,6 +100,13 @@ HBO電影,https://live.catvod.com/catvod_com.php?id=Hbo&token=5e9543e1debbd85b5d
 HBO強檔,https://live.catvod.com/catvod_com.php?id=Hbohitshd&token=d37d69fd3910f7501f7f5f8f191061396564de85c5247e725dd1a6f3916d1bb0%3A1758078877
 HBO家庭,https://live.catvod.com/catvod_com.php?id=Hbofamily&token=2b85da24fdfb6e40c9944bd01560008967fead00eeb32257f03e6516e44115c8%3A1758078877
 
+CINEMAX,https://live.catvod.com/catvod_com.php?id=cinemax_twn&token=bfca5cf58dd8bc50d757c6040dea1ba283010f3282b06ce22c43da01ac46c547%3A1758078877
+霹靂,https://live.catvod.com/catvod_com.php?id=pilitw_twn&token=0c9660aabac0a4ea86a782d88e3ab93817f57d35adc51eb6a53bb30222932b7e%3A1758078877
+卫视电影台,https://live.catvod.com/catvod_com.php?id=weishimovie_twn&token=785a7cebd93a0cb192a913aca30afe1305f0172dc015dee4d6a09bd53be57c88%3A1758078877
+美亚电影,https://live.catvod.com/catvod_com.php?id=meiyamovie_twn&token=c8cace0c6787ed50cd7d570efe4399cd49f8b8881d06d034f9578dc71eaec45f%3A1758078877
+星卫电影,https://live.catvod.com/catvod_com.php?id=xingwei_movie&token=2cf26a3eae716396d87f89c62ded31769013048a410cf28a04cf21a90418105b%3A1758078877
+amc電影,https://live.catvod.com/catvod_com.php?id=starmoviesgold_twn&token=647ab04a54a8b262857446d7c441b2e07d6fea72321fa8a82c36a298230d1c46%3A1758078877
+
 日本新聞,#genre#
 
 JapaNews24,https://www.youtube.com/live/coYw-eVU0Ks?si=a_SrIlnGwcXNuiNu
