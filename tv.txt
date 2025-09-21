@@ -1,6 +1,5 @@
 我的最愛,#genre#
 
-東森幼幼,https://live.catvod.com/catvod_com.php?id=yoyo_twn&token=1b50c949df8718675ba6d0b9692c3ff4b6f54764204f4274a90900c1bb5befe0%3A1757999602
 我們這一家,https://www.youtube.com/watch?v=XvZCYDICPW8
 新哆啦A夢,https://www.youtube.com/watch?v=1tawwsoLhKY
 蠟筆小新TV版,https://www.youtube.com/watch?v=bVZ2efejj3I
@@ -12,7 +11,6 @@
 千與千尋國語,https://xgct-video.vzcdn.net/99d3a8f8-750b-446e-ad2d-43db9ddc31ee/842x480/video.m3u8
 元素方程式國語,https://vv.jisuzyv.com/play/Qe1NWXZa/index.m3u8
 鐵達尼號國語,https://play.hhuus.com/play/zbqzXgDd/index.m3u8
-明天過後(後天),https://vodcnd01.rsfcxq.com/20250407/0mLXf1R7/3722kb/hls/index.m3u8
 57怪奇物語,https://www.youtube.com/live/k0uJVhYX12Y?si=61OfOEYGafnTCkTX
 
 台灣新聞,#genre#
@@ -28,12 +26,10 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 
-
-鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
-
 寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
 寰宇台灣,https://www.youtube.com/watch?v=w87VGpgd90U
 寰宇財經,https://www.youtube.com/watch?v=EnuEsX3FSh0
+鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 
 中文國際亞洲,https://www.youtube.com/watch?v=SdzewdkJa-o
 中文國際美洲,https://www.youtube.com/watch?v=f6Kq93wnaZ8
@@ -66,45 +62,14 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 龍華偶像台,http://2025.koyeb.app/8964.php?id=litv-longturn12
 龍華戲劇台,http://2025.koyeb.app/8964.php?id=litv-longturn18
 
-華視1,http://2025.koyeb.app/8964.php?id=4gtv-4gtv041
-中視1,http://2025.koyeb.app/8964.php?id=4gtv-4gtv040
-台視1,http://2025.koyeb.app/8964.php?id=4gtv-4gtv066
-民視1,http://2025.koyeb.app/8964.php?id=4gtv-4gtv155
+華視,http://2025.koyeb.app/8964.php?id=4gtv-4gtv041
+中視,http://2025.koyeb.app/8964.php?id=4gtv-4gtv040
+台視,http://2025.koyeb.app/8964.php?id=4gtv-4gtv066
+民視,http://2025.koyeb.app/8964.php?id=4gtv-4gtv155
 
 民視旅遊台,http://2025.koyeb.app/8964.php?id=litv-ftv07
 亞洲旅遊台,http://2025.koyeb.app/8964.php?id=4gtv-4gtv076
 Smart知識台,http://2025.koyeb.app/8964.php?id=litv-longturn19
-
-華視,https://live.catvod.com/catvod_com.php?id=ctshd_twn&token=75e5a1dae318c5ab7274d0e35ef9bf136a13a1e6550ee765423c4541a2292d95%3A1758078877
-中視,https://live.catvod.com/catvod_com.php?id=zhongshihd_twn&token=5974fee0bf847f9548ccad5088f621b09fc65eb939c6b393ba6ead305c2fe032%3A1758078877
-台視,https://live.catvod.com/catvod_com.php?id=ttv_taiwan&token=7dc5ad0734789003b3e2d39740f0d2dd29f19bedb22ba1fd2e433533e01db004%3A1758078877
-
-緯來日本,https://live.catvod.com/catvod_com.php?id=videolandjapan&token=4cf0b6b9e6ebe6cc5d1c4c9896070ff8bb0bbfb181e02d8c4463eef8733fd0bb%3A1758078877
-緯來電影,https://live.catvod.com/catvod_com.php?id=videolandmovie&token=9752c80966d51405939ee0086ad8b3db854b03db56cee672a9852efb5a5d5328%3A1758078877
-緯來體育,https://live.catvod.com/catvod_com.php?id=videolandsport&token=0bf70e28f414aa14f310932c2eccf1bb12f8377733d72ef16c3cc0dc31a3eefe%3A1758078877
-緯來綜合,https://live.catvod.com/catvod_com.php?id=videolandzonghe&token=46f8646da4433e83a5a67886e41a5a7fb31e519d328729ce4312de91a745a2f8%3A1758078877
-緯來育樂,https://live.catvod.com/catvod_com.php?id=videolandmax&token=79b6582322ba654697ae9b69fa67e7ab9181b9017ef5c1a4c380d9445f1f69d9%3A1758078877
-緯來戲劇,https://live.catvod.com/catvod_com.php?id=videolandtv&token=d72baaa61bd53a870a0609bdd307e925584fbf417d54e47505a08923a36757a3%3A1758078877
-
-八大第一,https://live.catvod.com/catvod_com.php?id=badafirst&token=223db8d12776decfebae1005b89350baec8eee0554c380669b510ca986e7d5ed%3A1758078877
-八大綜合,https://live.catvod.com/catvod_com.php?id=badazhonghe&token=b09dcd51de670cb390c664fc23d05c9708836785d496dc54f9d09a5fcdfdfa10%3A1758078877
-八大戲劇,https://live.catvod.com/catvod_com.php?id=badadrama&token=2d2f73a41ff0f5e74df65d88aab2c78f052a226027cd4372def55cd9df8382f4%3A1758078877
-
-三立台灣,https://live.catvod.com/catvod_com.php?id=sanlitaiwan&token=b9538265ceb3c8e32f8030e8921a4bfc3fa8a1b7e4ba9a012c3847f1510538b9%3A1758078877
-三立綜合,https://live.catvod.com/catvod_com.php?id=sanlizhonghe&token=80b60b6456fbb7f4cbc048c13f32ec1f8df9b4837b4cbf08f05eafd9ad8adc3e%3A1758078877
-三立都會,https://live.catvod.com/catvod_com.php?id=sanlidouhui_twn&token=a3945f0e70e517f391d57c1c337494c9c955e9eadc90753235ba0c6f1b34225f%3A1758078877
-
-東森綜合,https://live.catvod.com/catvod_com.php?id=ettvzhonghe&token=c94e3cd1893c9f4f18c424f358d792085421387ae30b3d5bf53a2d3324116061%3A1758078877
-東森戲劇,https://live.catvod.com/catvod_com.php?id=ettvdrama&token=b8973cac2375362d403f6889f41e41e458416f3747c4725e329e8a083846c1a9%3A1758078877
-東森電影,https://live.catvod.com/catvod_com.php?id=ettvmovie&token=7f57751fab5756e7633cfdbf201dc0dee0945a108569b83c22bfa6fa0288b378%3A1758078877
-東森洋片,https://live.catvod.com/catvod_com.php?id=ettvwestern&token=dfbb080346fabc26874b1ad2218d3cafb45de2c8afc7040a962c81a992fd7a3e%3A1758078877
-龍祥時代,https://live.catvod.com/catvod_com.php?id=lungxiangtime_twn&token=3af0e601aa88a701531b5c6f89f8ac26b20aa73c3d39e5de7513f1ffa1d35806%3A1758078877
-Catchplay電影,https://live.catvod.com/catvod_com.php?id=catchplay_twn&token=44b352b8c636666ecc8b4c234e5736ca7cc3d0119778322d0f62a156d7405cad%3A1758078877
-amc電影,https://live.catvod.com/catvod_com.php?id=starmoviesgold_twn&token=647ab04a54a8b262857446d7c441b2e07d6fea72321fa8a82c36a298230d1c46%3A1758078877
-CINEMAX電影,https://live.catvod.com/catvod_com.php?id=cinemax_twn&token=bfca5cf58dd8bc50d757c6040dea1ba283010f3282b06ce22c43da01ac46c547%3A1758078877
-美亞電影,https://live.catvod.com/catvod_com.php?id=meiyamovie_twn&token=c8cace0c6787ed50cd7d570efe4399cd49f8b8881d06d034f9578dc71eaec45f%3A1758078877
-香港翡翠,https://live.catvod.com/catvod_com.php?id=Jade_xue&token=7cea5021844883ad43b9524dd79274710cd0bd72ae18a711169b5a57ee49e343%3A1758078877
-香港新聞,https://live.catvod.com/catvod_com.php?id=inews_twn&token=dbc7bce11d07f40a692226359c7114ea85460a8982de29e12042facefedc0e22%3A1758078877
 
 日本新聞,#genre#
 
