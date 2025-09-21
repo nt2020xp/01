@@ -98,9 +98,6 @@ Smart知識台,http://2025.koyeb.app/8964.php?id=litv-longturn19
 東森洋片,https://live.catvod.com/catvod_com.php?id=ettvwestern&token=dfbb080346fabc26874b1ad2218d3cafb45de2c8afc7040a962c81a992fd7a3e%3A1758078877
 龍祥時代,https://live.catvod.com/catvod_com.php?id=lungxiangtime_twn&token=3af0e601aa88a701531b5c6f89f8ac26b20aa73c3d39e5de7513f1ffa1d35806%3A1758078877
 Catchplay電影,https://live.catvod.com/catvod_com.php?id=catchplay_twn&token=44b352b8c636666ecc8b4c234e5736ca7cc3d0119778322d0f62a156d7405cad%3A1758078877
-HBO電影,https://live.catvod.com/catvod_com.php?id=Hbo&token=5e9543e1debbd85b5daa25084d1ea4b813f0c507f6342299b051241f11280049%3A1758078877
-HBO強檔,https://live.catvod.com/catvod_com.php?id=Hbohitshd&token=d37d69fd3910f7501f7f5f8f191061396564de85c5247e725dd1a6f3916d1bb0%3A1758078877
-HBO家庭,https://live.catvod.com/catvod_com.php?id=Hbofamily&token=2b85da24fdfb6e40c9944bd01560008967fead00eeb32257f03e6516e44115c8%3A1758078877
 amc電影,https://live.catvod.com/catvod_com.php?id=starmoviesgold_twn&token=647ab04a54a8b262857446d7c441b2e07d6fea72321fa8a82c36a298230d1c46%3A1758078877
 CINEMAX電影,https://live.catvod.com/catvod_com.php?id=cinemax_twn&token=bfca5cf58dd8bc50d757c6040dea1ba283010f3282b06ce22c43da01ac46c547%3A1758078877
 美亞電影,https://live.catvod.com/catvod_com.php?id=meiyamovie_twn&token=c8cace0c6787ed50cd7d570efe4399cd49f8b8881d06d034f9578dc71eaec45f%3A1758078877
