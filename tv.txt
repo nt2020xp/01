@@ -1,9 +1,7 @@
 我的最愛,#genre#
 
 東森幼幼,https://stream1.freetv.fun/dong-sen-you-you-yoyo-tv--wj-1.ctv
-緯來日本1,https://stream1.freetv.fun/wei-lai-ri-ben-7.ctv
-緯來日本2,https://stream1.freetv.fun/wei-lai-ri-ben---wj-1.ctv
-緯來日本3,rtmp://f13h.mine.nu/sat/tv771
+緯來日本,https://stream1.freetv.fun/wei-lai-ri-ben---wj-1.ctv
 我們這一家,https://www.youtube.com/watch?v=XvZCYDICPW8
 新哆啦A夢,https://www.youtube.com/watch?v=1tawwsoLhKY
 蠟筆小新TV版,https://www.youtube.com/watch?v=bVZ2efejj3I
