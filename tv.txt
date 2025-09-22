@@ -56,6 +56,7 @@ TVB娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+
 靖天龍華,#genre#
 
 靖天日本台,http://2025.koyeb.app/8964.php?id=4gtv-4gtv047
