@@ -1,4 +1,4 @@
-TG 频道   t.me/tmxktg
+TG 频道   https://t.me/tmxktg
 
 台灣直播源   https://freetv.fun/test_channels_taiwan_new.txt
 
