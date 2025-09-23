@@ -12,7 +12,7 @@ const CONFIG = [
     'http://50.7.92.106:8278/', 
     'http://50.7.234.10:8278/',
     'http://50.7.220.170:8278/',
-    'http://67.159.6.34:8278/'],
+    'http://66.90.99.154:8278/'],
     'list_url'   => 'https://cdn.jsdelivr.net/gh/hostemail/cdn@main/data/smart.txt',
     'backup_url' => 'https://cdn.jsdelivr.net/gh/hostemail/cdn@main/data/smart1.txt', 
     'token_ttl'  => 2400,  // 40分钟有效期
