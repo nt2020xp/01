@@ -1,3 +1,6 @@
+魔術方塊5步驟還原法  https://www.youtube.com/watch?v=bZ6Dp_tM2MA
+
+
 東森幼幼,http://66.90.99.154:8278/yoyo_twn/playlist.m3u8?tid=ME2E1870391818703918&ct=20353&tsum=ef98d6b33cb3fe3a4d726edbb12b0c9d
 
 smt  66.90.99.154
