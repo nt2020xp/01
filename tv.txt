@@ -54,27 +54,6 @@ TVB娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 天映频道, http://php.jdshipin.com/smt.php?id=Celestial
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
 HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-
-
-黑龙江卫视,http://42.185.57.35:9000/udp/236.78.78.78:59783
-黑龙江卫视,http://42.185.57.35:9000/udp/236.78.78.78:59799
-黑龙江文体,http://42.185.57.35:9000/udp/236.78.78.78:59785
-黑龙江新闻法治,http://42.185.57.35:9000/udp/236.78.78.78:59787
-黑龙江影视,http://42.185.57.35:9000/udp/236.78.78.78:59784
-黑龙江都市,http://42.185.57.35:9000/udp/236.78.78.78:59786
-黑龙江公共农业,http://42.185.57.35:9000/udp/236.78.78.78:59788
-黑龙江少儿,http://42.185.57.35:9000/udp/236.78.78.78:59789
-哈尔滨新闻综合,http://42.185.57.35:9000/udp/236.78.78.78:59762
-哈尔滨影视,http://42.185.57.35:9000/udp/236.78.78.78:59764
-哈尔滨生活,http://42.185.57.35:9000/udp/236.78.78.78:59763
-哈尔滨新闻综合,https://stream.hrbtv.net/xwzh/playlist.m3u8
-哈尔滨生活,https://stream.hrbtv.net/shpd/sd/live.m3u8
-哈尔滨影视,https://stream.hrbtv.net/yspd/sd/live.m3u8
-哈尔滨新闻综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8
-哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8
-哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8
 
 
 靖天龍華,#genre#
