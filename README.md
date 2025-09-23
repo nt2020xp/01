@@ -1,3 +1,5 @@
+smt  66.90.99.154
+
 TG 频道   https://t.me/tmxktg
 
 台灣直播源   https://freetv.fun/test_channels_taiwan_new.txt
