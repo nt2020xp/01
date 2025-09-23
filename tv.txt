@@ -6,6 +6,27 @@
 緯來電影,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=videolandmovie
 緯來體育,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=videolandsport
 
+1綜合,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv1
+2財經,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv2
+3綜藝,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv3
+4中文國際,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv4
+5體育,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv5
+5+體育賽事,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv5plus
+6電影,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv6
+7國防軍事,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv7
+8電視劇,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv8hd
+9紀錄,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv9hd
+10科教,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv10hd
+11戲曲,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv11
+12社會與法,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv12
+13新聞,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv13
+14少兒,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv14
+15音樂,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv15
+
+江蘇衛視,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=jiangsu_twn
+浙江衛視,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=zhejiang_twn
+湖南衛視,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=hunan_twn
+北京衛視,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=beijing
 
 
 我們這一家,https://www.youtube.com/watch?v=XvZCYDICPW8
@@ -60,29 +81,6 @@ TVB娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 天映频道, http://php.jdshipin.com/smt.php?id=Celestial
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
 HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-
-1綜合,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv1
-2財經,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv2
-3綜藝,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv3
-4中文國際,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv4
-5體育,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv5
-5+體育賽事,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv5plus
-6電影,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv6
-7國防軍事,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv7
-8電視劇,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv8hd
-9紀錄,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv9hd
-10科教,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv10hd
-11戲曲,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv11
-12社會與法,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv12
-13新聞,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv13
-14少兒,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv14
-15音樂,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv15
-
-江蘇衛視,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=jiangsu_twn
-浙江衛視,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=zhejiang_twn
-湖南衛視,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=hunan_twn
-北京衛視,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=beijing
-
 
 靖天龍華,#genre#
 
