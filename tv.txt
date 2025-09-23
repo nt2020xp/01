@@ -82,7 +82,7 @@ HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 浙江衛視,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=zhejiang_twn
 湖南衛視,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=hunan_twn
 北京衛視,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=beijing
-東方衛視,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=dongfangweishi_twn
+
 
 靖天龍華,#genre#
 
