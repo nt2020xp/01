@@ -235,4 +235,44 @@ webview://https://yangshipin.cn/tv/home?pid=600190401
 webview://https://yangshipin.cn/tv/home?pid=600002498
 
 
+#EXTINF:-1 tvg-name="1綜合" tvg-logo="https://live.fanmingming.cn/tv/1綜合.png" group-title="央視衛視",1綜合
+http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv1
+#EXTINF:-1 tvg-name="2財經" tvg-logo="https://live.fanmingming.cn/tv/2財經.png" group-title="央視衛視",2財經
+http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv2
+#EXTINF:-1 tvg-name="3綜藝" tvg-logo="https://live.fanmingming.cn/tv/3綜藝.png" group-title="央視衛視",3綜藝
+http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv3
+#EXTINF:-1 tvg-name="4中文國際" tvg-logo="https://live.fanmingming.cn/tv/4中文國際.png" group-title="央視衛視",4中文國際
+http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv4
+#EXTINF:-1 tvg-name="5體育" tvg-logo="https://live.fanmingming.cn/tv/5體育.png" group-title="央視衛視",5體育
+http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv5
+#EXTINF:-1 tvg-name="5+體育賽事" tvg-logo="https://live.fanmingming.cn/tv/5+體育賽事.png" group-title="央視衛視",5+體育賽事
+http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv5plus
+#EXTINF:-1 tvg-name="6電影" tvg-logo="https://live.fanmingming.cn/tv/6電影.png" group-title="央視衛視",6電影
+http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv6
+#EXTINF:-1 tvg-name="7國防軍事" tvg-logo="https://live.fanmingming.cn/tv/7國防軍事.png" group-title="央視衛視",7國防軍事
+http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv7
+#EXTINF:-1 tvg-name="8電視劇" tvg-logo="https://live.fanmingming.cn/tv/8電視劇.png" group-title="央視衛視",8電視劇
+http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv8hd
+#EXTINF:-1 tvg-name="9紀錄" tvg-logo="https://live.fanmingming.cn/tv/9紀錄.png" group-title="央視衛視",9紀錄
+http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv9hd
+#EXTINF:-1 tvg-name="10科教" tvg-logo="https://live.fanmingming.cn/tv/10科教.png" group-title="央視衛視",10科教
+http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv10hd
+#EXTINF:-1 tvg-name="11戲曲" tvg-logo="https://live.fanmingming.cn/tv/11戲曲.png" group-title="央視衛視",11戲曲
+http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv11
+#EXTINF:-1 tvg-name="12社會與法" tvg-logo="https://live.fanmingming.cn/tv/12社會與法.png" group-title="央視衛視",12社會與法
+http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv12
+#EXTINF:-1 tvg-name="13新聞" tvg-logo="https://live.fanmingming.cn/tv/13新聞.png" group-title="央視衛視",13新聞
+http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv13
+#EXTINF:-1 tvg-name="14少兒" tvg-logo="https://live.fanmingming.cn/tv/14少兒.png" group-title="央視衛視",14少兒
+http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv14
+#EXTINF:-1 tvg-name="15音樂" tvg-logo="https://live.fanmingming.cn/tv/15音樂.png" group-title="央視衛視",15音樂
+http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv15
+#EXTINF:-1 tvg-name="江蘇衛視" tvg-logo="https://live.fanmingming.cn/tv/江蘇衛視.png" group-title="央視衛視",江蘇衛視
+http://adorable-davita-2d133c54.koyeb.app/smt.php?id=jiangsu_twn
+#EXTINF:-1 tvg-name="浙江衛視" tvg-logo="https://live.fanmingming.cn/tv/浙江衛視.png" group-title="央視衛視",浙江衛視
+http://adorable-davita-2d133c54.koyeb.app/smt.php?id=zhejiang_twn
+#EXTINF:-1 tvg-name="湖南衛視" tvg-logo="https://live.fanmingming.cn/tv/湖南衛視.png" group-title="央視衛視",湖南衛視
+http://adorable-davita-2d133c54.koyeb.app/smt.php?id=hunan_twn
+#EXTINF:-1 tvg-name="北京衛視" tvg-logo="https://live.fanmingming.cn/tv/北京衛視.png" group-title="央視衛視",北京衛視
+http://adorable-davita-2d133c54.koyeb.app/smt.php?id=beijing
 
