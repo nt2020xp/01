@@ -70,31 +70,7 @@ https://zmtv.cztv.com/cmsh5-share/prod/cztv-tvLive/index.html?pageId=101
 黑龍江衛視官網直播
 https://www.dbw.cn/zhibodan/zhibo_dan/hljws
 
-
-bh,
-https://fanmingming.com/txt?url=https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/bh.m3u
-
-
-風云TV直播源,http://iptv.4666888.xyz/FYTV.m3u
-
-風云TV直播源,https://fanmingming.com/txt?url=http://iptv.4666888.xyz/FYTV.m3u
-
-
-河南建成大学IPTV：http://iptv.huuc.edu.cn/
-
-CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
-
-CCTV2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
-
-CCTV9,http://120.76.248.139/live/bfgd/4200000128.m3u8
-
-CCTV10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
-
-CCTV13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
-
-
 每日更新 https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt
-
 
 千與千尋國語,https://play.hhuus.com/play/kazZvm8a/index.m3u8
 
