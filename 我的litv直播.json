@@ -1,7 +1,7 @@
 {
   "lives": [
     {
-      "name": "我的litv直播(python)",
+      "name": "我的litv直播",
       "type": 3,
       "api": "./litv.py",
       "ext": {}
