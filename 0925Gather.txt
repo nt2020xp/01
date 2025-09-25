@@ -81,16 +81,7 @@ RTHK 35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/s
 澳門資訊,https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 澳門體育,https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 澳門綜藝,https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
- 博斯無限 一「LiTV」,https://tv.iill.top/litv/litv-longturn10
- 博斯無限 二「LiTV」,https://tv.iill.top/litv/litv-longturn13
- 博斯網球「LiTV」,https://tv.iill.top/litv/litv-longturn09
- 博斯運動 一「LiTV」,https://tv.iill.top/litv/litv-longturn07
- 博斯運動 二「LiTV」,https://tv.iill.top/litv/litv-longturn08
- 博斯高球 一「LiTV」,https://tv.iill.top/litv/litv-longturn05
- 博斯高球 二「LiTV」,https://tv.iill.top/litv/litv-longturn06
- 博斯魅力「LiTV」,https://tv.iill.top/litv/litv-longturn04
- 時尚運動X「LiTV」,https://tv.iill.top/litv/4gtv-4gtv014
- 智林體育「LiTV」,https://tv.iill.top/litv/4gtv-4gtv101
+ 
  東森新聞「LiTV」,https://tv.iill.top/litv/4gtv-4gtv152
  東森財經「LiTV」,https://tv.iill.top/litv/4gtv-4gtv153
  TVBS「LiTV」,https://tv.iill.top/litv/4gtv-4gtv073
