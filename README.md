@@ -1,3 +1,7 @@
+直播源解密 https://ua.fongmi.eu.org
+
+https://tv-1.iill.top/m3u/Gather
+
 smt列表  https://cdn.jsdelivr.net/gh/hostemail/cdn@main/data/smart.txt
 
 魔術方塊5步驟還原法  https://www.youtube.com/watch?v=bZ6Dp_tM2MA
