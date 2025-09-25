@@ -296,6 +296,7 @@ TV5MONDE STYLE HD 生活時尚,https://www.4gtv.tv/channel/4gtv-live122?set=1&ch
 
 
 Gather頻道,#genre#
+ua=okhttp
 
 CCTV 1 综合「回看」,https://tv.iill.top/migu/cctv1
 CCTV 2 财经「回看」,https://tv.iill.top/migu/cctv2
