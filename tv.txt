@@ -118,6 +118,7 @@ TBS NEWS DIG,https://www.youtube.com/live/Anr15FA9OCI?si=ZyLCFkpVCpC9tQ-N
 13新聞,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv13
 14少兒,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv14
 15音樂,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv15
+16奧林匹克,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv16
 17農業農村,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv17
 
 江蘇衛視,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=jiangsu_twn
