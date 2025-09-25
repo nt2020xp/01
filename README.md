@@ -1,6 +1,6 @@
 直播源解密 https://ua.fongmi.eu.org
 
-https://tv-1.iill.top/m3u/Gather
+https://tv.iill.top/m3u/Gather
 
 smt列表  https://cdn.jsdelivr.net/gh/hostemail/cdn@main/data/smart.txt
 
@@ -144,7 +144,7 @@ smart  https://fanmingming.com/txt?url=https://raw.githubusercontent.com/judy-go
 
 直播源解密 https://ua.fongmi.eu.org
 
-https://tv-1.iill.top/m3u/Gather
+https://tv.iill.top/m3u/Gather
 
 小飛電視
 https://www.y977.com/tv
