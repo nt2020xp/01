@@ -23,8 +23,8 @@
 
 台灣新聞,#genre#
 
-TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
-東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
+TVBS新聞,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=tvbs_n
+東森新聞,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=ettvnews
 東森財經,https://www.youtube.com/watch?v=1I2iq41Akmo
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 三立新聞,https://www.youtube.com/watch?v=MV9mI0GChwo
