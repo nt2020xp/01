@@ -1,3 +1,12 @@
+2財經,http://p.ytelc.com/169l/0/cctv.php?id=cctv2
+
+9紀錄,http://p.ytelc.com/169l/0/cctv.php?id=cctv9
+
+10科教,http://p.ytelc.com/169l/0/cctv.php?id=cctv10
+
+13新聞,http://p.ytelc.com/169l/0/cctv.php?id=cctv13
+
+
 好趣網,http://m.haoqu99.com/1/
 
 直播源解密 https://ua.fongmi.eu.org
