@@ -73,8 +73,8 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 華視,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=ctshd_twn
 中視,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=zhongshihd_twn
-台視,http://2025.koyeb.app/8964.php?id=4gtv-4gtv066
-民視,http://2025.koyeb.app/8964.php?id=4gtv-4gtv155
+台視,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=ttv_taiwan
+民視,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=ftvhd_taiwan
 
 民視旅遊台,http://2025.koyeb.app/8964.php?id=litv-ftv07
 亞洲旅遊台,http://2025.koyeb.app/8964.php?id=4gtv-4gtv076
