@@ -24,8 +24,8 @@
 台灣新聞,#genre#
 
 
-TVBS新聞,https://qq01xp.serv00.net/2025.php?id=4gtv-4gtv072
-東森新聞,https://qq01xp.serv00.net/2025.php?id=4gtv-4gtv152
+TVBS新聞,http://2025.koyeb.app/9.php?id=4gtv-4gtv072
+東森新聞,http://2025.koyeb.app/9.php?id=4gtv-4gtv152
 東森財經,https://www.youtube.com/watch?v=1I2iq41Akmo
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 三立新聞,https://www.youtube.com/watch?v=MV9mI0GChwo
