@@ -22,11 +22,8 @@
 57怪奇物語,https://www.youtube.com/live/k0uJVhYX12Y?si=61OfOEYGafnTCkTX
 
 台灣新聞,#genre#
-parse=1
 
 
-TVBS新聞台,https://www.4gtv.tv/channel/4gtv-4gtv072?set=1&ch=291
-東森新聞台,https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292
 TVBS新聞,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=tvbs_n
 東森新聞,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=ettvnews
 東森財經,https://www.youtube.com/watch?v=1I2iq41Akmo
