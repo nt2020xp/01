@@ -1,3 +1,5 @@
+好趣網,http://m.haoqu99.com/1/
+
 直播源解密 https://ua.fongmi.eu.org
 
 https://tv.iill.top/m3u/Gather
