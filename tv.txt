@@ -312,34 +312,34 @@ CCTV-12高清,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
 CCTV-13高清,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
 CCTV-14高清,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 
-江苏卫视高清,http://iptv.huuc.edu.cn/player.html?channel=jshd
-浙江卫视高清,http://iptv.huuc.edu.cn/player.html?channel=zjhd
-湖南卫视高清,http://iptv.huuc.edu.cn/player.html?channel=hunanhd
-北京卫视高清,http://iptv.huuc.edu.cn/player.html?channel=btv1hd
-东方卫视高清,http://iptv.huuc.edu.cn/player.html?channel=dfhd
+江苏卫视高清,http://iptv.huuc.edu.cn/hls/jshd.m3u8
+浙江卫视高清,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
+湖南卫视高清,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
+北京卫视高清,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
+东方卫视高清,http://iptv.huuc.edu.cn/hls/dfhd.m3u8
 
-安徽卫视高清,http://iptv.huuc.edu.cn/player.html?channel=ahhd
-黑龙江卫视高清,http://iptv.huuc.edu.cn/player.html?channel=hljhd
-辽宁卫视高清,http://iptv.huuc.edu.cn/player.html?channel=lnhd
-深圳卫视高清,http://iptv.huuc.edu.cn/player.html?channel=szhd
-广东卫视高清,http://iptv.huuc.edu.cn/player.html?channel=gdhd
-天津卫视高清,http://iptv.huuc.edu.cn/player.html?channel=tjhd
-湖北卫视高清,http://iptv.huuc.edu.cn/player.html?channel=hbhd
-山东卫视高清,http://iptv.huuc.edu.cn/player.html?channel=sdhd
-重庆卫视高清,http://iptv.huuc.edu.cn/player.html?channel=cqhd
-上海纪实高清,http://iptv.huuc.edu.cn/player.html?channel=docuchina
-四川卫视高清,http://iptv.huuc.edu.cn/player.html?channel=schd
-金鹰纪实高清,http://iptv.huuc.edu.cn/player.html?channel=gedocu
-福建东南卫视高清,http://iptv.huuc.edu.cn/player.html?channel=dnhd
-河北卫视高清,http://iptv.huuc.edu.cn/player.html?channel=hebhd
-江西卫视高清,http://iptv.huuc.edu.cn/player.html?channel=jxhd
-CHC高清电影,http://iptv.huuc.edu.cn/player.html?channel=chchd
+安徽卫视高清,http://iptv.huuc.edu.cn/hls/ahhd.m3u8
+黑龙江卫视高清,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
+辽宁卫视高清,http://iptv.huuc.edu.cn/hls/lnhd.m3u8
+深圳卫视高清,http://iptv.huuc.edu.cn/hls/szhd.m3u8
+广东卫视高清,http://iptv.huuc.edu.cn/hls/gdhd.m3u8
+天津卫视高清,http://iptv.huuc.edu.cn/hls/tjhd.m3u8
+湖北卫视高清,http://iptv.huuc.edu.cn/hls/hbhd.m3u8
+山东卫视高清,http://iptv.huuc.edu.cn/hls/sdhd.m3u8
+重庆卫视高清,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
+上海纪实高清,http://iptv.huuc.edu.cn/hls/docuchina.m3u8
+四川卫视高清,http://iptv.huuc.edu.cn/hls/schd.m3u8
+金鹰纪实高清,http://iptv.huuc.edu.cn/hls/gedocu.m3u8
+福建东南卫视高清,http://iptv.huuc.edu.cn/hls/dnhd.m3u8
+河北卫视高清,http://iptv.huuc.edu.cn/hls/hebhd.m3u8
+江西卫视高清,http://iptv.huuc.edu.cn/hls/jxhd.m3u8
+CHC高清电影,http://iptv.huuc.edu.cn/hls/chchd.m3u8
 
-北京文艺高清,http://iptv.huuc.edu.cn/player.html?channel=btv2hd
-北京体育高清,http://iptv.huuc.edu.cn/player.html?channel=btv6hd
-北京影视高清,http://iptv.huuc.edu.cn/player.html?channel=btv4hd
-北京新闻高清,http://iptv.huuc.edu.cn/player.html?channel=btv9hd
-北京纪实高清,http://iptv.huuc.edu.cn/player.html?channel=btv11hd
-全纪实高清,http://iptv.huuc.edu.cn/player.html?channel=documentaryhd
+北京文艺高清,http://iptv.huuc.edu.cn/hls/btv2hd.m3u8
+北京体育高清,http://iptv.huuc.edu.cn/hls/btv6hd.m3u8
+北京影视高清,http://iptv.huuc.edu.cn/hls/btv4hd.m3u8
+北京新闻高清,http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
+北京纪实高清,http://iptv.huuc.edu.cn/hls/btv11hd.m3u8
+全纪实高清,http://iptv.huuc.edu.cn/hls/documentaryhd.m3u8
 	
 
