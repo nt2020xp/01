@@ -296,11 +296,10 @@ TV5MONDE STYLE HD 生活時尚,https://www.4gtv.tv/channel/4gtv-live122?set=1&ch
 第42集,https://vip.dytt-play.com/20250506/17237_fd9d41f2/index.m3u8
 
 校園IPTV,#genre#
-parse=1
 
-CCTV-1高清,http://iptv.huuc.edu.cn/player.html?channel=cctv1hd
-CCTV-2高清,http://iptv.huuc.edu.cn/player.html?channel=cctv2hd
-CCTV-3高清,http://iptv.huuc.edu.cn/player.html?channel=cctv3hd
+CCTV-1高清,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+CCTV-2高清,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
+CCTV-3高清,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
 CCTV-4高清,http://iptv.huuc.edu.cn/player.html?channel=cctv4hd
 CCTV-5高清,http://iptv.huuc.edu.cn/player.html?channel=cctv5hd
 CCTV-5+高清,http://iptv.huuc.edu.cn/player.html?channel=cctv5phd
