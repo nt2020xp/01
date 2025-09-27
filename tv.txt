@@ -313,18 +313,12 @@ CCTV-12高清,http://iptv.huuc.edu.cn/player.html?channel=cctv12hd
 CCTV-13高清,http://iptv.huuc.edu.cn/player.html?channel=cctv13hd
 CCTV-14高清,http://iptv.huuc.edu.cn/player.html?channel=cctv14hd
 
-
-CHC高清电影,http://iptv.huuc.edu.cn/player.html?channel=chchd
-北京卫视高清,http://iptv.huuc.edu.cn/player.html?channel=btv1hd
-北京文艺高清,http://iptv.huuc.edu.cn/player.html?channel=btv2hd
-北京体育高清,http://iptv.huuc.edu.cn/player.html?channel=btv6hd
-北京影视高清,http://iptv.huuc.edu.cn/player.html?channel=btv4hd
-北京新闻高清,http://iptv.huuc.edu.cn/player.html?channel=btv9hd
-北京纪实高清,http://iptv.huuc.edu.cn/player.html?channel=btv11hd
-湖南卫视高清,http://iptv.huuc.edu.cn/player.html?channel=hunanhd
-浙江卫视高清,http://iptv.huuc.edu.cn/player.html?channel=zjhd
 江苏卫视高清,http://iptv.huuc.edu.cn/player.html?channel=jshd
+浙江卫视高清,http://iptv.huuc.edu.cn/player.html?channel=zjhd
+湖南卫视高清,http://iptv.huuc.edu.cn/player.html?channel=hunanhd
+北京卫视高清,http://iptv.huuc.edu.cn/player.html?channel=btv1hd
 东方卫视高清,http://iptv.huuc.edu.cn/player.html?channel=dfhd
+
 安徽卫视高清,http://iptv.huuc.edu.cn/player.html?channel=ahhd
 黑龙江卫视高清,http://iptv.huuc.edu.cn/player.html?channel=hljhd
 辽宁卫视高清,http://iptv.huuc.edu.cn/player.html?channel=lnhd
@@ -340,6 +334,13 @@ CHC高清电影,http://iptv.huuc.edu.cn/player.html?channel=chchd
 福建东南卫视高清,http://iptv.huuc.edu.cn/player.html?channel=dnhd
 河北卫视高清,http://iptv.huuc.edu.cn/player.html?channel=hebhd
 江西卫视高清,http://iptv.huuc.edu.cn/player.html?channel=jxhd
+CHC高清电影,http://iptv.huuc.edu.cn/player.html?channel=chchd
+
+北京文艺高清,http://iptv.huuc.edu.cn/player.html?channel=btv2hd
+北京体育高清,http://iptv.huuc.edu.cn/player.html?channel=btv6hd
+北京影视高清,http://iptv.huuc.edu.cn/player.html?channel=btv4hd
+北京新闻高清,http://iptv.huuc.edu.cn/player.html?channel=btv9hd
+北京纪实高清,http://iptv.huuc.edu.cn/player.html?channel=btv11hd
 全纪实高清,http://iptv.huuc.edu.cn/player.html?channel=documentaryhd
 	
 
