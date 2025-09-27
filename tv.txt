@@ -311,7 +311,8 @@ CCTV-10高清,http://iptv.huuc.edu.cn/player.html?channel=cctv10hd
 CCTV-12高清,http://iptv.huuc.edu.cn/player.html?channel=cctv12hd
 CCTV-13高清,http://iptv.huuc.edu.cn/player.html?channel=cctv13hd
 CCTV-14高清,http://iptv.huuc.edu.cn/player.html?channel=cctv14hd
-CGTN高清,http://iptv.huuc.edu.cn/player.html?channel=cgtnhd
+
+
 CHC高清电影,http://iptv.huuc.edu.cn/player.html?channel=chchd
 北京卫视高清,http://iptv.huuc.edu.cn/player.html?channel=btv1hd
 北京文艺高清,http://iptv.huuc.edu.cn/player.html?channel=btv2hd
@@ -338,7 +339,6 @@ CHC高清电影,http://iptv.huuc.edu.cn/player.html?channel=chchd
 福建东南卫视高清,http://iptv.huuc.edu.cn/player.html?channel=dnhd
 河北卫视高清,http://iptv.huuc.edu.cn/player.html?channel=hebhd
 江西卫视高清,http://iptv.huuc.edu.cn/player.html?channel=jxhd
-中国教育电视台1高清,http://iptv.huuc.edu.cn/player.html?channel=cetv1hd
 全纪实高清,http://iptv.huuc.edu.cn/player.html?channel=documentaryhd
 	
 
