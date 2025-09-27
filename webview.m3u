@@ -271,3 +271,70 @@ http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv15
 http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv16
 #EXTINF:-1 tvg-name="17農業農村" tvg-logo="https://live.fanmingming.cn/tv/17農業農村.png" group-title="smt央視",17農業農村
 http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv17
+
+#EXTINF:-1 tvg-name="1綜合高清" tvg-logo="https://live.fanmingming.cn/tv/1綜合高清.png" group-title="校園IPTV",1綜合高清
+http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1 tvg-name="2財經高清" tvg-logo="https://live.fanmingming.cn/tv/2財經高清.png" group-title="校園IPTV",2財經高清
+http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
+#EXTINF:-1 tvg-name="3綜藝高清" tvg-logo="https://live.fanmingming.cn/tv/3綜藝高清.png" group-title="校園IPTV",3綜藝高清
+http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1 tvg-name="4中文國際" tvg-logo="https://live.fanmingming.cn/tv/4中文國際.png" group-title="校園IPTV",4中文國際
+http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
+#EXTINF:-1 tvg-name="5體育" tvg-logo="https://live.fanmingming.cn/tv/5體育.png" group-title="校園IPTV",5體育
+http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
+#EXTINF:-1 tvg-name="5+體育賽事" tvg-logo="https://live.fanmingming.cn/tv/5+體育賽事.png" group-title="校園IPTV",5+體育賽事
+http://iptv.huuc.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1 tvg-name="6電影" tvg-logo="https://live.fanmingming.cn/tv/6電影.png" group-title="校園IPTV",6電影
+http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1 tvg-name="7國防軍事" tvg-logo="https://live.fanmingming.cn/tv/7國防軍事.png" group-title="校園IPTV",7國防軍事
+http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
+#EXTINF:-1 tvg-name="8電視劇" tvg-logo="https://live.fanmingming.cn/tv/8電視劇.png" group-title="校園IPTV",8電視劇
+http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:-1 tvg-name="X9紀錄高清" tvg-logo="https://live.fanmingming.cn/tv/X9紀錄高清.png" group-title="校園IPTV",X9紀錄高清
+http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
+#EXTINF:-1 tvg-name="10科教高清" tvg-logo="https://live.fanmingming.cn/tv/10科教高清.png" group-title="校園IPTV",10科教高清
+http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
+#EXTINF:-1 tvg-name="12社會與法高清" tvg-logo="https://live.fanmingming.cn/tv/12社會與法高清.png" group-title="校園IPTV",12社會與法高清
+http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
+#EXTINF:-1 tvg-name="13新聞" tvg-logo="https://live.fanmingming.cn/tv/13新聞.png" group-title="校園IPTV",13新聞
+http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
+#EXTINF:-1 tvg-name="14少兒4高清" tvg-logo="https://live.fanmingming.cn/tv/14少兒4高清.png" group-title="校園IPTV",14少兒4高清
+http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
+#EXTINF:-1 tvg-name="江蘇衛視" tvg-logo="https://live.fanmingming.cn/tv/江蘇衛視.png" group-title="校園IPTV",江蘇衛視
+http://iptv.huuc.edu.cn/hls/jshd.m3u8
+#EXTINF:-1 tvg-name="浙江衛視" tvg-logo="https://live.fanmingming.cn/tv/浙江衛視.png" group-title="校園IPTV",浙江衛視
+http://iptv.huuc.edu.cn/hls/zjhd.m3u8
+#EXTINF:-1 tvg-name="湖南衛視" tvg-logo="https://live.fanmingming.cn/tv/湖南衛視.png" group-title="校園IPTV",湖南衛視
+http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
+#EXTINF:-1 tvg-name="北京衛視" tvg-logo="https://live.fanmingming.cn/tv/北京衛視.png" group-title="校園IPTV",北京衛視
+http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
+#EXTINF:-1 tvg-name="東方衛視" tvg-logo="https://live.fanmingming.cn/tv/東方衛視.png" group-title="校園IPTV",東方衛視
+http://iptv.huuc.edu.cn/hls/dfhd.m3u8
+#EXTINF:-1 tvg-name="安徽衛視" tvg-logo="https://live.fanmingming.cn/tv/安徽衛視.png" group-title="校園IPTV",安徽衛視
+http://iptv.huuc.edu.cn/hls/ahhd.m3u8
+#EXTINF:-1 tvg-name="遼寧衛視" tvg-logo="https://live.fanmingming.cn/tv/遼寧衛視.png" group-title="校園IPTV",遼寧衛視
+http://iptv.huuc.edu.cn/hls/lnhd.m3u8
+#EXTINF:-1 tvg-name="深圳衛視" tvg-logo="https://live.fanmingming.cn/tv/深圳衛視.png" group-title="校園IPTV",深圳衛視
+http://iptv.huuc.edu.cn/hls/szhd.m3u8
+#EXTINF:-1 tvg-name="湖北衛視" tvg-logo="https://live.fanmingming.cn/tv/湖北衛視.png" group-title="校園IPTV",湖北衛視
+http://iptv.huuc.edu.cn/hls/hbhd.m3u8
+#EXTINF:-1 tvg-name="山東衛視" tvg-logo="https://live.fanmingming.cn/tv/山東衛視.png" group-title="校園IPTV",山東衛視
+http://iptv.huuc.edu.cn/hls/sdhd.m3u8
+#EXTINF:-1 tvg-name="重慶衛視" tvg-logo="https://live.fanmingming.cn/tv/重慶衛視.png" group-title="校園IPTV",重慶衛視
+http://iptv.huuc.edu.cn/hls/cqhd.m3u8
+#EXTINF:-1 tvg-name="四川衛視" tvg-logo="https://live.fanmingming.cn/tv/四川衛視.png" group-title="校園IPTV",四川衛視
+http://iptv.huuc.edu.cn/hls/schd.m3u8
+#EXTINF:-1 tvg-name="福建東南衛視" tvg-logo="https://live.fanmingming.cn/tv/福建東南衛視.png" group-title="校園IPTV",福建東南衛視
+http://iptv.huuc.edu.cn/hls/dnhd.m3u8
+#EXTINF:-1 tvg-name="江西衛視" tvg-logo="https://live.fanmingming.cn/tv/江西衛視.png" group-title="校園IPTV",江西衛視
+http://iptv.huuc.edu.cn/hls/jxhd.m3u8
+#EXTINF:-1 tvg-name="黑龍江衛視" tvg-logo="https://live.fanmingming.cn/tv/黑龍江衛視.png" group-title="校園IPTV",黑龍江衛視
+http://iptv.huuc.edu.cn/hls/hljhd.m3u8
+#EXTINF:-1 tvg-name="北京文藝" tvg-logo="https://live.fanmingming.cn/tv/北京文藝.png" group-title="校園IPTV",北京文藝
+http://iptv.huuc.edu.cn/hls/btv2hd.m3u8
+#EXTINF:-1 tvg-name="北京影視" tvg-logo="https://live.fanmingming.cn/tv/北京影視.png" group-title="校園IPTV",北京影視
+http://iptv.huuc.edu.cn/hls/btv4hd.m3u8
+#EXTINF:-1 tvg-name="北京新聞" tvg-logo="https://live.fanmingming.cn/tv/北京新聞.png" group-title="校園IPTV",北京新聞
+http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
+#EXTINF:-1 tvg-name="北京體育休閒" tvg-logo="https://live.fanmingming.cn/tv/北京體育休閒.png" group-title="校園IPTV",北京體育休閒
+http://iptv.huuc.edu.cn/hls/btv11hd.m3u8
