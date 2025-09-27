@@ -1,3 +1,7 @@
+華視,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=ctshd_twn
+
+中視,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=zhongshihd_twn
+
 油桃TV https://www.utao.tv
 
 2財經,http://p.ytelc.com/169l/0/cctv.php?id=cctv2
