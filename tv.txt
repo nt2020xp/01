@@ -322,18 +322,12 @@ CCTV-14高清,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 黑龙江卫视高清,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
 辽宁卫视高清,http://iptv.huuc.edu.cn/hls/lnhd.m3u8
 深圳卫视高清,http://iptv.huuc.edu.cn/hls/szhd.m3u8
-x广东卫视高清,http://iptv.huuc.edu.cn/hls/gdhd.m3u8
-x天津卫视高清,http://iptv.huuc.edu.cn/hls/tjhd.m3u8
 湖北卫视高清,http://iptv.huuc.edu.cn/hls/hbhd.m3u8
-x山东卫视高清,http://iptv.huuc.edu.cn/hls/sdhd.m3u8
-x重庆卫视高清,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
-x上海纪实高清,http://iptv.huuc.edu.cn/hls/docuchina.m3u8
-x四川卫视高清,http://iptv.huuc.edu.cn/hls/schd.m3u8
-x金鹰纪实高清,http://iptv.huuc.edu.cn/hls/gedocu.m3u8
+山东卫视高清,http://iptv.huuc.edu.cn/hls/sdhd.m3u8
+重庆卫视高清,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
+四川卫视高清,http://iptv.huuc.edu.cn/hls/schd.m3u8
 福建东南卫视高清,http://iptv.huuc.edu.cn/hls/dnhd.m3u8
-x河北卫视高清,http://iptv.huuc.edu.cn/hls/hebhd.m3u8
 江西卫视高清,http://iptv.huuc.edu.cn/hls/jxhd.m3u8
-
 
 北京文艺高清,http://iptv.huuc.edu.cn/hls/btv2hd.m3u8
 北京影视高清,http://iptv.huuc.edu.cn/hls/btv4hd.m3u8
