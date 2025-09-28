@@ -1,3 +1,5 @@
+台視,https://www.youtube.com/live/uDqQo8a7Xmk
+
 華視,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=ctshd_twn
 
 中視,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=zhongshihd_twn
