@@ -1,5 +1,7 @@
 直播網頁  https://www.kds.tw
 
+2財經,https://www.kds.tw/tv/china-tv-channels-online/cctv-economic-life-and-service-channel
+
 9紀錄,https://www.kds.tw/tv/china-tv-channels-online/cgtn-documentary
 
 10科教<https://www.kds.tw/tv/china-tv-channels-online/cctv-science-and-education-channel
