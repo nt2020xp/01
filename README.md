@@ -1,3 +1,12 @@
+
+東森幼幼,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/yoyo-tv
+
+東森洋片,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/ettv-western
+
+好萊塢電影,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/hollywood-movies
+
+
+
 Proton VPN 下載  https://protonvpn.com/download?srsltid=AfmBOoo5oL81ewUSdRXPB4IHPNeWf2C7sWUdbRbGlyQj_UZeIELVCyCT
 
 台視,https://www.youtube.com/live/uDqQo8a7Xmk
