@@ -1,3 +1,11 @@
+直播網頁  https://www.kds.tw
+
+9紀錄,https://www.kds.tw/tv/china-tv-channels-online/cgtn-documentary
+
+10科教<https://www.kds.tw/tv/china-tv-channels-online/cctv-science-and-education-channel
+
+13新聞,https://www.kds.tw/tv/china-tv-channels-online/cctv13
+
 
 東森幼幼,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/yoyo-tv
 
