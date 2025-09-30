@@ -8,7 +8,7 @@
 
 13新聞,https://www.kds.tw/tv/china-tv-channels-online/cctv13
 
-緯來日本,kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/videoland-japan-channel
+緯來日本,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/videoland-japan-channel
 
 緯來綜合,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/videoland-ontv
 
