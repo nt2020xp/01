@@ -4,7 +4,7 @@
 
 9紀錄,https://www.kds.tw/tv/china-tv-channels-online/cgtn-documentary
 
-10科教<https://www.kds.tw/tv/china-tv-channels-online/cctv-science-and-education-channel
+10科教,https://www.kds.tw/tv/china-tv-channels-online/cctv-science-and-education-channel
 
 13新聞,https://www.kds.tw/tv/china-tv-channels-online/cctv13
 
