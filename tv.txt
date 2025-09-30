@@ -309,3 +309,5 @@ X9紀錄,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv9hd
 北京新聞,http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
 北京體育休閒,http://iptv.huuc.edu.cn/hls/btv11hd.m3u8
 
+
+9紀錄,https://www.kds.tw/tv/china-tv-channels-online/cgtn-documentary
