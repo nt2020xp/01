@@ -309,30 +309,3 @@ X9紀錄,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv9hd
 北京新聞,http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
 北京體育休閒,http://iptv.huuc.edu.cn/hls/btv11hd.m3u8
 
-广东荔枝,#genre#
-parse=1
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-referer=https://www.gdtv.cn
-
-广东卫视,https://www.gdtv.cn/tvChannelDetail/43
-广东珠江,https://www.gdtv.cn/tvChannelDetail/44
-广东新闻,https://www.gdtv.cn/tvChannelDetail/45
-广东体育,https://www.gdtv.cn/tvChannelDetail/47
-广东民生,https://www.gdtv.cn/tvChannelDetail/48
-广东影视,https://www.gdtv.cn/tvChannelDetail/53
-广东少儿,https://www.gdtv.cn/tvChannelDetail/54
-广东移动,https://www.gdtv.cn/tvChannelDetail/74
-广东4K,https://www.gdtv.cn/tvChannelDetail/16
-大湾区卫视,https://www.gdtv.cn/tvChannelDetail/51
-大湾区卫视（海外版）,https://www.gdtv.cn/tvChannelDetail/46
-经济科教,https://www.gdtv.cn/tvChannelDetail/49
-嘉佳卡通,https://www.gdtv.cn/tvChannelDetail/66
-现代教育,https://www.gdtv.cn/tvChannelDetail/13
-岭南戏曲,https://www.gdtv.cn/tvChannelDetail/15
-南方购物,https://www.gdtv.cn/tvChannelDetail/42
-纪录片,https://www.gdtv.cn/tvChannelDetail/94
-荔枝台,https://www.gdtv.cn/tvChannelDetail/100
-GRTN文化频道,https://www.gdtv.cn/tvChannelDetail/75
-GRTN健康频道,https://www.gdtv.cn/tvChannelDetail/99
-GRTN生活频道,https://www.gdtv.cn/tvChannelDetail/102
-GRTN教育频道,https://www.gdtv.cn/tvChannelDetail/104
