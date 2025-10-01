@@ -331,14 +331,15 @@ parse=1
 江蘇衛視,https://www.kds.tw/tv/china-tv-channels-online/jiangsu-satellite-tv
 浙江衛視,https://www.kds.tw/tv/china-tv-channels-online/zhejiang-satellite-tv
 湖南衛視,https://www.kds.tw/tv/china-tv-channels-online/hunan-satellite-tv
-
+北京衛視,https://www.kds.tw/tv/china-tv-channels-online/brtv
 東方衛視,https://www.kds.tw/tv/china-tv-channels-online/dragon-television
 
 四川衛視,https://www.kds.tw/tv/china-tv-channels-online/sichuan-satellite-tv
 深圳衛視,https://www.kds.tw/tv/china-tv-channels-online/shenzhen-satellite-tv
 福建東南衛視,https://www.kds.tw/tv/china-tv-channels-online/fujian-satellite-tv
 廣西衛視,https://www.kds.tw/tv/china-tv-channels-online/guangxi-satellite-tv
-
+廣東衛視,https://www.kds.tw/tv/china-tv-channels-online/grt-satellite-channel/
+南方衛視,https://www.kds.tw/tv/china-tv-channels-online/grt-southern-television
 翡翠台,https://www.kds.tw/tv/china-tv-channels-online/hong-kong-tv-channels-online/tvb-jade
 無線新聞,https://www.kds.tw/tv/china-tv-channels-online/hong-kong-tv-channels-online/inews
 
