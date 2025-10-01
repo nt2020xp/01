@@ -321,7 +321,7 @@ parse=1
 7國防軍事,https://www.kds.tw/tv/china-tv-channels-online/china-central-television-defense-and-military-channel
 8電視劇,https://www.kds.tw/tv/china-tv-channels-online/cctv-8-drama
 9紀錄,https://www.kds.tw/tv/china-tv-channels-online/cgtn-documentary
-10科教<https://www.kds.tw/tv/china-tv-channels-online/cctv-science-and-education-channel
+10科教,https://www.kds.tw/tv/china-tv-channels-online/cctv-science-and-education-channel
 11戲曲,https://www.kds.tw/tv/china-tv-channels-online/cctv-11
 12社會與法,https://www.kds.tw/sport/badminton/channel-west
 13新聞,https://www.kds.tw/tv/china-tv-channels-online/cctv13
