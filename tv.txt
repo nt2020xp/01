@@ -333,7 +333,6 @@ parse=1
 湖南衛視,https://www.kds.tw/tv/china-tv-channels-online/hunan-satellite-tv
 北京衛視,https://www.kds.tw/tv/china-tv-channels-online/brtv
 東方衛視,https://www.kds.tw/tv/china-tv-channels-online/dragon-television
-
 四川衛視,https://www.kds.tw/tv/china-tv-channels-online/sichuan-satellite-tv
 深圳衛視,https://www.kds.tw/tv/china-tv-channels-online/shenzhen-satellite-tv
 福建東南衛視,https://www.kds.tw/tv/china-tv-channels-online/fujian-satellite-tv
@@ -359,7 +358,6 @@ parse=1
 龍祥時代,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/ls-time
 HBO電影,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/hbo
 HBO獨特,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/hbo-signature-taiwan
-
 衛視中文台,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/star-movies-chinese
 美亞電影,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/matv
 EYE旅遊,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/eye-tv-travel
