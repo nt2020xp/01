@@ -316,6 +316,7 @@ parse=1
 2財經,https://www.kds.tw/tv/china-tv-channels-online/cctv-economic-life-and-service-channel
 3綜藝,https://www.kds.tw/tv/china-tv-channels-online/china-central-television-channel-3
 4中文國際,https://www.kds.tw/tv/china-tv-channels-online/cctv-4-chinese-international
+5體育,https://www.kds.tw/tv/sports-tv-live-streaming/cctv-5-sports
 6電影,https://www.kds.tw/tv/china-tv-channels-online/china-movie-channel
 7國防軍事,https://www.kds.tw/tv/china-tv-channels-online/china-central-television-defense-and-military-channel
 8電視劇,https://www.kds.tw/tv/china-tv-channels-online/cctv-8-drama
