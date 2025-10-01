@@ -323,7 +323,7 @@ parse=1
 9紀錄,https://www.kds.tw/tv/china-tv-channels-online/cgtn-documentary
 10科教<https://www.kds.tw/tv/china-tv-channels-online/cctv-science-and-education-channel
 11戲曲,https://www.kds.tw/tv/china-tv-channels-online/cctv-11
-
+12社會與法,https://www.kds.tw/sport/badminton/channel-west
 13新聞,https://www.kds.tw/tv/china-tv-channels-online/cctv13
 14少兒,https://www.kds.tw/tv/china-tv-channels-online/cctv-14-childrens-channel
 15音樂,https://www.kds.tw/tv/china-tv-channels-online/cctv-15-music
