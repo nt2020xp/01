@@ -357,6 +357,7 @@ parse=1
 龍華經典,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/longhua-classic
 龍祥時代,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/ls-time
 HBO電影,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/hbo
+HBO獨特,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/hbo-signature-taiwan
 
 衛視中文台,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/star-movies-chinese
 美亞電影,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/matv
