@@ -1,3 +1,5 @@
+直播源  [https://github.com/cxr9912/cxr2025
+
 直播網頁  https://www.kds.tw
 
 2財經,https://www.kds.tw/tv/china-tv-channels-online/cctv-economic-life-and-service-channel
