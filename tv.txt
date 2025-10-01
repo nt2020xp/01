@@ -339,7 +339,7 @@ parse=1
 廣西衛視,https://www.kds.tw/tv/china-tv-channels-online/guangxi-satellite-tv
 
 翡翠台,https://www.kds.tw/tv/china-tv-channels-online/hong-kong-tv-channels-online/tvb-jade/
-
+無線新聞,https://www.kds.tw/tv/china-tv-channels-online/hong-kong-tv-channels-online/inews/
 
 緯來日本,kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/videoland-japan-channel
 緯來綜合,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/videoland-ontv
@@ -377,3 +377,8 @@ TVBS新聞,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-onl
 年代新聞,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/era-news/
 中視新聞,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/ctv-news-channel/
 台視新聞,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/ttv-news/
+中視,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/cts-2/
+台視,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/ttv/
+八大第一台,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/gtv-first/
+八大綜合台,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/gtv-metro/
+八大戲劇台,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/gtv-drama/
