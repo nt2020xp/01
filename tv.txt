@@ -23,7 +23,6 @@
 緯來體育,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=videolandsport
 
 
-
 我們這一家,https://www.youtube.com/watch?v=XvZCYDICPW8
 新哆啦A夢,https://www.youtube.com/watch?v=1tawwsoLhKY
 蠟筆小新TV版,https://www.youtube.com/watch?v=bVZ2efejj3I
@@ -38,7 +37,6 @@
 57怪奇物語,https://www.youtube.com/live/k0uJVhYX12Y?si=61OfOEYGafnTCkTX
 
 台灣新聞,#genre#
-
 
 TVBS新聞,http://2025.koyeb.app/9.php?id=4gtv-4gtv072
 東森新聞,http://2025.koyeb.app/9.php?id=4gtv-4gtv152
@@ -118,8 +116,6 @@ TBS NEWS DIG,https://www.youtube.com/live/Anr15FA9OCI?si=ZyLCFkpVCpC9tQ-N
 草津温泉（移動式),https://www.youtube.com/watch?v=B_Sc1v1qR-g
 櫻島火山(遠看),https://www.youtube.com/watch?v=eF9PohrRP_o
 櫻島火山(近看),https://www.youtube.com/watch?v=PeElJClXtzE
-
-
 
 旅遊頻道,#genre#
 parse=1
@@ -289,120 +285,6 @@ TV5MONDE STYLE HD 生活時尚,https://www.4gtv.tv/channel/4gtv-live122?set=1&ch
 第41集,https://vip.dytt-play.com/20250506/17236_e27455a7/index.m3u8
 第42集,https://vip.dytt-play.com/20250506/17237_fd9d41f2/index.m3u8
 
-校園IPTV,#genre#
-
-1綜合,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
-2財經,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
-3綜藝,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
-4中文國際,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
-5體育,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
-5+體育賽事,http://iptv.huuc.edu.cn/hls/cctv5phd.m3u8
-6電影,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
-7國防軍事,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
-8電視劇,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
-X9紀錄,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv9hd
-10科教,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
-12社會與法,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
-13新聞,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
-14少兒,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
-
-江蘇衛視,http://iptv.huuc.edu.cn/hls/jshd.m3u8
-浙江衛視,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
-湖南衛視,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
-北京衛視,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
-東方衛視,http://iptv.huuc.edu.cn/hls/dfhd.m3u8
-
-安徽衛視,http://iptv.huuc.edu.cn/hls/ahhd.m3u8
-遼寧衛視,http://iptv.huuc.edu.cn/hls/lnhd.m3u8
-深圳衛視,http://iptv.huuc.edu.cn/hls/szhd.m3u8
-湖北衛視,http://iptv.huuc.edu.cn/hls/hbhd.m3u8
-山東衛視,http://iptv.huuc.edu.cn/hls/sdhd.m3u8
-重慶衛視,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
-四川衛視,http://iptv.huuc.edu.cn/hls/schd.m3u8
-福建東南衛視,http://iptv.huuc.edu.cn/hls/dnhd.m3u8
-江西衛視,http://iptv.huuc.edu.cn/hls/jxhd.m3u8
-黑龍江衛視,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
-
-北京文藝,http://iptv.huuc.edu.cn/hls/btv2hd.m3u8
-北京影視,http://iptv.huuc.edu.cn/hls/btv4hd.m3u8
-北京新聞,http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
-北京體育休閒,http://iptv.huuc.edu.cn/hls/btv11hd.m3u8
-
-KDS頻道,#genre#
-parse=1
-
-1綜合,https://www.kds.tw/tv/china-tv-channels-online/cctv-general-channel
-2財經,https://www.kds.tw/tv/china-tv-channels-online/cctv-economic-life-and-service-channel
-3綜藝,https://www.kds.tw/tv/china-tv-channels-online/china-central-television-channel-3
-4中文國際,https://www.kds.tw/tv/china-tv-channels-online/cctv-4-chinese-international
-5體育,https://www.kds.tw/tv/sports-tv-live-streaming/cctv-5-sports
-6電影,https://www.kds.tw/tv/china-tv-channels-online/china-movie-channel
-7國防軍事,https://www.kds.tw/tv/china-tv-channels-online/china-central-television-defense-and-military-channel
-8電視劇,https://www.kds.tw/tv/china-tv-channels-online/cctv-8-drama
-9紀錄,https://www.kds.tw/tv/china-tv-channels-online/cgtn-documentary
-10科教,https://www.kds.tw/tv/china-tv-channels-online/cctv-science-and-education-channel
-11戲曲,https://www.kds.tw/tv/china-tv-channels-online/cctv-11
-12社會與法,https://www.kds.tw/sport/badminton/channel-west
-13新聞,https://www.kds.tw/tv/china-tv-channels-online/cctv13
-14少兒,https://www.kds.tw/tv/china-tv-channels-online/cctv-14-childrens-channel
-15音樂,https://www.kds.tw/tv/china-tv-channels-online/cctv-15-music
-
-江蘇衛視,https://www.kds.tw/tv/china-tv-channels-online/jiangsu-satellite-tv
-浙江衛視,https://www.kds.tw/tv/china-tv-channels-online/zhejiang-satellite-tv
-湖南衛視,https://www.kds.tw/tv/china-tv-channels-online/hunan-satellite-tv
-北京衛視,https://www.kds.tw/tv/china-tv-channels-online/brtv
-東方衛視,https://www.kds.tw/tv/china-tv-channels-online/dragon-television
-四川衛視,https://www.kds.tw/tv/china-tv-channels-online/sichuan-satellite-tv
-深圳衛視,https://www.kds.tw/tv/china-tv-channels-online/shenzhen-satellite-tv
-福建東南衛視,https://www.kds.tw/tv/china-tv-channels-online/fujian-satellite-tv
-廣西衛視,https://www.kds.tw/tv/china-tv-channels-online/guangxi-satellite-tv
-廣東衛視,https://www.kds.tw/tv/china-tv-channels-online/grt-satellite-channel/
-南方衛視,https://www.kds.tw/tv/china-tv-channels-online/grt-southern-television
-翡翠台,https://www.kds.tw/tv/china-tv-channels-online/hong-kong-tv-channels-online/tvb-jade
-無線新聞,https://www.kds.tw/tv/china-tv-channels-online/hong-kong-tv-channels-online/inews
-
-緯來日本,kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/videoland-japan-channel
-緯來綜合,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/videoland-ontv
-緯來電影,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/videoland-movie
-緯來體育,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/videoland-sports-channel
-緯來育樂,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/videoland-max-tv
-緯來精彩,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/videoland-gtv
-
-東森幼幼,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/yoyo-tv
-東森電影,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/ettv-movie
-東森洋片,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/ettv-western
-好萊塢電影,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/hollywood-movies
-龍華洋片,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/lunghua-western
-龍華經典,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/longhua-classic
-龍祥時代,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/ls-time
-HBO電影,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/hbo
-HBO獨特,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/hbo-signature-taiwan
-衛視中文台,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/star-movies-chinese
-美亞電影,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/matv
-EYE旅遊,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/eye-tv-travel
-EYE戲劇,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/eye-tv-drama
-三立台灣,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/sanli-taiwan
-三立戲劇,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/sanli-drama
-三立國際,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/sanli-metro
-三立都會,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/set-metro
-三立戲劇,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/sanli-drama
-東森綜合,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/ettv-metro
-東森戲劇,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/ettv-drama
-TVBS新聞,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/tvbs-news
-東森新聞,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/ettv-news
-東森財經新聞,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/ettv-business
-民視新聞,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/ftv-news
-中天新聞,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/cti-news
-非凡新聞,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/unique-business-news
-寰宇新聞,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/global-news
-年代新聞,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/era-news
-中視新聞,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/ctv-news-channel
-台視新聞,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/ttv-news
-中視,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/cts
-台視,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/ttv
-八大第一台,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/gtv-first
-八大綜合台,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/gtv-metro
-八大戲劇台,https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/gtv-drama
 
 4gtv免費,#genre#
 
@@ -616,10 +498,8 @@ TVBS台劇台,https://4gtv.858.qzz.io/judy.php?id=4gtv-live088
 戲劇免費看1台,https://4gtv.858.qzz.io/judy.php?id=4gtv-live010
 
 
-
 港澳4Gtv,#genre#
-今日新聞4Gtv,http://xn--elt51t.azip.dpdns.org:5008/nnews-zh/index.m3u8?proxy=true
-今日天氣4Gtv,http://xn--elt51t.azip.dpdns.org:5008/nnews-wf/index.m3u8?proxy=true
+
 中天新聞4Gtv,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv009/index.m3u8?proxy=true
 東森新聞4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv152/index.m3u8?proxy=true
 tvbs新聞4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv072/index.m3u8?proxy=true
@@ -857,230 +737,36 @@ TRACEU4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv082/index.m3u8?prox
 MEZZOl4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv083/index.m3u8?proxy=true
 
 
-tv543,#genre#
-中天新闻,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv009
-TVBS新闻台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv072
-东森新闻,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv152
-民视新闻台,http://tv543.cc/litv.php?token=leifeng&id=litv-ftv13
-镜新闻,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv075
-非凡新闻,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv010
-台视新闻,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv051
-华视新闻,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv052
-中视新闻,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv074
-寰宇新闻台,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn14
-寰宇新闻台湾台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv156
-半岛新闻,http://tv543.cc/litv.php?token=leifeng&id=litv-ftv10
-美国之音,http://tv543.cc/litv.php?token=leifeng&id=litv-ftv03
-东森财经新闻,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv153
-非凡商业台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv048
-台视财经,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv056
-第1商业台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv104
-TVBS,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv073
-台视,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv066
-中视,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv040
-华视,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv041
-民视,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv002
-年代新聞,http://220.134.196.147:8538/http/61.219.99.20:8081/hls/67/809/ch27.m3u8
-東森新聞HD,http://220.134.196.147:8527/http/61.219.99.20:8081/hls/63/805/ch10.m3u8
-中天新聞,http://220.134.196.147:8567/http/61.219.99.20:8081/hls/78/80/ch63max.m3u8
-民視新聞,http://220.134.196.147:8519/http/61.219.99.20:8081/hls/85/80/FtvNews4max.m3u8
-三立新聞HD,http://220.134.196.147:8541/http/61.219.99.20:8081/hls/65/807/ch18.m3u8
-TVBS新聞HD,http://220.134.196.147:8542/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
-TVBS HD,http://220.134.196.147:8570/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
-非凡新聞HD,http://220.134.196.147:8571/http/61.219.99.20:8081/hls/75/817/ch57.m3u8
-非凡商業HD,http://220.134.196.147:8511/http/61.219.99.20:8081/hls/74/816/ch56.m3u8
-東森財經HD,http://220.134.196.147:8525/http/61.219.99.20:8081/hls/63/805/ch11.m3u8
-寰宇新聞,http://220.134.196.147:8548/http/61.219.99.20:8081/hls/76/818/ch62.m3u8
-壹新聞,#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
+iptv543,#genre#
+
+CCTV-1 综合,http://smt.iptv543.com/Smart.php?id=cctv1
+CCTV-2 财经,http://smt.iptv543.com/Smart.php?id=cctv2
+CCTV-3 综艺,http://smt.iptv543.com/Smart.php?id=cctv3
+CCTV-4 中文国际,http://smt.iptv543.com/Smart.php?id=Cctv4
+CCTV-4 中文国际,http://smt.iptv543.com/Smart.php?id=cctv4
+CCTV-5 体育,http://smt.iptv543.com/Smart.php?id=cctv5
+CCTV-5+ 体育赛事,http://smt.iptv543.com/Smart.php?id=cctv5plus
+CCTV-6 电影,http://smt.iptv543.com/Smart.php?id=cctv6
+CCTV-7 国防军事,http://smt.iptv543.com/Smart.php?id=cctv7
+CCTV-8 电视剧,http://smt.iptv543.com/Smart.php?id=cctv8hd
+CCTV-9 记录,http://smt.iptv543.com/Smart.php?id=cctv9hd
+CCTV-10 科教,http://smt.iptv543.com/Smart.php?id=cctv10hd
+CCTV-11 戏曲,http://smt.iptv543.com/Smart.php?id=cctv11
+CCTV-12 社会与法,http://smt.iptv543.com/Smart.php?id=cctv12
+CCTV-13 新闻,http://smt.iptv543.com/Smart.php?id=cctv13
+CCTV-14 少儿,http://smt.iptv543.com/Smart.php?id=cctv14
+CCTV-15 音乐,http://smt.iptv543.com/Smart.php?id=cctv15
+CCTV-16 奥林匹克,http://smt.iptv543.com/Smart.php?id=cctv16
+CCTV-17 农业农村,http://smt.iptv543.com/Smart.php?id=cctv17
+
+江苏卫视,http://smt.iptv543.com/Smart.php?id=jiangsu_twn
+浙江卫视,http://smt.iptv543.com/Smart.php?id=zhejiang_twn
+湖南卫视,http://smt.iptv543.com/Smart.php?id=hunan_twn
+北京卫视,http://smt.iptv543.com/Smart.php?id=beijing
+东方卫视,http://smt.iptv543.com/Smart.php?id=dongfangweishi_twn
 
 
-中国|CCTV-1 综合,http://smt.iptv543.com/Smart.php?id=cctv1
-中国|CCTV-2 财经,http://smt.iptv543.com/Smart.php?id=cctv2
-中国|CCTV-3 综艺,http://smt.iptv543.com/Smart.php?id=cctv3
-中国|CCTV-4 中文国际,http://smt.iptv543.com/Smart.php?id=Cctv4
-中国|CCTV-4 中文国际,http://smt.iptv543.com/Smart.php?id=cctv4
-中国|CCTV-5 体育,http://smt.iptv543.com/Smart.php?id=cctv5
-中国|CCTV-5+ 体育赛事,http://smt.iptv543.com/Smart.php?id=cctv5plus
-中国|CCTV-6 电影,http://smt.iptv543.com/Smart.php?id=cctv6
-中国|CCTV-7 国防军事,http://smt.iptv543.com/Smart.php?id=cctv7
-中国|CCTV-8 电视剧,http://smt.iptv543.com/Smart.php?id=cctv8hd
-中国|CCTV-9 记录,http://smt.iptv543.com/Smart.php?id=cctv9hd
-中国|CCTV-10 科教,http://smt.iptv543.com/Smart.php?id=cctv10hd
-中国|CCTV-11 戏曲,http://smt.iptv543.com/Smart.php?id=cctv11
-中国|CCTV-12 社会与法,http://smt.iptv543.com/Smart.php?id=cctv12
-中国|CCTV-13 新闻,http://smt.iptv543.com/Smart.php?id=cctv13
-中国|CCTV-14 少儿,http://smt.iptv543.com/Smart.php?id=cctv14
-中国|CCTV-15 音乐,http://smt.iptv543.com/Smart.php?id=cctv15
-中国|CCTV-16 奥林匹克,http://smt.iptv543.com/Smart.php?id=cctv16
-中国|CCTV-17 农业农村,http://smt.iptv543.com/Smart.php?id=cctv17
 
-中国|江苏卫视,http://smt.iptv543.com/Smart.php?id=jiangsu_twn
-中国|浙江卫视,http://smt.iptv543.com/Smart.php?id=zhejiang_twn
-中国|湖南卫视,http://smt.iptv543.com/Smart.php?id=hunan_twn
-中国|北京卫视,http://smt.iptv543.com/Smart.php?id=beijing
-中国|东方卫视,http://smt.iptv543.com/Smart.php?id=dongfangweishi_twn
 
-中国|深圳卫视,http://smt.iptv543.com/Smart.php?id=shenzhen
-中国|广东卫视,http://smt.iptv543.com/Smart.php?id=guangdongweishi_twn
-中国|大湾区卫视,http://smt.iptv543.com/Smart.php?id=nanfang_twn
-中国|珠江台,http://smt.iptv543.com/Smart.php?id=zhujiang
-中国|东南卫视,http://smt.iptv543.com/Smart.php?id=fujian
-中国|广西卫视,http://smt.iptv543.com/Smart.php?id=guangxi
-中国|湖北卫视,http://smt.iptv543.com/Smart.php?id=hubei
-中国|四川卫视,http://smt.iptv543.com/Smart.php?id=sichuan_twn
-
-Gather頻道,#genre#
-
-CCTV 1 综合「回看」,https://tv.iill.top/migu-1/cctv1
-CCTV 2 财经「回看」,https://tv.iill.top/migu-1/cctv2
-CCTV 3 综艺「回看」,https://tv.iill.top/migu-1/cctv3
-CCTV 4 中文国际「回看」,https://tv.iill.top/migu-1/cctv4
-CCTV 4 中文国际·美洲「回看」,https://tv.iill.top/migu-1/cctv4m
-CCTV 4 中文国际·欧洲「回看」,https://tv.iill.top/migu-1/cctv4o
-CCTV 5 体育「回看」,https://tv.iill.top/migu-1/cctv5
-CCTV 5+ 体育赛事「回看」,https://tv.iill.top/migu-1/cctv5+
-CCTV 6 电影「回看」,https://tv.iill.top/migu-1/cctv6
-CCTV 7 国防军事「回看」,https://tv.iill.top/migu-1/cctv7
-CCTV 8 电视剧「回看」,https://tv.iill.top/migu-1/cctv8
-CCTV 9 纪录「回看」,https://tv.iill.top/migu-1/cctv9
-CCTV 10 科教「回看」,https://tv.iill.top/migu-1/cctv10
-CCTV 11 戏曲「回看」,https://tv.iill.top/migu-1/cctv11
-CCTV 12 社会与法「回看」,https://tv.iill.top/migu-1/cctv12
-CCTV 13 新闻「回看」,https://tv.iill.top/migu-1/cctv13
-CCTV 14 少儿「回看」,https://tv.iill.top/migu-1/cctv14
-CCTV 15 音乐「回看」,https://tv.iill.top/migu-1/cctv15
-CCTV 17 农村农业「回看」,https://tv.iill.top/migu-1/cctv17
-
-江苏卫视「回看」,https://tv.iill.top/migu-1/jsws
-浙江卫视,https://tv.iill.top/migu/zjws
-湖南卫视「回看」,https://tv.iill.top/migu/hnws
-东方卫视「回看」,https://tv.iill.top/migu-1/dfws
-广东卫视「回看」,https://tv.iill.top/migu-1/gdws
-江西卫视「回看」,https://tv.iill.top/migu-1/jxws
-陕西卫视「回看」,https://tv.iill.top/migu-1/sxws
-湖北卫视「回看」,https://tv.iill.top/migu-1/hubws
-东南卫视「回看」,https://tv.iill.top/migu-1/dnws
-海峡卫视「回看」,https://tv.iill.top/migu-1/hxws
-辽宁卫视「回看」,https://tv.iill.top/migu/lnws
-
-CHC 影迷电影「回看」,https://tv.iill.top/migu-1/chcym
-CHC 动作电影「回看」,https://tv.iill.top/migu-1/chcdz
-CHC 家庭影院「回看」,https://tv.iill.top/migu-1/chcjt
-
-東森新聞「LiTV」,https://tv.iill.top/litv/4gtv-4gtv152
-東森財經「LiTV」,https://tv.iill.top/litv/4gtv-4gtv153
-TVBS「LiTV」,https://tv.iill.top/litv/4gtv-4gtv073
-TVBS 新聞「LiTV」,https://tv.iill.top/litv/4gtv-4gtv072
-TVBS 歡樂「LiTV」,https://tv.iill.top/litv/4gtv-4gtv068
-TVBS 精采「LiTV」,https://tv.iill.top/litv/4gtv-4gtv067
-TVBS 綜藝「4gTV」,https://tv.iill.top/4gtv/4gtv-live087
-TVBS 台劇「4gTV」,https://tv.iill.top/4gtv/4gtv-live088
-中天亞洲「LiTV」,https://tv.iill.top/litv/4gtv-4gtv109
-中天新聞「LiTV」,https://tv.iill.top/litv/4gtv-4gtv009
-中視「LiTV」,https://tv.iill.top/litv/4gtv-4gtv040
-中視新聞「LiTV」,https://tv.iill.top/litv/4gtv-4gtv074
-中視經典「LiTV」,https://tv.iill.top/litv/4gtv-4gtv080
-中視菁采「LiTV」,https://tv.iill.top/litv/4gtv-4gtv064
-靖天國際「LiTV」,https://tv.iill.top/litv/4gtv-4gtv063
-靖天映畫「LiTV」,https://tv.iill.top/litv/4gtv-4gtv055
-靖天戲劇「LiTV」,https://tv.iill.top/litv/4gtv-4gtv058
-靖天日本「LiTV」,https://tv.iill.top/litv/4gtv-4gtv047
-靖天歡樂「LiTV」,https://tv.iill.top/litv/4gtv-4gtv054
-靖天綜合「LiTV」,https://tv.iill.top/litv/4gtv-4gtv046
-靖天育樂「LiTV」,https://tv.iill.top/litv/4gtv-4gtv062
-靖天資訊「LiTV」,https://tv.iill.top/litv/4gtv-4gtv065
-靖天電影「LiTV」,https://tv.iill.top/litv/4gtv-4gtv061
-靖天卡通「LiTV」,https://tv.iill.top/litv/4gtv-4gtv044
-靖洋卡通「LiTV」,https://tv.iill.top/litv/4gtv-4gtv057
-靖洋戲劇「LiTV」,https://tv.iill.top/litv/4gtv-4gtv045
-龍華偶像「LiTV」,https://tv.iill.top/litv/litv-longturn12
-龍華卡通「LiTV」,https://tv.iill.top/litv/litv-longturn01
-龍華戲劇「LiTV」,https://tv.iill.top/litv/litv-longturn18
-龍華日韓「LiTV」,https://tv.iill.top/litv/litv-longturn11
-龍華洋片「LiTV」,https://tv.iill.top/litv/litv-longturn02
-龍華經典「LiTV」,https://tv.iill.top/litv/litv-longturn21
-龍華電影「LiTV」,https://tv.iill.top/litv/litv-longturn03
-八大精彩「LiTV」,https://tv.iill.top/litv/4gtv-4gtv034
-八大綜藝「LiTV」,https://tv.iill.top/litv/4gtv-4gtv039
-台視「LiTV」,https://tv.iill.top/litv/4gtv-4gtv066
-台視新聞「LiTV」,https://tv.iill.top/litv/4gtv-4gtv051
-台視財經「LiTV」,https://tv.iill.top/litv/4gtv-4gtv056
-公視戲劇「LiTV」,https://tv.iill.top/litv/4gtv-4gtv042
-台灣戲劇「LiTV」,https://tv.iill.top/litv/litv-longturn22
-寰宇新聞「LiTV」,https://tv.iill.top/litv/litv-longturn14
-寰宇新聞台灣「LiTV」,https://tv.iill.top/litv/4gtv-4gtv156
-寰宇財經「LiTV」,https://tv.iill.top/litv/4gtv-4gtv158
-華視「LiTV」,https://tv.iill.top/litv/4gtv-4gtv041
-華視新聞「LiTV」,https://tv.iill.top/litv/4gtv-4gtv052
-民視「LiTV」,https://tv.iill.top/litv/4gtv-4gtv002
-民視台灣「LiTV」,https://tv.iill.top/litv/4gtv-4gtv001
-民視影劇「LiTV」,https://tv.iill.top/litv/litv-ftv09
-民視新聞「LiTV」,https://tv.iill.top/litv/litv-ftv13
-民視旅遊「LiTV」,https://tv.iill.top/litv/litv-ftv07
-民視第一「LiTV」,https://tv.iill.top/litv/4gtv-4gtv003
-民視綜藝「LiTV」,https://tv.iill.top/litv/4gtv-4gtv004
-三立綜合「4gTV」,https://tv.iill.top/4gtv/4gtv-live207
-三立新聞iNEWS「4gTV」,https://tv.iill.top/4gtv/4gtv-live089
-愛爾達娛樂「LiTV」,https://tv.iill.top/litv/4gtv-4gtv070
-愛爾達生活旅遊「4gTV」,https://tv.iill.top/4gtv/4gtv-live120
-亞洲旅遊「LiTV」,https://tv.iill.top/litv/4gtv-4gtv076
-非凡商業「LiTV」,https://tv.iill.top/litv/4gtv-4gtv048
-非凡新聞「LiTV」,https://tv.iill.top/litv/4gtv-4gtv010
-鏡電視新聞「LiTV」,https://tv.iill.top/litv/4gtv-4gtv075
-半島國際新聞「4gTV」,https://tv.iill.top/4gtv/4gtv-live157
-DW德國之聲「4gTV」,https://tv.iill.top/4gtv/4gtv-live071
-FRANCE24「4gTV」,https://tv.iill.top/4gtv/4gtv-live146
-NHK 新聞資訊「4gTV」,https://tv.iill.top/4gtv/4gtv-live168
-VOA 美國之音「LiTV」,https://tv.iill.top/litv/litv-ftv03
-CNBC Asia 財經「4gTV」,https://tv.iill.top/4gtv/4gtv-live130
-SBN 全球財經「4gTV」,https://tv.iill.top/4gtv/4gtv-live060
-Bloomberg TV「4gTV」,https://tv.iill.top/4gtv/4gtv-live059
-第1商業「LiTV」,https://tv.iill.top/litv/4gtv-4gtv104
-AMC 最愛電影「LiTV」,https://tv.iill.top/litv/4gtv-4gtv017
-MCE 我的歐洲電影「LiTV」,https://tv.iill.top/litv/litv-ftv10
-影迷數位電影「LiTV」,https://tv.iill.top/litv/4gtv-4gtv011
-CinemaWorld「4gTV」,https://tv.iill.top/4gtv/4gtv-live069
-經典電影「4gTV」,https://tv.iill.top/4gtv/4gtv-live021
-Love Nature「4gTV」,https://tv.iill.top/4gtv/4gtv-live208
-影迷數位紀實「LiTV」,https://tv.iill.top/litv/litv-ftv15
-視納華仁紀實頻道「LiTV」,https://tv.iill.top/litv/4gtv-4gtv013
-CI 罪案偵查頻道「4gTV」,https://tv.iill.top/4gtv/4gtv-live027
-History 歷史頻道「4gTV」,https://tv.iill.top/4gtv/4gtv-live026
-MagellanTV (麥哲倫頻道)「4gTV」,https://tv.iill.top/4gtv/4gtv-live123
-Rock Action「4gTV」,https://tv.iill.top/4gtv/4gtv-live138
-Rock Entertainment「4gTV」,https://tv.iill.top/4gtv/4gtv-live080
-Arirang TV「LiTV」,https://tv.iill.top/litv/4gtv-4gtv079
-韓國娛樂台 KMTV「LiTV」,https://tv.iill.top/litv/4gtv-4gtv016
-Lifetime 娛樂頻道「4gTV」,https://tv.iill.top/4gtv/4gtv-live029
-Fun 探索娛樂「4gTV」,https://tv.iill.top/4gtv/4gtv-live011
-HITS 頻道「4gTV」,https://tv.iill.top/4gtv/4gtv-live620
-豬哥亮歌廳秀「LiTV」,https://tv.iill.top/litv/4gtv-4gtv006
-戲劇免費看「4gTV」,https://tv.iill.top/4gtv/4gtv-live010
-采昌影劇「LiTV」,https://tv.iill.top/litv/4gtv-4gtv049
-Classica 古典樂「LiTV」,https://tv.iill.top/litv/4gtv-4gtv059
-Mezzo Live「LiTV」,https://tv.iill.top/litv/4gtv-4gtv083
-MTV Live HD 音樂頻道「4gTV」,https://tv.iill.top/4gtv/4gtv-live025
-電影原聲 CMusic「4gTV」,https://tv.iill.top/4gtv/4gtv-live031
-Trace Urban「LiTV」,https://tv.iill.top/litv/4gtv-4gtv082
-Trace Sports「LiTV」,https://tv.iill.top/litv/4gtv-4gtv077
-Ginx TV 電競頻道「LiTV」,https://tv.iill.top/litv/4gtv-4gtv053
-DreamWorks 夢工廠動畫「4gTV」,https://tv.iill.top/4gtv/4gtv-live017
-精選動漫「4gTV」,https://tv.iill.top/4gtv/4gtv-live024
-經典卡通「4gTV」,https://tv.iill.top/4gtv/4gtv-live022
-MOMO 親子「4gTV」,https://tv.iill.top/4gtv/4gtv-live107
-Nick Jr. 兒童頻道「4gTV」,https://tv.iill.top/4gtv/4gtv-live032
-Nickelodeon「4gTV」,https://tv.iill.top/4gtv/4gtv-live105
-Pet Club TV「LiTV」,https://tv.iill.top/litv/4gtv-4gtv110
-LiveABC 互動英語「4gTV」,https://tv.iill.top/4gtv/4gtv-live030
-ELTA生活英語「LiTV」,https://tv.iill.top/litv/litv-longturn20
-Smart 知識「LiTV」,https://tv.iill.top/litv/litv-longturn19
-達文西頻道「LiTV」,https://tv.iill.top/litv/4gtv-4gtv018
-滾動力 Rollor「4gTV」,https://tv.iill.top/4gtv/4gtv-live012
-INULTRA「4gTV」,https://tv.iill.top/4gtv/4gtv-live096
-Global Trekker 探索世界「4gTV」,https://tv.iill.top/4gtv/4gtv-live112
-LUXE TV「4gTV」,https://tv.iill.top/4gtv/4gtv-live121
-TV5MONDE Style 生活時尚「4gTV」,https://tv.iill.top/4gtv/4gtv-live122
-幸福空間居家「4gTV」,https://tv.iill.top/4gtv/4gtv-live206
-車迷 TV,https://tv.iill.top/4gtv/4gtv-live201
 金光布袋戲「4gTV」,https://tv.iill.top/4gtv/4gtv-live144
 
