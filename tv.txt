@@ -505,7 +505,7 @@ tvbs歡樂4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv068/index.m3u8?
 八大綜藝4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv039/index.m3u8?proxy=true
 愛達娛樂4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv070/index.m3u8?proxy=true
 
-iptv543,#genre#
+smt央視,#genre#
 
 CCTV-1 综合,http://smt.iptv543.com/Smart.php?id=cctv1
 CCTV-2 财经,http://smt.iptv543.com/Smart.php?id=cctv2
