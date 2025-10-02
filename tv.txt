@@ -287,8 +287,12 @@ TV5MONDE STYLE HD 生活時尚,https://www.4gtv.tv/channel/4gtv-live122?set=1&ch
 
 港澳4Gtv,#genre#
 
+港台4gtv,#genre#
+
 TVBS新聞4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv072/index.m3u8?proxy=true
+TVBS新聞4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv072/index.m3u8?proxy=true
 東森新聞4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv152/index.m3u8?proxy=true
+東森新聞4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv152/index.m3u8?proxy=true
 東森財經4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv153/index.m3u8?proxy=true
 東森財經4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv153/index.m3u8?proxy=true
 民視新聞4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-ftv13/index.m3u8?proxy=true
@@ -296,6 +300,8 @@ TVBS新聞4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv072/index.m3u8?pro
 三立新聞4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live089/index.m3u8?proxy=true
 三立新聞4Gtv,http://xn--elt51t.azip.dpdns.org:5008/iNEWS/index.m3u8?proxy=true
 中天新聞4Gtv,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv009/index.m3u8?proxy=true
+中天新聞4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv009/index.m3u8?proxy=true
+中天新聞4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv009/index.m3u8?proxy=true
 華視新聞4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv052/index.m3u8?proxy=true
 華視新聞4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv052/index.m3u8?proxy=true
 華視新聞4Gtv,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv052/index.m3u8?proxy=true
@@ -306,18 +312,26 @@ TVBS新聞4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv072/index.m3u8?pro
 台視新聞4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv051/index.m3u8?proxy=true
 寰宇閩南4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv156/index.m3u8?proxy=true
 寰宇新聞4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn14/index.m3u8?proxy=true
+寰宇新聞4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn14/index.m3u8?proxy=true
+寰宇新聞4Gtv,http://xn--elt51t.azip.dpdns.org:5008/of-litv-longturn14/index.m3u8?proxy=true
 寰宇財經4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv158/index.m3u8?proxy=true
 寰宇財經4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv158/index.m3u8?proxy=true
 寰宇財經4Gtv,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv158/index.m3u8?proxy=true
 鏡新聞4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv075/index.m3u8?proxy=true
+鏡新聞4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv075/index.m3u8?proxy=true
 非凡新聞4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv010/index.m3u8?proxy=true
 非凡商業4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv048/index.m3u8?proxy=true
 
+華視4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv041/index.m3u8?proxy=true
+華視4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv041/index.m3u8?proxy=true
+華視4Gtv,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv041/index.m3u8?proxy=true
+中視4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv040/index.m3u8?proxy=true
+中視4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv040/index.m3u8?proxy=true
+中視4Gtv,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv040/index.m3u8?proxy=true
+台視4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv066/index.m3u8?proxy=true
+台視4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv066/index.m3u8?proxy=true
 民視4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv002/index.m3u8?proxy=true
 民視4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv155/index.m3u8?proxy=true
-中視4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv040/index.m3u8?proxy=true
-華視4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv041/index.m3u8?proxy=true
-台視4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv066/index.m3u8?proxy=true
 
 民視旅遊4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-ftv07/index.m3u8?proxy=true
 亞洲旅遊4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv076/index.m3u8?proxy=true
@@ -326,46 +340,48 @@ TVBS新聞4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv072/index.m3u8?pro
 ELTA旅遊4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live120/index.m3u8?proxy=true
 霹靂布袋4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live145/index.m3u8?proxy=true
 
-民視影劇4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-ftv09/index.m3u8?proxy=true
-民視綜藝4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv004/index.m3u8?proxy=true
-中視菁採4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv064/index.m3u8?proxy=true
-中視經典4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv080/index.m3u8?proxy=true
-台視財經4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv056/index.m3u8?proxy=true
-
-tvbs閩南4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv073/index.m3u8?proxy=true
-民視台灣4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv001/index.m3u8?proxy=true
-民視第一4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv003/index.m3u8?proxy=true
-tvbs精采4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv067/index.m3u8?proxy=true
-tvbs歡樂4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv068/index.m3u8?proxy=true
-tvbs綜藝4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live087/index.m3u8?proxy=true
-tvbs台劇4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live088/index.m3u8?proxy=true
-八大精彩4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv034/index.m3u8?proxy=true
-八大綜藝4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv039/index.m3u8?proxy=true
-三立綜合4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live207/index.m3u8?proxy=true
-愛達娛樂4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv070/index.m3u8?proxy=true
-靖洋戲劇4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv045/index.m3u8?proxy=true
-靖洋卡通4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv057/index.m3u8?proxy=true
-靖天卡通4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv044/index.m3u8?proxy=true
-靖天綜合4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv046/index.m3u8?proxy=true
 靖天日本4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv047/index.m3u8?proxy=true
+靖天綜合4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv046/index.m3u8?proxy=true
 靖天歡樂4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv054/index.m3u8?proxy=true
-景甜電影4Gtv，http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv055/index.m3u8?proxy=true
+靖天電影4Gtv，http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv055/index.m3u8?proxy=true
 靖天戲劇4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv058/index.m3u8?proxy=true
 靖天電影4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv061/index.m3u8?proxy=true
 靖天育樂4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv062/index.m3u8?proxy=true
 靖天國際4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv063/index.m3u8?proxy=true
 靖天資訊4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv065/index.m3u8?proxy=true
-龍華卡通4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn01/index.m3u8?proxy=true
+靖洋戲劇4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv045/index.m3u8?proxy=true
+靖洋卡通4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv057/index.m3u8?proxy=true
+靖天卡通4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv044/index.m3u8?proxy=true
+
 龍華日韓4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn11/index.m3u8?proxy=true
 龍華偶像4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn12/index.m3u8?proxy=true
 龍華電影4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn03/index.m3u8?proxy=true
 龍華洋片4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn02/index.m3u8?proxy=true
 龍華戲劇4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn18/index.m3u8?proxy=true
 龍華經典4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn21/index.m3u8?proxy=true
+龍華卡通4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn01/index.m3u8?proxy=true
 
 歐洲電影4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live157/index.m3u8?proxy=true
 Amc電影4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv017/index.m3u8?proxy=true
 CINEMA-4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live069/index.m3u8?proxy=true
+
+TVBS 4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv073/index.m3u8?proxy=true
+民視台灣4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv001/index.m3u8?proxy=true
+民視第一4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv003/index.m3u8?proxy=true
+TVBS精采4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv067/index.m3u8?proxy=true
+TVBS歡樂4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv068/index.m3u8?proxy=true
+TVBS綜藝4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live087/index.m3u8?proxy=true
+TVBS台劇4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live088/index.m3u8?proxy=true
+八大精彩4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv034/index.m3u8?proxy=true
+八大綜藝4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv039/index.m3u8?proxy=true
+三立綜合4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live207/index.m3u8?proxy=true
+愛爾達娛樂4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv070/index.m3u8?proxy=true
+民視影劇4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-ftv09/index.m3u8?proxy=true
+民視綜藝4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv004/index.m3u8?proxy=true
+中視菁採4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv064/index.m3u8?proxy=true
+中視經典4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv080/index.m3u8?proxy=true
+台視財經4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv056/index.m3u8?proxy=true
+
 
 博世魅力4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn04/index.m3u8?proxy=true
 博世網球4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn09/index.m3u8?proxy=true
@@ -382,7 +398,6 @@ nick動畫4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live032/index.m3u8?pro
 nick兒童4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live105/index.m3u8?proxy=true
 歷史頻道4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live026/index.m3u8?proxy=true
 國家地理4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live208/index.m3u8?proxy=true
-
 
 第壹商業4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv109/index.m3u8?proxy=true
 影迷紀實4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-ftv15/index.m3u8?proxy=true
@@ -438,19 +453,9 @@ DW-之聲4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live071/index.m3u8?prox
 東森購貳4Gtv,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv103/index.m3u8?proxy=true
 東森購叁4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live048/index.m3u8?proxy=true
 東森購五4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live049/index.m3u8?proxy=true
-中天新聞4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv009/index.m3u8?proxy=true
-中天新聞4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv009/index.m3u8?proxy=true
-東森新聞4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv152/index.m3u8?proxy=true
-tvbs新聞4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv072/index.m3u8?proxy=true
-寰宇新聞4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn14/index.m3u8?proxy=true
-寰宇新聞4Gtv,http://xn--elt51t.azip.dpdns.org:5008/of-litv-longturn14/index.m3u8?proxy=true
-閩鏡新聞4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv075/index.m3u8?proxy=true
 
-華視4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv041/index.m3u8?proxy=true
-華視4Gtv,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv041/index.m3u8?proxy=true
-中視4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv040/index.m3u8?proxy=true
-中視4Gtv,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv040/index.m3u8?proxy=true
-台視4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv066/index.m3u8?proxy=true
+
+
 
 寰宇閩南4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv156/index.m3u8?proxy=true
 寰宇閩南4Gtv,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv156/index.m3u8?proxy=true
