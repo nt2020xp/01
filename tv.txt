@@ -507,25 +507,25 @@ tvbs歡樂4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv068/index.m3u8?
 
 smt央視,#genre#
 
-CCTV-1 综合,http://smt.iptv543.com/Smart.php?id=cctv1
-CCTV-2 财经,http://smt.iptv543.com/Smart.php?id=cctv2
-CCTV-3 综艺,http://smt.iptv543.com/Smart.php?id=cctv3
-CCTV-4 中文国际,http://smt.iptv543.com/Smart.php?id=Cctv4
-CCTV-4 中文国际,http://smt.iptv543.com/Smart.php?id=cctv4
-CCTV-5 体育,http://smt.iptv543.com/Smart.php?id=cctv5
-CCTV-5+ 体育赛事,http://smt.iptv543.com/Smart.php?id=cctv5plus
-CCTV-6 电影,http://smt.iptv543.com/Smart.php?id=cctv6
-CCTV-7 国防军事,http://smt.iptv543.com/Smart.php?id=cctv7
-CCTV-8 电视剧,http://smt.iptv543.com/Smart.php?id=cctv8hd
-CCTV-9 记录,http://smt.iptv543.com/Smart.php?id=cctv9hd
-CCTV-10 科教,http://smt.iptv543.com/Smart.php?id=cctv10hd
-CCTV-11 戏曲,http://smt.iptv543.com/Smart.php?id=cctv11
-CCTV-12 社会与法,http://smt.iptv543.com/Smart.php?id=cctv12
-CCTV-13 新闻,http://smt.iptv543.com/Smart.php?id=cctv13
-CCTV-14 少儿,http://smt.iptv543.com/Smart.php?id=cctv14
-CCTV-15 音乐,http://smt.iptv543.com/Smart.php?id=cctv15
-CCTV-16 奥林匹克,http://smt.iptv543.com/Smart.php?id=cctv16
-CCTV-17 农业农村,http://smt.iptv543.com/Smart.php?id=cctv17
+中国|CCTV-1綜合,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv1
+中国|CCTV-2財經,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv2
+中国|CCTV-3綜藝,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv3
+中国|CCTV-4中文國際,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv4
+中国|CCTV5體育,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv5
+中国|CCTV-6電影,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv6
+中国|CCTV-7國防軍事,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv7
+中国|CCTV-8電視劇,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv8hd
+中国|CCTV-9紀錄,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv9hd
+中国|CCTV-10科教,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv10hd
+中国|CCTV-11戲曲,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv11
+中国|CCTV-12社會與法,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv12
+中国|CCTV-13新聞,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv13
+中国|CCTV-14少兒,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv14
+中国|CCTV-15音樂,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv15
+中国|CCTV-16奧林匹克,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv16
+中国|CCTV-17農業農村,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv17
+
+
 
 江苏卫视,http://smt.iptv543.com/Smart.php?id=jiangsu_twn
 浙江卫视,http://smt.iptv543.com/Smart.php?id=zhejiang_twn
