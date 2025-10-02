@@ -898,6 +898,7 @@ TVBS HD,http://220.134.196.147:8570/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
 中国|CCTV-4 中文国际,http://smt.iptv543.com/Smart.php?id=Cctv4
 中国|CCTV-4 中文国际,http://smt.iptv543.com/Smart.php?id=cctv4
 中国|CCTV-5 体育,http://smt.iptv543.com/Smart.php?id=cctv5
+中国|CCTV-5+ 体育赛事,http://smt.iptv543.com/Smart.php?id=cctv5plus
 中国|CCTV-6 电影,http://smt.iptv543.com/Smart.php?id=cctv6
 中国|CCTV-7 国防军事,http://smt.iptv543.com/Smart.php?id=cctv7
 中国|CCTV-8 电视剧,http://smt.iptv543.com/Smart.php?id=cctv8hd
@@ -910,7 +911,7 @@ TVBS HD,http://220.134.196.147:8570/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
 中国|CCTV-15 音乐,http://smt.iptv543.com/Smart.php?id=cctv15
 中国|CCTV-16 奥林匹克,http://smt.iptv543.com/Smart.php?id=cctv16
 中国|CCTV-17 农业农村,http://smt.iptv543.com/Smart.php?id=cctv17
-中国|CCTV-5+ 体育赛事,http://smt.iptv543.com/Smart.php?id=cctv5plus
+
 中国|湖南卫视,http://smt.iptv543.com/Smart.php?id=hunan_twn
 中国|浙江卫视,http://smt.iptv543.com/Smart.php?id=zhejiang_twn
 中国|江苏卫视,http://smt.iptv543.com/Smart.php?id=jiangsu_twn
