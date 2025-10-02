@@ -1,8 +1,10 @@
 https://fanmingming.com/txt?url=
 
-直播源  https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/4GTV免費擼.m3u
+judy直播源  https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/4gtv.m3u
 
-直播源  https://github.com/cxr9912/cxr2025/blob/main/4GTV免費擼.m3u
+litv直播源  https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/4GTV免費擼.m3u
+
+litv直播源  https://github.com/cxr9912/cxr2025/blob/main/4GTV免費擼.m3u
 
 柯南劇場版,http://iptv.jxpan.vip:18888/aio/huya/30080236
 
