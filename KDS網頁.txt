@@ -1,5 +1,5 @@
 KDS網頁,#genre#
-js=xt
+parse=1
 
 1綜合,https://www.kds.tw/tv/china-tv-channels-online/cctv-general-channel
 2財經,https://www.kds.tw/tv/china-tv-channels-online/cctv-economic-life-and-service-channel
