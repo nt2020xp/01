@@ -526,8 +526,8 @@ smt央視,#genre#
 16奧林匹克,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv16
 17農業農村,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=cctv17
 
-中国|江蘇衛視,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=jiangsu_twn
-中国|浙江衛視,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=zhejiang_twn
-中国|湖南衛視,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=hunan_twn
-中国|北京衛視,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=beijing
-中国|東方衛視,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=dongfangweishi_twn
+江蘇衛視,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=jiangsu_twn
+浙江衛視,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=zhejiang_twn
+湖南衛視,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=hunan_twn
+北京衛視,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=beijing
+東方衛視,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=dongfangweishi_twn
