@@ -1,3 +1,7 @@
+https://fanmingming.com/txt?url=
+
+直播源  https://fanmingming.com/txt?url=https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/4GTV免費擼.m3u
+
 直播源  https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/4GTV免費擼.m3u
 
 直播源  https://github.com/cxr9912/cxr2025/blob/main/4GTV免費擼.m3u
