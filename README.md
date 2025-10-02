@@ -1,3 +1,5 @@
+直播源  https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/4GTV%E5%85%8D%E8%B2%BB%E6%93%BC.m3u
+
 柯南劇場版,http://iptv.jxpan.vip:18888/aio/huya/30080236
 
 蠟筆小新,http://iptv.jxpan.vip:18888/aio/huya/11352970
