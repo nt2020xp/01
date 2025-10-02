@@ -6,7 +6,7 @@
 
 哆啦A夢,http://iptv.jxpan.vip:18888/aio/huya/11601963
 
-還棉寶寶,http://iptv.jxpan.vip:18888/aio/huya/11352919
+海棉寶寶,http://iptv.jxpan.vip:18888/aio/huya/11352919
 
 七龍珠,http://iptv.jxpan.vip:18888/aio/huya/11601966
 
@@ -18,7 +18,7 @@
 
 哆啦A夢,https://live.ottiptv.cc/huya/11601963
 
-還棉寶寶,https://live.ottiptv.cc/huya/11352919
+海棉寶寶,https://live.ottiptv.cc/huya/11352919
 
 七龍珠,https://live.ottiptv.cc/huya/11601966
 
