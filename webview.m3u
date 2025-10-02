@@ -1193,7 +1193,7 @@ http://220.134.196.147:8525/http/61.219.99.20:8081/hls/63/805/ch11.m3u8
 #EXTINF:-1 tvg-name="寰宇新聞" tvg-logo="https://live.fanmingming.cn/tv/寰宇新聞.png" group-title="tv543",寰宇新聞
 http://220.134.196.147:8548/http/61.219.99.20:8081/hls/76/818/ch62.m3u8
 #EXTINF:-1 tvg-name="壹新聞" tvg-logo="https://live.fanmingming.cn/tv/壹新聞.png" group-title="tv543",壹新聞
-#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
+
 #EXTINF:-1 tvg-name="中国|CCTV1" tvg-logo="https://live.fanmingming.cn/tv/中国|CCTV1.png" group-title="tv543",中国|CCTV-1 综合
 http://smt.iptv543.com/Smart.php?id=cctv1
 #EXTINF:-1 tvg-name="中国|CCTV2" tvg-logo="https://live.fanmingming.cn/tv/中国|CCTV2.png" group-title="tv543",中国|CCTV-2 财经
@@ -1232,16 +1232,17 @@ http://smt.iptv543.com/Smart.php?id=cctv15
 http://smt.iptv543.com/Smart.php?id=cctv16
 #EXTINF:-1 tvg-name="中国|CCTV17" tvg-logo="https://live.fanmingming.cn/tv/中国|CCTV17.png" group-title="tv543",中国|CCTV-17 农业农村
 http://smt.iptv543.com/Smart.php?id=cctv17
-#EXTINF:-1 tvg-name="中国|湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/中国|湖南卫视.png" group-title="tv543",中国|湖南卫视
-http://smt.iptv543.com/Smart.php?id=hunan_twn
-#EXTINF:-1 tvg-name="中国|浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/中国|浙江卫视.png" group-title="tv543",中国|浙江卫视
-http://smt.iptv543.com/Smart.php?id=zhejiang_twn
+
 #EXTINF:-1 tvg-name="中国|江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/中国|江苏卫视.png" group-title="tv543",中国|江苏卫视
 http://smt.iptv543.com/Smart.php?id=jiangsu_twn
-#EXTINF:-1 tvg-name="中国|东方卫视" tvg-logo="https://live.fanmingming.cn/tv/中国|东方卫视.png" group-title="tv543",中国|东方卫视
-http://smt.iptv543.com/Smart.php?id=dongfangweishi_twn
+#EXTINF:-1 tvg-name="中国|浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/中国|浙江卫视.png" group-title="tv543",中国|浙江卫视
+http://smt.iptv543.com/Smart.php?id=zhejiang_twn
+#EXTINF:-1 tvg-name="中国|湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/中国|湖南卫视.png" group-title="tv543",中国|湖南卫视
+http://smt.iptv543.com/Smart.php?id=hunan_twn
 #EXTINF:-1 tvg-name="中国|北京卫视" tvg-logo="https://live.fanmingming.cn/tv/中国|北京卫视.png" group-title="tv543",中国|北京卫视
 http://smt.iptv543.com/Smart.php?id=beijing
+#EXTINF:-1 tvg-name="中国|东方卫视" tvg-logo="https://live.fanmingming.cn/tv/中国|东方卫视.png" group-title="tv543",中国|东方卫视
+http://smt.iptv543.com/Smart.php?id=dongfangweishi_twn
 #EXTINF:-1 tvg-name="中国|深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/中国|深圳卫视.png" group-title="tv543",中国|深圳卫视
 http://smt.iptv543.com/Smart.php?id=shenzhen
 #EXTINF:-1 tvg-name="中国|广东卫视" tvg-logo="https://live.fanmingming.cn/tv/中国|广东卫视.png" group-title="tv543",中国|广东卫视
