@@ -1,3 +1,5 @@
+Gather頻道,#genre#
+
 CCTV 1 综合「回看」,https://tv.iill.top/migu-1/cctv1
 CCTV 2 财经「回看」,https://tv.iill.top/migu-1/cctv2
 CCTV 3 综艺「回看」,https://tv.iill.top/migu-1/cctv3
