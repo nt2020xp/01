@@ -20,6 +20,7 @@ function main(item) {
     'iptv345.com': { contains: 'iptv200.com/play.php?token=' },  // iptv345.com 域名匹配，包含特定的 URL
     'cntv.cn': { container: '.video-container, video', contains: '.m3u8,.mp4' },  // miguvideo.com 匹配，提取视频容器和支持的格式
     'cctv.com': { container: '.video-container, video', contains: '.m3u8,.mp4' }  // miguvideo.com 匹配，提取视频容器和支持的格式  
+    'kds.tw': { contains: '.m3u8' },  // kds.tw 域名匹配，包含 .m3u8 格式的视频
   };
 
   // 遍历 `fieldMaps` 对象中的每个域名规则
