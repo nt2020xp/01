@@ -1,3 +1,27 @@
+柯南劇場版,http://iptv.jxpan.vip:18888/aio/huya/30080236
+
+蠟筆小新,http://iptv.jxpan.vip:18888/aio/huya/11352970
+
+櫻桃小丸子,http://iptv.jxpan.vip:18888/aio/huya/11342394
+
+哆啦A夢,http://iptv.jxpan.vip:18888/aio/huya/11601963
+
+還棉寶寶,http://iptv.jxpan.vip:18888/aio/huya/11352919
+
+七龍珠,http://iptv.jxpan.vip:18888/aio/huya/11601966
+
+柯南劇場版,https://live.ottiptv.cc/huya/30080236
+
+蠟筆小新,https://live.ottiptv.cc/huya/11352970
+
+櫻桃小丸子,https://live.ottiptv.cchuya/11342394
+
+哆啦A夢,https://live.ottiptv.cc/huya/11601963
+
+還棉寶寶,https://live.ottiptv.cc/huya/11352919
+
+七龍珠,https://live.ottiptv.cc/huya/11601966
+
 虎牙  https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/huyayqk.m3u
 
 
