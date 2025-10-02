@@ -19,8 +19,7 @@ function main(item) {
     'douyin.com': { contains: '.flv' },  // douyin.com 域名匹配，包含 .flv 格式的视频
     'iptv345.com': { contains: 'iptv200.com/play.php?token=' },  // iptv345.com 域名匹配，包含特定的 URL
     'cntv.cn': { container: '.video-container, video', contains: '.m3u8,.mp4' },  // miguvideo.com 匹配，提取视频容器和支持的格式
-    'cctv.com': { container: '.video-container, video', contains: '.m3u8,.mp4' }  // miguvideo.com 匹配，提取视频容器和支持的格式
-    'www.kds.tw': { container: '.video-container, video', contains: '.m3u8,.mp4' },  // www.kds.tw 匹配，提取视频容器和支持的格式
+    'cctv.com': { container: '.video-container, video', contains: '.m3u8,.mp4' }  // miguvideo.com 匹配，提取视频容器和支持的格式  
   };
 
   // 遍历 `fieldMaps` 对象中的每个域名规则
