@@ -110,6 +110,7 @@ smt  66.90.99.154
 
 增加一下央视新闻客户端的，画质很不错！
 
+央視新聞,#genre#
 
 cctv1,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
 
