@@ -1,7 +1,10 @@
-必備直播源  https://tv.iill.top/m3u/Gather
+必備直播源1  https://tv.iill.top/m3u/Gather
 
 ua        okhttp
 
+必備直播源2  https://3043.kstore.space/bhvip/bh/bh2.json
+
+==============================================================
 
 https://fanmingming.com/txt?url=
 
