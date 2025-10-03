@@ -6,7 +6,7 @@ ua        okhttp
 
 ==============================================================
 
-https://fanmingming.com/txt?url=
+https://fanmingming.com/txt?url=https://tv.iill.top/m3u/Gather
 
 直播源  https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/港澳4Gtv..txt
 
