@@ -1,3 +1,8 @@
+必備直播源  https://tv.iill.top/m3u/Gather
+
+ua        okhttp
+
+
 https://fanmingming.com/txt?url=
 
 直播源  https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/港澳4Gtv..txt
