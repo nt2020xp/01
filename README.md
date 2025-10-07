@@ -1,3 +1,11 @@
+好小子  https://comic.acgn.cc/manhua-haoxiaozi.htm
+
+漂流教室  https://comic.acgn.cc/manhua-pljs.htm
+
+陸地沉沒記  https://comic.acgn.cc/manhua-ludichenmo.htm
+
+
+
 必備直播源1  https://tv.iill.top/m3u/Gather
 
 ua        okhttp
