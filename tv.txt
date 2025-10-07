@@ -489,3 +489,17 @@ smt央視,#genre#
 北京衛視,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=beijing
 東方衛視,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=dongfangweishi_twn
 
+美女或野獸,#genre#
+
+第1集,https://vip.dytt-tv.com/20250825/36325_3cb7e8f6/3000k/hls/mixed.m3u8
+第2集,https://vip.dytt-tv.com/20250825/36326_531a7a57/3000k/hls/mixed.m3u8
+第3集,https://vip.dytt-tv.com/20250825/36327_f5c317aa/3000k/hls/mixed.m3u8
+第4集,https://vip.dytt-tv.com/20250825/36328_0b6b193b/3000k/hls/mixed.m3u8
+第5集,https://vip.dytt-tv.com/20250825/36329_207750f9/3000k/hls/mixed.m3u8
+第6集,https://vip.dytt-tv.com/20250825/36330_6eeff401/3000k/hls/mixed.m3u8
+第7集,https://vip.dytt-tv.com/20250825/36331_cd3b1a52/3000k/hls/mixed.m3u8
+第8集,https://vip.dytt-tv.com/20250825/36332_af93c9db/3000k/hls/mixed.m3u8
+第9集,https://vip.dytt-tv.com/20250825/36333_3c8de217/3000k/hls/mixed.m3u8
+第10集,https://vip.dytt-tv.com/20250825/36334_dc3471f7/3000k/hls/mixed.m3u8
+第11集,https://vip.dytt-tv.com/20250825/36335_ccf2c17d/3000k/hls/mixed.m3u8
+
