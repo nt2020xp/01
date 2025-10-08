@@ -1,3 +1,5 @@
+epg  https://epg.iill.top/epg
+
 5008直播源 http://晓峰.azip.dpdns.org:5008/?type=m3u
 
 直播源 https://live.catvod.com/tv.m3u
