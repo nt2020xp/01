@@ -1,3 +1,7 @@
+5008直播源 http://晓峰.azip.dpdns.org:5008/?type=m3u
+
+直播源 https://live.catvod.com/tv.m3u
+
 好小子  https://comic.acgn.cc/manhua-haoxiaozi.htm
 
 漂流教室  https://comic.acgn.cc/manhua-pljs.htm
