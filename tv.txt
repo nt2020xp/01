@@ -2,8 +2,6 @@
 
 東森幼幼,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=yoyo_twn
 
-
-
 柯南劇場版,http://iptv.jxpan.vip:18888/aio/huya/30080236
 蠟筆小新,http://iptv.jxpan.vip:18888/aio/huya/11352970
 櫻桃小丸子,http://iptv.jxpan.vip:18888/aio/huya/11342394
@@ -64,7 +62,18 @@ TVBS新聞,http://2025.koyeb.app/9.php?id=4gtv-4gtv072
 高雄蓮池潭,https://www.youtube.com/watch?v=BnPoNatG-HE
 淡水漁人碼頭,https://www.youtube.com/watch?v=xwAWSh35uuw
 
-
+1綜合,http://www.kaniptv.cn/mk.php?ip=113.0.131.67:8014&id=cctv1
+2財經,http://www.kaniptv.cn/mk.php?ip=113.0.131.67:8014&id=cctv2
+6電影,http://www.kaniptv.cn/mk.php?ip=113.0.131.67:8014&id=cctv6
+8電視劇,http://www.kaniptv.cn/mk.php?ip=113.0.131.67:8014&id=cctv8
+9紀錄,http://www.kaniptv.cn/mk.php?ip=113.0.131.67:8014&id=cctv9
+10科教,http://www.kaniptv.cn/mk.php?ip=113.0.131.67:8014&id=cctv10
+13新聞,http://www.kaniptv.cn/mk.php?ip=113.0.131.67:8014&id=cctv13
+江蘇衛視,http://www.kaniptv.cn/mk.php?ip=113.0.131.67:8014&id=jsws
+浙江衛視,http://www.kaniptv.cn/mk.php?ip=113.0.131.67:8014&id=zjws
+湖南衛視,http://www.kaniptv.cn/mk.php?ip=113.0.131.67:8014&id=hunanws
+北京衛視,http://www.kaniptv.cn/mk.php?ip=113.0.131.67:8014&id=bjws
+東方衛視,http://www.kaniptv.cn/mk.php?ip=113.0.131.67:8014&id=dfws
 靖天龍華,#genre#
 
 靖天日本台,http://2025.koyeb.app/8964.php?id=4gtv-4gtv047
