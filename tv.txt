@@ -104,7 +104,6 @@ TVBS新聞,http://2025.koyeb.app/9.php?id=4gtv-4gtv072
 Smart知識台,http://2025.koyeb.app/8964.php?id=litv-longturn19
 
 ELTA生活旅遊,http://4gtv.korice.eu.org/4gtv-live120/index.m3u8
-三立iNEWS,http://4gtv.korice.eu.org/iNEWS/index.m3u8
 
 日本新聞,#genre#
 
@@ -251,8 +250,6 @@ TV5MONDE STYLE HD 生活時尚,https://www.4gtv.tv/channel/4gtv-live122?set=1&ch
 豬哥亮歌廳秀,https://www.4gtv.tv/channel/4gtv-4gtv006?set=1&ch=113
 戲劇免費看 1台,https://www.4gtv.tv/channel/4gtv-live010?set=1&ch=270
 
-
-自然傳奇,https://tv.cctv.com/2025/10/07/VIDELIRAmJ6ZuWmlc9sBAXmI251007.shtml?spm=C59377.Pv4DIxy5Hhz9.EJQAkvPHoQKP.42
 
 秒開4gtv,#genre#
 
