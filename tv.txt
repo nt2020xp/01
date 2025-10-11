@@ -78,7 +78,7 @@ TVBS新聞,http://2025.koyeb.app/9.php?id=4gtv-4gtv072
 13新聞,http://www.kaniptv.cn/mk.php?ip=113.0.131.67:8014&id=cctv13
 14少兒,http://www.kaniptv.cn/mk.php?ip=113.0.131.67:8014&id=cctv14
 15音樂,http://www.kaniptv.cn/mk.php?ip=113.0.131.67:8014&id=cctv15
-16奧林匹克,http://www.kaniptv.cn/mk.php?ip=113.0.131.67:8014&id=cctv16
+16奧林匹克,http://www.kaniptv.cn/mk.php?ip=113.0.131.67:8014&id=custom11
 17農業農村,http://www.kaniptv.cn/mk.php?ip=113.0.131.67:8014&id=cctv17
 
 江蘇衛視,http://www.kaniptv.cn/mk.php?ip=113.0.131.67:8014&id=jsws
