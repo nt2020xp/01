@@ -51,32 +51,12 @@ TVBS新聞,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv072/index.m3u8?proxy=t
 
 靖天龍華,#genre#
 
-靖天日本台,http://2025.koyeb.app/8964.php?id=4gtv-4gtv047
-靖天育樂台,http://2025.koyeb.app/8964.php?id=4gtv-4gtv062
-靖天映畫台,http://2025.koyeb.app/8964.php?id=4gtv-4gtv055
-靖天國際台,http://2025.koyeb.app/8964.php?id=4gtv-4gtv063
-靖天資訊台,http://2025.koyeb.app/8964.php?id=4gtv-4gtv065
-靖天電影台,http://2025.koyeb.app/8964.php?id=4gtv-4gtv061
-靖天綜合台,http://2025.koyeb.app/8964.php?id=4gtv-4gtv046
-靖天戲劇台,http://2025.koyeb.app/8964.php?id=4gtv-4gtv058
-靖天歡樂台,http://2025.koyeb.app/8964.php?id=4gtv-4gtv054
-靖洋戲劇台,http://2025.koyeb.app/8964.php?id=4gtv-4gtv045
 
-龍華電影台,http://2025.koyeb.app/8964.php?id=litv-longturn03
-龍華洋片台,http://2025.koyeb.app/8964.php?id=litv-longturn02
-龍華經典台,http://2025.koyeb.app/8964.php?id=litv-longturn21
-龍華日韓台,http://2025.koyeb.app/8964.php?id=litv-longturn11
-龍華偶像台,http://2025.koyeb.app/8964.php?id=litv-longturn12
-龍華戲劇台,http://2025.koyeb.app/8964.php?id=litv-longturn18
-
-華視,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=ctshd_twn
-中視,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=zhongshihd_twn
+華視,
+中視,
 台視,https://www.youtube.com/live/uDqQo8a7Xmk
-民視,http://adorable-davita-2d133c54.koyeb.app/smt.php?id=ftvhd_taiwan
+民視,
 
-民視旅遊台,http://2025.koyeb.app/8964.php?id=litv-ftv07
-亞洲旅遊台,http://2025.koyeb.app/8964.php?id=4gtv-4gtv076
-Smart知識台,http://2025.koyeb.app/8964.php?id=litv-longturn19
 
 日本新聞,#genre#
 
