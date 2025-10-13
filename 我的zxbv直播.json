@@ -1,0 +1,10 @@
+{
+  "lives": [
+    {
+      "name": "我的zxbv直播",
+      "type": 3,
+      "api": "./zxbv.py",
+      "ext": {}
+    }
+  ]
+}
