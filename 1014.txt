@@ -1,8 +1,5 @@
 1014,#genre#
 
-GINX Esports TV,http://hilarious-merrile-bbb63fe.koyeb.app/4gtv-4gtv053/index.m3u8
-GINX Esports TV,http://hilarious-merrile-bbb63fe.koyeb.app/li-4gtv-4gtv053/index.m3u8
-Lifetime,http://hilarious-merrile-bbb63fe.koyeb.app/4gtv-live029/index.m3u8
 amc 電影台,http://hilarious-merrile-bbb63fe.koyeb.app/4gtv-4gtv017/index.m3u8
 amc 電影台,http://hilarious-merrile-bbb63fe.koyeb.app/li-4gtv-4gtv017/index.m3u8
 Arirang TV,http://hilarious-merrile-bbb63fe.koyeb.app/4gtv-4gtv079/index.m3u8
@@ -23,9 +20,12 @@ ELTV生活英語台,http://hilarious-merrile-bbb63fe.koyeb.app/litv-longturn20/i
 ELTV生活英語台,http://hilarious-merrile-bbb63fe.koyeb.app/of-litv-longturn20/index.m3u8
 FRANCE24 英文台,http://hilarious-merrile-bbb63fe.koyeb.app/4gtv-live146/index.m3u8
 FUN 4K探索娛樂,http://hilarious-merrile-bbb63fe.koyeb.app/4gtv-live011/index.m3u8
+GINX Esports TV,http://hilarious-merrile-bbb63fe.koyeb.app/4gtv-4gtv053/index.m3u8
+GINX Esports TV,http://hilarious-merrile-bbb63fe.koyeb.app/li-4gtv-4gtv053/index.m3u8
 Global Trekker,http://hilarious-merrile-bbb63fe.koyeb.app/4gtv-live112/index.m3u8
 HITS,http://hilarious-merrile-bbb63fe.koyeb.app/4gtv-live620/index.m3u8
 INULTRA,http://hilarious-merrile-bbb63fe.koyeb.app/4gtv-live096/index.m3u8
+Lifetime,http://hilarious-merrile-bbb63fe.koyeb.app/4gtv-live029/index.m3u8
 LiveABC 互動英語台,http://hilarious-merrile-bbb63fe.koyeb.app/4gtv-live030/index.m3u8
 LOVE NATURE,http://hilarious-merrile-bbb63fe.koyeb.app/4gtv-live208/index.m3u8
 LUXE TV,http://hilarious-merrile-bbb63fe.koyeb.app/4gtv-live121/index.m3u8
@@ -234,6 +234,9 @@ VOA 美國之音,http://hilarious-merrile-bbb63fe.koyeb.app/litv-ftv03/index.m3u
 鏡電視新聞台,http://hilarious-merrile-bbb63fe.koyeb.app/4gtv-4gtv075/index.m3u8
 鏡電視新聞台,http://hilarious-merrile-bbb63fe.koyeb.app/li-4gtv-4gtv075/index.m3u8
 霹靂布袋戲,http://hilarious-merrile-bbb63fe.koyeb.app/4gtv-live145/index.m3u8
+
+
+
 
 
 倪珍播新聞,http://hilarious-merrile-bbb63fe.koyeb.app/nnews-zh/index.m3u8
