@@ -1,3 +1,12 @@
+龍貓國語,https://xgct-video.vzcdn.net/46bc39c7-1d8c-4526-9e63-2e83a64d0d6c/842x480/video.m3u8
+
+千與千尋國語,https://xgct-video.vzcdn.net/99d3a8f8-750b-446e-ad2d-43db9ddc31ee/842x480/video.m3u8
+
+元素方程式國語,https://vv.jisuzyv.com/play/Qe1NWXZa/index.m3u8
+
+鐵達尼號國語,https://play.hhuus.com/play/zbqzXgDd/index.m3u8
+
+
 epg  https://epg.iill.top/epg
 
 5008直播源 http://晓峰.azip.dpdns.org:5008/?type=m3u
