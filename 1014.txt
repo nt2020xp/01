@@ -1,5 +1,4 @@
-
-
+1014,#genre#
 
 民視第一台,http://hilarious-merrile-bbb63fe.koyeb.app/4gtv-4gtv003/index.m3u8
 民視台灣台,http://hilarious-merrile-bbb63fe.koyeb.app/4gtv-4gtv001/index.m3u8
