@@ -51,7 +51,7 @@ TVBS新聞,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv072/index.m3u8?prox
 寰宇新聞,http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn14/index.m3u8?proxy=true
 寰宇新聞,http://xn--elt51t.azip.dpdns.org:5008/of-litv-longturn14/index.m3u8?proxy=true
 
-中文國際亞洲,https://www.youtube.com/watch?v=SdzewdkJa-o
+中文國際亞洲,https://www.youtube.com/watch?v=7j92Myu2wzg
 中文國際美洲,https://www.youtube.com/watch?v=f6Kq93wnaZ8
 瑞芳九份,https://www.youtube.com/watch?v=XSD5ptYisw8
 象山看台北,https://www.youtube.com/watch?v=z_fY1pj1VBw
