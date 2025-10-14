@@ -1,11 +1,5 @@
 Gather頻道,#genre#
 
-免費訂閲：請勿販賣...,https://epg.iill.top/v/302.mp4
-維護時間：2025-9-15 #佛系維護...,https://epg.iill.top/v/301.mp4
-維護内容：維護 Gather「维护 •央卫「海外」"」,https://epg.iill.top/v/302.mp4
-公告说明：推流源·「隨時拉閘 / 晚安"0-6"」,https://epg.iill.top/v/301.mp4
-限制條件：請保持 訂閲IP 與 觀看IP 一致,https://epg.iill.top/v/302.mp4
-Fashion 4K「时尚」,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 CCTV 1 综合「回看」,https://tv.iill.top/migu-1/cctv1
 CCTV 2 财经「回看」,https://tv.iill.top/migu-1/cctv2
 CCTV 3 综艺「回看」,https://tv.iill.top/migu-1/cctv3
