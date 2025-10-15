@@ -5,7 +5,7 @@ catvod Live_Smart代理源訂閱     https://live.catvod.com/tv.m3u
 
 直播源  http://220.132.15.209:5008/?type=m3u
 
-直播源 https://live.catvod.com/tv.m3u
+直播源 https://fanmingming.com/txt?url=https://live.catvod.com/tv.m3u
 
 直播源 https://tv.iill.top/m3u/Gather
 
