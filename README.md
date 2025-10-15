@@ -1,3 +1,7 @@
+櫻桃小丸子（Chibi Maruko-chan）第1-3季【國語】
+
+https://www.xgcartoon.com/detail/yingtaoxiaowanzi_di1jiguoyu-zhishannu
+
 4gtv,#genre#
 
 parse=1
