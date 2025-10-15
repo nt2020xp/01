@@ -1,3 +1,8 @@
+蠟筆小新 第1-10季【國語】
+
+https://www.xgcartoon.com/detail/labixiaoxin_di1-10jiguoyu-jiujingyiren__CFUq7h
+
+
 櫻桃小丸子（Chibi Maruko-chan）第1-3季【國語】
 
 https://www.xgcartoon.com/detail/yingtaoxiaowanzi_di1jiguoyu-zhishannu
