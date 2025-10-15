@@ -1,4 +1,5 @@
 4gtv,#genre#
+
 parse=1
 
 catvod Live_Smart代理源訂閱     https://live.catvod.com/tv.m3u
