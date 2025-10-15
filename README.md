@@ -1,3 +1,5 @@
+直播源  https://major-kaela-9c6a176c.koyeb.app/?type=m3u
+
 蠟筆小新 第1-10季【國語】
 
 https://www.xgcartoon.com/detail/labixiaoxin_di1-10jiguoyu-jiujingyiren__CFUq7h
