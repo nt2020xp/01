@@ -265,7 +265,6 @@ Focus探索新知台,http://192.168.1.2:50007/ofiii82/index.m3u8
 演唱會直擊,http://192.168.1.2:50007/ofiii91/index.m3u8
 健康問良醫,http://192.168.1.2:50007/ofiii92/index.m3u8
 ASMR行車紀錄,http://192.168.1.2:50007/ofiii94/index.m3u8
-Freeman ,台灣
 饕客揪愛吃,http://192.168.1.2:50007/ofiii96/index.m3u8
 人氣動漫預告,http://192.168.1.2:50007/ofiii97/index.m3u8
 銀髮聚樂部,http://192.168.1.2:50007/ofiii99/index.m3u8
