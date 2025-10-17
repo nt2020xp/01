@@ -1,3 +1,11 @@
+直播源訂閱1
+
+http://220.132.15.209:5008/?type=txt
+
+直播源訂閱2
+
+http://220.132.15.209:5008/?type=m3u
+
 直播源  https://major-kaela-9c6a176c.koyeb.app/?type=m3u
 
 蠟筆小新 第1-10季【國語】
