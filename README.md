@@ -1,3 +1,21 @@
+央視新聞,#genre#
+
+cctv1,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
+
+cctv2,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103
+
+cctv4,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952
+
+cctv7,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=8516529981177953694
+
+cctv9,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=7252237247689203957
+
+cctv10,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=14589146016461298119
+
+cctv13,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228
+
+cctv4k,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=2127841942201075403
+
 直播源訂閱1
 
 http://220.132.15.209:5008/?type=txt
