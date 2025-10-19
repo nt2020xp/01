@@ -291,10 +291,6 @@ TBS NEWS DIG,https://www.youtube.com/live/Anr15FA9OCI?si=ZyLCFkpVCpC9tQ-N
 櫻島火山(遠看),https://www.youtube.com/watch?v=eF9PohrRP_o
 櫻島火山(近看),https://www.youtube.com/watch?v=PeElJClXtzE
 
-220,#genre#
-
-
-
 KDS網頁,#genre#
 parse=1
 
