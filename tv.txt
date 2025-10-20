@@ -3617,3 +3617,229 @@ TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
 
 
+CCTV 1 综合「回看」,https://tv.iill.top/migu-1/cctv1
+CCTV 2 财经「回看」,https://tv.iill.top/migu-1/cctv2
+CCTV 3 综艺「回看」,https://tv.iill.top/migu-1/cctv3
+CCTV 4 中文国际「回看」,https://tv.iill.top/migu-1/cctv4
+CCTV 4 中文国际·美洲「回看」,https://tv.iill.top/migu-1/cctv4m
+CCTV 4 中文国际·欧洲「回看」,https://tv.iill.top/migu-1/cctv4o
+CCTV 5 体育「回看」,https://tv.iill.top/migu-1/cctv5
+CCTV 5+ 体育赛事「回看」,https://tv.iill.top/migu-1/cctv5+
+CCTV 6 电影「回看」,https://tv.iill.top/migu-1/cctv6
+CCTV 7 国防军事「回看」,https://tv.iill.top/migu-1/cctv7
+CCTV 8 电视剧「回看」,https://tv.iill.top/migu-1/cctv8
+CCTV 9 纪录「回看」,https://tv.iill.top/migu-1/cctv9
+CCTV 10 科教「回看」,https://tv.iill.top/migu-1/cctv10
+CCTV 11 戏曲「回看」,https://tv.iill.top/migu-1/cctv11
+CCTV 12 社会与法「回看」,https://tv.iill.top/migu-1/cctv12
+CCTV 13 新闻「回看」,https://tv.iill.top/migu-1/cctv13
+CCTV 14 少儿「回看」,https://tv.iill.top/migu-1/cctv14
+CCTV 15 音乐「回看」,https://tv.iill.top/migu-1/cctv15
+CCTV 17 农村农业「回看」,https://tv.iill.top/migu-1/cctv17
+
+江苏卫视,https://tv.iill.top/migu-1/jsws
+浙江卫视,https://tv.iill.top/migu/zjws
+湖南卫视,https://tv.iill.top/migu/hnws
+东方卫视,https://tv.iill.top/migu-1/dfws
+广东卫视,https://tv.iill.top/migu-1/gdws
+江西卫视,https://tv.iill.top/migu-1/jxws
+陕西卫视,https://tv.iill.top/migu-1/sxws
+湖北卫视,https://tv.iill.top/migu-1/hubws
+东南卫视,https://tv.iill.top/migu-1/dnws
+海峡卫视,https://tv.iill.top/migu-1/hxws
+辽宁卫视,https://tv.iill.top/migu/lnws
+CHC 影迷电影「回看」,https://tv.iill.top/migu-1/chcym
+CHC 动作电影「回看」,https://tv.iill.top/migu-1/chcdz
+CHC 家庭影院「回看」,https://tv.iill.top/migu-1/chcjt
+四海钓鱼,https://tv.iill.top/migu-1/shdy
+上海新闻综合「回看」,https://tv.iill.top/migu-1/shxw
+上视东方影视「回看」,https://tv.iill.top/migu-1/shys
+新片放映「回看」,https://tv.iill.top/migu-1/xpfy
+高清大片「回看」,https://tv.iill.top/migu-1/gqdp
+高能悬疑「回看」,https://tv.iill.top/migu-1/gnxy
+经典香港电影「回看」,https://tv.iill.top/migu-1/hkdy
+抗战经典影片「回看」,https://tv.iill.top/migu-1/kzjd
+血色山河·抗日战争影像志「回看」,https://tv.iill.top/migu-1/xssh
+
+
+CCTV 1 综合,https://tv.iill.top/x/cctv1
+CCTV 2 财经,https://tv.iill.top/x/cctv2
+CCTV 3 综艺,https://tv.iill.top/x/cctv3
+CCTV 4 中文国际,https://tv.iill.top/x/cctv4
+CCTV 5 体育,https://tv.iill.top/x/cctv5
+CCTV 5+ 体育赛事,https://tv.iill.top/x/cctv5+
+CCTV 6 电影,https://tv.iill.top/x/cctv6
+CCTV 8 电视剧,https://tv.iill.top/x/cctv8
+CCTV 9 纪录,https://tv.iill.top/x/cctv9
+CCTV 13 新闻,https://tv.iill.top/x/cctv13
+CCTV 16 奥林匹克,https://tv.iill.top/x/cctv16
+北京卫视 ,https://tv.iill.top/x/bjws
+江苏卫视 ,https://tv.iill.top/x/jsws
+东方卫视 ,https://tv.iill.top/x/dfws
+湖南卫视 ,https://tv.iill.top/x/hnws
+浙江卫视 ,https://tv.iill.top/x/zjws
+广东卫视 ,https://tv.iill.top/x/gdws
+
+
+ 東森新聞「LiTV」,https://tv.iill.top/litv/4gtv-4gtv152
+ 東森財經「LiTV」,https://tv.iill.top/litv/4gtv-4gtv153
+ TVBS「LiTV」,https://tv.iill.top/litv/4gtv-4gtv073
+ TVBS 新聞「LiTV」,https://tv.iill.top/litv/4gtv-4gtv072
+ TVBS 歡樂「LiTV」,https://tv.iill.top/litv/4gtv-4gtv068
+ TVBS 精采「LiTV」,https://tv.iill.top/litv/4gtv-4gtv067
+ TVBS 綜藝「4gTV」,https://tv.iill.top/4gtv/4gtv-live087
+ TVBS 台劇「4gTV」,https://tv.iill.top/4gtv/4gtv-live088
+ 中天亞洲「LiTV」,https://tv.iill.top/litv/4gtv-4gtv109
+ 中天新聞「LiTV」,https://tv.iill.top/litv/4gtv-4gtv009
+ 中視「LiTV」,https://tv.iill.top/litv/4gtv-4gtv040
+ 中視新聞「LiTV」,https://tv.iill.top/litv/4gtv-4gtv074
+ 中視經典「LiTV」,https://tv.iill.top/litv/4gtv-4gtv080
+ 中視菁采「LiTV」,https://tv.iill.top/litv/4gtv-4gtv064
+ 靖天國際「LiTV」,https://tv.iill.top/litv/4gtv-4gtv063
+ 靖天映畫「LiTV」,https://tv.iill.top/litv/4gtv-4gtv055
+ 靖天戲劇「LiTV」,https://tv.iill.top/litv/4gtv-4gtv058
+ 靖天日本「LiTV」,https://tv.iill.top/litv/4gtv-4gtv047
+ 靖天歡樂「LiTV」,https://tv.iill.top/litv/4gtv-4gtv054
+ 靖天綜合「LiTV」,https://tv.iill.top/litv/4gtv-4gtv046
+ 靖天育樂「LiTV」,https://tv.iill.top/litv/4gtv-4gtv062
+ 靖天資訊「LiTV」,https://tv.iill.top/litv/4gtv-4gtv065
+ 靖天電影「LiTV」,https://tv.iill.top/litv/4gtv-4gtv061
+ 靖天卡通「LiTV」,https://tv.iill.top/litv/4gtv-4gtv044
+ 靖洋卡通「LiTV」,https://tv.iill.top/litv/4gtv-4gtv057
+ 靖洋戲劇「LiTV」,https://tv.iill.top/litv/4gtv-4gtv045
+ 龍華偶像「LiTV」,https://tv.iill.top/litv/litv-longturn12
+ 龍華卡通「LiTV」,https://tv.iill.top/litv/litv-longturn01
+ 龍華戲劇「LiTV」,https://tv.iill.top/litv/litv-longturn18
+ 龍華日韓「LiTV」,https://tv.iill.top/litv/litv-longturn11
+ 龍華洋片「LiTV」,https://tv.iill.top/litv/litv-longturn02
+ 龍華經典「LiTV」,https://tv.iill.top/litv/litv-longturn21
+ 龍華電影「LiTV」,https://tv.iill.top/litv/litv-longturn03
+ 八大精彩「LiTV」,https://tv.iill.top/litv/4gtv-4gtv034
+ 八大綜藝「LiTV」,https://tv.iill.top/litv/4gtv-4gtv039
+ 台視「LiTV」,https://tv.iill.top/litv/4gtv-4gtv066
+ 台視新聞「LiTV」,https://tv.iill.top/litv/4gtv-4gtv051
+ 台視財經「LiTV」,https://tv.iill.top/litv/4gtv-4gtv056
+ 公視戲劇「LiTV」,https://tv.iill.top/litv/4gtv-4gtv042
+ 台灣戲劇「LiTV」,https://tv.iill.top/litv/litv-longturn22
+ 寰宇新聞「LiTV」,https://tv.iill.top/litv/litv-longturn14
+ 寰宇新聞台灣「LiTV」,https://tv.iill.top/litv/4gtv-4gtv156
+ 寰宇財經「LiTV」,https://tv.iill.top/litv/4gtv-4gtv158
+ 華視「LiTV」,https://tv.iill.top/litv/4gtv-4gtv041
+ 華視新聞「LiTV」,https://tv.iill.top/litv/4gtv-4gtv052
+ 民視「LiTV」,https://tv.iill.top/litv/4gtv-4gtv002
+ 民視台灣「LiTV」,https://tv.iill.top/litv/4gtv-4gtv001
+ 民視影劇「LiTV」,https://tv.iill.top/litv/litv-ftv09
+ 民視新聞「LiTV」,https://tv.iill.top/litv/litv-ftv13
+ 民視旅遊「LiTV」,https://tv.iill.top/litv/litv-ftv07
+ 民視第一「LiTV」,https://tv.iill.top/litv/4gtv-4gtv003
+ 民視綜藝「LiTV」,https://tv.iill.top/litv/4gtv-4gtv004
+ 三立綜合「4gTV」,https://tv.iill.top/4gtv/4gtv-live207
+ 三立新聞iNEWS「4gTV」,https://tv.iill.top/4gtv/4gtv-live089
+ 愛爾達娛樂「LiTV」,https://tv.iill.top/litv/4gtv-4gtv070
+ 愛爾達生活旅遊「4gTV」,https://tv.iill.top/4gtv/4gtv-live120
+ 亞洲旅遊「LiTV」,https://tv.iill.top/litv/4gtv-4gtv076
+ 非凡商業「LiTV」,https://tv.iill.top/litv/4gtv-4gtv048
+ 非凡新聞「LiTV」,https://tv.iill.top/litv/4gtv-4gtv010
+ 鏡電視新聞「LiTV」,https://tv.iill.top/litv/4gtv-4gtv075
+ 半島國際新聞「4gTV」,https://tv.iill.top/4gtv/4gtv-live157
+ DW德國之聲「4gTV」,https://tv.iill.top/4gtv/4gtv-live071
+ FRANCE24「4gTV」,https://tv.iill.top/4gtv/4gtv-live146
+ NHK 新聞資訊「4gTV」,https://tv.iill.top/4gtv/4gtv-live168
+ VOA 美國之音「LiTV」,https://tv.iill.top/litv/litv-ftv03
+ CNBC Asia 財經「4gTV」,https://tv.iill.top/4gtv/4gtv-live130
+ SBN 全球財經「4gTV」,https://tv.iill.top/4gtv/4gtv-live060
+ Bloomberg TV「4gTV」,https://tv.iill.top/4gtv/4gtv-live059
+ 第1商業「LiTV」,https://tv.iill.top/litv/4gtv-4gtv104
+ AMC 最愛電影「LiTV」,https://tv.iill.top/litv/4gtv-4gtv017
+ MCE 我的歐洲電影「LiTV」,https://tv.iill.top/litv/litv-ftv10
+ 影迷數位電影「LiTV」,https://tv.iill.top/litv/4gtv-4gtv011
+ CinemaWorld「4gTV」,https://tv.iill.top/4gtv/4gtv-live069
+ 經典電影「4gTV」,https://tv.iill.top/4gtv/4gtv-live021
+ Love Nature「4gTV」,https://tv.iill.top/4gtv/4gtv-live208
+ 影迷數位紀實「LiTV」,https://tv.iill.top/litv/litv-ftv15
+ 視納華仁紀實頻道「LiTV」,https://tv.iill.top/litv/4gtv-4gtv013
+ CI 罪案偵查頻道「4gTV」,https://tv.iill.top/4gtv/4gtv-live027
+ History 歷史頻道「4gTV」,https://tv.iill.top/4gtv/4gtv-live026
+ MagellanTV (麥哲倫頻道)「4gTV」,https://tv.iill.top/4gtv/4gtv-live123
+ Rock Action「4gTV」,https://tv.iill.top/4gtv/4gtv-live138
+ Rock Entertainment「4gTV」,https://tv.iill.top/4gtv/4gtv-live080
+ Arirang TV「LiTV」,https://tv.iill.top/litv/4gtv-4gtv079
+ 韓國娛樂台 KMTV「LiTV」,https://tv.iill.top/litv/4gtv-4gtv016
+ Lifetime 娛樂頻道「4gTV」,https://tv.iill.top/4gtv/4gtv-live029
+ Fun 探索娛樂「4gTV」,https://tv.iill.top/4gtv/4gtv-live011
+ HITS 頻道「4gTV」,https://tv.iill.top/4gtv/4gtv-live620
+ 豬哥亮歌廳秀「LiTV」,https://tv.iill.top/litv/4gtv-4gtv006
+ 戲劇免費看「4gTV」,https://tv.iill.top/4gtv/4gtv-live010
+ 采昌影劇「LiTV」,https://tv.iill.top/litv/4gtv-4gtv049
+ Classica 古典樂「LiTV」,https://tv.iill.top/litv/4gtv-4gtv059
+ Mezzo Live「LiTV」,https://tv.iill.top/litv/4gtv-4gtv083
+ MTV Live HD 音樂頻道「4gTV」,https://tv.iill.top/4gtv/4gtv-live025
+ 電影原聲 CMusic「4gTV」,https://tv.iill.top/4gtv/4gtv-live031
+ Trace Urban「LiTV」,https://tv.iill.top/litv/4gtv-4gtv082
+ Trace Sports「LiTV」,https://tv.iill.top/litv/4gtv-4gtv077
+ Ginx TV 電競頻道「LiTV」,https://tv.iill.top/litv/4gtv-4gtv053
+ DreamWorks 夢工廠動畫「4gTV」,https://tv.iill.top/4gtv/4gtv-live017
+ 精選動漫「4gTV」,https://tv.iill.top/4gtv/4gtv-live024
+ 經典卡通「4gTV」,https://tv.iill.top/4gtv/4gtv-live022
+ MOMO 親子「4gTV」,https://tv.iill.top/4gtv/4gtv-live107
+ Nick Jr. 兒童頻道「4gTV」,https://tv.iill.top/4gtv/4gtv-live032
+ Nickelodeon「4gTV」,https://tv.iill.top/4gtv/4gtv-live105
+ Pet Club TV「LiTV」,https://tv.iill.top/litv/4gtv-4gtv110
+ LiveABC 互動英語「4gTV」,https://tv.iill.top/4gtv/4gtv-live030
+ ELTA生活英語「LiTV」,https://tv.iill.top/litv/litv-longturn20
+ Smart 知識「LiTV」,https://tv.iill.top/litv/litv-longturn19
+ 達文西頻道「LiTV」,https://tv.iill.top/litv/4gtv-4gtv018
+ 滾動力 Rollor「4gTV」,https://tv.iill.top/4gtv/4gtv-live012
+ INULTRA「4gTV」,https://tv.iill.top/4gtv/4gtv-live096
+ Global Trekker 探索世界「4gTV」,https://tv.iill.top/4gtv/4gtv-live112
+ LUXE TV「4gTV」,https://tv.iill.top/4gtv/4gtv-live121
+ TV5MONDE Style 生活時尚「4gTV」,https://tv.iill.top/4gtv/4gtv-live122
+ 幸福空間居家「4gTV」,https://tv.iill.top/4gtv/4gtv-live206
+ 車迷 TV,https://tv.iill.top/4gtv/4gtv-live201
+ 金光布袋戲「4gTV」,https://tv.iill.top/4gtv/4gtv-live144
+ 霹靂布袋戲「4gTV」,https://tv.iill.top/4gtv/4gtv-live145
+ 
+
+鳳凰衛視·中文,http://r.jdshipin.com/cCCzW
+鳳凰衛視·資訊,http://r.jdshipin.com/0Rp07
+鳳凰衛視·香港,http://r.jdshipin.com/yDoTN
+翡翠台 4K,https://cdn6.163189.xyz/163189/fct4k
+翡翠台「字幕」,https://mytv.cdn.loc.cc/o12.php?id=fct
+明珠台「字幕」,https://mytv.cdn.loc.cc/o12.php?id=mzt
+TVB Plus,http://r.jdshipin.com/ndGgS
+無綫新聞台,http://r.jdshipin.com/CkuBd
+Now新聞台,https://cdn.163189.xyz/163189/now
+Sky Sports F1,http://fortv.cc:8080/clarencekingrh
+Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+娛樂新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+TVB 星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+亞洲武俠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+Now新聞台,https://yang-1989.eu.org/live/now-332
+Now財經台,https://yang-1989.eu.org/live/now-333
+ViuTV,https://yang-1989.eu.org/live/ViuTV
+ViuTVsix,https://yang-1989.eu.org/live/ViuTVsix
+美亞電影台,https://yang-1989.eu.org/live/Mei-Ah-Movie-Channel
+Love Nature,https://yang-1989.eu.org/live/Love-Nature
+tvN,https://yang-1989.eu.org/live/tvN
+鳳凰衛視·中文「回看」,https://tv.iill.top/phenix/fhzw
+鳳凰衛視·資訊「回看」,https://tv.iill.top/phenix/fhzx
+鳳凰衛視·香港「回看」,https://tv.iill.top/phenix/fhhk
+HOY 國際財經台「限HK」,https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
+HOY TV「限HK」,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+HOY 資訊台「限HK」,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+HOY 生活台,https://tv.iill.top/hoy/8
+HOY 劇集台,https://tv.iill.top/hoy/9
+HOY 怪談台,https://tv.iill.top/hoy/10
+RTHK 31「限HK」,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
+RTHK 32「限HK」,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+RTHK 33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+RTHK 34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
+RTHK 35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
+香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+澳門蓮花,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
+澳門Macau,https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
+澳門葡文,https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
+澳視澳門,https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+澳門資訊,https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+澳門體育,https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+澳門綜藝,https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
