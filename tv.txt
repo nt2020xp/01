@@ -3607,7 +3607,6 @@ parse=1
 045 能分辨不同的我哦,https://www.xgcartoon.com/user/page_direct?cartoon_id=labixiaoxin_di1-10jiguoyu-jiujingyiren&chapter_id=aaEUdeCNDF
 
 香港,#genre#
-ua=okhttp
 
 无线新闻台,http://r.jdshipin.com/CkuBd
 翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
