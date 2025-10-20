@@ -3605,3 +3605,16 @@ parse=1
 044 想同步的小愛哦,https://www.xgcartoon.com/user/page_direct?cartoon_id=labixiaoxin_di1-10jiguoyu-jiujingyiren&chapter_id=2SJhYrgVwY
 045 能分辨不同的我哦,https://www.xgcartoon.com/user/page_direct?cartoon_id=labixiaoxin_di1-10jiguoyu-jiujingyiren&chapter_id=aaEUdeCNDF
 
+香港,#genre#
+
+翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
+华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
+无线新闻台, http://php.jdshipin.com/smt.php?id=inews_twn
+TVB星河, http://php.jdshipin.com/smt.php?id=Xinhe
+天映频道, http://php.jdshipin.com/smt.php?id=Celestial
+天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
+
+華視,rtmp://f13h.mine.nu/sat/tv111
+中視,rtmp://f13h.mine.nu/sat/tv091
+台視,rtmp://f13h.mine.nu/sat/tv071
+民視,rtmp://f13h.mine.nu/sat/tv051
