@@ -3608,7 +3608,7 @@ parse=1
 
 香港,#genre#
 
-无线新闻台,http://php.jdshipin.com/smt.php?id=inews_twn
+无线新闻台,http://r.jdshipin.com/CkuBd
 翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
 华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
 TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
