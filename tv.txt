@@ -1,10 +1,10 @@
 我的最愛,#genre#
 
-東森幼幼,http://66.90.99.154:8278/yoyo_twn/playlist.m3u8?tid=MA4A8909332289093322&ct=20384&tsum=53e6b42086a88b1f6382eee3a6bf520c
+東森幼幼,https://1234.koyeb.app/smart.php?id=yoyo_twn&token=1234
 
 靖天日本,http://220.132.15.209:5008/4gtv-4gtv047/index.m3u8
 
-緯來日本,http://66.90.99.154:8278/videolandjapan/playlist.m3u8?tid=MBEB8460266184602661&ct=20384&tsum=9f6a2957eb2f2f204f820d0edb847329
+緯來日本,https://1234.koyeb.app/smart.php?id=videolandjapan&token=12349
 
 緯來綜合,https://1234.koyeb.app/smart.php?id=videolandzonghe&token=1234
 緯來體育,https://1234.koyeb.app/smart.php?id=videolandsport&token=1234
