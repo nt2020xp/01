@@ -3671,3 +3671,9 @@ x9紀錄,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
 9紀錄,https://6663.luyazo.com/livetv/hlcc/NzboRw7Hg/NzboRw7Hg_live.m3u8
 10科教,https://6663.luyazo.com/livetv/hlcc/yx8oRw7NR/yx8oRw7NR_live.m3u8
 13新聞,https://6663.luyazo.com/livetv/hlcc/oMBDMw7HR/oMBDMw7HR_live.m3u8
+
+x江蘇衛視,https://6663.luyazo.com/livetv/hldn/jbZYUGqSg/jbZYUGqSg_live.m3u8
+浙江衛視,https://6663.luyazo.com/livetv/hlnt/r9_zwMqSgz/r9_zwMqSgz_live.m3u8
+湖南衛視,https://6663.luyazo.com/livetv/hldn/g9lfUG3SR/g9lfUG3SR_live.m3u8
+北京衛視,https://6663.luyazo.com/livetv/hlcc/EeE1Rw7Hgz/EeE1Rw7Hgz_live.m3u8
+x東方衛視,https://6663.luyazo.com/livetv/hlnt/bJWiwGqIgz/bJWiwGqIgz_live.m3u8
