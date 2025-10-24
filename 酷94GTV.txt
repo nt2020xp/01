@@ -12,7 +12,6 @@ TVBS新聞台,http://A/ku9/js/webview.js?id=https://www.4gtv.tv/channel/4gtv-4gt
 寰宇台灣台,http://A/ku9/js/webview.js?id=https://www.4gtv.tv/channel/4gtv-4gtv156?set=1&ch=280
 寰宇新聞台,http://A/ku9/js/webview.js?id=https://www.4gtv.tv/channel/litv-longturn14?set=1&ch=36
 鏡新聞台,http://A/ku9/js/webview.js?id=https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268
-NHK WORLD-JAPAN,http://A/ku9/js/webview.js?id=https://www.4gtv.tv/channel/4gtv-live168?set=1&ch=461
 
 華視,http://A/ku9/js/webview.js?id=https://www.4gtv.tv/channel/4gtv-4gtv041?set=1&ch=6
 中視,http://A/ku9/js/webview.js?id=https://www.4gtv.tv/channel/4gtv-4gtv040?set=1&ch=4
@@ -100,6 +99,7 @@ MTV Live HD 音樂頻道,http://A/ku9/js/webview.js?id=https://www.4gtv.tv/chann
 ROCK Action,http://A/ku9/js/webview.js?id=https://www.4gtv.tv/channel/4gtv-live138?set=1&ch=180
 ROCK Entertainment,http://A/ku9/js/webview.js?id=https://www.4gtv.tv/channel/4gtv-live080?set=1&ch=275
 SBN全球財經台,http://A/ku9/js/webview.js?id=https://www.4gtv.tv/channel/4gtv-live060?set=1&ch=224
+NHK WORLD-JAPAN,http://A/ku9/js/webview.js?id=https://www.4gtv.tv/channel/4gtv-live168?set=1&ch=461
 TRACE Sport Stars,http://A/ku9/js/webview.js?id=https://www.4gtv.tv/channel/4gtv-4gtv077?set=1&ch=57
 TRACE Urban,http://A/ku9/js/webview.js?id=https://www.4gtv.tv/channel/4gtv-4gtv082?set=1&ch=78
 TV5MONDE STYLE HD 生活時尚,http://A/ku9/js/webview.js?id=https://www.4gtv.tv/channel/4gtv-live122?set=1&ch=178
