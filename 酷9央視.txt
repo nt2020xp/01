@@ -1,4 +1,4 @@
-央視,#genre#
+酷9央視,#genre#
 
 4K,http://A/ku9/js/webview.js?id=https://www.yangshipin.cn/tv/home?pid=600002264
 8K,http://A/ku9/js/webview.js?id=https://www.yangshipin.cn/tv/home?pid=600156816
