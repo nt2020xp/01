@@ -8,8 +8,8 @@
 4亞洲,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv4
 4歐洲,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctveurope/index.shtml
 4美洲,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctvamerica
-5體育,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv5
-5+體育賽事,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv5plus
+x5體育,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv5
+x5+體育賽事,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv5plus
 6電影,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv6
 7國防軍事,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv7
 8電視劇,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv8
@@ -22,3 +22,6 @@
 15音樂,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv15
 X16奧林匹克,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv16
 17農業農村,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv17
+風雲劇場,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600099658
+第一劇場,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600099655
+懷舊劇場,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600099620
