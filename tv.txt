@@ -3681,6 +3681,7 @@ x東方衛視,https://6663.luyazo.com/livetv/hlnt/bJWiwGqIgz/bJWiwGqIgz_live.m3u
 
 自然傳奇網頁,#genre#
 parse=1
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0
 
 非洲的春夏秋冬4,https://tv.cctv.com/2025/10/23/VIDEOFrutnYHy6OsoiNklWin251023.shtml		
 非洲的春夏秋冬3,https://tv.cctv.com/2025/10/22/VIDEp9cDp56Gn3T3r6YyU6Th251022.shtml		
