@@ -84,8 +84,8 @@ CCTV8K,webview://https://www.yangshipin.cn/tv/home?pid=600156816
 4亞洲,webview://https://tv.cctv.com/live/cctv4
 4歐洲,webview://https://tv.cctv.com/live/cctveurope/index.shtml
 4美洲,webview://https://tv.cctv.com/live/cctvamerica
-5體育,webview://https://tv.cctv.com/live/cctv5
-5+體育賽事,webview://https://tv.cctv.com/live/cctv5plus
+x5體育,webview://https://tv.cctv.com/live/cctv5
+x5+體育賽事,webview://https://tv.cctv.com/live/cctv5plus
 6電影,webview://https://tv.cctv.com/live/cctv6
 7國防軍事,webview://https://tv.cctv.com/live/cctv7
 8電視劇,webview://https://tv.cctv.com/live/cctv8
@@ -96,7 +96,7 @@ CCTV8K,webview://https://www.yangshipin.cn/tv/home?pid=600156816
 13新聞,webview://https://tv.cctv.com/live/cctv13
 14少兒,webview://https://tv.cctv.com/live/cctvchild
 15音樂,webview://https://tv.cctv.com/live/cctv15
-16奧林匹克,webview://https://tv.cctv.com/live/cctv16
+x16奧林匹克,webview://https://tv.cctv.com/live/cctv16
 17農業農村,webview://https://tv.cctv.com/live/cctv17
 風雲劇場,webview://https://yangshipin.cn/tv/home?pid=600099658
 第一劇場,webview://https://yangshipin.cn/tv/home?pid=600099655
