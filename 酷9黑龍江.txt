@@ -1,10 +1,10 @@
 酷9黑龍江,#genre#
 
 黑龍江衛視,http://A/ku9/js/webview.js?id=https://zmt-m.hljtv.com/live_tv.html?tv_id=10
+黑龍江影視,http://A/ku9/js/webview.js?id=https://zmt-m.hljtv.com/live_tv.html?tv_id=12
 黑龍江都市,http://A/ku9/js/webview.js?id=https://zmt-m.hljtv.com/live_tv.html?tv_id=50
 黑龍江新聞法治,http://A/ku9/js/webview.js?id=https://zmt-m.hljtv.com/live_tv.html?tv_id=49
 黑龍江文體,http://A/ku9/js/webview.js?id=https://zmt-m.hljtv.com/live_tv.html?tv_id=11
-黑龍江影視,http://A/ku9/js/webview.js?id=https://zmt-m.hljtv.com/live_tv.html?tv_id=12
 黑龍江農業科教,http://A/ku9/js/webview.js?id=https://zmt-m.hljtv.com/live_tv.html?tv_id=15
 
 
@@ -13,10 +13,10 @@
 酷9黑龍江,#genre#
 
 黑龍江衛視,http://A/ku9/js/webview.js?id=https://www.dbw.cn/zhibodan/zhibo_dan/hljws
+黑龍江影視,http://A/ku9/js/webview.js?id=https://www.dbw.cn/zhibodan/zhibo_dan/hljys
 黑龍江都市,http://A/ku9/js/webview.js?id=https://www.dbw.cn/zhibodan/zhibo_dan/hljds
 黑龍江新聞法治,http://A/ku9/js/webview.js?id=https://www.dbw.cn/zhibodan/zhibo_dan/heilongjiang
 黑龍江文體,http://A/ku9/js/webview.js?id=https://www.dbw.cn/zhibodan/zhibo_dan/hljwt
-黑龍江影視,http://A/ku9/js/webview.js?id=https://www.dbw.cn/zhibodan/zhibo_dan/hljys
 黑龍江農業科教,http://A/ku9/js/webview.js?id=https://www.dbw.cn/zhibodan/zhibo_dan/hljnykj
 
 
