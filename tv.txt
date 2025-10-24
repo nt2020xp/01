@@ -7,6 +7,13 @@
 緯來體育,https://1357.koyeb.app/smart.php?id=videolandsport&token=1234
 東森洋片,https://1357.koyeb.app/smart.php?id=ettvwestern&token=1234
 好萊塢電影,https://1357.koyeb.app/smart.php?id=hollywoodmovies_twn&token=1234
+无线新闻台,http://r.jdshipin.com/CkuBd
+翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
+华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
+TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
+天映频道,http://php.jdshipin.com/smt.php?id=Celestial
+天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
+
 
 柯南劇場版,http://iptv.jxpan.vip:18888/aio/huya/30080236
 蠟筆小新,http://iptv.jxpan.vip:18888/aio/huya/11352970
@@ -3608,101 +3615,3 @@ parse=1
 044 想同步的小愛哦,https://www.xgcartoon.com/user/page_direct?cartoon_id=labixiaoxin_di1-10jiguoyu-jiujingyiren&chapter_id=2SJhYrgVwY
 045 能分辨不同的我哦,https://www.xgcartoon.com/user/page_direct?cartoon_id=labixiaoxin_di1-10jiguoyu-jiujingyiren&chapter_id=aaEUdeCNDF
 
-香港,#genre#
-
-无线新闻台,http://r.jdshipin.com/CkuBd
-翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
-华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
-TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
-天映频道,http://php.jdshipin.com/smt.php?id=Celestial
-天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
-
-
-校園直播,#genre#
-
-1綜合,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
-2財經,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
-3綜藝,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
-4中文國際,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
-5體育,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
-5+體育賽事,http://iptv.huuc.edu.cn/hls/cctv5phd.m3u8
-6電影,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
-7國防軍事,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
-8電視劇,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
-x9紀錄,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
-10科教,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
-12社會與法,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
-13新聞,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
-14少兒,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
-
-江蘇衛視,http://iptv.huuc.edu.cn/hls/jshd.m3u8
-浙江衛視,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
-北京衛視,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
-湖南衛視,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
-東方衛視,http://iptv.huuc.edu.cn/hls/dfhd.m3u8
-
-山東衛視,http://iptv.huuc.edu.cn/hls/sdhd.m3u8
-四川衛視,http://iptv.huuc.edu.cn/hls/schd.m3u8
-安徽衛視,http://iptv.huuc.edu.cn/hls/ahhd.m3u8
-江西衛視,http://iptv.huuc.edu.cn/hls/jxhd.m3u8
-東南衛視,http://iptv.huuc.edu.cn/hls/dnhd.m3u8
-重慶衛視,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
-深圳衛視,http://iptv.huuc.edu.cn/hls/szhd.m3u8
-湖北衛視,http://iptv.huuc.edu.cn/hls/hbhd.m3u8
-遼寧衛視,http://iptv.huuc.edu.cn/hls/lnhd.m3u8
-黑龍江衛視,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
-
-北京新聞,http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
-北京影視,http://iptv.huuc.edu.cn/hls/btv4hd.m3u8
-北京文藝,http://iptv.huuc.edu.cn/hls/btv2hd.m3u8
-北京體育休閒,http://iptv.huuc.edu.cn/hls/btv11hd.m3u8
-
-秒開央視,#genre#
-
-1綜合,https://6663.luyazo.com/livetv/hlcc/8ispgQnNg/8ispgQnNg_live.m3u8
-2財經,https://6663.luyazo.com/livetv/hlcc/K_CpRQ7HR/K_CpRQ7HR_live.m3u8
-3綜藝,https://6663.luyazo.com/livetv/hlcc/cSGhRw7Hg/cSGhRw7Hg_live.m3u8
-4中文國際,https://6663.luyazo.com/livetv/hlcc/8rd2RQ7Ng/8rd2RQ7Ng_live.m3u8
-5體育,https://6663.luyazo.com/livetv/hlcc/svAhgwnHR/svAhgwnHR_live.m3u8
-5＋體育賽事,https://6663.luyazo.com/livetv/hlcc/eYPhRQnNg/eYPhRQnNg_live.m3u8
-6電影,https://6663.luyazo.com/livetv/hlcc/v7q2gw7HR/v7q2gw7HR_live.m3u8
-7國防軍事,https://6663.luyazo.com/livetv/hlcc/h2VoRQ7HR/h2VoRQ7HR_live.m3u8
-8電視劇,https://6663.luyazo.com/livetv/hlcc/VScTgwnHR/VScTgwnHR_live.m3u8
-9紀錄,https://6663.luyazo.com/livetv/hlcc/NzboRw7Hg/NzboRw7Hg_live.m3u8
-10科教,https://6663.luyazo.com/livetv/hlcc/yx8oRw7NR/yx8oRw7NR_live.m3u8
-13新聞,https://6663.luyazo.com/livetv/hlcc/oMBDMw7HR/oMBDMw7HR_live.m3u8
-
-x江蘇衛視,https://6663.luyazo.com/livetv/hldn/jbZYUGqSg/jbZYUGqSg_live.m3u8
-浙江衛視,https://6663.luyazo.com/livetv/hlnt/r9_zwMqSgz/r9_zwMqSgz_live.m3u8
-湖南衛視,https://6663.luyazo.com/livetv/hldn/g9lfUG3SR/g9lfUG3SR_live.m3u8
-北京衛視,https://6663.luyazo.com/livetv/hlcc/EeE1Rw7Hgz/EeE1Rw7Hgz_live.m3u8
-x東方衛視,https://6663.luyazo.com/livetv/hlnt/bJWiwGqIgz/bJWiwGqIgz_live.m3u8
-
-
-自然傳奇網頁,#genre#
-parse=1
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0
-
-非洲的春夏秋冬4,https://tv.cctv.com/2025/10/23/VIDEOFrutnYHy6OsoiNklWin251023.shtml		
-非洲的春夏秋冬3,https://tv.cctv.com/2025/10/22/VIDEp9cDp56Gn3T3r6YyU6Th251022.shtml		
-非洲的春夏秋冬2,https://tv.cctv.com/2025/10/21/VIDENdZZvIydSolT06NrRd4a251021.shtml		
-非洲的春夏秋冬1,https://tv.cctv.com/2025/10/20/VIDEDaMMZLMEYOjqPI5YyRnt251020.shtml		
-20251019 荒原斗士,https://tv.cctv.com/2025/10/19/VIDEUuRrlexKGx3CYKgLdeBz251019.shtml		
-20251018 尖嘴建筑师,https://tv.cctv.com/2025/10/18/VIDEKBduG2OCOBMWddHUBuxM251018.shtml		
-20251017 科莫多巨蜥的生存之战,https://tv.cctv.com/2025/10/17/VIDENz2c4kEXyHrfd5Bix4dW251017.shtml		
-20251016 卢安瓜的夏天,https://tv.cctv.com/2025/10/16/VIDETOsfgSDeiML9nfua3I9u251016.shtml		
-20251015 猎豹出击,https://tv.cctv.com/2025/10/15/VIDEYP2SmjBN1zPRsqTxnC8Q251015.shtml		
-20251014 奇趣野性世界,https://tv.cctv.com/2025/10/14/VIDEtWoKSlDcU4zckhkzP7B2251014.shtml		
-20251013 动物也贪玩,https://tv.cctv.com/2025/10/13/VIDEZxcbnDwsII3rnLNlBzAZ251013.shtml		
-20251012 动物界的建筑大师3,https://tv.cctv.com/2025/10/12/VIDETPzRbGsFkSg9dJ1xdFev251012.shtml		
-20251011 动物界的建筑大师2,https://tv.cctv.com/2025/10/11/VIDEZ7m15cMdHwXNyh1BH1hk251011.shtml		
-20251010 动物界的建筑大师1,https://tv.cctv.com/2025/10/10/VIDEC3JjOfIhEOK3KiSp3AFm251010.shtml		
-20251009 萨武蒂的掠食动物,https://tv.cctv.com/2025/10/09/VIDE70V5OiGwjVBu9IRDF3cb251009.shtml		
-20251008 集群生存密码,https://tv.cctv.com/2025/10/08/VIDERns5EQC5QLFFKojalFdK251008.shtml		
-20251007 荒野猎手,https://tv.cctv.com/2025/10/07/VIDELIRAmJ6ZuWmlc9sBAXmI251007.shtml		
-20251006 捕食者乐园,https://tv.cctv.com/2025/10/06/VIDEZmM67SJqWWQWaZgabIbD251006.shtml		
-20251005 危险水域,https://tv.cctv.com/2025/10/05/VIDEfze5yHRsVAzNqCMq7mF7251005.shtml		
-20251004 沙漠猎手,https://tv.cctv.com/2025/10/04/VIDE5KENUnWwYtrW7jezMqQF251004.shtml		
-20251003 决战草原,https://tv.cctv.com/2025/10/03/VIDERSSaCnRHwGibD2zxDvkc251003.shtml		
-20251002 非洲生存挑战 丛林杀手,https://tv.cctv.com/2025/10/02/VIDEhnQ831OdcvsDF8rKQlrj251002.shtml		
-20251001 了不起的动物母亲,https://tv.cctv.com/2025/10/01/VIDEzwIesuMBqhscrGrl5BYF251001.shtml		
