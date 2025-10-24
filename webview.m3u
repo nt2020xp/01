@@ -98,9 +98,9 @@ CCTV8K,webview://https://www.yangshipin.cn/tv/home?pid=600156816
 15音樂,webview://https://tv.cctv.com/live/cctv15
 16奧林匹克,webview://https://tv.cctv.com/live/cctv16
 17農業農村,webview://https://tv.cctv.com/live/cctv17
-風雲劇場,https://yangshipin.cn/tv/home?pid=600099658
-第一劇場,https://yangshipin.cn/tv/home?pid=600099655
-懷舊劇場,https://yangshipin.cn/tv/home?pid=600099620
+風雲劇場,webview://https://yangshipin.cn/tv/home?pid=600099658
+第一劇場,webview://https://yangshipin.cn/tv/home?pid=600099655
+懷舊劇場,webview://https://yangshipin.cn/tv/home?pid=600099620
 
 
 衛視,#genre#
