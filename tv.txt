@@ -74,8 +74,8 @@ TVBS新聞,http://220.132.15.209:5008/li-4gtv-4gtv072/index.m3u8
 中視,http://220.132.15.209:5008/4gtv-4gtv040/index.m3u8
 中視,http://220.132.15.209:5008/li-4gtv-4gtv040/index.m3u8
 中視,http://220.132.15.209:5008/of-4gtv-4gtv040/index.m3u8
-台視,http://220.132.15.209:5008/4gtv-4gtv066/index.m3u8
-台視,http://220.132.15.209:5008/li-4gtv-4gtv066/index.m3u8
+台視,https://www.youtube.com/live/uDqQo8a7Xmk?si=q8Xn-vX_LzXexUmq
+
 民視,http://220.132.15.209:5008/4gtv-4gtv002/index.m3u8
 民視旅遊,http://220.132.15.209:5008/li-litv-ftv07/index.m3u8
 民視旅遊,http://220.132.15.209:5008/litv-ftv07/index.m3u8
