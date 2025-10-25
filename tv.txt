@@ -7,21 +7,9 @@
 緯來體育,https://1357.koyeb.app/smart.php?id=videolandsport&token=1234
 東森洋片,https://1357.koyeb.app/smart.php?id=ettvwestern&token=1234
 好萊塢電影,https://1357.koyeb.app/smart.php?id=hollywoodmovies_twn&token=1234
-无线新闻台,http://r.jdshipin.com/CkuBd
-翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
-华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
-TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
-天映频道,http://php.jdshipin.com/smt.php?id=Celestial
-天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
 
-
-柯南劇場版,http://iptv.jxpan.vip:18888/aio/huya/30080236
 蠟筆小新,https://live.ottiptv.cc/huya/11352970
-瑪莎與熊,https://www.youtube.com/live/E_E80UC2gek?feature=shared
-櫻桃小丸子,http://iptv.jxpan.vip:18888/aio/huya/11342394
-哆啦A夢,http://iptv.jxpan.vip:18888/aio/huya/11601963
-海棉寶寶,http://iptv.jxpan.vip:18888/aio/huya/11352919
-七龍珠,http://iptv.jxpan.vip:18888/aio/huya/11601966
+
 
 柯南劇場版,https://live.ottiptv.cc/huya/30080236
 
