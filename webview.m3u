@@ -413,3 +413,10 @@ TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
 東森洋片,https://1357.koyeb.app/smart.php?id=ettvwestern&token=1234
 好萊塢電影,https://1357.koyeb.app/smart.php?id=hollywoodmovies_twn&token=1234
 
+黑龍江影視,webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=12
+黑龍江衛視,webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=10
+黑龍江文體,webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=11
+黑龍江都市,webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=50
+黑龍江新聞法治,webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=49
+黑龍江農業科教,webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=15
+黑龍江少兒,webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=16
