@@ -16,7 +16,6 @@ TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
 
 
 柯南劇場版,http://iptv.jxpan.vip:18888/aio/huya/30080236
-蠟筆小新,http://iptv.jxpan.vip:18888/aio/huya/11352970
 櫻桃小丸子,http://iptv.jxpan.vip:18888/aio/huya/11342394
 哆啦A夢,http://iptv.jxpan.vip:18888/aio/huya/11601963
 海棉寶寶,http://iptv.jxpan.vip:18888/aio/huya/11352919
