@@ -6,12 +6,17 @@
 緯來日本,https://1357.koyeb.app/smart.php?id=videolandjapan&token=1234
 緯來綜合,https://1357.koyeb.app/smart.php?id=videolandzonghe&token=1234
 緯來體育,https://1357.koyeb.app/smart.php?id=videolandsport&token=1234
+緯來育樂,https://1357.koyeb.app/smart.php?id=videolandyule&token=1234
+緯來電影,https://1357.koyeb.app/smart.php?id=videolandmovie&token=1234
+緯來精彩,https://1357.koyeb.app/smart.php?id=videolandspecial_twn&token=1234
 東森洋片,https://1357.koyeb.app/smart.php?id=ettvwestern&token=1234
 好萊塢電影,https://1357.koyeb.app/smart.php?id=hollywoodmovies_twn&token=1234
+愛爾達體育1台,https://1357.koyeb.app/smart.php?id=eltasport_twn&token=1234
+愛爾達體育2台,https://1357.koyeb.app/smart.php?id=eltasport2_twn&token=1234
+愛爾達體育3台,https://1357.koyeb.app/smart.php?id=eltasport3_twn&token=1234
 
 柯南國語,https://live.ottiptv.cc/huya/30080148
 柯南劇場版,https://live.ottiptv.cc/huya/30080236
-櫻桃小丸子,https://live.ottiptv.cchuya/11342394
 哆啦A夢,https://live.ottiptv.cc/huya/11601963
 海棉寶寶,https://live.ottiptv.cc/huya/11352919
 七龍珠,https://live.ottiptv.cc/huya/11601966
