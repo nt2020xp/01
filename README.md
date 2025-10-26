@@ -1,3 +1,17 @@
+https://develop202.github.io/migu_video
+
+访问地址(可回看当天内容)
+
+https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
+
+https://develop202.github.io/migu_video/interface.txt
+
+网络环境差的话可以用这个(不一定稳定,其他加速网站也可以)
+
+https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
+
+=================================
+
 央視新聞,#genre#
 
 cctv1,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
