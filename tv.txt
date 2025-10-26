@@ -59,10 +59,6 @@ Smart知識台,http://1234.koyeb.app/1234.php?id=litv-longturn19
 高雄蓮池潭,https://www.youtube.com/watch?v=BnPoNatG-HE
 淡水漁人碼頭,https://www.youtube.com/watch?v=xwAWSh35uuw
 
-TVB翡翠台,https://1357.koyeb.app/smart.php?id=jade_twn&token=1234
-TVB無線新聞,https://1357.koyeb.app/smart.php?id=inews_twn&token=1234
-
-
 靖天龍華,#genre#
 
 靖天日本台,http://1234.koyeb.app/1234.php?id=4gtv-4gtv047
