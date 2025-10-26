@@ -9,6 +9,7 @@
 東森洋片,https://1357.koyeb.app/smart.php?id=ettvwestern&token=1234
 好萊塢電影,https://1357.koyeb.app/smart.php?id=hollywoodmovies_twn&token=1234
 
+柯南國語,https://live.ottiptv.cc/huya/30080148
 柯南劇場版,https://live.ottiptv.cc/huya/30080236
 櫻桃小丸子,https://live.ottiptv.cchuya/11342394
 哆啦A夢,https://live.ottiptv.cc/huya/11601963
