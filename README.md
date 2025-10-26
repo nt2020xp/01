@@ -1,3 +1,19 @@
+香港,#genre#
+
+无线新闻台,http://r.jdshipin.com/CkuBd
+
+翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
+
+华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
+
+TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
+
+天映频道,http://php.jdshipin.com/smt.php?id=Celestial
+
+天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
+
+
+
 https://develop202.github.io/migu_video
 
 访问地址(可回看当天内容)
