@@ -54,7 +54,10 @@ Smart知識台,http://1234.koyeb.app/1234.php?id=litv-longturn19
 金門建功嶼,https://www.youtube.com/watch?v=uh_yNAE01w8
 高雄蓮池潭,https://www.youtube.com/watch?v=BnPoNatG-HE
 淡水漁人碼頭,https://www.youtube.com/watch?v=xwAWSh35uuw
-員山子分洪道,https://www.youtube.com/watch?v=JkGKqXOt9Ls
+
+TVB翡翠台,https://1357.koyeb.app/smart.php?id=jade_twn&token=1234
+TVB無線新聞,https://1357.koyeb.app/smart.php?id=inews_twn&token=1234
+
 
 靖天龍華,#genre#
 
