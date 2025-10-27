@@ -38,13 +38,7 @@ TVBS新聞,http://1234.koyeb.app/1234.php?id=4gtv-4gtv072
 寰宇財經,http://1234.koyeb.app/1234.php?id=4gtv-4gtv158
 非凡新聞,http://1234.koyeb.app/1234.php?id=4gtv-4gtv010
 非凡商業,http://1234.koyeb.app/1234.php?id=4gtv-4gtv048
-華視,http://1234.koyeb.app/1234.php?id=4gtv-4gtv041
-中視,http://1234.koyeb.app/1234.php?id=4gtv-4gtv040
-台視,http://1234.koyeb.app/1234.php?id=4gtv-4gtv066
-民視,http://1234.koyeb.app/1234.php?id=4gtv-4gtv155
-民視旅遊台,http://1234.koyeb.app/1234.php?id=litv-ftv07
-亞洲旅遊台,http://1234.koyeb.app/1234.php?id=4gtv-4gtv076
-Smart知識台,http://1234.koyeb.app/1234.php?id=litv-longturn19
+
 中文國際亞洲,https://www.youtube.com/watch?v=7j92Myu2wzg
 中文國際美洲,https://www.youtube.com/watch?v=f6Kq93wnaZ8
 瑞芳九份,https://www.youtube.com/watch?v=XSD5ptYisw8
@@ -71,6 +65,14 @@ Smart知識台,http://1234.koyeb.app/1234.php?id=litv-longturn19
 龍華日韓台,http://1234.koyeb.app/1234.php?id=litv-longturn11
 龍華偶像台,http://1234.koyeb.app/1234.php?id=litv-longturn12
 龍華戲劇台,http://1234.koyeb.app/1234.php?id=litv-longturn18
+
+華視,http://1234.koyeb.app/1234.php?id=4gtv-4gtv041
+中視,http://1234.koyeb.app/1234.php?id=4gtv-4gtv040
+台視,http://1234.koyeb.app/1234.php?id=4gtv-4gtv066
+民視,http://1234.koyeb.app/1234.php?id=4gtv-4gtv155
+民視旅遊台,http://1234.koyeb.app/1234.php?id=litv-ftv07
+亞洲旅遊台,http://1234.koyeb.app/1234.php?id=4gtv-4gtv076
+Smart知識台,http://1234.koyeb.app/1234.php?id=litv-longturn19
 
 日本新聞,#genre#
 
