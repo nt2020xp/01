@@ -42,6 +42,7 @@ TVBS新聞,http://1234.koyeb.app/1234.php?id=4gtv-4gtv072
 金門建功嶼,https://www.youtube.com/watch?v=uh_yNAE01w8
 高雄蓮池潭,https://www.youtube.com/watch?v=BnPoNatG-HE
 淡水漁人碼頭,https://www.youtube.com/watch?v=xwAWSh35uuw
+澳門議事亭前地,https://www.youtube.com/watch?v=ctYalRx7kY4
 
 靖天龍華,#genre#
 
@@ -80,17 +81,16 @@ TBS NEWS DIG,https://www.youtube.com/live/Anr15FA9OCI?si=ZyLCFkpVCpC9tQ-N
 広島ニュース24,https://www.youtube.com/watch?v=e2pgLUmaxGs
 日テレNEWS,https://www.youtube.com/watch?v=t9kwjZBLI-A
 
-澳門議事亭前地,https://www.youtube.com/watch?v=ctYalRx7kY4
+函館山夜景,https://www.youtube.com/watch?v=s--MDmshT3I
 東京歌舞伎町1,https://www.youtube.com/watch?v=DjdUEyjx8GM
 東京歌舞伎町2,https://www.youtube.com/watch?v=gFRtAAmiFbE
 渋谷交差点1,https://www.youtube.com/watch?v=DBWgFXSMr-8
 渋谷交差点2,https://www.youtube.com/watch?v=tujkoXI8rWM
-富士山忍野八海,https://www.youtube.com/watch?v=sm3xXTfDtGE
-函館山夜景,https://www.youtube.com/watch?v=s--MDmshT3I
 草津温泉,https://www.youtube.com/watch?v=GrEEoEmmrKs
 草津温泉（移動式),https://www.youtube.com/watch?v=B_Sc1v1qR-g
 櫻島火山(遠看),https://www.youtube.com/watch?v=eF9PohrRP_o
 櫻島火山(近看),https://www.youtube.com/watch?v=PeElJClXtzE
+富士山忍野八海,https://www.youtube.com/watch?v=sm3xXTfDtGE
 
 櫻桃小丸子,#genre#
 parse=1
