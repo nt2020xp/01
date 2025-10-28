@@ -1,4 +1,4 @@
-3065,#genre#
+no3065,#genre#
 
 TVBS新聞,http://3065.koyeb.app/3065.php?id=4gtv-4gtv072
 東森新聞,http://3065.koyeb.app/3065.php?id=4gtv-4gtv152
@@ -8,12 +8,7 @@ TVBS新聞,http://3065.koyeb.app/3065.php?id=4gtv-4gtv072
 華視新聞,http://3065.koyeb.app/3065.php?id=4gtv-4gtv052
 中視新聞,http://3065.koyeb.app/3065.php?id=4gtv-4gtv074
 台視新聞,http://3065.koyeb.app/3065.php?id=4gtv-4gtv051
-台視財經,http://3065.koyeb.app/3065.php?id=4gtv-4gtv056
-寰宇新聞,http://3065.koyeb.app/3065.php?id=litv-longturn14
 寰宇台灣,http://3065.koyeb.app/3065.php?id=4gtv-4gtv156
-寰宇財經,http://3065.koyeb.app/3065.php?id=4gtv-4gtv158
-非凡新聞,http://3065.koyeb.app/3065.php?id=4gtv-4gtv010
-非凡商業,http://3065.koyeb.app/3065.php?id=4gtv-4gtv048
 華視,http://3065.koyeb.app/3065.php?id=4gtv-4gtv041
 中視,http://3065.koyeb.app/3065.php?id=4gtv-4gtv040
 台視,http://3065.koyeb.app/3065.php?id=4gtv-4gtv066
