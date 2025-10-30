@@ -1,4 +1,4 @@
-CCTV,#genre#
+央視,#genre#
 
 CCTV4K,webview://https://www.yangshipin.cn/tv/home?pid=600002264
 CCTV8K,webview://https://www.yangshipin.cn/tv/home?pid=600156816
@@ -22,6 +22,9 @@ CCTV8K,webview://https://www.yangshipin.cn/tv/home?pid=600156816
 15音樂,webview://https://tv.cctv.com/live/cctv15
 16奧林匹克,webview://https://tv.cctv.com/live/cctv16
 17農業農村,webview://https://tv.cctv.com/live/cctv17
+
+衛視,#genre#
+
 江蘇衛視,webview://https://yangshipin.cn/tv/home?pid=600002521
 浙江衛視,webview://https://yangshipin.cn/tv/home?pid=600002520
 湖南衛視,webview://https://yangshipin.cn/tv/home?pid=600002475
