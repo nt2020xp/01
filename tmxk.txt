@@ -1,3 +1,5 @@
+tmxk,#genre#
+
 翡翠台,https://smart.dxjc.pp.ua/smart.php?id=jade_twn&token=tmxk
 翡翠台,https://smart.dxjc.pp.ua/smart.php?id=Jade_xue&token=tmxk
 明珠台,https://smart.dxjc.pp.ua/smart.php?id=pearl_twn&token=tmxk
