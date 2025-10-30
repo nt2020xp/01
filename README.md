@@ -1,9 +1,8 @@
 
 
-米古直播源   https://fanmingming.com/txt?url=https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
+米古直播源  
 
 https://github.com/develop202/migu_video
-
 
 https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 
@@ -55,16 +54,6 @@ cctv13,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265
 
 cctv4k,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=2127841942201075403
 
-直播源訂閱1
-
-http://220.132.15.209:5008/?type=txt
-
-直播源訂閱2
-
-http://220.132.15.209:5008/?type=m3u
-
-直播源  https://major-kaela-9c6a176c.koyeb.app/?type=m3u
-
 蠟筆小新 第1-10季【國語】
 
 https://www.xgcartoon.com/detail/labixiaoxin_di1-10jiguoyu-jiujingyiren__CFUq7h
@@ -80,8 +69,6 @@ parse=1
 
 catvod Live_Smart代理源訂閱     https://live.catvod.com/tv.m3u
 
-直播源  http://220.132.15.209:5008/?type=m3u
-
 直播源  https://live.catvod.com/tv.m3u
 
 直播源 https://tv.iill.top/m3u/Gather
@@ -90,10 +77,7 @@ okhttp
 
 直播源 http://晓峰.azip.dpdns.org:5008/?type=m3u
 
-直播源 http://220.132.15.209:5008/?type=m3u
-
 ========================
-
 
 龍貓國語,https://xgct-video.vzcdn.net/46bc39c7-1d8c-4526-9e63-2e83a64d0d6c/842x480/video.m3u8
 
@@ -115,7 +99,6 @@ epg  https://epg.iill.top/epg
 漂流教室  https://comic.acgn.cc/manhua-pljs.htm
 
 陸地沉沒記  https://comic.acgn.cc/manhua-ludichenmo.htm
-
 
 
 必備直播源1  https://tv.iill.top/m3u/Gather
@@ -414,6 +397,12 @@ CCTV直播,https://tv.cctv.com/live
 
 =============================
 
+jackTV https://t.me/jacktvb
+
+冰茶TV https://t.me/x188766
+
+gpt研究所 https://t.me/gpt_858
+
 (驗證)肥羊影音数码综合分享 https://t.me/feiyangdigital
 
 (驗證)大宇的大家庭（电视盒子） https://t.me/Dayuptv
@@ -422,13 +411,9 @@ CCTV直播,https://tv.cctv.com/live
 
 (申請)极致播放器交流群 https://t.me/jizhi00
 
-(申請)夏天夏天 https://t.me/yannycong888
-
 點播直播交流群：https://t.me/doubebly001
 
 IPTV研究所 https://t.me/IPTV_9999999
-
-唐三影視天下第一 https://t.me/+qTlg0qAVzP9kMmM1
 
 酷9群 https://t.me/Player_Ku9
 
