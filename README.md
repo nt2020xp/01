@@ -2,6 +2,11 @@
 
 米古直播源   https://fanmingming.com/txt?url=https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 
+https://github.com/develop202/migu_video
+
+
+https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
+
 香港,#genre#
 
 无线新闻台,http://r.jdshipin.com/CkuBd
