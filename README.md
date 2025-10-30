@@ -421,6 +421,9 @@ mytv https://t.me/mytv_android
 
 ourtv  https://t.me/+z1BOPITtAmI4ZWZl
 
+大宇  https://t.me/Dayuptv
+
+
 ＋＋＋＋＋＋＋＋＋
 
 訂閱
@@ -441,15 +444,13 @@ PG节奏熊猫发布频道 https://t.me/PandaGroovePG
 
 天光云影發布 https://t.me/mytv_android_release
 
-通知群：https://t.me/doubebly003
+點播直播通知群 https://t.me/doubebly003
 
 Tvbox接口 https://t.me/TVBoxjkou
 
 iptv研究所 https://t.me/Q_IPTV
 
 ================
-
-夏天 https://t.me/yannycong888
 
 夏天 @cong6689
 
