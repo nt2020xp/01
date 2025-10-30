@@ -1,9 +1,0 @@
-影視江蘇衛視,#genre#
-parse=1
-江蘇衛視,https://live.jstv.com
-
-
-酷9江蘇,#genre#
-
-江蘇衛視,http://A/ku9/js/webview.js?id=https://live.jstv.com
-
