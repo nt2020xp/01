@@ -1,0 +1,10 @@
+{
+  "lives": [
+    {
+      "name": "我的4gtv直播(python)",
+      "type": 3,
+      "api": "./4gtv.py",
+      "ext": {}
+    }
+  ]
+}
