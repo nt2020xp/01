@@ -423,10 +423,11 @@ ourtv  https://t.me/+z1BOPITtAmI4ZWZl
 
 大宇  https://t.me/Dayuptv
 
+tmxk 交流群 https://t.me/+rgxyQeDLtjcxM2U1
 
 ＋＋＋＋＋＋＋＋＋
 
-訂閱
+訂閱頻道
 
 肥羊 https://t.me/feiyangofficalchannel
 
@@ -449,6 +450,8 @@ PG节奏熊猫发布频道 https://t.me/PandaGroovePG
 Tvbox接口 https://t.me/TVBoxjkou
 
 iptv研究所 https://t.me/Q_IPTV
+
+tmxk 频道 https://t.me/tmxktg
 
 ================
 
