@@ -101,7 +101,6 @@ litv直播源  https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main
 
 litv直播源  https://github.com/cxr9912/cxr2025/blob/main/4GTV免費擼.m3u
 
-
 ====================
 
 直播網頁  https://www.kds.tw
@@ -115,6 +114,8 @@ litv直播源  https://github.com/cxr9912/cxr2025/blob/main/4GTV免費擼.m3u
 大陸直播源   https://freetv.fun/test_channels_china.txt
 
 tv543  https://tv543.cc/1.json
+
+TV543 http://tv543.cc/4gtv.m3u
 
 
 4gtv  "ads": ["static-mozai.4gtv.tv","mozai.4gtv.tv"]
