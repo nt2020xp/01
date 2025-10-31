@@ -152,13 +152,14 @@ Now新闻台,http://hls.168.us.kg/u/332/master.m3u8
 Now财经台,http://hls.168.us.kg/u/333/master.m3u8
 Now直播台,http://hls.168.us.kg/u/331/master.m3u8
 
-東森幼幼,https://1357.koyeb.app/smart.php?id=yoyo_twn&token=1234
-靖天日本,http://1234.koyeb.app/1234.php?id=4gtv-4gtv047
-緯來日本,https://1357.koyeb.app/smart.php?id=videolandjapan&token=1234
-緯來綜合,https://1357.koyeb.app/smart.php?id=videolandzonghe&token=1234
-緯來體育,https://1357.koyeb.app/smart.php?id=videolandsport&token=1234
-東森洋片,https://1357.koyeb.app/smart.php?id=ettvwestern&token=1234
-好萊塢電影,https://1357.koyeb.app/smart.php?id=hollywoodmovies_twn&token=1234
+蠟筆小新,https://live.ottiptv.cc/huya/11352970
+東森幼幼,http://3065.koyeb.app/smt.php?id=yoyo_twn
+靖天日本,http://3065.koyeb.app/3065.php?id=4gtv-4gtv047
+緯來日本,https://3065.koyeb.app/smt.php?id=videolandjapan&token=1234
+緯來綜合,https://3065.koyeb.app/smt.php?id=videolandzonghe&token=1234
+緯來體育,https://3065.koyeb.app/smt.php?id=videolandsport&token=1234
+東森洋片,https://3065.koyeb.app/smt.php?id=ettvwestern&token=1234
+好萊塢電影,https://3065.koyeb.app/smt.php?id=hollywoodmovies_twn&token=1234
 
 smt央視,#genre#
 
