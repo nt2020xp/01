@@ -18,6 +18,9 @@
 中国|CCTV-3 综艺 HD,Smart//:id=cctv3
 中国|CCTV-4 中文国际,Smart//:id=cctv4
 中国|CCTV4 新闻台,Smart//:id=Cctv4
+中国|CCTV-5 体育频道,Smart//:id=cctv5
+中国|CCTV-5+ 体育赛事 HD,Smart//:id=cctv5plus
+中国|CCTV-6,Smart//:id=cctv6
 中国|CCTV-7 军事农业,Smart//:id=cctv7
 中国|CCTV-8 电视剧 HD,Smart//:id=cctv8hd
 中国|CCTV-9 记录 HD,Smart//:id=cctv9hd
@@ -26,7 +29,6 @@
 中国|CCTV-12 社会与法,Smart//:id=cctv12
 中国|CCTV-13 新闻频道,Smart//:id=cctv13
 中国|CCTV-14 少儿,Smart//:id=cctv14
-中国|CCTV-6,Smart//:id=cctv6
 中国|CCTV-15 音乐,Smart//:id=cctv15
 
 中国|湖南卫视,Smart//:id=hunan_twn
@@ -45,8 +47,7 @@
 中国|CGTN,Smart//:id=CGTN
 中国|凤凰卫视,Smart//:id=phoenixtv_hd
 中国|凤凰资讯,Smart//:id=phoenixinfo_hd
-中国|CCTV-5 体育频道,Smart//:id=cctv5
-中国|CCTV-5+ 体育赛事 HD,Smart//:id=cctv5plus
+
 
 体育频道|Astro Premier League 1,Smart//:id=go_assp1
 体育频道|Astro EPL 1 backup,Smart//:id=go_assp1x
