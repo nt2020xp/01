@@ -3,11 +3,11 @@
 蠟筆小新,https://live.ottiptv.cc/huya/11352970
 東森幼幼,https://smart.dxjc.pp.ua/smart.php?id=yoyo_twn&token=tmxk
 靖天日本,http://3065.koyeb.app/3065.php?id=4gtv-4gtv047
-緯來日本,https://1357.koyeb.app/smart.php?id=videolandjapan&token=1234
-緯來綜合,https://1357.koyeb.app/smart.php?id=videolandzonghe&token=1234
-緯來體育,https://1357.koyeb.app/smart.php?id=videolandsport&token=1234
-東森洋片,https://1357.koyeb.app/smart.php?id=ettvwestern&token=1234
-好萊塢電影,https://1357.koyeb.app/smart.php?id=hollywoodmovies_twn&token=1234
+緯來日本,https://3065.koyeb.app/smart.php?id=videolandjapan&token=1234
+緯來綜合,https://3065.koyeb.app/smart.php?id=videolandzonghe&token=1234
+緯來體育,https://3065.koyeb.app/smart.php?id=videolandsport&token=1234
+東森洋片,https://3065.koyeb.app/smart.php?id=ettvwestern&token=1234
+好萊塢電影,https://3065.koyeb.app/smart.php?id=hollywoodmovies_twn&token=1234
 
 柯南國語,https://live.ottiptv.cc/huya/30080148
 柯南劇場版,https://live.ottiptv.cc/huya/30080236
