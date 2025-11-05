@@ -1,8 +1,9 @@
-列表生成时间:2025-11-05 17:21:48
+列表生成时间:2025-11-06 05:07:12
 
 ARIRANG阿里郎頻道,https://flat-thunder-7bcd.nt01xp.workers.dev/?id=QVJJUkFORamYvamHjOmDjumguamBkwxx&auth=1fce1d4350660a161e2c09e8a06cb7f1871206615a545e4a3279c628531b1544e7e6b7f70964044f86b6ef1ffd1b2701
 Bloomberg TV,https://flat-thunder-7bcd.nt01xp.workers.dev/?id=Qmxvb21iZXJnIFRW&auth=1fce1d4350660a161e2c09e8a06cb7f1871206615a545e4a3279c628531b1544e7e6b7f70964044f86b6ef1ffd1b2701
 CLASSICA 古典樂,https://flat-thunder-7bcd.nt01xp.workers.dev/?id=Q0xBU1NJQ0Eg5Yak5YW45qiC&auth=1fce1d4350660a161e2c09e8a06cb7f1871206615a545e4a3279c628531b1544e7e6b7f70964044f86b6ef1ffd1b2701
+CI 罪案偵查頻道,https://flat-thunder-7bcd.nt01xp.workers.dev/?id=Q0kg572q5qGI5YG15pal6aC76YGT&auth=1fce1d4350660a161e2c09e8a06cb7f1871206615a545e4a3279c628531b1544e7e6b7f70964044f86b6ef1ffd1b2701
 CinemaWorld,https://flat-thunder-7bcd.nt01xp.workers.dev/?id=Q2luZW1hV29ybGQx&auth=1fce1d4350660a161e2c09e8a06cb7f1871206615a545e4a3279c628531b1544e7e6b7f70964044f86b6ef1ffd1b2701
 CNBC Asia 財經台,https://flat-thunder-7bcd.nt01xp.workers.dev/?id=Q05CQyBBc2lhIOiyoee2kaWPsAxx&auth=1fce1d4350660a161e2c09e8a06cb7f1871206615a545e4a3279c628531b1544e7e6b7f70964044f86b6ef1ffd1b2701
 DreamWorks 夢工廠動畫,https://flat-thunder-7bcd.nt01xp.workers.dev/?id=RHJlYW1Xb3JrcyDlpKLlt6Xlu6Dli5Xnlasx&auth=1fce1d4350660a161e2c09e8a06cb7f1871206615a545e4a3279c628531b1544e7e6b7f70964044f86b6ef1ffd1b2701
@@ -98,6 +99,7 @@ fun探索娛樂台,https://flat-thunder-7bcd.nt01xp.workers.dev/?id=ZnVu5o6i57Si
 達文西頻道,https://flat-thunder-7bcd.nt01xp.workers.dev/?id=6YGU5paH6KWz6aC76YGT&auth=1fce1d4350660a161e2c09e8a06cb7f1871206615a545e4a3279c628531b1544e7e6b7f70964044f86b6ef1ffd1b2701
 采昌影劇台,https://flat-thunder-7bcd.nt01xp.workers.dev/?id=6YeH5piM5b2x5YqH5Yaw&auth=1fce1d4350660a161e2c09e8a06cb7f1871206615a545e4a3279c628531b1544e7e6b7f70964044f86b6ef1ffd1b2701
 金光布袋戲,https://flat-thunder-7bcd.nt01xp.workers.dev/?id=6YeR5YWJ5biD6KKL5oiy&auth=1fce1d4350660a161e2c09e8a06cb7f1871206615a545e4a3279c628531b1544e7e6b7f70964044f86b6ef1ffd1b2701
+鏡電視新聞台,https://flat-thunder-7bcd.nt01xp.workers.dev/?id=6Yah6Zu76KaW5paw6IGe5Yaw&auth=1fce1d4350660a161e2c09e8a06cb7f1871206615a545e4a3279c628531b1544e7e6b7f70964044f86b6ef1ffd1b2701
 電影原聲台CMusic,https://flat-thunder-7bcd.nt01xp.workers.dev/?id=6Zu75b2x5Y6f6IGy5YawQ011c2lj&auth=1fce1d4350660a161e2c09e8a06cb7f1871206615a545e4a3279c628531b1544e7e6b7f70964044f86b6ef1ffd1b2701
 霹靂布袋戲,https://flat-thunder-7bcd.nt01xp.workers.dev/?id=6Zy56Z2C5biD6KKL5oiy&auth=1fce1d4350660a161e2c09e8a06cb7f1871206615a545e4a3279c628531b1544e7e6b7f70964044f86b6ef1ffd1b2701
 靖天綜合台,https://flat-thunder-7bcd.nt01xp.workers.dev/?id=6Z2W5aSp57ac5ZCI5Yaw&auth=1fce1d4350660a161e2c09e8a06cb7f1871206615a545e4a3279c628531b1544e7e6b7f70964044f86b6ef1ffd1b2701
