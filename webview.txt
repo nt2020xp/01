@@ -234,7 +234,7 @@ TRACE Sport Stars,https://flat-thunder-7bcd.nt01xp.workers.dev/?id=VFJBQ0UgU3Bvc
 TRACE Urban,https://flat-thunder-7bcd.nt01xp.workers.dev/?id=VFJBQ0UgVXJiYW4x&auth=1fce1d4350660a161e2c09e8a06cb7f1871206615a545e4a3279c628531b1544e7e6b7f70964044f86b6ef1ffd1b2701
 TVBS,https://flat-thunder-7bcd.nt01xp.workers.dev/?id=VFZCUwxx&auth=1fce1d4350660a161e2c09e8a06cb7f1871206615a545e4a3279c628531b1544e7e6b7f70964044f86b6ef1ffd1b2701
 TVBS台劇台,https://flat-thunder-7bcd.nt01xp.workers.dev/?id=VFZCUaWPsOWKhaWPsAxx&auth=1fce1d4350660a161e2c09e8a06cb7f1871206615a545e4a3279c628531b1544e7e6b7f70964044f86b6ef1ffd1b2701
-TVBS新聞,https://flat-thunder-7bcd.nt01xp.workers.dev/?id=VFZCUaaWsOiBngxx&auth=1fce1d4350660a161e2c09e8a06cb7f1871206615a545e4a3279c628531b1544e7e6b7f70964044f86b6ef1ffd1b2701
+TVBS新聞台,https://flat-thunder-7bcd.nt01xp.workers.dev/?id=VFZCUaaWsOiBngxx&auth=1fce1d4350660a161e2c09e8a06cb7f1871206615a545e4a3279c628531b1544e7e6b7f70964044f86b6ef1ffd1b2701
 TVBS精采台,https://flat-thunder-7bcd.nt01xp.workers.dev/?id=VFZCUaeyvumHhaWPsAxx&auth=1fce1d4350660a161e2c09e8a06cb7f1871206615a545e4a3279c628531b1544e7e6b7f70964044f86b6ef1ffd1b2701
 TVBS綜藝台,https://flat-thunder-7bcd.nt01xp.workers.dev/?id=VFZCUae2nOiXneWPsAxx&auth=1fce1d4350660a161e2c09e8a06cb7f1871206615a545e4a3279c628531b1544e7e6b7f70964044f86b6ef1ffd1b2701
 TVBS歡樂台,https://flat-thunder-7bcd.nt01xp.workers.dev/?id=VFZCUaatoeaoguWPsAxx&auth=1fce1d4350660a161e2c09e8a06cb7f1871206615a545e4a3279c628531b1544e7e6b7f70964044f86b6ef1ffd1b2701
