@@ -14,17 +14,9 @@ https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfac
 
 华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
 
-xTVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
-
 天映频道,http://php.jdshipin.com/smt.php?id=Celestial
 
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
-
-=================================
-
-https://develop202.github.io/migu_video
-
-https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 
 =================================
 
@@ -201,6 +193,6 @@ ALLINONE部署指令生成器 https://imgtool.v1.mk/allinone.html
 
 /sub https://www.right.com.cn/forum/forum.php?mod=rss&fid=182
 
-tg delete https://my.telegram.org/auth
-
 docker run -d --restart always --privileged=true -p 35455:35455 --name allinone youshandefeiyang/allinone -tv=true -aesKey=wiidoowgrrmxnt0k4ko2wugugewengzt -userid=7234681260 -token=37a716309767df2068fa996995731bc3bf82bdce8762ad87a2c5bd79ff1352bcb35a185ccaf830e3a71951c34dd0a389627ee0798a8ef6b40c0052a976fc966ba32c7ad5642227
+
+刪除帳號 tg delete https://my.telegram.org/auth
