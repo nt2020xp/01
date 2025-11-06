@@ -16,8 +16,9 @@ TVBS新聞,http://3065.koyeb.app/3065.php?id=4gtv-4gtv072
 民視旅遊台,http://3065.koyeb.app/3065.php?id=litv-ftv07
 亞洲旅遊台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv076
 Smart知識台,http://3065.koyeb.app/3065.php?id=litv-longturn19
-愛爾達生活旅遊,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=r24ut5
-霹靂布袋戲,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=luds90
+愛爾達生活旅遊,http://141.11.87.241:20013/4gtv-live120/index.m3u8
+霹靂布袋戲,http://141.11.87.241:20013/4gtv-live145/index.m3u8
+
 
 靖天日本台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv047
 靖天育樂台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv062
