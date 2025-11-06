@@ -6,10 +6,6 @@ https://github.com/develop202/migu_video
 
 https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 
-js代碼 https://divine-unit-88f1.potdaco.workers.dev/?auth=1fce1d4350660a161e2c09e8a06cb7f1871206615a545e4a3279c628531b1544e7e6b7f70964044f86b6ef1ffd1b2701
-
-直播源 https://flat-thunder-7bcd.nt01xp.workers.dev/?list=true&auth=1fce1d4350660a161e2c09e8a06cb7f1871206615a545e4a3279c628531b1544e7e6b7f70964044f86b6ef1ffd1b2701
-
 香港,#genre#
 
 无线新闻台,http://r.jdshipin.com/CkuBd
