@@ -14,7 +14,7 @@ https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfac
 
 华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
 
-TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
+xTVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
 
 天映频道,http://php.jdshipin.com/smt.php?id=Celestial
 
@@ -92,16 +92,6 @@ okhttp
 陸地沉沒記  https://comic.acgn.cc/manhua-ludichenmo.htm
 
 ==================
-
-直播源  https://github.com/cxr9912/cxr2025
-
-judy直播源  https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/4gtv.m3u
-
-litv直播源  https://raw.githubusercontent.com/cxr9912/cxr2025/refs/heads/main/4GTV免費擼.m3u
-
-litv直播源  https://github.com/cxr9912/cxr2025/blob/main/4GTV免費擼.m3u
-
-====================
 
 直播網頁  https://www.kds.tw
 
