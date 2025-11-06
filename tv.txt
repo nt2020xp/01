@@ -59,15 +59,12 @@ TVBS新聞,http://3065.koyeb.app/3065.php?id=4gtv-4gtv072
 靖天戲劇台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv058
 靖天歡樂台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv054
 靖洋戲劇台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv045
-靖天卡通台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv044
-靖洋卡通台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv057
 龍華電影台,http://3065.koyeb.app/3065.php?id=litv-longturn03
 龍華洋片台,http://3065.koyeb.app/3065.php?id=litv-longturn02
 龍華經典台,http://3065.koyeb.app/3065.php?id=litv-longturn21
 龍華日韓台,http://3065.koyeb.app/3065.php?id=litv-longturn11
 龍華偶像台,http://3065.koyeb.app/3065.php?id=litv-longturn12
 龍華戲劇台,http://3065.koyeb.app/3065.php?id=litv-longturn18
-龍華卡通台,http://3065.koyeb.app/3065.php?id=litv-longturn01
 
 華視,http://3065.koyeb.app/3065.php?id=4gtv-4gtv041
 中視,http://3065.koyeb.app/3065.php?id=4gtv-4gtv040
@@ -77,7 +74,6 @@ TVBS新聞,http://3065.koyeb.app/3065.php?id=4gtv-4gtv072
 亞洲旅遊台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv076
 Smart知識台,http://3065.koyeb.app/3065.php?id=litv-longturn19
 愛爾達生活旅遊,http://141.11.87.241:20013/4gtv-live120/index.m3u8
-
 霹靂布袋戲,http://141.11.87.241:20013/4gtv-live145/index.m3u8
 
 日本新聞,#genre#
