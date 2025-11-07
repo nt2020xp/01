@@ -317,6 +317,10 @@ TVBS歡樂台,http://141.11.87.241:20013/li-4gtv-4gtv068/index.m3u8
 faintv,#genre#
 parse=1
 
+TVB無綫新聞,https://www.faintv.com/channel/17766	
+
+TVB星河台,https://www.faintv.com/channel/17767	
+
 中視新聞台,https://www.faintv.com/channel/12922			
 華視新聞台,https://www.faintv.com/channel/12891			
 台視新聞台,https://www.faintv.com/channel/19366			
@@ -328,8 +332,7 @@ parse=1
 CNEX紀實頻道,https://www.faintv.com/channel/18295			
 鳳凰衛視中文台,https://www.faintv.com/channel/204			
 鳳凰衛視資訊台,https://www.faintv.com/channel/120			
-鳳凰衛視香港台,https://www.faintv.com/channel/18965			
-TVB無綫新聞,https://www.faintv.com/channel/17766			
+鳳凰衛視香港台,https://www.faintv.com/channel/18965					
 新唐人電視,https://www.faintv.com/channel/8976			
 台灣啟示錄,https://www.faintv.com/channel/18254			
 軍武大觀,https://www.faintv.com/channel/17617			
@@ -381,7 +384,7 @@ ETtoday綜合台,https://www.faintv.com/channel/146
 龍華日韓台,https://www.faintv.com/channel/116			
 龍華戲劇台,https://www.faintv.com/channel/95			
 龍華偶像台,https://www.faintv.com/channel/122			
-TVB星河台,https://www.faintv.com/channel/17767			
+		
 靖天戲劇台,https://www.faintv.com/channel/106			
 花系列戲劇,https://www.faintv.com/channel/12491			
 雲端電音狂潮,https://www.faintv.com/channel/20370			
