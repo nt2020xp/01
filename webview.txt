@@ -19,6 +19,13 @@ Smart知識台,http://3065.koyeb.app/3065.php?id=litv-longturn19
 愛爾達生活旅遊,http://141.11.87.241:20013/4gtv-live120/index.m3u8
 霹靂布袋戲,http://141.11.87.241:20013/4gtv-live145/index.m3u8
 
+靖天日本,http://141.11.87.241:20013/4gtv-4gtv047/index.m3u8
+靖天日本,http://141.11.87.241:20013/li-4gtv-4gtv047/index.m3u8
+緯來日本,https://3065.koyeb.app/smt.php?id=videolandjapan&token=1234
+緯來綜合,https://3065.koyeb.app/smt.php?id=videolandzonghe&token=1234
+緯來體育,https://3065.koyeb.app/smt.php?id=videolandsport&token=1234
+東森洋片,https://3065.koyeb.app/smt.php?id=ettvwestern&token=1234
+好萊塢電影,https://3065.koyeb.app/smt.php?id=hollywoodmovies_twn&token=1234
 
 靖天日本台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv047
 靖天育樂台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv062
