@@ -1,3 +1,18 @@
+judy
+
+https://github.com/judy-gotv/iptv
+
+4gtv
+
+https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/4gtv.m3u
+
+ofiii
+
+https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/ofiii.m3u
+
+
+
+
 https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 
  https://fanmingming.com/txt?url=https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
