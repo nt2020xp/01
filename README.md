@@ -158,11 +158,7 @@ gpt研究所 https://t.me/gpt_858
 
 點播直播交流群：https://t.me/doubebly001
 
-IPTV研究所 https://t.me/IPTV_9999999
-
 酷9群 https://t.me/Player_Ku9
-
-mytv https://t.me/mytv_android
 
 ourtv https://t.me/+z1BOPITtAmI4ZWZl
 
