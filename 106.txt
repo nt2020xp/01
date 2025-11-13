@@ -5,3 +5,10 @@
 9紀錄,http://106.42.199.82:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-9-HQ/G_CCTV-9-HQ.m3u8
 10科教,http://106.42.199.82:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-10-HQ/G_CCTV-10-HQ.m3u8
 13新聞,http://106.42.199.82:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-13-HQ/G_CCTV-13-HQ.m3u8
+
+
+江蘇衛視,http://180.114.162.56:2380/js-live-screenshot.gitv.tv/gitv_live/G_JIANGSU-CQ/G_JIANGSU-CQ.m3u8
+浙江衛視,http://111.20.14.26:2380/js-live-screenshot.gitv.tv/gitv_live/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ.m3u8
+湖南衛視,http://106.227.202.158:2380/js-live-screenshot.gitv.tv/gitv_live/G_HUNAN-CQ/G_HUNAN-CQ.m3u8
+北京衛視,http://42.236.78.27:2380/js-live-screenshot.gitv.tv/gitv_live/G_BEIJING-CQ/G_BEIJING-CQ.m3u8
+東方衛視,http://117.40.150.14:2380/js-live-screenshot.gitv.tv/gitv_live/G_DONGFANG-CQ/G_DONGFANG-CQ.m3u8
