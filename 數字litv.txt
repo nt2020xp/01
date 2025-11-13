@@ -90,45 +90,62 @@ https://www.litv.tv/channel/watch/litv-longturn22	台灣戲劇台
 
 ===================================
 
-ARIRANG阿里郎頻道	https://www.litv.tv/channel/watch/4gtv-4gtv079						
-CLASSICA 古典樂	https://www.litv.tv/channel/watch/4gtv-4gtv059						
-ELTV生活英語台	https://www.litv.tv/channel/watch/litv-longturn20						
-GINX Esports TV	https://www.litv.tv/channel/watch/4gtv-4gtv053						
-Mezzo Live HD	https://www.litv.tv/channel/watch/4gtv-4gtv083						
-Pet Club TV	https://www.litv.tv/channel/watch/4gtv-4gtv110						
-Smart知識台	https://www.litv.tv/channel/watch/litv-longturn19						
-TRACE Sport Stars	https://www.litv.tv/channel/watch/4gtv-4gtv077						
-TRACE Urban	https://www.litv.tv/channel/watch/4gtv-4gtv082						
-TVBS	https://www.litv.tv/channel/watch/4gtv-4gtv073						
 TVBS新聞台	https://www.litv.tv/channel/watch/4gtv-4gtv072						
+東森新聞台	https://www.litv.tv/channel/watch/4gtv-4gtv152
+東森財經台	https://www.litv.tv/channel/watch/4gtv-4gtv153
+民視新聞台	https://www.litv.tv/channel/watch/litv-ftv13	
+中天新聞台	https://www.litv.tv/channel/watch/4gtv-4gtv009
+華視新聞台	https://www.litv.tv/channel/watch/4gtv-4gtv052	
+中視新聞台	https://www.litv.tv/channel/watch/4gtv-4gtv074	
+台視新聞台	https://www.litv.tv/channel/watch/4gtv-4gtv051	
+寰宇新聞台	https://www.litv.tv/channel/watch/litv-longturn14
+寰宇台灣台	https://www.litv.tv/channel/watch/4gtv-4gtv156						
+寰宇財經台	https://www.litv.tv/channel/watch/4gtv-4gtv158						
+華視	https://www.litv.tv/channel/watch/4gtv-4gtv041						
+中視	https://www.litv.tv/channel/watch/4gtv-4gtv040
+台視	https://www.litv.tv/channel/watch/4gtv-4gtv066	
+民視	https://www.litv.tv/channel/watch/4gtv-4gtv155		
+民視旅遊台	https://www.litv.tv/channel/watch/litv-ftv07	
+亞洲旅遊台	https://www.litv.tv/channel/watch/4gtv-4gtv076
+Smart知識台	https://www.litv.tv/channel/watch/litv-longturn19
+Pet Club TV	https://www.litv.tv/channel/watch/4gtv-4gtv110						
+靖天日本台	https://www.litv.tv/channel/watch/4gtv-4gtv047						
+靖天卡通台	https://www.litv.tv/channel/watch/4gtv-4gtv044						
+靖天育樂台	https://www.litv.tv/channel/watch/4gtv-4gtv062						
+靖天映畫台	https://www.litv.tv/channel/watch/4gtv-4gtv055						
+靖天國際台	https://www.litv.tv/channel/watch/4gtv-4gtv063						
+靖天資訊台	https://www.litv.tv/channel/watch/4gtv-4gtv065						
+靖天電影台	https://www.litv.tv/channel/watch/4gtv-4gtv061						
+靖天綜合台	https://www.litv.tv/channel/watch/4gtv-4gtv046						
+靖天戲劇台	https://www.litv.tv/channel/watch/4gtv-4gtv058						
+靖天歡樂台	https://www.litv.tv/channel/watch/4gtv-4gtv054						
+靖洋卡通台	https://www.litv.tv/channel/watch/4gtv-4gtv057						
+靖洋戲劇台	https://www.litv.tv/channel/watch/4gtv-4gtv045		
+龍華日韓台	https://www.litv.tv/channel/watch/litv-longturn11						
+龍華卡通台	https://www.litv.tv/channel/watch/litv-longturn01						
+龍華洋片台	https://www.litv.tv/channel/watch/litv-longturn02						
+龍華偶像台	https://www.litv.tv/channel/watch/litv-longturn12						
+龍華經典台	https://www.litv.tv/channel/watch/litv-longturn21						
+龍華電影台	https://www.litv.tv/channel/watch/litv-longturn03						
+龍華戲劇台	https://www.litv.tv/channel/watch/litv-longturn18	
+TVBS	https://www.litv.tv/channel/watch/4gtv-4gtv073		
 TVBS精采台	https://www.litv.tv/channel/watch/4gtv-4gtv067						
 TVBS歡樂台	https://www.litv.tv/channel/watch/4gtv-4gtv068						
 八大精彩台	https://www.litv.tv/channel/watch/4gtv-4gtv034						
 八大綜藝台	https://www.litv.tv/channel/watch/4gtv-4gtv039						
-中天亞洲台	https://www.litv.tv/channel/watch/4gtv-4gtv109						
-中天新聞台	https://www.litv.tv/channel/watch/4gtv-4gtv009						
-中視	https://www.litv.tv/channel/watch/4gtv-4gtv040						
+中天亞洲台	https://www.litv.tv/channel/watch/4gtv-4gtv109
 中視菁采台	https://www.litv.tv/channel/watch/4gtv-4gtv064						
-中視新聞台	https://www.litv.tv/channel/watch/4gtv-4gtv074						
 中視經典台	https://www.litv.tv/channel/watch/4gtv-4gtv080						
 公視戲劇	https://www.litv.tv/channel/watch/4gtv-4gtv042						
-台視	https://www.litv.tv/channel/watch/4gtv-4gtv066						
 台視財經	https://www.litv.tv/channel/watch/4gtv-4gtv056						
-台視新聞台	https://www.litv.tv/channel/watch/4gtv-4gtv051						
-台灣戲劇台	https://www.litv.tv/channel/watch/litv-longturn22						
-民視	https://www.litv.tv/channel/watch/4gtv-4gtv155						
-民視台灣台	https://www.litv.tv/channel/watch/4gtv-4gtv001						
-民視旅遊台	https://www.litv.tv/channel/watch/litv-ftv07						
-民視第一台	https://www.litv.tv/channel/watch/4gtv-4gtv003						
-民視新聞台	https://www.litv.tv/channel/watch/litv-ftv13						
+台灣戲劇台	https://www.litv.tv/channel/watch/litv-longturn22
+民視台灣台	https://www.litv.tv/channel/watch/4gtv-4gtv001
+民視第一台	https://www.litv.tv/channel/watch/4gtv-4gtv003
 民視綜藝台	https://www.litv.tv/channel/watch/4gtv-4gtv004						
 民視影劇台	https://www.litv.tv/channel/watch/litv-ftv09						
 好消息	https://www.litv.tv/channel/watch/litv-ftv16						
 好消息2台	https://www.litv.tv/channel/watch/litv-ftv17						
-我的歐洲電影	https://www.litv.tv/channel/watch/litv-ftv10						
-亞洲旅遊台	https://www.litv.tv/channel/watch/4gtv-4gtv076						
-東森財經台	https://www.litv.tv/channel/watch/4gtv-4gtv153						
-東森新聞台	https://www.litv.tv/channel/watch/4gtv-4gtv152						
+我的歐洲電影	https://www.litv.tv/channel/watch/litv-ftv10
 東森購物1台	https://www.litv.tv/channel/watch/4gtv-4gtv102						
 東森購物2台	https://www.litv.tv/channel/watch/4gtv-4gtv103						
 采昌影劇台	https://www.litv.tv/channel/watch/4gtv-4gtv049						
@@ -147,36 +164,20 @@ TVBS歡樂台	https://www.litv.tv/channel/watch/4gtv-4gtv068
 博斯運動二台	https://www.litv.tv/channel/watch/litv-longturn08						
 博斯網球台	https://www.litv.tv/channel/watch/litv-longturn09						
 博斯魅力台	https://www.litv.tv/channel/watch/litv-longturn04						
-智林體育台	https://www.litv.tv/channel/watch/4gtv-4gtv101						
-華視	https://www.litv.tv/channel/watch/4gtv-4gtv041						
-華視新聞	https://www.litv.tv/channel/watch/4gtv-4gtv052						
+智林體育台	https://www.litv.tv/channel/watch/4gtv-4gtv101	
 視納華仁紀實頻道	https://www.litv.tv/channel/watch/4gtv-4gtv013						
 愛爾達娛樂台	https://www.litv.tv/channel/watch/4gtv-4gtv070						
-達文西頻道	https://www.litv.tv/channel/watch/4gtv-4gtv018						
-靖天日本台	https://www.litv.tv/channel/watch/4gtv-4gtv047						
-靖天卡通台	https://www.litv.tv/channel/watch/4gtv-4gtv044						
-靖天育樂台	https://www.litv.tv/channel/watch/4gtv-4gtv062						
-靖天映畫台	https://www.litv.tv/channel/watch/4gtv-4gtv055						
-靖天國際台	https://www.litv.tv/channel/watch/4gtv-4gtv063						
-靖天資訊台	https://www.litv.tv/channel/watch/4gtv-4gtv065						
-靖天電影台	https://www.litv.tv/channel/watch/4gtv-4gtv061						
-靖天綜合台	https://www.litv.tv/channel/watch/4gtv-4gtv046						
-靖天戲劇台	https://www.litv.tv/channel/watch/4gtv-4gtv058						
-靖天歡樂台	https://www.litv.tv/channel/watch/4gtv-4gtv054						
-靖洋卡通台	https://www.litv.tv/channel/watch/4gtv-4gtv057						
-靖洋戲劇台	https://www.litv.tv/channel/watch/4gtv-4gtv045						
+達文西頻道	https://www.litv.tv/channel/watch/4gtv-4gtv018	
 影迷數位紀實台	https://www.litv.tv/channel/watch/litv-ftv15						
 影迷數位電影台	https://www.litv.tv/channel/watch/4gtv-4gtv011						
-豬哥亮歌廳秀	https://www.litv.tv/channel/watch/4gtv-4gtv006						
-寰宇台灣台	https://www.litv.tv/channel/watch/4gtv-4gtv156						
-寰宇財經台	https://www.litv.tv/channel/watch/4gtv-4gtv158						
-寰宇新聞台	https://www.litv.tv/channel/watch/litv-longturn14						
-龍華日韓台	https://www.litv.tv/channel/watch/litv-longturn11						
-龍華卡通台	https://www.litv.tv/channel/watch/litv-longturn01						
-龍華洋片台	https://www.litv.tv/channel/watch/litv-longturn02						
-龍華偶像台	https://www.litv.tv/channel/watch/litv-longturn12						
-龍華經典台	https://www.litv.tv/channel/watch/litv-longturn21						
-龍華電影台	https://www.litv.tv/channel/watch/litv-longturn03						
-龍華戲劇台	https://www.litv.tv/channel/watch/litv-longturn18						
-韓國娛樂台	https://www.litv.tv/channel/watch/4gtv-4gtv016								
+豬哥亮歌廳秀	https://www.litv.tv/channel/watch/4gtv-4gtv006	
+韓國娛樂台	https://www.litv.tv/channel/watch/4gtv-4gtv016	
+ARIRANG阿里郎頻道	https://www.litv.tv/channel/watch/4gtv-4gtv079						
+CLASSICA 古典樂	https://www.litv.tv/channel/watch/4gtv-4gtv059						
+ELTV生活英語台	https://www.litv.tv/channel/watch/litv-longturn20						
+GINX Esports TV	https://www.litv.tv/channel/watch/4gtv-4gtv053						
+Mezzo Live HD	https://www.litv.tv/channel/watch/4gtv-4gtv083
+TRACE Sport Stars	https://www.litv.tv/channel/watch/4gtv-4gtv077						
+TRACE Urban	https://www.litv.tv/channel/watch/4gtv-4gtv082						
+										
 							
