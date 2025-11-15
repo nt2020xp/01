@@ -200,6 +200,10 @@ tmxk 频道 https://t.me/tmxktg
 所長  https://t.me/Y_IPTV/185 
 
 aotv通知頻道 https://t.me/AptvPlayerChannel
+
+港澳台直播軟件
+https://t.me/tvbox9521
+
 ================
 
 聽音樂 @vkmusbot
