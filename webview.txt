@@ -173,7 +173,7 @@ TVBS新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv072
 民視,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv002
 
 
-543央視衛視,#genre#
+543央視,#genre#
 
 1綜合,http://smt.iptv543.com/Smart.php?id=cctv1
 2財經,http://smt.iptv543.com/Smart.php?id=cctv2
@@ -193,6 +193,8 @@ TVBS新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv072
 15音樂,http://smt.iptv543.com/Smart.php?id=cctv15
 16奧林匹克,http://smt.iptv543.com/Smart.php?id=cctv16
 17農業農村,http://smt.iptv543.com/Smart.php?id=cctv17
+
+543衛視,#genre#
 
 江蘇衛視,http://smt.iptv543.com/Smart.php?id=jiangsu_twn
 浙江衛視,http://smt.iptv543.com/Smart.php?id=zhejiang_twn
@@ -493,95 +495,4 @@ CETV4,http://117.40.150.14:2380/hw1live.rxip.sc96655.com.huan.tv/live/CETV-4H264
 三台一套,http://117.40.150.14:2380/hw1live.rxip.sc96655.com.huan.tv/live/stxwHD_2000.m3u8
 高县一套,http://117.40.150.14:2380/hw1live.rxip.sc96655.com.huan.tv/live/gxt_2000.m3u8
 峨眉山综合,http://117.40.150.14:2380/hw1live.rxip.sc96655.com.huan.tv/live/emsxw_2000.m3u8
-
-iptv345,#genre#
-
-TVBS HD,https://iptv345.com/?act=play&token=b932e682840d56bd79f4e7ae34122b4a&tid=litv&id=1
-AMC電影台,https://iptv345.com/?act=play&token=f7aa962864fd4db10b53107488395a07&tid=litv&id=28
-GinxTV,https://iptv345.com/?act=play&token=f585aa22db47d0b74bcd1593afa70d44&tid=litv&id=100
-MEZZO LIVE,https://iptv345.com/?act=play&token=e8996fe3a80060005d9e016f32e560df&tid=litv&id=98
-Smart知識台,https://iptv345.com/?act=play&token=c74bb9ea82bf3e48c42778c48eb495b8&tid=litv&id=86
-TRACE SPORTS STARS,https://iptv345.com/?act=play&token=7b0b9f92d74b9175fcd8e55253fcb41e&tid=litv&id=54
-TRACE URBAN,https://iptv345.com/?act=play&token=52960c497d47eb8ce38726c7d2dc89c3&tid=litv&id=97
-TVBS歡樂台,https://iptv345.com/?act=play&token=8882a18ff413d1cd2478a524f0ae1ff6&tid=litv&id=62
-TVBS新聞台,https://iptv345.com/?act=play&token=69e4241bb9d88c1e04acd4c1cd7e2c9d&tid=litv&id=2
-TVBS精采台,https://iptv345.com/?act=play&token=e893594b145f67fc4793ffdee651a585&tid=litv&id=61
-八大綜藝台,https://iptv345.com/?act=play&token=e2502645b525acb14954b704bb55251b&tid=litv&id=60
-八大精彩台,https://iptv345.com/?act=play&token=07f56b52e5830ab8e617b183dce2f6be&tid=litv&id=59
-中天亞洲台,https://iptv345.com/?act=play&token=086798d34a186d5de1a00fa0589f5c2b&tid=litv&id=4
-中天新聞,https://iptv345.com/?act=play&token=b2f69bfb54e8f51ea01ecbbfc85f7a2b&tid=litv&id=3
-中視,https://iptv345.com/?act=play&token=08e1870ae6f6825d72040eb122b191a2&tid=litv&id=22
-中視經典,https://iptv345.com/?act=play&token=45d7c69fe2c3b7640ef945f3d3dfbaee&tid=litv&id=35
-中視菁采,https://iptv345.com/?act=play&token=78e3f2749c9a40534a6d02a2a891d67c&tid=litv&id=58
-中視新聞,https://iptv345.com/?act=play&token=494266724b79204219e4badecde5c19c&tid=litv&id=8
-公視戲劇,https://iptv345.com/?act=play&token=c51c56f7396f7b08d193b9b5cecac342&tid=litv&id=39
-東森財經新聞,https://iptv345.com/?act=play&token=7d21869566a87c602eca888ff460c6e9&tid=litv&id=12
-東森新聞,https://iptv345.com/?act=play&token=ed6f08750c0c785455f6cd9af4ce69ce&tid=litv&id=11
-半島新聞,https://iptv345.com/?act=play&token=716bcc67dba392c29d1959b64098c9a7&tid=litv&id=13
-古典音樂台,https://iptv345.com/?act=play&token=a3707bf0297de000ed5520ba724f9df3&tid=litv&id=81
-台視,https://iptv345.com/?act=play&token=d12f07f405624a062a2ad1379310a600&tid=litv&id=19
-台視財經,https://iptv345.com/?act=play&token=ec1f94a2d42bc410e6070e008a63a21f&tid=litv&id=7
-台視新聞,https://iptv345.com/?act=play&token=d76fac13a9e3eeeabc120f640845fe74&tid=litv&id=5
-台灣戲劇台,https://iptv345.com/?act=play&token=85b4f62643d2a31d80f9d136720f174b&tid=litv&id=36
-民視,https://iptv345.com/?act=play&token=c6c52e53939e7f96de088cc3dd3030ab&tid=litv&id=20
-民視台灣台,https://iptv345.com/?act=play&token=3da4fe230cadfae1f29d1952bdf16efe&tid=litv&id=15
-民視旅遊,https://iptv345.com/?act=play&token=b0db576f50a9338125cf00d177ab1298&tid=litv&id=77
-民視第一台,https://iptv345.com/?act=play&token=59e25200350b05b815b4acf7d1a5a7a9&tid=litv&id=76
-民視綜藝,https://iptv345.com/?act=play&token=4e386366c2af4951f5989464cf229d5b&tid=litv&id=75
-民視新聞台,https://iptv345.com/?act=play&token=9b46fffc08cba23c647b7b97d6aa9f68&tid=litv&id=14
-民視影劇,https://iptv345.com/?act=play&token=6f554f26c208ff0b5a969e757ca6e6ce&tid=litv&id=33
-生活英語台,https://iptv345.com/?act=play&token=3117ab371c35379088236c9ed921430e&tid=litv&id=89
-龍華日韓,https://iptv345.com/?act=play&token=d1e84fda60b2d0313f4cfa2f41e96027&tid=litv&id=73
-龍華卡通,https://iptv345.com/?act=play&token=42eb084e7cc8edf54f2d79e0b49faba1&tid=litv&id=72
-龍華電影,https://iptv345.com/?act=play&token=8907abcafea3814928f175a41b290af6&tid=litv&id=31
-龍華戲劇,https://iptv345.com/?act=play&token=428568516305874f96815eee021889b4&tid=litv&id=40
-龍華經典,https://iptv345.com/?act=play&token=98dfd76d8e114be1eee4e09d7a2b7b76&tid=litv&id=34
-龍華偶像,https://iptv345.com/?act=play&token=39adafbc101045eaaa49c905fb16f942&tid=litv&id=74
-亞洲旅遊台,https://iptv345.com/?act=play&token=7b3decea7ef90f7c751f2353a3ab21b9&tid=litv&id=78
-華視,https://iptv345.com/?act=play&token=69e218c38eecef5c1348a558fdb86946&tid=litv&id=23
-華視新聞,https://iptv345.com/?act=play&token=a091f927880c9277f41cdebdc8ea1c01&tid=litv&id=6
-好消息,https://iptv345.com/?act=play&token=3a39ceb1fcf293f1c97137f8695a0660&tid=litv&id=92
-好消息2台,https://iptv345.com/?act=play&token=b446aaca962491a9524fbb77a4104153&tid=litv&id=93
-時尚運動X,https://iptv345.com/?act=play&token=4e9ef49381b927f651d2c50edadac4c2&tid=litv&id=44
-達文西頻道,https://iptv345.com/?act=play&token=3808067e3b19879c826f020d18fe47c9&tid=litv&id=87
-國會頻道1,https://iptv345.com/?act=play&token=0b01f28cfff5840bf393ae86d9007fd1&tid=litv&id=95
-國會頻道2,https://iptv345.com/?act=play&token=b2997b63a3f730db27254deb5b6058d4&tid=litv&id=96
-國際財經,https://iptv345.com/?act=play&token=dce9c0d2490d995676abf9b0d02085f0&tid=litv&id=90
-采昌影劇,https://iptv345.com/?act=play&token=f4ed6fc9baecf158ca2ef5645914db1c&tid=litv&id=32
-阿里郎,https://iptv345.com/?act=play&token=a706706c43aa00706982f5a616738a4a&tid=litv&id=88
-非凡商業,https://iptv345.com/?act=play&token=a8f4c2c9d5f7a020de167b076e7b7a5a&tid=litv&id=94
-非凡新聞,https://iptv345.com/?act=play&token=fd4b25018933b4ee1e17ca26887abb5a&tid=litv&id=9
-客家電視台,https://iptv345.com/?act=play&token=49af362431a8710ac06130501b0c7630&tid=litv&id=79
-美國之音,https://iptv345.com/?act=play&token=7a136219cbbfdaf47db7e6b479daa4bc&tid=litv&id=91
-愛爾達娛樂,https://iptv345.com/?act=play&token=09af8f3f3eba3983b935c2049061f9f4&tid=litv&id=71
-愛放動漫,https://iptv345.com/?act=play&token=51104aee40762e4d53aa97c4e9fa44b1&tid=litv&id=80
-博斯無限,https://iptv345.com/?act=play&token=a9d84264ad874cb58e2326aee0cdb2e1&tid=litv&id=52
-博斯無限2,https://iptv345.com/?act=play&token=7ab6cf3f26aa14ff56685fe7d1a30a59&tid=litv&id=53
-博斯網球,https://iptv345.com/?act=play&token=70185bb1a0c53f0fdeee911654cb726c&tid=litv&id=51
-博斯運動1,https://iptv345.com/?act=play&token=e962d660bace3dd21e2ae329784fa510&tid=litv&id=49
-博斯運動2,https://iptv345.com/?act=play&token=85c27ff8953041d86c43db3a24be5f9e&tid=litv&id=50
-博斯高球1,https://iptv345.com/?act=play&token=c6de816430ff90c53dcf58ab6bda0a00&tid=litv&id=47
-博斯高球2,https://iptv345.com/?act=play&token=6b917b5db2cfce3028c9245ac74becb3&tid=litv&id=48
-博斯魅力,https://iptv345.com/?act=play&token=c159e260c08f50dd0af3662240b7cedf&tid=litv&id=46
-智林體育台,https://iptv345.com/?act=play&token=8729c7038b7a835ec6bf49aff18f74c0&tid=litv&id=43
-豬哥亮歌廳秀,https://iptv345.com/?act=play&token=0bc32ded37d182efff8deca3136560c1&tid=litv&id=82
-視納華仁紀實頻道,https://iptv345.com/?act=play&token=4be5529df8d09ee7f891998a1c5babbe&tid=litv&id=57
-韓國娛樂台,https://iptv345.com/?act=play&token=7801f616675f8b01ad72f8bd7bf6b27c&tid=litv&id=99
-靖天日本台,https://iptv345.com/?act=play&token=d8b4716b60aa0062c16aaf78df8236eb&tid=litv&id=67
-靖天卡通台,https://iptv345.com/?act=play&token=16d41bfbd70281d95f791212013ee9e3&tid=litv&id=66
-靖天電影台,https://iptv345.com/?act=play&token=ed439f2342867f99b3152c59e89a8990&tid=litv&id=30
-靖天戲劇台,https://iptv345.com/?act=play&token=b7ff9e808796a9c08a6a1cbb6506da36&tid=litv&id=38
-靖天歡樂台,https://iptv345.com/?act=play&token=a53dcb012c10a78fbe01a23ce6299b2a&tid=litv&id=63
-靖天育樂台,https://iptv345.com/?act=play&token=40cbf953fd7290509a8855009f9b468d&tid=litv&id=45
-靖天國際台,https://iptv345.com/?act=play&token=1a3d4212ecd6a4590e820e915861aa31&tid=litv&id=69
-靖天映畫,https://iptv345.com/?act=play&token=2cf68b31e3baf4a1f51f6dae9a2761f7&tid=litv&id=70
-靖天資訊台,https://iptv345.com/?act=play&token=23ab751af1e04da9675e6f7a1d2b2ee9&tid=litv&id=65
-靖天綜合台,https://iptv345.com/?act=play&token=e08d5891bf75db4bc06a94ed9ee57dea&tid=litv&id=64
-靖洋卡通台,https://iptv345.com/?act=play&token=dce8804c2ed74dda81544ff7a65b6c2f&tid=litv&id=68
-靖洋戲劇台,https://iptv345.com/?act=play&token=6058bde54dfa16c7e7d18098e0d33475&tid=litv&id=37
-影迷數位電影台,https://iptv345.com/?act=play&token=6f4b5ce8313e485472c786e90ac9908a&tid=litv&id=27
-寰宇財經台,https://iptv345.com/?act=play&token=dd99348233d5a1abd117db54ee3cc8f1&tid=litv&id=18
-寰宇新聞台,https://iptv345.com/?act=play&token=8b37b06ba6b640163a977053e134b4b3&tid=litv&id=16
-寰宇新聞台灣台,https://iptv345.com/?act=play&token=aed21d7890d0ab7e5618fa6608ff7c8c&tid=litv&id=17
-鏡新聞,https://iptv345.com/?act=play&token=ec5731d78dc6d2182a1e817eae0702a0&tid=litv&id=10
 
