@@ -458,6 +458,7 @@ CETV4,http://117.40.150.14:2380/hw1live.rxip.sc96655.com.huan.tv/live/CETV-4H264
 峨眉山综合,http://117.40.150.14:2380/hw1live.rxip.sc96655.com.huan.tv/live/emsxw_2000.m3u8
 
 iptv345,#genre#
+parse=1
 
 TVBS HD,https://iptv345.com/?act=play&token=b932e682840d56bd79f4e7ae34122b4a&tid=litv&id=1
 AMC電影台,https://iptv345.com/?act=play&token=f7aa962864fd4db10b53107488395a07&tid=litv&id=28
