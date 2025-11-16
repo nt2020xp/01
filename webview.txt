@@ -144,8 +144,7 @@ x16奧林匹克,webview://https://tv.cctv.com/live/cctv16
 
 TVB翡翠台,http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
 TVB新聞台,http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
-TVB星河台,http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
-TVB星河台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
+TVB星河台,http://cdn6.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
 重溫經典,http://cdn6.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
 now新聞台,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
 TVB無線新聞,http://r.jdshipin.com/CkuBd
