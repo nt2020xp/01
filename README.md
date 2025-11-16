@@ -2,7 +2,7 @@ TVB翡翠台,http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
 
 TVB新聞台,http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
 
-TVB星河台,http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
+TVB星河台,http://cdn6.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
 
 TVB星河台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
 
