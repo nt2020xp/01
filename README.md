@@ -1,3 +1,15 @@
+TVB翡翠台,http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
+TVB新聞台,http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
+TVB星河台,http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
+TVB星河台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
+重溫經典,http://cdn6.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
+now新聞台,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
+
+1綜合,http://cdn6.veryfast.filegear-sg.me/live/cctv1/stream.m3u8
+13新聞,http://cdn3.veryfast.filegear-sg.me/live/cctv13/stream.m3u8
+
+
+
 judy
 
 https://github.com/judy-gotv/iptv
