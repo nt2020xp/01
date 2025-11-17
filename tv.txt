@@ -6,12 +6,12 @@
 蠟筆小新TV版,https://www.youtube.com/watch?v=bVZ2efejj3I
 櫻桃小丸子,http://113.45.240.129:35455/huya/11342394
 
-靖天日本台,http://1234.koyeb.app/1234.php?id=4gtv-4gtv047
-緯來日本,https://1234.koyeb.app/smt.php?id=videolandjapan&token=1234
-緯來綜合,https://1234.koyeb.app/smt.php?id=videolandzonghe&token=1234
-緯來體育,https://1234.koyeb.app/smt.php?id=videolandsport&token=1234
-東森洋片,https://1234.koyeb.app/smt.php?id=ettvwestern&token=1234
-好萊塢電影,https://1234.koyeb.app/smt.php?id=hollywoodmovies_twn&token=1234
+靖天日本台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv047
+緯來日本,https://3065.koyeb.app/smt.php?id=videolandjapan&token=1234
+緯來綜合,https://3065.koyeb.app/smt.php?id=videolandzonghe&token=1234
+緯來體育,https://3065.koyeb.app/smt.php?id=videolandsport&token=1234
+東森洋片,https://3065.koyeb.app/smt.php?id=ettvwestern&token=1234
+好萊塢電影,https://3065.koyeb.app/smt.php?id=hollywoodmovies_twn&token=1234
 澳門蓮花,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 
 TVB無線新聞台,https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
@@ -32,17 +32,17 @@ TVB翡翠台,https://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
 
 台灣新聞,#genre#
 
-TVBS新聞,http://1234.koyeb.app/1234.php?id=4gtv-4gtv072
-東森新聞,http://1234.koyeb.app/1234.php?id=4gtv-4gtv152
-東森財經,http://1234.koyeb.app/1234.php?id=4gtv-4gtv153
-民視新聞,http://1234.koyeb.app/1234.php?id=litv-ftv13
-中天新聞,http://1234.koyeb.app/1234.php?id=4gtv-4gtv009
-華視新聞,http://1234.koyeb.app/1234.php?id=4gtv-4gtv052
-中視新聞,http://1234.koyeb.app/1234.php?id=4gtv-4gtv074
-台視新聞,http://1234.koyeb.app/1234.php?id=4gtv-4gtv051
-寰宇新聞,http://1234.koyeb.app/1234.php?id=litv-longturn14
-寰宇台灣,http://1234.koyeb.app/1234.php?id=4gtv-4gtv156
-寰宇財經,http://1234.koyeb.app/1234.php?id=4gtv-4gtv158
+TVBS新聞,http://3065.koyeb.app/3065.php?id=4gtv-4gtv072
+東森新聞,http://3065.koyeb.app/3065.php?id=4gtv-4gtv152
+東森財經,http://3065.koyeb.app/3065.php?id=4gtv-4gtv153
+民視新聞,http://3065.koyeb.app/3065.php?id=litv-ftv13
+中天新聞,http://3065.koyeb.app/3065.php?id=4gtv-4gtv009
+華視新聞,http://3065.koyeb.app/3065.php?id=4gtv-4gtv052
+中視新聞,http://3065.koyeb.app/3065.php?id=4gtv-4gtv074
+台視新聞,http://3065.koyeb.app/3065.php?id=4gtv-4gtv051
+寰宇新聞,http://3065.koyeb.app/3065.php?id=litv-longturn14
+寰宇台灣,http://3065.koyeb.app/3065.php?id=4gtv-4gtv156
+寰宇財經,http://3065.koyeb.app/3065.php?id=4gtv-4gtv158
 
 瑞芳九份,https://www.youtube.com/watch?v=XSD5ptYisw8
 象山看台北,https://www.youtube.com/watch?v=z_fY1pj1VBw
@@ -53,31 +53,31 @@ TVBS新聞,http://1234.koyeb.app/1234.php?id=4gtv-4gtv072
 
 靖天龍華,#genre#
 
-靖天日本台,http://1234.koyeb.app/1234.php?id=4gtv-4gtv047
-靖天育樂台,http://1234.koyeb.app/1234.php?id=4gtv-4gtv062
-靖天映畫台,http://1234.koyeb.app/1234.php?id=4gtv-4gtv055
-靖天國際台,http://1234.koyeb.app/1234.php?id=4gtv-4gtv063
-靖天資訊台,http://1234.koyeb.app/1234.php?id=4gtv-4gtv065
-靖天電影台,http://1234.koyeb.app/1234.php?id=4gtv-4gtv061
-靖天綜合台,http://1234.koyeb.app/1234.php?id=4gtv-4gtv046
-靖天戲劇台,http://1234.koyeb.app/1234.php?id=4gtv-4gtv058
-靖天歡樂台,http://1234.koyeb.app/1234.php?id=4gtv-4gtv054
-靖洋戲劇台,http://1234.koyeb.app/1234.php?id=4gtv-4gtv045
+靖天日本台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv047
+靖天育樂台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv062
+靖天映畫台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv055
+靖天國際台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv063
+靖天資訊台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv065
+靖天電影台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv061
+靖天綜合台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv046
+靖天戲劇台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv058
+靖天歡樂台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv054
+靖洋戲劇台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv045
 
-龍華電影台,http://1234.koyeb.app/1234.php?id=litv-longturn03
-龍華洋片台,http://1234.koyeb.app/1234.php?id=litv-longturn02
-龍華經典台,http://1234.koyeb.app/1234.php?id=litv-longturn21
-龍華日韓台,http://1234.koyeb.app/1234.php?id=litv-longturn11
-龍華偶像台,http://1234.koyeb.app/1234.php?id=litv-longturn12
-龍華戲劇台,http://1234.koyeb.app/1234.php?id=litv-longturn18
+龍華電影台,http://3065.koyeb.app/3065.php?id=litv-longturn03
+龍華洋片台,http://3065.koyeb.app/3065.php?id=litv-longturn02
+龍華經典台,http://3065.koyeb.app/3065.php?id=litv-longturn21
+龍華日韓台,http://3065.koyeb.app/3065.php?id=litv-longturn11
+龍華偶像台,http://3065.koyeb.app/3065.php?id=litv-longturn12
+龍華戲劇台,http://3065.koyeb.app/3065.php?id=litv-longturn18
 
-華視,http://1234.koyeb.app/1234.php?id=4gtv-4gtv041
-中視,http://1234.koyeb.app/1234.php?id=4gtv-4gtv040
-台視,http://1234.koyeb.app/1234.php?id=4gtv-4gtv066
-民視,http://1234.koyeb.app/1234.php?id=4gtv-4gtv155
-民視旅遊台,http://1234.koyeb.app/1234.php?id=litv-ftv07
-亞洲旅遊台,http://1234.koyeb.app/1234.php?id=4gtv-4gtv076
-Smart知識台,http://1234.koyeb.app/1234.php?id=litv-longturn19
+華視,http://3065.koyeb.app/3065.php?id=4gtv-4gtv041
+中視,http://3065.koyeb.app/3065.php?id=4gtv-4gtv040
+台視,http://3065.koyeb.app/3065.php?id=4gtv-4gtv066
+民視,http://3065.koyeb.app/3065.php?id=4gtv-4gtv155
+民視旅遊台,http://3065.koyeb.app/3065.php?id=litv-ftv07
+亞洲旅遊台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv076
+Smart知識台,http://3065.koyeb.app/3065.php?id=litv-longturn19
 愛爾達生活旅遊,http://141.11.87.241:20013/4gtv-live120/index.m3u8
 霹靂布袋戲,http://141.11.87.241:20013/4gtv-live145/index.m3u8
 
