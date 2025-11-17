@@ -4,7 +4,7 @@
  * 版本：v1.2
  * 原作者：leifeng
  * 优化：GPT-5
- * 最后修改：2025-11-12
+ * 最后修改：2025-11-17
  * 功能说明：
  * - http://yourserver/litv.php? → 返回完整 M3U 列表
  * - http://yourserver/litv.php?id=频道ID → 返回指定频道的 M3U8 播放列表
