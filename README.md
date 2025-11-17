@@ -20,25 +20,23 @@ judy
 
 https://github.com/judy-gotv/iptv
 
+==========================
+
+migu
+
+https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
+
 smart
 
 https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/smart.m3u
-
-4gtv
-
-https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/4gtv.m3u
 
 ofiii
 
 https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/ofiii.m3u
 
+4gtv
 
-
-
-https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
-
- https://fanmingming.com/txt?url=https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
-
+https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/4gtv.m3u
 
 4gtv直播源 http://141.11.87.241:20013/?type=m3u
 
