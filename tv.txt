@@ -297,6 +297,10 @@ amc電影台,https://www.4gtv.tv/channel/4gtv-4gtv017?set=1&ch=39
 影迷數位電影台,https://www.4gtv.tv/channel/4gtv-4gtv011?set=1&ch=40		
 韓國娛樂台KMTV,https://www.4gtv.tv/channel/4gtv-4gtv016?set=1&ch=446		
 ARIRANG阿里郎頻道,https://www.4gtv.tv/channel/4gtv-4gtv079?set=1&ch=189		
+
+影迷數位紀實台,https://www.4gtv.tv/channel/litv-ftv15?set=1&ch=445		
+影迷數位電影台,https://www.4gtv.tv/channel/4gtv-4gtv011?set=1&ch=40		
+視納華仁紀實頻道,https://www.4gtv.tv/channel/4gtv-4gtv013?set=1&ch=38		
 Bloomberg TV,https://www.4gtv.tv/channel/4gtv-live059?set=1&ch=283		
 CI 罪案偵查頻道,https://www.4gtv.tv/channel/4gtv-live027?set=1&ch=215		
 CinemaWorld,https://www.4gtv.tv/channel/4gtv-live069?set=1&ch=225		
@@ -345,7 +349,6 @@ TRACE Urban,https://www.4gtv.tv/channel/4gtv-4gtv082?set=1&ch=78
 國會頻道1,https://www.4gtv.tv/channel/4gtv-4gtv084?set=1&ch=170		
 國會頻道2,https://www.4gtv.tv/channel/4gtv-4gtv085?set=1&ch=171		
 智林體育台,https://www.4gtv.tv/channel/4gtv-4gtv101?set=1&ch=58		
-視納華仁紀實頻道,https://www.4gtv.tv/channel/4gtv-4gtv013?set=1&ch=38		
 新唐人亞太台,https://www.4gtv.tv/channel/4gtv-live050?set=1&ch=223		
 經典卡通台,https://www.4gtv.tv/channel/4gtv-live022?set=1&ch=202		
 經典電影台,https://www.4gtv.tv/channel/4gtv-live021?set=1&ch=201		
@@ -353,7 +356,5 @@ TRACE Urban,https://www.4gtv.tv/channel/4gtv-4gtv082?set=1&ch=78
 電影原聲台CMusic,https://www.4gtv.tv/channel/4gtv-live031?set=1&ch=218		
 滾動力rollor,https://www.4gtv.tv/channel/4gtv-live012?set=1&ch=249		
 精選動漫台,https://www.4gtv.tv/channel/4gtv-live024?set=1&ch=204		
-影迷數位紀實台,https://www.4gtv.tv/channel/litv-ftv15?set=1&ch=445		
-影迷數位電影台,https://www.4gtv.tv/channel/4gtv-4gtv011?set=1&ch=40		
 豬哥亮歌廳秀,https://www.4gtv.tv/channel/4gtv-4gtv006?set=1&ch=113		
 戲劇免費看1台,https://www.4gtv.tv/channel/4gtv-live010?set=1&ch=270		
