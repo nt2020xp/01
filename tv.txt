@@ -239,6 +239,8 @@ CHC家庭影院,http://117.40.150.14:2380/hw1live.rxip.sc96655.com.huan.tv/live/
 
 4GTV網頁,#genre#
 parse=1
+ua=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36
+
 
 TVBS新聞台,https://www.4gtv.tv/channel/4gtv-4gtv072?set=1&ch=291	
 東森新聞台,https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292	
