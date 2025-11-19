@@ -1,5 +1,7 @@
 綠茶官網  https://show.188766.xyz
 
+綠茶tg   https://t.me/x188766
+
 體育密碼 mianfeibuhuaqian
 
 https://bc.188766.xyz/?ip=192.168.1.2&mishitong=true&mima=mianfeibuhuaqian&haiwai=true
