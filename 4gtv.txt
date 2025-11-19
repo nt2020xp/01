@@ -1,3 +1,5 @@
+4gtv,#genre#
+
 民視第一台,https://4gtvmobile-mozai.4gtv.tv/4hgB5zuTmEZnnKHHuCmM3CkiBr1_V3-WwkBhWZUjPCg%3d/index.m3u8?token=AhsCXqF6h_8y8-6WoH6kYA&expires=1763532285&token1=m-Re6XCy3GUXEhAJAucMcw&expires1=1763532285&refer=MDhlYzJhNjUtMDQxOS00MzIxLTlkZDAtYTQ0ZGVjN2Q3MmMy&y=0
 民視台灣台,https://4gtvmobile-mozai.4gtv.tv/fvn_OUXAP-YGh6VfZ5vCBAIr1hfVCq_cTxketedyT20%3d/index.m3u8?token=eHCx2dPs50UT8Rz25g66YA&expires=1763532293&token1=7zE_DcFliOgS36dtYtqhfQ&expires1=1763532293&refer=ZWQ1ZjI2MzItNTU3Yi00NDk3LTlhMjEtODViM2Y0MWNlMjAy&y=0
 民視,https://4gtvmobile-mozai.4gtv.tv/LpIbQ3fm45PtSS1rMZs2a-FDPJhw-_qHpgqro9a2Zl4%3d/index.m3u8?token=ipoXu6YHxrEYxhBbuD1cbA&expires=1763532301&token1=pgHbrtrnbSOzfJ3QZm0ObA&expires1=1763532301&refer=YjYwZDY3NjItY2MyNi00NmQxLTg5MTItM2ExM2YxMWUzZThi&y=0
