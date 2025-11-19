@@ -186,6 +186,8 @@ jackTV https://t.me/jacktvb
 
 gpt研究所 https://t.me/gpt_858
 
+tmxk 交流群 https://t.me/+rgxyQeDLtjcxM2U1
+
 (驗證)肥羊影音数码综合分享 https://t.me/feiyangdigital
 
 (驗證)大宇的大家庭（电视盒子） https://t.me/Dayuptv
@@ -194,17 +196,17 @@ gpt研究所 https://t.me/gpt_858
 
 點播直播交流群：https://t.me/doubebly001
 
-酷9分享群 https://t.me/Player_Ku9
-
-tmxk 交流群 https://t.me/+rgxyQeDLtjcxM2U1
-
 智能電視盒子 https://t.me/meitu007
-
-aptv https://t.me/AptvPlayer
 
 ＋＋＋＋＋＋＋＋＋
 
 訂閱頻道
+
+iptv研究所 https://t.me/Q_IPTV
+
+tmxk 频道 https://t.me/tmxktg
+
+judy所長  https://t.me/Y_IPTV/185 
 
 肥羊 https://t.me/feiyangofficalchannel
 
@@ -218,22 +220,13 @@ ok影視 https://t.me/tvb_ys
 
 唐三影視 https://t.me/ys_tvb
 
-PG节奏熊猫发布频道 https://t.me/PandaGroovePG
-
 天光云影發布 https://t.me/mytv_android_release
 
 點播直播通知群 https://t.me/doubebly003
 
 Tvbox接口 https://t.me/TVBoxjkou
 
-iptv研究所 https://t.me/Q_IPTV
-
-tmxk 频道 https://t.me/tmxktg
-
-judy所長  https://t.me/Y_IPTV/185 
-
-港澳台直播軟件
-https://t.me/tvbox9521
+港澳台直播軟件 https://t.me/tvbox9521
 
 ================
 
