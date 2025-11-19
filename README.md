@@ -4,6 +4,8 @@
 
 iptv-4gtv   https://hub.docker.com/r/instituteiptv/iptv-4gtv 
 
+litv php文件下载：https://pan.quark.cn/s/0411fa90d87c
+
 ========================
 
 TVB翡翠台,http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
