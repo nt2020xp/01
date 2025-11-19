@@ -2,6 +2,12 @@
 
 體育密碼 mianfeibuhuaqian
 
+https://bc.188766.xyz/?ip=192.168.1.2&mishitong=true&mima=mianfeibuhuaqian&haiwai=true
+
+https://bc.188766.xyz/?ip=192.168.1.2&mishitong=true&mima=mianfeibuhuaqian
+
+====================
+
 天馬行空  https://tmxk.pp.ua
 
 斯玛特镜像   https://hub.docker.com/r/instituteiptv/smart-v1 
