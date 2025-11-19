@@ -1,3 +1,17 @@
+肥羊推荐的iptv替代品（机器人获取）：https://t.me/mursorottiptv_bot 获取订阅地址然后根据视频修改UA：okHttp/Mod-1.4.0.0 即可
+
+https://github.com/mursor1985/LIVE
+
+https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/huyayqk.m3u
+
+https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/bililive.m3u
+
+https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/douyuyqk.m3u
+
+https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/yylunbo.m3u
+
+===================
+
 綠茶官網  https://show.188766.xyz
 
 綠茶tg   https://t.me/x188766
