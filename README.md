@@ -190,17 +190,11 @@ gpt研究所 https://t.me/gpt_858
 
 (驗證)大宇的大家庭（电视盒子） https://t.me/Dayuptv
 
-(驗證)pg包 https://t.me/pandagroovechat
-
 (申請)极致播放器交流群 https://t.me/jizhi00
 
 點播直播交流群：https://t.me/doubebly001
 
-酷9群 https://t.me/Player_Ku9
-
-ourtv https://t.me/+z1BOPITtAmI4ZWZl
-
-大宇 https://t.me/Dayuptv
+酷9分享群 https://t.me/Player_Ku9
 
 tmxk 交流群 https://t.me/+rgxyQeDLtjcxM2U1
 
@@ -208,7 +202,6 @@ tmxk 交流群 https://t.me/+rgxyQeDLtjcxM2U1
 
 aptv https://t.me/AptvPlayer
 
-绿茶vpn https://t.me/lvchavpn
 ＋＋＋＋＋＋＋＋＋
 
 訂閱頻道
