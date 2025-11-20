@@ -1,4 +1,4 @@
-tv543,#genre#
+543,#genre#
 
 TVBS新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv072
 東森新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv152
@@ -16,6 +16,8 @@ TVBS新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv072
 中視,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv040
 台視,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv066
 民視,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv002
+
+543央視,#genre#
 
 1綜合,http://smt.iptv543.com/Smart.php?id=cctv1
 2財經,http://smt.iptv543.com/Smart.php?id=cctv2
@@ -35,6 +37,8 @@ TVBS新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv072
 15音樂,http://smt.iptv543.com/Smart.php?id=cctv15
 16奧林匹克,http://smt.iptv543.com/Smart.php?id=cctv16
 17農業農村,http://smt.iptv543.com/Smart.php?id=cctv17
+
+543衛視,#genre#
 
 江蘇衛視,http://smt.iptv543.com/Smart.php?id=jiangsu_twn
 浙江衛視,http://smt.iptv543.com/Smart.php?id=zhejiang_twn
