@@ -1,3 +1,16 @@
+
+judy
+
+https://github.com/judy-gotv/iptv
+
+4GTV  https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/4gtv.m3u
+
+SMART  https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/smart.m3u
+
+4gtv直播源 http://141.11.87.241:20013/?type=m3u
+
+==========
+
 肥羊推荐的iptv替代品（机器人获取）：https://t.me/mursorottiptv_bot 获取订阅地址然后根据视频修改UA：okHttp/Mod-1.4.0.0 即可
 
 https://github.com/mursor1985/LIVE
@@ -52,13 +65,7 @@ now新聞台,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
 
 
 
-judy
 
-https://github.com/judy-gotv/iptv
-
-4GTV  https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/4gtv.m3u
-
-SMART  https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/smart.m3u
 
 ==========================
 
@@ -66,19 +73,6 @@ migu
 
 https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 
-smart
-
-https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/smart.m3u
-
-ofiii
-
-https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/ofiii.m3u
-
-4gtv
-
-https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/4gtv.m3u
-
-4gtv直播源 http://141.11.87.241:20013/?type=m3u
 
 米古直播源
 
