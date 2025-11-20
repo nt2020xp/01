@@ -210,6 +210,8 @@ tmxk 交流群 https://t.me/+rgxyQeDLtjcxM2U1
 
 智能電視盒子 https://t.me/meitu007
 
+catvod https://t.me/www_catvod_com
+
 ＋＋＋＋＋＋＋＋＋
 
 訂閱頻道
@@ -240,6 +242,7 @@ Tvbox接口 https://t.me/TVBoxjkou
 
 港澳台直播軟件 https://t.me/tvbox9521
 
+catvod https://t.me/catvod_com
 ================
 
 聽音樂 @vkmusbot
