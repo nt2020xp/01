@@ -56,6 +56,10 @@ judy
 
 https://github.com/judy-gotv/iptv
 
+4GTV  https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/4gtv.m3u
+
+SMART  https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/smart.m3u
+
 ==========================
 
 migu
