@@ -1,3 +1,18 @@
+直播源  https://live.catvod.com/tv.m3u
+
+直播源  https://bc.188766.xyz/?ip=192.168.1.2&mishitong=true&mima=mianfeibuhuaqian
+
+直播源  https://tmxk.pp.ua/smart-cn.m3u
+
+直播源  https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/4gtv.m3u
+
+直播源  https://tmxk.pp.ua/litv.php?token=tmxk
+
+直播源 https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
+
+=============
+
+
 ipv4  https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
 
 catvod的iptv：https://live.catvod.com/tv.m3u
