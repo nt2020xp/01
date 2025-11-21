@@ -43,7 +43,7 @@ TVBS歡樂台,https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184
 人間衛視,https://www.4gtv.tv/channel/4gtv-live008?set=1&ch=210		
 八大精彩台,https://www.4gtv.tv/channel/4gtv-4gtv034?set=1&ch=172		
 八大綜藝台,https://www.4gtv.tv/channel/4gtv-4gtv039?set=1&ch=114		
-三立新聞iNEWS,https://www.4gtv.tv/channel/4gtv-live089?set=1&ch=229		
+三立財經,https://www.4gtv.tv/channel/4gtv-live089?set=1&ch=229		
 三立綜合台,https://www.4gtv.tv/channel/4gtv-live207?set=1&ch=169		
 大愛二台,https://www.4gtv.tv/channel/4gtv-live106?set=1&ch=230		
 大愛電視,https://www.4gtv.tv/channel/4gtv-live007?set=1&ch=209		
