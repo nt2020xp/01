@@ -218,6 +218,8 @@ https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
 
 ====================== TG群組
 
+juli https://t.me/tvzby
+
 jackTV https://t.me/jacktvb
 
 冰茶TV https://t.me/x188766
