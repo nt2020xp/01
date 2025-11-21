@@ -12,6 +12,10 @@
 
 直播源 http://141.11.87.241:20013/?type=m3u
 
+直播源  http://vhr.dpdns.org:8080/litv.php
+
+直播源  http://vhr.dpdns.org:8080/ofiii.php
+
 =============
 
 
