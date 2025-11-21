@@ -1,3 +1,6 @@
+4GTV網頁,#genre#
+parse=1
+
 1234,#genre#
 
 直播源  https://live.catvod.com/tv.m3u
