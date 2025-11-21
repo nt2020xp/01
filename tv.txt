@@ -32,17 +32,19 @@ TVB翡翠台,https://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
 
 台灣新聞,#genre#
 
-TVBS新聞,http://3065.koyeb.app/3065.php?id=4gtv-4gtv072
-東森新聞,http://3065.koyeb.app/3065.php?id=4gtv-4gtv152
-東森財經,http://3065.koyeb.app/3065.php?id=4gtv-4gtv153
-民視新聞,http://3065.koyeb.app/3065.php?id=litv-ftv13
-中天新聞,http://3065.koyeb.app/3065.php?id=4gtv-4gtv009
-華視新聞,http://3065.koyeb.app/3065.php?id=4gtv-4gtv052
-中視新聞,http://3065.koyeb.app/3065.php?id=4gtv-4gtv074
-台視新聞,http://3065.koyeb.app/3065.php?id=4gtv-4gtv051
-寰宇新聞,http://3065.koyeb.app/3065.php?id=litv-longturn14
-寰宇台灣,http://3065.koyeb.app/3065.php?id=4gtv-4gtv156
-寰宇財經,http://3065.koyeb.app/3065.php?id=4gtv-4gtv158
+TVBS新聞,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv072
+東森新聞,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv152
+東森財經,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv153
+民視新聞,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-ftv13
+中天新聞,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv009
+華視新聞,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv052
+中視新聞,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv074
+台視新聞,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv051
+寰宇新聞,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-longturn14
+寰宇台灣,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv156
+鏡新聞,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv075
+非凡新聞,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv010
+
 
 瑞芳九份,https://www.youtube.com/watch?v=XSD5ptYisw8
 象山看台北,https://www.youtube.com/watch?v=z_fY1pj1VBw
@@ -53,31 +55,35 @@ TVBS新聞,http://3065.koyeb.app/3065.php?id=4gtv-4gtv072
 
 靖天龍華,#genre#
 
-靖天日本台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv047
-靖天育樂台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv062
-靖天映畫台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv055
-靖天國際台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv063
-靖天資訊台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv065
-靖天電影台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv061
-靖天綜合台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv046
-靖天戲劇台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv058
-靖天歡樂台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv054
-靖洋戲劇台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv045
+靖天日本台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv047
+靖天電影台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv061
+靖天映畫台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv055
+靖天國際台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv063
+靖天資訊台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv065
+靖天育樂台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv062
+靖天綜合台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv046
+靖天戲劇台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv058
+靖天歡樂台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv054
+靖洋戲劇台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv045
+靖天卡通台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv044
+靖洋卡通台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv057
 
-龍華電影台,http://3065.koyeb.app/3065.php?id=litv-longturn03
-龍華洋片台,http://3065.koyeb.app/3065.php?id=litv-longturn02
-龍華經典台,http://3065.koyeb.app/3065.php?id=litv-longturn21
-龍華日韓台,http://3065.koyeb.app/3065.php?id=litv-longturn11
-龍華偶像台,http://3065.koyeb.app/3065.php?id=litv-longturn12
-龍華戲劇台,http://3065.koyeb.app/3065.php?id=litv-longturn18
+龍華電影台,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-longturn03
+龍華洋片台,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-longturn02
+龍華經典台,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-longturn21
+龍華日韓台,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-longturn11
+龍華戲劇台,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-longturn18
+龍華偶像台,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-longturn12
+龍華卡通台,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-longturn01
 
-華視,http://3065.koyeb.app/3065.php?id=4gtv-4gtv041
-中視,http://3065.koyeb.app/3065.php?id=4gtv-4gtv040
-台視,http://3065.koyeb.app/3065.php?id=4gtv-4gtv066
-民視,http://3065.koyeb.app/3065.php?id=4gtv-4gtv155
-民視旅遊台,http://3065.koyeb.app/3065.php?id=litv-ftv07
-亞洲旅遊台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv076
-Smart知識台,http://3065.koyeb.app/3065.php?id=litv-longturn19
+華視,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv041
+中視,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv040
+台視,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv066
+民視,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv002
+民視,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv155
+民視旅遊台,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-ftv07
+亞洲旅遊台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv076
+Smart知識台,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-longturn19
 愛爾達生活旅遊,http://141.11.87.241:20013/4gtv-live120/index.m3u8
 霹靂布袋戲,http://141.11.87.241:20013/4gtv-live145/index.m3u8
 
