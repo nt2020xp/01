@@ -10,6 +10,8 @@
 
 直播源 https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 
+直播源 http://141.11.87.241:20013/?type=m3u
+
 =============
 
 
