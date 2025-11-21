@@ -1,3 +1,5 @@
+ipv4  https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+
 catvod的iptv：https://live.catvod.com/tv.m3u
 
 judy
