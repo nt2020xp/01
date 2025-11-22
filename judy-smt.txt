@@ -1,3 +1,5 @@
+smt,#genre#
+
 翡翠台,https://tzh911.qzz.io/play-smt.php?id=jade_twn
 翡翠台,https://tzh911.qzz.io/play-smt.php?id=Jade_xue
 明珠台,https://tzh911.qzz.io/play-smt.php?id=pearl_twn
