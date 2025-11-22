@@ -352,7 +352,7 @@ TVBS 欢乐台,https://tzh911.qzz.io/play-smt.php?id=tvbshuanle_twn
 爱尔达体育2台,https://tzh911.qzz.io/play-smt.php?id=eltasport2_twn
 爱尔达体育3台,https://tzh911.qzz.io/play-smt.php?id=eltasport3_twn
 爱尔达体育4台,https://tzh911.qzz.io/play-smt.php?id=eltasports4_twn
-小公视,https://tzh911.qzz.io/play-smt.php?id=pts3_twn
+
 非凡新闻,https://tzh911.qzz.io/play-smt.php?id=feifannews_twn
 年代新闻,https://tzh911.qzz.io/play-smt.php?id=niandainews_twn
 龙华戏剧,https://tzh911.qzz.io/play-smt.php?id=lunghuaxiju_twn
@@ -362,8 +362,7 @@ TVBS 欢乐台,https://tzh911.qzz.io/play-smt.php?id=tvbshuanle_twn
 龙华经典,https://tzh911.qzz.io/play-smt.php?id=lunghuajingdian_twn
 靖天国际,https://tzh911.qzz.io/play-smt.php?id=jingtianintl_twn
 靖天卡通,https://tzh911.qzz.io/play-smt.php?id=jingtiancartoon_twn
-大愛電視,https://tzh911.qzz.io/play-smt.php?id=daai_twn
-大愛二台,https://tzh911.qzz.io/play-smt.php?id=daai2_twn
+
 EYE 旅游台,https://tzh911.qzz.io/play-smt.php?id=eyetvtravel_twn
 EYE 戏剧台,https://tzh911.qzz.io/play-smt.php?id=eyetvxiju_twn
 亚洲美食,https://tzh911.qzz.io/play-smt.php?id=afc_twn
@@ -387,13 +386,14 @@ CINEMAX,https://tzh911.qzz.io/play-smt.php?id=cinemax_twn
 博斯高球二台,https://tzh911.qzz.io/play-smt.php?id=bosigolf2_twn
 博斯网球台,https://tzh911.qzz.io/play-smt.php?id=bositennis_twn
 博斯无限台,https://tzh911.qzz.io/play-smt.php?id=bosiunlimited_twn
-好消息 2,https://tzh911.qzz.io/play-smt.php?id=good2_twn
+
 CCTV-1 综合,https://tzh911.qzz.io/play-smt.php?id=cctv1
 CCTV-2 财经,https://tzh911.qzz.io/play-smt.php?id=cctv2
 CCTV-3 综艺,https://tzh911.qzz.io/play-smt.php?id=cctv3
 CCTV-4 中文国际,https://tzh911.qzz.io/play-smt.php?id=Cctv4
 CCTV-4 中文国际,https://tzh911.qzz.io/play-smt.php?id=cctv4
 CCTV-5 体育,https://tzh911.qzz.io/play-smt.php?id=cctv5
+CCTV-5+ 体育赛事,https://tzh911.qzz.io/play-smt.php?id=cctv5plus
 CCTV-6 电影,https://tzh911.qzz.io/play-smt.php?id=cctv6
 CCTV-7 国防军事,https://tzh911.qzz.io/play-smt.php?id=cctv7
 CCTV-8 电视剧,https://tzh911.qzz.io/play-smt.php?id=cctv8hd
@@ -406,7 +406,7 @@ CCTV-14 少儿,https://tzh911.qzz.io/play-smt.php?id=cctv14
 CCTV-15 音乐,https://tzh911.qzz.io/play-smt.php?id=cctv15
 CCTV-16 奥林匹克,https://tzh911.qzz.io/play-smt.php?id=cctv16
 CCTV-17 农业农村,https://tzh911.qzz.io/play-smt.php?id=cctv17
-CCTV-5+ 体育赛事,https://tzh911.qzz.io/play-smt.php?id=cctv5plus
+
 湖南卫视,https://tzh911.qzz.io/play-smt.php?id=hunan_twn
 浙江卫视,https://tzh911.qzz.io/play-smt.php?id=zhejiang_twn
 江苏卫视,https://tzh911.qzz.io/play-smt.php?id=jiangsu_twn
