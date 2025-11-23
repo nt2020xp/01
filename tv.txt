@@ -3,27 +3,13 @@
 東森幼幼,http://66.90.99.154:8278/yoyo_twn/playlist.m3u8?tid=mc42afe775831&ct=11748866&tsum=64dc5484859b469d3c02737f83e3487d
 蠟筆小新,https://live.ottiptv.cc/huya/11352970
 蠟筆小新,http://113.45.240.129:35455/huya/11352970
-蠟筆小新TV版,https://www.youtube.com/watch?v=jbZCyIhL4WQ
-櫻桃小丸子,http://113.45.240.129:35455/huya/11342394
-
-
-緯來日本,https://3065.koyeb.app/smt.php?id=videolandjapan&token=1234
-緯來綜合,https://3065.koyeb.app/smt.php?id=videolandzonghe&token=1234
-緯來體育,https://3065.koyeb.app/smt.php?id=videolandsport&token=1234
-東森洋片,https://3065.koyeb.app/smt.php?id=ettvwestern&token=1234
-好萊塢電影,https://3065.koyeb.app/smt.php?id=hollywoodmovies_twn&token=1234
-澳門蓮花,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
-
-TVB無線新聞台,https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
-TVB翡翠台,https://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
+蠟筆小新TV版,https://www.youtube.com/watch?v=ENnjj7jQ23g
 
 柯南國語1,https://live.ottiptv.cc/huya/30080148
 柯南國語2,http://113.45.240.129:35455/huya/30080236
 柯南劇場版,https://live.ottiptv.cc/huya/30080236
-哆啦A夢,https://live.ottiptv.cc/huya/11601963
-
-我們這一家,https://www.youtube.com/watch?v=XvZCYDICPW8
-新哆啦A夢,https://www.youtube.com/watch?v=1tawwsoLhKY
+我們這一家,https://www.youtube.com/watch?v=e1gbvCkwxFE
+新哆啦A夢,https://www.youtube.com/watch?v=jbZCyIhL4WQ
 
 飢餓遊戲》點閱人氣榜,https://www.youtube.com/live/UJgN7q6jpns?si=LrLdIhVNYfjVLTBG
 飢餓遊戲》一次播到飽,https://www.youtube.com/live/id-0Sz8s1pI?si=-Yyw63hfKvkmQypN
