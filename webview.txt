@@ -263,11 +263,11 @@ Pet Club TV,http://3065.koyeb.app/3065.php?id=4gtv-4gtv110
 
 
 
-酷9黑龍江,#genre#
+黑龍江,#genre#
 
-黑龍江衛視,http://A/ku9/js/webview.js?id=https://www.dbw.cn/zhibodan/zhibo_dan/hljws
-黑龍江影視,http://A/ku9/js/webview.js?id=https://www.dbw.cn/zhibodan/zhibo_dan/hljys
-黑龍江都市,http://A/ku9/js/webview.js?id=https://www.dbw.cn/zhibodan/zhibo_dan/hljds
-黑龍江新聞法治,http://A/ku9/js/webview.js?id=https://www.dbw.cn/zhibodan/zhibo_dan/heilongjiang
-黑龍江文體,http://A/ku9/js/webview.js?id=https://www.dbw.cn/zhibodan/zhibo_dan/hljwt
-黑龍江農業科教,http://A/ku9/js/webview.js?id=https://www.dbw.cn/zhibodan/zhibo_dan/hljnykj
+黑龍江衛視,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljws
+黑龍江影視,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljys
+黑龍江都市,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljds
+黑龍江新聞法治,webview://https://www.dbw.cn/zhibodan/zhibo_dan/heilongjiang
+黑龍江文體,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljwt
+黑龍江農業科教,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljnykj
