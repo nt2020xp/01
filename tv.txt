@@ -2,7 +2,9 @@
 
 東森幼幼,http://66.90.99.154:8278/yoyo_twn/playlist.m3u8?tid=mc42afe775831&ct=11748866&tsum=64dc5484859b469d3c02737f83e3487d
 蠟筆小新,https://live.ottiptv.cc/huya/11352970
+櫻桃小丸子,https://live.ottiptv.cc/huya/11342394
 蠟筆小新,http://113.45.240.129:35455/huya/11352970
+
 蠟筆小新TV版,https://www.youtube.com/watch?v=ENnjj7jQ23g
 
 柯南國語1,https://live.ottiptv.cc/huya/30080148
