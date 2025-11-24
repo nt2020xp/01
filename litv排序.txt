@@ -13,7 +13,6 @@ TVBS新聞台	4gtv-4gtv072
 非凡新聞台	4gtv-4gtv010	
 非凡商業台	4gtv-4gtv048
 
-
 華視	4gtv-4gtv041						
 中視	4gtv-4gtv040		
 台視	4gtv-4gtv066		
@@ -23,9 +22,7 @@ TVBS新聞台	4gtv-4gtv072
 Smart知識台	litv-longturn19				
 Pet Club TV	4gtv-4gtv110	
 
-
-靖天日本台	4gtv-4gtv047						
-靖天卡通台	4gtv-4gtv044						
+靖天日本台	4gtv-4gtv047									
 靖天育樂台	4gtv-4gtv062						
 靖天映畫台	4gtv-4gtv055						
 靖天國際台	4gtv-4gtv063						
@@ -36,55 +33,52 @@ Pet Club TV	4gtv-4gtv110
 靖天歡樂台	4gtv-4gtv054						
 靖洋卡通台	4gtv-4gtv057						
 靖洋戲劇台	4gtv-4gtv045		
+靖天卡通台	4gtv-4gtv044			
 
-龍華日韓台	litv-longturn11						
-龍華卡通台	litv-longturn01						
+龍華日韓台	litv-longturn11										
 龍華洋片台	litv-longturn02						
 龍華偶像台	litv-longturn12						
 龍華經典台	litv-longturn21						
 龍華電影台	litv-longturn03						
-龍華戲劇台	litv-longturn18			
+龍華戲劇台	litv-longturn18		
+龍華卡通台	litv-longturn01		
+
+TVBS	4gtv-4gtv073											
+TVBS精采台	4gtv-4gtv067						
+TVBS歡樂台	4gtv-4gtv068						
+八大精彩台	4gtv-4gtv034						
+八大綜藝台	4gtv-4gtv039						
+中天亞洲台	4gtv-4gtv109								
+中視菁采台	4gtv-4gtv064							
+中視經典台	4gtv-4gtv080		
+民視台灣台	4gtv-4gtv001										
+民視第一台	4gtv-4gtv003						
+民視綜藝台	4gtv-4gtv004						
+民視影劇台	litv-ftv09			
+采昌影劇台	4gtv-4gtv049		
+我的歐洲電影	litv-ftv10	
+
+視納華仁紀實頻道	4gtv-4gtv013						
+愛爾達娛樂台	4gtv-4gtv070						
+達文西頻道	4gtv-4gtv018									
+影迷數位紀實台	litv-ftv15						
+影迷數位電影台	4gtv-4gtv011	
+韓國娛樂台 KMTV	4gtv-4gtv016		
 
 ARIRANG阿里郎頻道	4gtv-4gtv079						
 CLASSICA 古典樂	4gtv-4gtv059						
 ELTV生活英語台	litv-longturn20						
 GINX Esports TV	4gtv-4gtv053						
-Mezzo Live HD	4gtv-4gtv083						
-					
-		
+Mezzo Live HD	4gtv-4gtv083									
 TRACE Sport Stars	4gtv-4gtv077						
-TRACE Urban	4gtv-4gtv082						
-TVBS	4gtv-4gtv073						
-					
-TVBS精采台	4gtv-4gtv067						
-TVBS歡樂台	4gtv-4gtv068						
-八大精彩台	4gtv-4gtv034						
-八大綜藝台	4gtv-4gtv039						
-中天亞洲台	4gtv-4gtv109						
-		
-中視菁采台	4gtv-4gtv064							
-中視經典台	4gtv-4gtv080						
-公視戲劇	4gtv-4gtv042						
-		
-台視財經台	4gtv-4gtv056						
-				
-台灣戲劇台	litv-longturn22						
-			
-民視台灣台	4gtv-4gtv001						
-					
-民視第一台	4gtv-4gtv003						
-	
-民視綜藝台	4gtv-4gtv004						
-民視影劇台	litv-ftv09						
+TRACE Urban	4gtv-4gtv082									
+公視戲劇	4gtv-4gtv042								
+台視財經台	4gtv-4gtv056										
+台灣戲劇台	litv-longturn22									
 好消息	litv-ftv16						
-好消息2台	litv-ftv17						
-我的歐洲電影	litv-ftv10						
-			
-				
+好消息2台	litv-ftv17											
 東森購物1台	4gtv-4gtv102						
-東森購物2台	4gtv-4gtv103						
-采昌影劇台	4gtv-4gtv049						
-	
+東森購物2台	4gtv-4gtv103											
 客家電視台	4gtv-4gtv043						
 時尚運動X	4gtv-4gtv014						
 國會頻道1台	4gtv-4gtv084						
@@ -98,16 +92,5 @@ TVBS歡樂台	4gtv-4gtv068
 博斯運動二台	litv-longturn08						
 博斯網球台	litv-longturn09						
 博斯魅力台	litv-longturn04						
-智林體育台	4gtv-4gtv101						
-				
-視納華仁紀實頻道	4gtv-4gtv013						
-愛爾達娛樂台	4gtv-4gtv070						
-達文西頻道	4gtv-4gtv018						
-				
-影迷數位紀實台	litv-ftv15						
-影迷數位電影台	4gtv-4gtv011						
-豬哥亮歌廳秀	4gtv-4gtv006						
-
-			
-韓國娛樂台 KMTV	4gtv-4gtv016			
-
+智林體育台	4gtv-4gtv101											
+豬哥亮歌廳秀	4gtv-4gtv006		
