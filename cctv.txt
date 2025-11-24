@@ -1,5 +1,6 @@
 央視,#genre#
 parse=1
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 
 CCTV4K,https://www.yangshipin.cn/tv/home?pid=600002264
 CCTV8K,https://www.yangshipin.cn/tv/home?pid=600156816
@@ -30,6 +31,7 @@ x16奧林匹克,https://tv.cctv.com/live/cctv16
 
 衛視,#genre#
 parse=1
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 
 江蘇衛視,https://yangshipin.cn/tv/home?pid=600002521
 浙江衛視,https://yangshipin.cn/tv/home?pid=600002520
