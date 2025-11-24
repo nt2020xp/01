@@ -1,3 +1,5 @@
+migu docker  develop767/migu_video:latest
+
 直播源論壇  https://bbs.livecodes.vip/forum.php?mod=forumdisplay&fid=6
 
 東森幼幼,https://tzh911.qzz.io/play-smt.php?id=yoyo_twn
