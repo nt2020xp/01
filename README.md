@@ -1,3 +1,7 @@
+9紀錄,https://migu.188766.xyz/?migutoken=4b90ccc08e56e56989feca674455c14b&id=CCTV9&type=yy
+
+10科教,https://migu.188766.xyz/?migutoken=f7823f1b2e7485057c2f3a6be0f87270&id=CCTV10&type=yy
+
 migu docker  develop767/migu_video:latest
 
 直播源論壇  https://bbs.livecodes.vip/forum.php?mod=forumdisplay&fid=6
