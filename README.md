@@ -235,6 +235,8 @@ https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
 
 ====================== TG群組
 
+夏天 影視資源交流 https://t.me/mejo288
+
 元寶 https://t.me/jdiptv2024
 
 juli https://t.me/tvzby
