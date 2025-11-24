@@ -1,3 +1,5 @@
+3065migu,#genre#
+
 CCTV1综合,http://3065.koyeb.app/migu.php?id=608807420
 CCTV2财经,http://3065.koyeb.app/migu.php?id=631780532
 CCTV3综艺,http://3065.koyeb.app/migu.php?id=624878271
