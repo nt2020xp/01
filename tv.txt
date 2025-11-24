@@ -219,9 +219,3 @@ Pet Club TV,http://3065.koyeb.app/3065.php?id=4gtv-4gtv110
 博斯無限二台,http://3065.koyeb.app/3065.php?id=litv-longturn13
 韓國娛樂台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv016
 
-冰茶央視,#genre#
-
-2財經,https://migu.188766.xyz/?migutoken=fac197b729b561a0d71679a4df5e96bf&id=CCTV2&type=yy
-9紀錄,https://migu.188766.xyz/?migutoken=4b90ccc08e56e56989feca674455c14b&id=CCTV9&type=yy
-10科教,https://migu.188766.xyz/?migutoken=f7823f1b2e7485057c2f3a6be0f87270&id=CCTV10&type=yy
-13新聞,https://migu.188766.xyz/?migutoken=a1c1d0fae1fa571898cb28b999e4fb17&id=CCTV13&type=yy
