@@ -4,6 +4,8 @@
 
 10科教,https://migu.188766.xyz/?migutoken=f7823f1b2e7485057c2f3a6be0f87270&id=CCTV10&type=yy
 
+13新聞,https://migu.188766.xyz/?migutoken=a1c1d0fae1fa571898cb28b999e4fb17&id=CCTV13&type=yy
+
 migu docker  develop767/migu_video:latest
 
 直播源論壇  https://bbs.livecodes.vip/forum.php?mod=forumdisplay&fid=6
