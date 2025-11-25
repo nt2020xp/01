@@ -238,6 +238,8 @@ smt央視,#genre#
 16奧林匹克,http://3065.koyeb.app/smt.php?id=cctv16
 17農業農村,http://3065.koyeb.app/smt.php?id=cctv17
 
+smt衛視,#genre#
+
 江蘇衛視,http://3065.koyeb.app/smt.php?id=jiangsu_twn
 浙江衛視,http://3065.koyeb.app/smt.php?id=zhejiang_twn
 湖南衛視,http://3065.koyeb.app/smt.php?id=hunan_twn
