@@ -235,6 +235,8 @@ https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
 
 ====================== TG群組
 
+bxtv交流 https://t.me/bingxuetva
+
 夏天 影視資源交流 https://t.me/mejo288
 
 元寶 https://t.me/jdiptv2024
@@ -264,6 +266,8 @@ catvod https://t.me/www_catvod_com
 ＋＋＋＋＋＋＋＋＋
 
 訂閱頻道
+
+bxtv频道 https://t.me/bingxuetv
 
 iptv研究所 https://t.me/Q_IPTV
 
