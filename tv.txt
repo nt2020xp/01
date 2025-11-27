@@ -282,6 +282,9 @@ CCTV-13,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=10
 河南党员教育,#genre#
 parse=1
 
+9紀錄,webview://https://tv.cctv.com/live/cctvjilu
+10科教,webview://https://tv.cctv.com/live/cctv10
+
 CCTV-1,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
 CCTV-3,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
 CCTV-5,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=3
