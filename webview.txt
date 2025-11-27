@@ -261,6 +261,12 @@ Pet Club TV,http://3065.koyeb.app/3065.php?id=4gtv-4gtv110
 博斯無限二台,http://3065.koyeb.app/3065.php?id=litv-longturn13
 韓國娛樂台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv016
 
+
+12華視,http://211.72.174.95:8114/0.ts
+10中視,http://211.72.174.95:8113/0.ts
+08台視,http://211.72.174.95:8112/0.ts
+06民視,http://211.72.174.95:8115/0.ts
+
 smt央視,#genre#
 
 1綜合,http://3065.koyeb.app/smt.php?id=cctv1
