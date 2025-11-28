@@ -118,7 +118,6 @@ TVBS新聞台,http://141.11.87.241:20013/li-4gtv-4gtv072/index.m3u8
 Smart知識台,http://141.11.87.241:20013/li-litv-longturn19/index.m3u8
 Smart知識台,http://141.11.87.241:20013/litv-longturn19/index.m3u8
 LOVE NATURE,http://141.11.87.241:20013/4gtv-live208/index.m3u8
-Pet Club TV,http://141.11.87.241:20013/4gtv-live110/index.m3u8
 
 
 日本新聞,#genre#
@@ -262,47 +261,3 @@ smt衛視,#genre#
 湖北衛視,http://3065.koyeb.app/smt.php?id=hubei
 四川衛視,http://3065.koyeb.app/smt.php?id=sichuan_twn
 
-
-
-河南党员教育,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=0
-CCTV-1,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
-CCTV-3,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
-CCTV-5,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=3
-CCTV-6,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=4
-CCTV-7,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=5
-CCTV-9,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=6
-CCTV-10,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=7
-CCTV-11,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=8
-CCTV-12,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=9
-CCTV-13,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=10
-浙江卫视,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=11
-北京卫视,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=12
-河南卫视,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=13
-河南都市,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=14
-河南民生,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=15
-河南戏曲,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=16
-
-河南教育,#genre#
-parse=1
-ua=Mozilla/5.0 (Linux; Android 4.2.1; M040 Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36
-
-9紀錄,webview://https://tv.cctv.com/live/cctvjilu
-10科教,video://https://tv.cctv.com/live/cctv10
-13新聞,https://tv.cctv.com/live/cctv13
-
-CCTV-1,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
-CCTV-3,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
-CCTV-5,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=3
-CCTV-6,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=4
-CCTV-7,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=5
-CCTV-9,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=6
-CCTV-10,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=7
-CCTV-11,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=8
-CCTV-12,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=9
-CCTV-13,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=10
-浙江卫视,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=11
-北京卫视,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=12
-河南卫视,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=13
-河南都市,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=14
-河南民生,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=15
-河南戏曲,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=16
