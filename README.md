@@ -235,6 +235,10 @@ https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
 
 ====================== TG群組
 
+aptv https://t.me/AptvPlayer
+
+ku9 https://t.me/Player_Ku9
+
 夏天 影視資源交流 https://t.me/mejo288
 
 juli https://t.me/tvzby
