@@ -194,79 +194,6 @@ TVB翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
 天映頻道,http://php.jdshipin.com/smt.php?id=Celestial
 天映經典,http://php.jdshipin.com/smt.php?id=Celestial2
 
-3065,#genre#
-
-TVBS新聞,http://3065.koyeb.app/3065.php?id=4gtv-4gtv072
-東森新聞,http://3065.koyeb.app/3065.php?id=4gtv-4gtv152
-東森財經,http://3065.koyeb.app/3065.php?id=4gtv-4gtv153
-民視新聞,http://3065.koyeb.app/3065.php?id=litv-ftv13
-中天新聞,http://3065.koyeb.app/3065.php?id=4gtv-4gtv009
-華視新聞,http://3065.koyeb.app/3065.php?id=4gtv-4gtv052
-中視新聞,http://3065.koyeb.app/3065.php?id=4gtv-4gtv074
-台視新聞,http://3065.koyeb.app/3065.php?id=4gtv-4gtv051
-寰宇新聞,http://3065.koyeb.app/3065.php?id=litv-longturn14
-寰宇台灣,http://3065.koyeb.app/3065.php?id=4gtv-4gtv156
-寰宇財經,http://3065.koyeb.app/3065.php?id=4gtv-4gtv158
-華視,http://3065.koyeb.app/3065.php?id=4gtv-4gtv041
-中視,http://3065.koyeb.app/3065.php?id=4gtv-4gtv040
-台視,http://3065.koyeb.app/3065.php?id=4gtv-4gtv066
-民視,http://3065.koyeb.app/3065.php?id=4gtv-4gtv155
-民視旅遊台,http://3065.koyeb.app/3065.php?id=litv-ftv07
-亞洲旅遊台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv076
-Smart知識台,http://3065.koyeb.app/3065.php?id=litv-longturn19
-靖天日本台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv047
-靖天育樂台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv062
-靖天映畫台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv055
-靖天國際台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv063
-靖天資訊台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv065
-靖天電影台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv061
-靖天綜合台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv046
-靖天戲劇台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv058
-靖天歡樂台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv054
-靖洋戲劇台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv045
-龍華電影台,http://3065.koyeb.app/3065.php?id=litv-longturn03
-龍華洋片台,http://3065.koyeb.app/3065.php?id=litv-longturn02
-龍華經典台,http://3065.koyeb.app/3065.php?id=litv-longturn21
-龍華日韓台,http://3065.koyeb.app/3065.php?id=litv-longturn11
-龍華偶像台,http://3065.koyeb.app/3065.php?id=litv-longturn12
-龍華戲劇台,http://3065.koyeb.app/3065.php?id=litv-longturn18
-TVBS,http://3065.koyeb.app/3065.php?id=4gtv-4gtv073
-TVBS精采台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv067
-TVBS歡樂台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv068
-八大精彩台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv034
-八大綜藝台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv039
-中視菁采台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv064
-中視經典台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv080
-中天亞洲台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv109
-民視台灣台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv001
-民視第一台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv003
-民視綜藝台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv004
-民視影劇台,http://3065.koyeb.app/3065.php?id=litv-ftv09
-采昌影劇台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv049
-公視戲劇,http://3065.koyeb.app/3065.php?id=4gtv-4gtv042
-台灣戲劇台,http://3065.koyeb.app/3065.php?id=litv-longturn22
-影迷數位電影台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv011
-視納華仁紀實頻道,http://3065.koyeb.app/3065.php?id=4gtv-4gtv013
-愛爾達娛樂台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv070
-達文西頻道,http://3065.koyeb.app/3065.php?id=4gtv-4gtv018
-影迷數位紀實台,http://3065.koyeb.app/3065.php?id=litv-ftv15
-Pet Club TV,http://3065.koyeb.app/3065.php?id=4gtv-4gtv110
-博斯魅力台,http://3065.koyeb.app/3065.php?id=litv-longturn04
-博斯高球台,http://3065.koyeb.app/3065.php?id=litv-longturn05
-博斯高球二台,http://3065.koyeb.app/3065.php?id=litv-longturn06
-博斯運動一台,http://3065.koyeb.app/3065.php?id=litv-longturn07
-博斯運動二台,http://3065.koyeb.app/3065.php?id=litv-longturn08
-博斯網球台,http://3065.koyeb.app/3065.php?id=litv-longturn09
-博斯無限台,http://3065.koyeb.app/3065.php?id=litv-longturn10
-博斯無限二台,http://3065.koyeb.app/3065.php?id=litv-longturn13
-韓國娛樂台,http://3065.koyeb.app/3065.php?id=4gtv-4gtv016
-
-
-12華視,http://211.72.174.95:8114/0.ts
-10中視,http://211.72.174.95:8113/0.ts
-08台視,http://211.72.174.95:8112/0.ts
-06民視,http://211.72.174.95:8115/0.ts
-
 smt央視,#genre#
 
 1綜合,http://3065.koyeb.app/smt.php?id=cctv1
@@ -303,47 +230,6 @@ smt衛視,#genre#
 湖北衛視,http://3065.koyeb.app/smt.php?id=hubei
 四川衛視,http://3065.koyeb.app/smt.php?id=sichuan_twn
 
-
-
-113,#genre#
-
-CCTV-1 综合,http://113.90.244.241:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-2 财经,http://113.90.244.241:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-3 综艺,http://113.90.244.241:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-4 中文国际,http://113.90.244.241:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5 体育,http://113.90.244.241:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-6 电影,http://113.90.244.241:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-7 国防军事,http://113.90.244.241:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-8 电视剧,http://113.90.244.241:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-9 纪录,http://113.90.244.241:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-10 科教,http://113.90.244.241:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-11 戏曲,http://113.90.244.241:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-12 社会与法,http://113.90.244.241:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-13 新闻,http://113.90.244.241:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-14 少儿,http://113.90.244.241:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-15 音乐,http://113.90.244.241:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-17 农业,http://113.90.244.241:85/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-
-湖南卫视,http://113.90.244.241:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://113.90.244.241:85/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://113.90.244.241:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://113.90.244.241:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://113.90.244.241:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://113.90.244.241:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视,http://113.90.244.241:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视,http://113.90.244.241:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://113.90.244.241:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://113.90.244.241:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视,http://113.90.244.241:85/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://113.90.244.241:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://113.90.244.241:85/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视,http://113.90.244.241:85/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://113.90.244.241:85/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://113.90.244.241:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视,http://113.90.244.241:85/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://113.90.244.241:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
 migu,#genre#
 
 CCTV1综合,https://tv.t8t.shop/hls/cctv1.m3u8
@@ -364,15 +250,7 @@ CCTV14少儿,https://tv.t8t.shop/hls/cctv14.m3u8
 CCTV15音乐,https://tv.t8t.shop/hls/cctv15.m3u8
 CCTV16奥林匹克,https://tv.t8t.shop/hls/cctv16.m3u8
 CCTV17农业农村,https://tv.t8t.shop/hls/cctv17.m3u8
-CETV1教育,https://tv.t8t.shop/hls/cetv1.m3u8
-CETV2教育,https://tv.t8t.shop/hls/cetv2.m3u8
-CETV4教育,https://tv.t8t.shop/hls/cetv4.m3u8
-CGTN英语,https://tv.t8t.shop/hls/cgtn英语.m3u8
-CGTN纪录,https://tv.t8t.shop/hls/cgtn纪录.m3u8
-CGTN俄语,https://tv.t8t.shop/hls/cgtn俄语.m3u8
-CGTN法语,https://tv.t8t.shop/hls/cgtn法语.m3u8
-CGTN西语,https://tv.t8t.shop/hls/cgtn西语.m3u8
-CGTN阿语,https://tv.t8t.shop/hls/cgtn阿语.m3u8
+
 江苏卫视,https://tv.t8t.shop/hls/jsws.m3u8
 广东卫视,https://tv.t8t.shop/hls/gdws.m3u8
 湖北卫视,https://tv.t8t.shop/hls/hubws.m3u8
@@ -417,6 +295,102 @@ CHC影迷电影,https://tv.t8t.shop/hls/ymdy.m3u8
 财富天下,https://tv.t8t.shop/hls/cftx.m3u8
 经典动画,https://tv.t8t.shop/hls/dhjh.m3u8
 广东影视,https://tv.t8t.shop/hls/gdys.m3u8
+
+银河TV,#genre#,JS=https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/yinhe.js
+
+CCTV-4K,http://A/ku9/js/yinhe.js?id=G_CCTV-4K-HD
+CCTV-1,http://A/ku9/js/yinhe.js?id=G_CCTV-1-HQ
+CCTV-2,http://A/ku9/js/yinhe.js?id=G_CCTV-2-HQ
+CCTV-3,http://A/ku9/js/yinhe.js?id=G_CCTV-3-HQ
+CCTV-4,http://A/ku9/js/yinhe.js?id=G_CCTV-4-HQ
+CCTV-5,http://A/ku9/js/yinhe.js?id=G_CCTV-5-HQ
+CCTV-5+,http://A/ku9/js/yinhe.js?id=G_CCTV-5PLUS-HQ
+CCTV-6,http://A/ku9/js/yinhe.js?id=G_CCTV-6-HQ
+CCTV-7,http://A/ku9/js/yinhe.js?id=G_CCTV-7-HQ
+CCTV-8,http://A/ku9/js/yinhe.js?id=G_CCTV-8-HQ
+CCTV-9,http://A/ku9/js/yinhe.js?id=G_CCTV-9-HQ
+CCTV-10,http://A/ku9/js/yinhe.js?id=G_CCTV-10-HQ
+CCTV-11,http://A/ku9/js/yinhe.js?id=G_CCTV-11-HQ
+CCTV-12,http://A/ku9/js/yinhe.js?id=G_CCTV-12-HQ
+CCTV-13,http://A/ku9/js/yinhe.js?id=G_CCTV-13-HQ
+CCTV-14,http://A/ku9/js/yinhe.js?id=G_CCTV-14-HQ
+CCTV-15,http://A/ku9/js/yinhe.js?id=G_CCTV-15-HQ
+CCTV-16,http://A/ku9/js/yinhe.js?id=G_CCTV-16-HQ
+CCTV-17,http://A/ku9/js/yinhe.js?id=G_CCTV-17-HQ
+
+江苏卫视,http://A/ku9/js/yinhe.js?id=G_JIANGSU-HQ
+浙江卫视,http://A/ku9/js/yinhe.js?id=G_ZHEJIANG-HQ
+东方卫视,http://A/ku9/js/yinhe.js?id=G_DONGFANG-HQ
+北京卫视,http://A/ku9/js/yinhe.js?id=G_BEIJING-HQ
+北京卫视4K,http://A/ku9/js/yinhe.js?id=G_BEIJING-4K
+广东卫视,http://A/ku9/js/yinhe.js?id=G_GUANGDONG-HQ
+山东卫视,http://A/ku9/js/yinhe.js?id=G_SHANDONG-HQ
+深圳卫视,http://A/ku9/js/yinhe.js?id=G_SHENZHEN-HQ
+安徽卫视,http://A/ku9/js/yinhe.js?id=G_ANHUI-HQ
+四川卫视,http://A/ku9/js/yinhe.js?id=G_SICHUAN-HQ
+黑龙江卫视,http://A/ku9/js/yinhe.js?id=G_HEILONGJIANG-HQ
+天津卫视,http://A/ku9/js/yinhe.js?id=G_TIANJIN-HQ
+湖北卫视,http://A/ku9/js/yinhe.js?id=G_HUBEI-HQ
+辽宁卫视,http://A/ku9/js/yinhe.js?id=G_LIAONING-HQ
+甘肃卫视,http://A/ku9/js/yinhe.js?id=G_GANSU-HQ
+重庆卫视,http://A/ku9/js/yinhe.js?id=G_CHONGQING-HQ
+广西卫视,http://A/ku9/js/yinhe.js?id=G_GUANGXI-HQ
+贵州卫视,http://A/ku9/js/yinhe.js?id=G_GUIZHOU-HQ
+海南卫视,http://A/ku9/js/yinhe.js?id=G_HAINAN-HQ
+河北卫视,http://A/ku9/js/yinhe.js?id=G_HEBEI-HQ
+河南卫视,http://A/ku9/js/yinhe.js?id=G_HENAN-HQ
+吉林卫视,http://A/ku9/js/yinhe.js?id=G_JILIN-HQ
+江西卫视,http://A/ku9/js/yinhe.js?id=G_JIANGXI-HQ
+内蒙古卫视,http://A/ku9/js/yinhe.js?id=G_NEIMENGGU
+宁夏卫视,http://A/ku9/js/yinhe.js?id=G_NINGXIA
+三沙卫视,http://A/ku9/js/yinhe.js?id=G_SANSHA-HQ
+陕西卫视,http://A/ku9/js/yinhe.js?id=G_SHANXI-HQ
+西藏卫视,http://A/ku9/js/yinhe.js?id=G_XIZANG
+新疆卫视,http://A/ku9/js/yinhe.js?id=G_XINJIANG
+青海卫视,http://A/ku9/js/yinhe.js?id=G_QINGHAI
+厦门卫视,http://A/ku9/js/yinhe.js?id=G_XIAMEN
+云南卫视,http://A/ku9/js/yinhe.js?id=G_YUNNAN-HQ
+安多卫视,http://A/ku9/js/yinhe.js?id=G_ANDUO
+兵团卫视,http://A/ku9/js/yinhe.js?id=G_BINGTUAN
+东南卫视,http://A/ku9/js/yinhe.js?id=G_DONGNAN-HQ
+康巴卫视,http://A/ku9/js/yinhe.js?id=G_KANGBA
+农林卫视,http://A/ku9/js/yinhe.js?id=G_NONGLIN
+延边卫视,http://A/ku9/js/yinhe.js?id=G_YANBIAN
+山东教育,http://A/ku9/js/yinhe.js?id=G_SDETV
+北京冬奥纪实高清,http://A/ku9/js/yinhe.js?id=G_BEIJINGJS-HD
+家庭理财,http://A/ku9/js/yinhe.js?id=G_JIATINGLC
+炫动卡通,http://A/ku9/js/yinhe.js?id=G_XUANDONG
+金鹰卡通,http://A/ku9/js/yinhe.js?id=G_JINYING
+嘉佳卡通,http://A/ku9/js/yinhe.js?id=G_JIAJIA
+优漫卡通,http://A/ku9/js/yinhe.js?id=G_YOUMAN
+卡酷少儿,http://A/ku9/js/yinhe.js?id=G_KAKU
+CETV-1,http://A/ku9/js/yinhe.js?id=G_CETV-1-HQ
+CETV-2,http://A/ku9/js/yinhe.js?id=G_CETV-2
+CETV-3,http://A/ku9/js/yinhe.js?id=G_CETV-3
+CETV-4,http://A/ku9/js/yinhe.js?id=G_CETV-4
+早期教育,http://A/ku9/js/yinhe.js?id=G_CETV-ZQJY
+天元围棋,http://A/ku9/js/yinhe.js?id=G_TIANYUANWQ
+国学,http://A/ku9/js/yinhe.js?id=G_GUOXUE
+频道爆笑喜剧,http://A/ku9/js/yinhe.js?id=GITV-HB-1
+劲爆动作,http://A/ku9/js/yinhe.js?id=GITV-HB-2
+热门动画,http://A/ku9/js/yinhe.js?id=GITV-HB-3
+热播综艺,http://A/ku9/js/yinhe.js?id=GITV-HB-4
+情感地图,http://A/ku9/js/yinhe.js?id=GITV-HB-5
+真人秀场,http://A/ku9/js/yinhe.js?id=GITV-HB-6
+美好生活家,http://A/ku9/js/yinhe.js?id=GITV-GG-2
+AI直播频道,http://A/ku9/js/yinhe.js?id=GITV-AI-1
+AI直播频道4K,http://A/ku9/js/yinhe.js?id=GITV-AI-4K
+家庭剧场,http://A/ku9/js/yinhe.js?id=GITV-ZY-1
+怀旧年代,http://A/ku9/js/yinhe.js?id=GITV-ZY-2
+警匪悬疑,http://A/ku9/js/yinhe.js?id=GITV-ZY-3
+青春剧场,http://A/ku9/js/yinhe.js?id=GITV-ZY-4
+古装大剧,http://A/ku9/js/yinhe.js?id=GITV-ZY-5
+红色剧场,http://A/ku9/js/yinhe.js?id=GITV-ZY-6
+军旅战争,http://A/ku9/js/yinhe.js?id=GITV-ZY-7
+爆笑综艺,http://A/ku9/js/yinhe.js?id=GITV-ZY-8
+欧美大片,http://A/ku9/js/yinhe.js?id=GITV-ZY-9
+动画电影,http://A/ku9/js/yinhe.js?id=GITV-ZY-10
+
 
 
 
