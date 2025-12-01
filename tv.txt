@@ -400,3 +400,12 @@ CCTV-17,http://t.061899.xyz/tl/tl.php?id=cctv17
 
 
 
+央視新聞,#genre#
+parse=1
+
+CCTV4K直播,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=2127841942201075403
+CCTV1直播,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
+CCTV2直播,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103
+CCTV9直播,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=7252237247689203957
+CCTV10直播,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=14589146016461298119
+CCTV13直播,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228
