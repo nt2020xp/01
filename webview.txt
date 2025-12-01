@@ -126,7 +126,7 @@ CCTV2财经,webview://https://tv.cctv.com/live/cctv2
 CCTV3综艺,webview://https://tv.cctv.com/live/cctv3
 CCTV4中文国际,webview://https://tv.cctv.com/live/cctv4
 CCTV4中文国际（欧）,webview://https://tv.cctv.com/live/cctveurope/index.shtml
-4美洲,webview://https://tv.cctv.com/live/cctvamerica
+CCTV4中文国际（美）,webview://https://tv.cctv.com/live/cctvamerica
 CCTV5体育,webview://https://tv.cctv.com/live/cctv5
 CCTV5+体育赛事,webview://https://tv.cctv.com/live/cctv5plus
 CCTV6电影,webview://https://tv.cctv.com/live/cctv6
