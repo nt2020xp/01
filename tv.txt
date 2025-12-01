@@ -9,7 +9,7 @@
 我們這一家,https://www.youtube.com/watch?v=e1gbvCkwxFE
 新哆啦A夢,https://www.youtube.com/watch?v=jbZCyIhL4WQ
 
-
+台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 八大戲劇,http://66.90.99.154:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
 八大第一,http://66.90.99.154:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
 八大綜合,http://66.90.99.154:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
