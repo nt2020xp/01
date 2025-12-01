@@ -139,8 +139,8 @@ CCTV12社会与法,webview://https://tv.cctv.com/live/cctv12
 CCTV13新闻,webview://https://tv.cctv.com/live/cctv13
 CCTV14少儿,webview://https://tv.cctv.com/live/cctvchild
 CCTV15音乐,webview://https://tv.cctv.com/live/cctv15
-CCTV16奥林匹,webview://https://tv.cctv.com/live/cctv16
-CCTV17农业农村webview://https://tv.cctv.com/live/cctv17
+CCTV16奥林匹克,webview://https://tv.cctv.com/live/cctv16
+CCTV17农业农村,webview://https://tv.cctv.com/live/cctv17
 CCTV风云剧场,webview://https://yangshipin.cn/tv/home?pid=600099658
 CCTV第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655
 CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
