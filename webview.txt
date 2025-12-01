@@ -141,9 +141,9 @@ CCTV14少儿,webview://https://tv.cctv.com/live/cctvchild
 CCTV15音乐,webview://https://tv.cctv.com/live/cctv15
 CCTV16奥林匹,webview://https://tv.cctv.com/live/cctv16
 CCTV17农业农村webview://https://tv.cctv.com/live/cctv17
-CCTV风云剧场频道,webview://https://yangshipin.cn/tv/home?pid=600099658
-CCTV第一剧场频道,webview://https://yangshipin.cn/tv/home?pid=600099655
-CCTV怀旧剧场频道,webview://https://yangshipin.cn/tv/home?pid=600099620
+CCTV风云剧场,webview://https://yangshipin.cn/tv/home?pid=600099658
+CCTV第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655
+CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 
 
 衛視,#genre#
