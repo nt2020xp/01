@@ -1,0 +1,1757 @@
+🌙月光宝盒,#genre#
+華視,rtmp://f13h.mine.nu/sat/tv111
+中視,rtmp://f13h.mine.nu/sat/tv091
+台視,rtmp://f13h.mine.nu/sat/tv071
+民視,rtmp://f13h.mine.nu/sat/tv051
+CCTV怀旧剧场HD,http://gyang.host:7088/udp/239.253.43.25:5146
+CCTV怀旧剧场HD,http://gyang.host:7088/udp/239.253.43.5:5146
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+緯來日本,rtmp://f13h.mine.nu/sat/tv771
+緯來育樂,rtmp://f13h.mine.nu/sat/tv701
+緯來體育,rtmp://f13h.mine.nu/sat/tv721
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+MoMo综合,rtmp://f13h.mine.nu/sat/tv761
+ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
+ELEVEN体育3,rtmp://f13h.mine.nu/sat/tv751
+宝盒没宝,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
+翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
+华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
+无线新闻台, http://php.jdshipin.com/smt.php?id=inews_twn
+TVB星河, http://php.jdshipin.com/smt.php?id=Xinhe
+千禧经典台, http://php.jdshipin.com/smt.php?id=Tvbclassic
+TVB娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
+天映频道, http://php.jdshipin.com/smt.php?id=Celestial
+天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
+Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
+Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
+爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
+Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
+Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
+八度空间,http://php.jdshipin.com/smt.php?id=TV8
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
+TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
+美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
+澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
+RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+CCTV1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+
+
+AKTV,#genre#
+无线新闻台, http://php.jdshipin.com/smt.php?id=inews_twn
+TVB星河, http://php.jdshipin.com/smt.php?id=Xinhe
+千禧经典台, http://php.jdshipin.com/smt.php?id=Tvbclassic
+宝盒没宝,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
+TVB娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
+天映频道, http://php.jdshipin.com/smt.php?id=Celestial
+天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
+Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
+Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
+爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
+Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
+Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
+八度空间,http://php.jdshipin.com/smt.php?id=TV8
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
+TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
+美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
+澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
+RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+CCTV1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+
+
+
+🌈宝盒没宝,#genre#
+宝盒没宝,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
+翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
+华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
+无线新闻台, http://php.jdshipin.com/smt.php?id=inews_twn
+TVB星河, http://php.jdshipin.com/smt.php?id=Xinhe
+千禧经典台, http://php.jdshipin.com/smt.php?id=Tvbclassic
+TVB娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
+天映频道, http://php.jdshipin.com/smt.php?id=Celestial
+天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
+Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
+Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
+爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
+Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
+Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
+八度空间,http://php.jdshipin.com/smt.php?id=TV8
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
+TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
+美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
+澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
+RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+CCTV1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+音乐台,https://kq.bgp.68tool.com/video/m3u8/2022/08/17/e4ce2ac7/playlist.m3u8
+翡翠台,http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8
+凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8 
+凤凰中文,http://aktv_stream1.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
+凤凰资讯,http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
+凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8 
+凤凰香港,https://cdn3.163189.xyz/live/fhxg/stream.m3u8
+凤凰香港,http://aktv_stream1.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
+美亚电影,http://aktv_stream1.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
+凤凰电影,https://tv.bfsu.edu.cn/hls/fhdy.m3u8
+经典电影,http://ali.hlspull.yximgs.com/live/asdfgjddydy001.flv
+popc电影,http://aktv_stream1.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
+亞洲衛視,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
+临夏市台,http://124.152.34.102:8030/wCMq71/wCMq71_0.m3u8
+沭阳综合,http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
+水浒传轮播,http://1.94.31.214:35455/huya/26355860
+黄埔慢直播,https://pili-live-hls.wdit.com.cn/wditlive/2ccda390789949a6ac77296923d94d8e140d.m3u8
+四川文化旅游,http://api.dbkan.cdn.iptv.xin:2052/api.dbkan.com/hn/301
+四川妇女儿童,http://api.dbkan.cdn.iptv.xin:2052/api.dbkan.com/hn/303
+四川经济,http://api.dbkan.cdn.iptv.xin:2052/api.dbkan.com/hn/302
+四川科教,http://api.dbkan.cdn.iptv.xin:2052/api.dbkan.com/hn/304
+峨眉电影,http://api.dbkan.cdn.iptv.xin:2052/api.dbkan.com/hn/306
+
+🇨🇳4K超清,#genre#,DE=3
+
+
+河南卫视4k,http://zh.sqitv.com:888/hls/82/index.m3u8
+北京卫视4k,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/beijgf.js?id=bjws4k&t=湘西卫视出品
+
+深圳卫视4k,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/senzhentv.js?id=szws4k&t=湘西卫视出品
+
+东方卫视4K,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/txmbo.js?id=http://livebroadcast-pull.netapitest.com/live/dtv4k
+江苏卫视4K,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/txmbo.js?id=http://litchi-play-encrypted.jstv.com/4klive/jsws4kpro
+苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+
+湖南卫视4k,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+
+浙江卫视4k,https://play-qukan.cztv.com/live/1758879019692345.m3u8
+CCTV4K,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/cctvnews.js?id=cctv4k
+
+CCTV-8K,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/jiu1zytv.js?ename=cctv8k&token=xiangxiweishiIPTV
+
+🇨🇳银河TV,#genre#,JS=https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/yinhe.js
+CCTV-1,http://A/ku9/js/yinhe.js?id=G_CCTV-1-HQ
+CCTV-2,http://A/ku9/js/yinhe.js?id=G_CCTV-2-HQ
+CCTV-3,http://A/ku9/js/yinhe.js?id=G_CCTV-3-HQ
+CCTV-4,http://A/ku9/js/yinhe.js?id=G_CCTV-4-HQ
+CCTV-4K,http://A/ku9/js/yinhe.js?id=G_CCTV-4K-HD
+CCTV-5,http://A/ku9/js/yinhe.js?id=G_CCTV-5-HQ
+CCTV-5+,http://A/ku9/js/yinhe.js?id=G_CCTV-5PLUS-HQ
+CCTV-6,http://A/ku9/js/yinhe.js?id=G_CCTV-6-HQ
+CCTV-7,http://A/ku9/js/yinhe.js?id=G_CCTV-7-HQ
+CCTV-8,http://A/ku9/js/yinhe.js?id=G_CCTV-8-HQ
+CCTV-9,http://A/ku9/js/yinhe.js?id=G_CCTV-9-HQ
+CCTV-10,http://A/ku9/js/yinhe.js?id=G_CCTV-10-HQ
+CCTV-11,http://A/ku9/js/yinhe.js?id=G_CCTV-11-HQ
+CCTV-12,http://A/ku9/js/yinhe.js?id=G_CCTV-12-HQ
+CCTV-13,http://A/ku9/js/yinhe.js?id=G_CCTV-13-HQ
+CCTV-14,http://A/ku9/js/yinhe.js?id=G_CCTV-14-HQ
+CCTV-15,http://A/ku9/js/yinhe.js?id=G_CCTV-15-HQ
+CCTV-16,http://A/ku9/js/yinhe.js?id=G_CCTV-16-HQ
+CCTV-17,http://A/ku9/js/yinhe.js?id=G_CCTV-17-HQ
+女性时尚,http://A/ku9/js/yinhe.js?id=G_NVXINGSS
+老故事,http://A/ku9/js/yinhe.js?id=G_LAOGUSHI
+发现之旅,http://A/ku9/js/yinhe.js?id=G_FAXIANZL
+CGTN新闻,http://A/ku9/js/yinhe.js?id=G_CCTV-NEWS
+CGTN俄语,http://A/ku9/js/yinhe.js?id=G_CGTN-PYCCNN
+CGTN西班牙语,http://A/ku9/js/yinhe.js?id=G_CGTN-ESPANOL
+CGTN法语,http://A/ku9/js/yinhe.js?id=G_CGTN-FRANCAIS
+CGTN阿拉伯语,http://A/ku9/js/yinhe.js?id=G_CGTN_A
+江苏卫视,http://A/ku9/js/yinhe.js?id=G_JIANGSU-HQ
+央广购物,http://A/ku9/js/yinhe.js?id=G_YANGGUANGGOU
+好享购物,http://A/ku9/js/yinhe.js?id=G_HAOXIANG
+优选好物,http://A/ku9/js/yinhe.js?id=GITV-GG-1
+湖南卫视,http://A/ku9/js/yinhe.js?id=G_HUNAN-HQ
+浙江卫视,http://A/ku9/js/yinhe.js?id=G_ZHEJIANG-HQ
+东方卫视,http://A/ku9/js/yinhe.js?id=G_DONGFANG-HQ
+北京卫视,http://A/ku9/js/yinhe.js?id=G_BEIJING-HQ
+北京卫视4K,http://A/ku9/js/yinhe.js?id=G_BEIJING-4K
+广东卫视,http://A/ku9/js/yinhe.js?id=G_GUANGDONG-HQ
+山东卫视,http://A/ku9/js/yinhe.js?id=G_SHANDONG-HQ
+深圳卫视,http://A/ku9/js/yinhe.js?id=G_SHENZHEN-HQ
+安徽卫视,http://A/ku9/js/yinhe.js?id=G_ANHUI-HQ
+四川卫视,http://A/ku9/js/yinhe.js?id=G_SICHUAN-HQ
+黑龙江卫视,http://A/ku9/js/yinhe.js?id=G_HEILONGJIANG-HQ
+天津卫视,http://A/ku9/js/yinhe.js?id=G_TIANJIN-HQ
+湖北卫视,http://A/ku9/js/yinhe.js?id=G_HUBEI-HQ
+辽宁卫视,http://A/ku9/js/yinhe.js?id=G_LIAONING-HQ
+甘肃卫视,http://A/ku9/js/yinhe.js?id=G_GANSU-HQ
+重庆卫视,http://A/ku9/js/yinhe.js?id=G_CHONGQING-HQ
+广西卫视,http://A/ku9/js/yinhe.js?id=G_GUANGXI-HQ
+贵州卫视,http://A/ku9/js/yinhe.js?id=G_GUIZHOU-HQ
+海南卫视,http://A/ku9/js/yinhe.js?id=G_HAINAN-HQ
+河北卫视,http://A/ku9/js/yinhe.js?id=G_HEBEI-HQ
+河南卫视,http://A/ku9/js/yinhe.js?id=G_HENAN-HQ
+吉林卫视,http://A/ku9/js/yinhe.js?id=G_JILIN-HQ
+江西卫视,http://A/ku9/js/yinhe.js?id=G_JIANGXI-HQ
+内蒙古卫视,http://A/ku9/js/yinhe.js?id=G_NEIMENGGU
+宁夏卫视,http://A/ku9/js/yinhe.js?id=G_NINGXIA
+三沙卫视,http://A/ku9/js/yinhe.js?id=G_SANSHA-HQ
+陕西卫视,http://A/ku9/js/yinhe.js?id=G_SHANXI-HQ
+西藏卫视,http://A/ku9/js/yinhe.js?id=G_XIZANG
+新疆卫视,http://A/ku9/js/yinhe.js?id=G_XINJIANG
+青海卫视,http://A/ku9/js/yinhe.js?id=G_QINGHAI
+厦门卫视,http://A/ku9/js/yinhe.js?id=G_XIAMEN
+云南卫视,http://A/ku9/js/yinhe.js?id=G_YUNNAN-HQ
+安多卫视,http://A/ku9/js/yinhe.js?id=G_ANDUO
+兵团卫视,http://A/ku9/js/yinhe.js?id=G_BINGTUAN
+东南卫视,http://A/ku9/js/yinhe.js?id=G_DONGNAN-HQ
+康巴卫视,http://A/ku9/js/yinhe.js?id=G_KANGBA
+农林卫视,http://A/ku9/js/yinhe.js?id=G_NONGLIN
+延边卫视,http://A/ku9/js/yinhe.js?id=G_YANBIAN
+山东教育,http://A/ku9/js/yinhe.js?id=G_SDETV
+北京冬奥纪实高清,http://A/ku9/js/yinhe.js?id=G_BEIJINGJS-HD
+家庭理财,http://A/ku9/js/yinhe.js?id=G_JIATINGLC
+炫动卡通,http://A/ku9/js/yinhe.js?id=G_XUANDONG
+金鹰卡通,http://A/ku9/js/yinhe.js?id=G_JINYING
+嘉佳卡通,http://A/ku9/js/yinhe.js?id=G_JIAJIA
+优漫卡通,http://A/ku9/js/yinhe.js?id=G_YOUMAN
+卡酷少儿,http://A/ku9/js/yinhe.js?id=G_KAKU
+CETV-1,http://A/ku9/js/yinhe.js?id=G_CETV-1-HQ
+CETV-2,http://A/ku9/js/yinhe.js?id=G_CETV-2
+CETV-3,http://A/ku9/js/yinhe.js?id=G_CETV-3
+CETV-4,http://A/ku9/js/yinhe.js?id=G_CETV-4
+早期教育,http://A/ku9/js/yinhe.js?id=G_CETV-ZQJY
+天元围棋,http://A/ku9/js/yinhe.js?id=G_TIANYUANWQ
+国学,http://A/ku9/js/yinhe.js?id=G_GUOXUE
+频道爆笑喜剧,http://A/ku9/js/yinhe.js?id=GITV-HB-1
+劲爆动作,http://A/ku9/js/yinhe.js?id=GITV-HB-2
+热门动画,http://A/ku9/js/yinhe.js?id=GITV-HB-3
+热播综艺,http://A/ku9/js/yinhe.js?id=GITV-HB-4
+情感地图,http://A/ku9/js/yinhe.js?id=GITV-HB-5
+真人秀场,http://A/ku9/js/yinhe.js?id=GITV-HB-6
+美好生活家,http://A/ku9/js/yinhe.js?id=GITV-GG-2
+AI直播频道,http://A/ku9/js/yinhe.js?id=GITV-AI-1
+AI直播频道4K,http://A/ku9/js/yinhe.js?id=GITV-AI-4K
+家庭剧场,http://A/ku9/js/yinhe.js?id=GITV-ZY-1
+怀旧年代,http://A/ku9/js/yinhe.js?id=GITV-ZY-2
+警匪悬疑,http://A/ku9/js/yinhe.js?id=GITV-ZY-3
+青春剧场,http://A/ku9/js/yinhe.js?id=GITV-ZY-4
+古装大剧,http://A/ku9/js/yinhe.js?id=GITV-ZY-5
+红色剧场,http://A/ku9/js/yinhe.js?id=GITV-ZY-6
+军旅战争,http://A/ku9/js/yinhe.js?id=GITV-ZY-7
+爆笑综艺,http://A/ku9/js/yinhe.js?id=GITV-ZY-8
+欧美大片,http://A/ku9/js/yinhe.js?id=GITV-ZY-9
+动画电影,http://A/ku9/js/yinhe.js?id=GITV-ZY-10
+
+🇨🇳全网通TV,#genre#,JS=https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/nbsj.js
+CCTV4K,http://PLTV/ku9/js/nbsj.js?id=G_CCTV-4K-HD
+北京卫视4K,http://PLTV/ku9/js/nbsj.js?id=G_BEIJING-4K
+AI直播频道4K,http://PLTV/ku9/js/nbsj.js?id=GITV-AI-4K
+CCTV1综合频道,http://PLTV/ku9/js/nbsj.js?id=G_CCTV-1-HQ
+CCTV2财经频道,http://PLTV/ku9/js/nbsj.js?id=G_CCTV-2-HQ
+CCTV3综艺频道,http://PLTV/ku9/js/nbsj.js?id=G_CCTV-3-HQ
+CCTV4中文国际,http://PLTV/ku9/js/nbsj.js?id=G_CCTV-4-HQ
+CCTV5体育频道,http://PLTV/ku9/js/nbsj.js?id=G_CCTV-5-HQ
+CCTV5+体育赛事,http://PLTV/ku9/js/nbsj.js?id=G_CCTV-5PLUS-HQ
+CCTV6电影频道,http://PLTV/ku9/js/nbsj.js?id=G_CCTV-6-HQ
+CCTV7国防军事,http://PLTV/ku9/js/nbsj.js?id=G_CCTV-7-HQ
+CCTV8电视剧频道,http://PLTV/ku9/js/nbsj.js?id=G_CCTV-8-HQ
+CCTV9纪录片频道,http://PLTV/ku9/js/nbsj.js?id=G_CCTV-9-HQ
+CCTV10科教频道,http://PLTV/ku9/js/nbsj.js?id=G_CCTV-10-HQ
+CCTV11戏曲频道,http://PLTV/ku9/js/nbsj.js?id=G_CCTV-11-HQ
+CCTV12社会与法,http://PLTV/ku9/js/nbsj.js?id=G_CCTV-12-HQ
+CCTV13新闻频道,http://PLTV/ku9/js/nbsj.js?id=G_CCTV-13-HQ
+CCTV14少儿频道,http://PLTV/ku9/js/nbsj.js?id=G_CCTV-14-HQ
+CCTV15音乐频道,http://PLTV/ku9/js/nbsj.js?id=G_CCTV-15-HQ
+CCTV16奥林匹克,http://PLTV/ku9/js/nbsj.js?id=G_CCTV-16-HQ
+CCTV17农业农村,http://PLTV/ku9/js/nbsj.js?id=G_CCTV-17-HQ
+CGTN新闻,http://PLTV/ku9/js/nbsj.js?id=G_CCTV-NEWS
+广东卫视高清,http://PLTV/ku9/js/nbsj.js?id=G_GUANGDONG-HQ
+江苏卫视超清,http://PLTV/ku9/js/nbsj.js?id=G_JIANGSU-HQ
+浙江卫视超清,http://PLTV/ku9/js/nbsj.js?id=G_ZHEJIANG-HQ
+湖南卫视超清,http://PLTV/ku9/js/nbsj.js?id=G_HUNAN-HQ
+东方卫视超清,http://PLTV/ku9/js/nbsj.js?id=G_DONGFANG-HQ
+北京卫视超清,http://PLTV/ku9/js/nbsj.js?id=G_BEIJING-HQ
+深圳卫视高清,http://PLTV/ku9/js/nbsj.js?id=G_SHENZHEN-HQ
+辽宁卫视,http://PLTV/ku9/js/nbsj.js?id=G_LIAONING-HQ
+安徽卫视,http://PLTV/ku9/js/nbsj.js?id=G_ANHUI-HQ
+山东卫视超清,http://PLTV/ku9/js/nbsj.js?id=G_SHANDONG-HQ
+黑龙江卫视高清,http://PLTV/ku9/js/nbsj.js?id=G_HEILONGJIANG-HQ
+天津卫视,http://PLTV/ku9/js/nbsj.js?id=G_TIANJIN-HQ
+广西卫视,http://PLTV/ku9/js/nbsj.js?id=G_GUANGXI-HQ
+东南卫视高清,http://PLTV/ku9/js/nbsj.js?id=G_DONGNAN-HQ
+甘肃卫视,http://PLTV/ku9/js/nbsj.js?id=G_GANSU-HQ
+贵州卫视高清,http://PLTV/ku9/js/nbsj.js?id=G_GUIZHOU-HQ
+海南卫视,http://PLTV/ku9/js/nbsj.js?id=G_HAINAN-HQ
+河北卫视高清,http://PLTV/ku9/js/nbsj.js?id=G_HEBEI-HQ
+河南卫视高清,http://PLTV/ku9/js/nbsj.js?id=G_HENAN-HQ
+湖北卫视高清,http://PLTV/ku9/js/nbsj.js?id=G_HUBEI-HQ
+吉林卫视高清,http://PLTV/ku9/js/nbsj.js?id=G_JILIN-HQ
+江西卫视高清,http://PLTV/ku9/js/nbsj.js?id=G_JIANGXI-HQ
+康巴卫视,http://PLTV/ku9/js/nbsj.js?id=G_KANGBA
+安多卫视,http://PLTV/ku9/js/nbsj.js?id=G_ANDUO
+兵团卫视,http://PLTV/ku9/js/nbsj.js?id=G_BINGTUAN
+内蒙古卫视,http://PLTV/ku9/js/nbsj.js?id=G_NEIMENGGU
+宁夏卫视,http://PLTV/ku9/js/nbsj.js?id=G_NINGXIA
+农林卫视,http://PLTV/ku9/js/nbsj.js?id=G_NONGLIN
+三沙卫视,http://PLTV/ku9/js/nbsj.js?id=G_SANSHA-HQ
+陕西卫视,http://PLTV/ku9/js/nbsj.js?id=G_SHANXI-HQ
+四川卫视,http://PLTV/ku9/js/nbsj.js?id=G_SICHUAN-HQ
+西藏卫视,http://PLTV/ku9/js/nbsj.js?id=G_XIZANG
+新疆卫视,http://PLTV/ku9/js/nbsj.js?id=G_XINJIANG
+延边卫视,http://PLTV/ku9/js/nbsj.js?id=G_YANBIAN
+云南卫视,http://PLTV/ku9/js/nbsj.js?id=G_YUNNAN-HQ
+重庆卫视,http://PLTV/ku9/js/nbsj.js?id=G_CHONGQING-HQ
+北京冬奥纪实高清,http://PLTV/ku9/js/nbsj.js?id=G_BEIJINGJS-HD
+家庭理财,http://PLTV/ku9/js/nbsj.js?id=G_JIATINGLC
+金鹰卡通,http://PLTV/ku9/js/nbsj.js?id=G_JINYING
+卡酷少儿,http://PLTV/ku9/js/nbsj.js?id=G_KAKU
+女性时尚,http://PLTV/ku9/js/nbsj.js?id=G_NVXINGSS
+天元围棋,http://PLTV/ku9/js/nbsj.js?id=G_TIANYUANWQ
+炫动卡通,http://PLTV/ku9/js/nbsj.js?id=G_XUANDONG
+优漫卡通,http://PLTV/ku9/js/nbsj.js?id=G_YOUMAN
+CETV-1高清,http://PLTV/ku9/js/nbsj.js?id=G_CETV-1-HQ
+CETV-2,http://PLTV/ku9/js/nbsj.js?id=G_CETV-2
+CETV-3,http://PLTV/ku9/js/nbsj.js?id=G_CETV-3
+CETV-4,http://PLTV/ku9/js/nbsj.js?id=G_CETV-4
+频道爆笑喜剧,http://PLTV/ku9/js/nbsj.js?id=GITV-HB-1
+劲爆动作,http://PLTV/ku9/js/nbsj.js?id=GITV-HB-2
+热门动画,http://PLTV/ku9/js/nbsj.js?id=GITV-HB-3
+热播综艺,http://PLTV/ku9/js/nbsj.js?id=GITV-HB-4
+情感地图,http://PLTV/ku9/js/nbsj.js?id=GITV-HB-5
+真人秀场,http://PLTV/ku9/js/nbsj.js?id=GITV-HB-6
+央广购物,http://PLTV/ku9/js/nbsj.js?id=G_YANGGUANGGOU
+好享购物,http://PLTV/ku9/js/nbsj.js?id=G_HAOXIANG
+优选好物,http://PLTV/ku9/js/nbsj.js?id=GITV-GG-1
+美好生活家,http://PLTV/ku9/js/nbsj.js?id=GITV-GG-2
+AI直播频道,http://PLTV/ku9/js/nbsj.js?id=GITV-AI-1
+家庭剧场,http://PLTV/ku9/js/nbsj.js?id=GITV-ZY-1
+怀旧年代,http://PLTV/ku9/js/nbsj.js?id=GITV-ZY-2
+警匪悬疑,http://PLTV/ku9/js/nbsj.js?id=GITV-ZY-3
+青春剧场,http://PLTV/ku9/js/nbsj.js?id=GITV-ZY-4
+古装大剧,http://PLTV/ku9/js/nbsj.js?id=GITV-ZY-5
+红色剧场,http://PLTV/ku9/js/nbsj.js?id=GITV-ZY-6
+军旅战争,http://PLTV/ku9/js/nbsj.js?id=GITV-ZY-7
+爆笑综艺,http://PLTV/ku9/js/nbsj.js?id=GITV-ZY-8
+欧美大片,http://PLTV/ku9/js/nbsj.js?id=GITV-ZY-9
+动画电影,http://PLTV/ku9/js/nbsj.js?id=GITV-ZY-10
+
+🇨🇳咪咕720,#genre#,JS=https://5266.kstore.space/mg720p.js#PB=starttime={start|yyyyMMdd'T'HHmmss'.00Z'}&endtime={end|yyyyMMdd'T'HHmmss'.00Z'}
+
+CCTV1,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=cctv1&key=湘西卫视QQ群121797010
+CCTV2,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=cctv2&key=湘西卫视QQ群121797010
+CCTV3,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=cctv3&key=湘西卫视QQ群121797010
+CCTV4,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=cctv4&key=湘西卫视QQ群121797010
+CCTV5,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=cctv5&key=湘西卫视QQ群121797010
+CCTV5+,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=cctv5p&key=湘西卫视QQ群121797010
+CCTV6,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=cctv6&key=湘西卫视QQ群121797010
+CCTV7,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=cctv7&key=湘西卫视QQ群121797010
+CCTV8,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=cctv8&key=湘西卫视QQ群121797010
+CCTV9,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=cctv9&key=湘西卫视QQ群121797010
+CCTV10,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=cctv10&key=湘西卫视QQ群121797010
+CCTV11,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=cctv11&key=湘西卫视QQ群121797010
+CCTV12,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=cctv12&key=湘西卫视QQ群121797010
+CCTV13,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=cctv13&key=湘西卫视QQ群121797010
+CCTV14,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=cctv14&key=湘西卫视QQ群121797010
+CCTV15,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=cctv15&key=湘西卫视QQ群121797010
+CCTV17,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=cctv17&key=湘西卫视QQ群121797010
+CCTV4欧洲,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=cctv4o&key=湘西卫视QQ群121797010
+CCTV4美洲,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=cctv4a&key=湘西卫视QQ群121797010
+湖南卫视,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=hunws&key=湘西卫视QQ群121797010
+浙江卫视,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=zjws&key=湘西卫视QQ群121797010
+江苏卫视,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=jsws&key=湘西卫视QQ群121797010
+东方卫视,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=dfws&key=湘西卫视QQ群121797010
+广东卫视,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=gdws&key=湘西卫视QQ群121797010
+湖北卫视,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=hubws&key=湘西卫视QQ群121797010
+江西卫视,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=jxws&key=湘西卫视QQ群121797010
+辽宁卫视,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=lnws&key=湘西卫视QQ群121797010
+陕西卫视,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=shanxws&key=湘西卫视QQ群121797010
+河南卫视,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=hnws&key=湘西卫视QQ群121797010
+海南卫视,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=hinws&key=湘西卫视QQ群121797010
+三沙卫视,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=ssws&key=湘西卫视QQ群121797010
+吉林卫视,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=jlws&key=湘西卫视QQ群121797010
+青海卫视,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=qhws&key=湘西卫视QQ群121797010
+农林卫视,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=nlws&key=湘西卫视QQ群121797010
+内蒙古卫视,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=nmgws&key=湘西卫视QQ群121797010
+兵团卫视,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=btws&key=湘西卫视QQ群121797010
+大湾区卫视,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=dwqws&key=湘西卫视QQ群121797010
+北京卫视,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=bjws&key=湘西卫视QQ群121797010
+深圳卫视,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=szws&key=湘西卫视QQ群121797010
+苏州4K,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=sz4k&key=湘西卫视QQ群121797010
+河北4K,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=heb4k&key=湘西卫视QQ群121797010
+CHC家庭影院,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=chcjtyy&key=湘西卫视QQ群121797010
+CHC动作电影,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=chcdzdy&key=湘西卫视QQ群121797010
+CHC影迷电影,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=chcymdy&key=湘西卫视QQ群121797010
+五星体育,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=wxty&key=湘西卫视QQ群121797010
+重温经典,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=wcjd&key=湘西卫视QQ群121797010
+新片放映厅,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=xpfyt&key=湘西卫视QQ群121797010
+高清大片,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=gqdp&key=湘西卫视QQ群121797010
+经典香港电影,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=jdxd&key=湘西卫视QQ群121797010
+抗战经典影片,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=kzjdyp&key=湘西卫视QQ群121797010
+赛事最经典,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=sszyj&key=湘西卫视QQ群121797010
+武术世界,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=wssj&key=湘西卫视QQ群121797010
+四海钓鱼,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=shdy&key=湘西卫视QQ群121797010
+环球旅游,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=hqly&key=湘西卫视QQ群121797010
+最强综艺趴,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=zqzynp&key=湘西卫视QQ群121797010
+嘉佳卡通,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=jjkt&key=湘西卫视QQ群121797010
+经典动画大集合,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=jddhdjh&key=湘西卫视QQ群121797010
+优漫卡通,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=ymkt&key=湘西卫视QQ群121797010
+财富天下,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=cftx&key=湘西卫视QQ群121797010
+体坛名栏汇,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=ttmlh&key=湘西卫视QQ群121797010
+24小时全运会轮播台,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=24xsqyhlbt&key=湘西卫视QQ群121797010
+24小时城市联赛轮播台,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=24xscsllbt&key=湘西卫视QQ群121797010
+山东教育,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=sdjy&key=湘西卫视QQ群121797010
+中学生,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=zxs&key=湘西卫视QQ群121797010
+老故事,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=lgs&key=湘西卫视QQ群121797010
+CETV1,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=cetv1&key=湘西卫视QQ群121797010
+CETV2,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=cetv2&key=湘西卫视QQ群121797010
+CETV4,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=cetv4&key=湘西卫视QQ群121797010
+新动力量创一流,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=xdlclyl&key=湘西卫视QQ群121797010
+钱塘江,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=qtj&key=湘西卫视QQ群121797010
+卡酷少儿,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=kksr&key=湘西卫视QQ群121797010
+北京影视,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=bjys&key=湘西卫视QQ群121797010
+北京文艺,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=bjwy&key=湘西卫视QQ群121797010
+北京财经,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=bjcj&key=湘西卫视QQ群121797010
+北京生活,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=bjsh&key=湘西卫视QQ群121797010
+北京新闻,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=bjxw&key=湘西卫视QQ群121797010
+北京纪实科教,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=bjjskj&key=湘西卫视QQ群121797010
+河南梨园,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=hnly&key=湘西卫视QQ群121797010
+河南新闻,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=henxw&key=湘西卫视QQ群121797010
+河南都市,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=hnds&key=湘西卫视QQ群121797010
+河南民生,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=hnms&key=湘西卫视QQ群121797010
+河南电视剧,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=hndsj&key=湘西卫视QQ群121797010
+河南公共,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=hengg&key=湘西卫视QQ群121797010
+河南武术,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=hnws&key=湘西卫视QQ群121797010
+河南移动戏曲,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=hnydxq&key=湘西卫视QQ群121797010
+河南文物宝库,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=hnwwbk&key=湘西卫视QQ群121797010
+河南象视界,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=hnxsj&key=湘西卫视QQ群121797010
+广东体育,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=gdty&key=湘西卫视QQ群121797010
+广东珠江,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=gdzj&key=湘西卫视QQ群121797010
+广东少儿,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=gdse&key=湘西卫视QQ群121797010
+岭南戏曲,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=lnxq&key=湘西卫视QQ群121797010
+广东移动,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=gdyd&key=湘西卫视QQ群121797010
+现代教育,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=xdjy&key=湘西卫视QQ群121797010
+广东生活频道,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=gdshpd&key=湘西卫视QQ群121797010
+上海新闻综合,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=shxwzh&key=湘西卫视QQ群121797010
+上海第一财经,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=shdycj&key=湘西卫视QQ群121797010
+上海新纪实,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=shxjs&key=湘西卫视QQ群121797010
+上海都市,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=shds&key=湘西卫视QQ群121797010
+哈哈炫动,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=hhxd&key=湘西卫视QQ群121797010
+上海魔都眼,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=shmdy&key=湘西卫视QQ群121797010
+爱上海,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=ash&key=湘西卫视QQ群121797010
+海南新闻,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=hinxw&key=湘西卫视QQ群121797010
+海南文旅,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=hinwl&key=湘西卫视QQ群121797010
+海南自贸,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=hinzm&key=湘西卫视QQ群121797010
+海南公共,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=hingg&key=湘西卫视QQ群121797010
+海南少儿,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=hinse&key=湘西卫视QQ群121797010
+浙江公共新闻,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=zjggxw&key=湘西卫视QQ群121797010
+浙江国际,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=zjgj&key=湘西卫视QQ群121797010
+浙江少儿,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=zjse&key=湘西卫视QQ群121797010
+浙江教科影视,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=zjjksy&key=湘西卫视QQ群121797010
+之江纪录,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=zjjl&key=湘西卫视QQ群121797010
+浙江民生休闲,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=zjmsxx&key=湘西卫视QQ群121797010
+浙江经视,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=zjjsh&key=湘西卫视QQ群121797010
+浙江钱江都市,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=zjqjds&key=湘西卫视QQ群121797010
+内蒙古农牧,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=nmgnm&key=湘西卫视QQ群121797010
+内蒙古新闻综合,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=nmgxwzh&key=湘西卫视QQ群121797010
+内蒙古文体娱乐,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=nmgwtly&key=湘西卫视QQ群121797010
+内蒙古经济生活,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=nmgjjsh&key=湘西卫视QQ群121797010
+内蒙古蒙语卫视,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=nmgyws&key=湘西卫视QQ群121797010
+内蒙古蒙语文化,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=nmgywh&key=湘西卫视QQ群121797010
+江苏国际,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=jsgj&key=湘西卫视QQ群121797010
+江苏综艺,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=jszy&key=湘西卫视QQ群121797010
+江苏影视,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=jsys&key=湘西卫视QQ群121797010
+江苏教育,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=jsjy&key=湘西卫视QQ群121797010
+江苏体育,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=jsty&key=湘西卫视QQ群121797010
+南京新闻综合,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=njxwzh&key=湘西卫视QQ群121797010
+南京教科,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=njjk&key=湘西卫视QQ群121797010
+南京十八,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=njsh&key=湘西卫视QQ群121797010
+盐城新闻综合,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=ycxwzh&key=湘西卫视QQ群121797010
+淮安新闻综合,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=haxwzh&key=湘西卫视QQ群121797010
+泰州新闻综合,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=tzxwzh&key=湘西卫视QQ群121797010
+连云港新闻综合,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=lygxwzh&key=湘西卫视QQ群121797010
+宿迁新闻综合,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=sqxwzh&key=湘西卫视QQ群121797010
+徐州新闻综合,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=xzxwzh&key=湘西卫视QQ群121797010
+江阴新闻综合,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=jyxwzh&key=湘西卫视QQ群121797010
+南通新闻综合,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=ntxwzh&key=湘西卫视QQ群121797010
+宜兴新闻综合,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=yxxwzh&key=湘西卫视QQ群121797010
+溧水新闻综合,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=lsxwzh&key=湘西卫视QQ群121797010
+陕西银龄频道,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=sxylpd&key=湘西卫视QQ群121797010
+陕西都市青春频道,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=sxdsqc&key=湘西卫视QQ群121797010
+陕西秦腔频道,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=sxqqpd&key=湘西卫视QQ群121797010
+陕西新闻资讯频道,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=sxzxpd&key=湘西卫视QQ群121797010
+凤凰中文,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=fhzw&key=湘西卫视QQ群121797010
+凤凰资讯,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=fhzx&key=湘西卫视QQ群121797010
+凤凰香港,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=fhhk&key=湘西卫视QQ群121797010
+翡翠台,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=fct&key=湘西卫视QQ群121797010
+翡翠台4K,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=fct4k&key=湘西卫视QQ群121797010
+无线新闻,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=wxxw&key=湘西卫视QQ群121797010
+Now新闻台,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=nowxwt&key=湘西卫视QQ群121797010
+TVB Plus,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=tvgplus&key=湘西卫视QQ群121797010
+明珠台,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=mzt&key=湘西卫视QQ群121797010
+TVB星河,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=tvgxh&key=湘西卫视QQ群121797010
+TVB功夫,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=tvggf&key=湘西卫视QQ群121797010
+八度空间,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=bdjk&key=湘西卫视QQ群121797010
+CHU,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=chu&key=湘西卫视QQ群121797010
+CH5,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=ch5&key=湘西卫视QQ群121797010
+CH8,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=ch8&key=湘西卫视QQ群121797010
+澳视澳门,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=asam&key=湘西卫视QQ群121797010
+HOY77,http://A/ku9/js/湘西卫视QQ群121797010咪咕专用.js?id=hoy77&key=湘西卫视QQ群121797010
+
+
+
+
+
+🇨🇳深圳天威,#genre#,PB=starttime={start|yyyyMMdd'T'HHmmss'.00Z'}&endtime={end|yyyyMMdd'T'HHmmss'.00Z'}
+CCTV-1 综合,http://111.221.137.155:44330/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-2 财经,http://111.221.137.155:44330/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-3 综艺,http://111.221.137.155:44330/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-4 中文国际,http://111.221.137.155:44330/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-5 体育,http://111.221.137.155:44330/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-6 电影,http://111.221.137.155:44330/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-7 国防军事,http://111.221.137.155:44330/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-8 电视剧,http://111.221.137.155:44330/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-9 纪录,http://111.221.137.155:44330/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-10 科教,http://111.221.137.155:44330/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-11 戏曲,http://111.221.137.155:44330/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-12 社会与法,http://111.221.137.155:44330/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-13 新闻,http://111.221.137.155:44330/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-14 少儿,http://111.221.137.155:44330/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-15 音乐,http://111.221.137.155:44330/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-5+ 体育赛事,http://111.221.137.155:44330/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
+CGTN,http://111.221.137.155:44330/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
+深圳卫视,http://111.221.137.155:44330/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
+深圳都市,http://111.221.137.155:44330/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&authid=0
+深圳电视剧,http://111.221.137.155:44330/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&authid=0
+深圳公共,http://111.221.137.155:44330/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
+深圳财经生活,http://111.221.137.155:44330/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
+广东卫视,http://111.221.137.155:44330/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
+广东体育,http://111.221.137.155:44330/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+广东公共,http://111.221.137.155:44330/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
+广东新闻,http://111.221.137.155:44330/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
+南方卫视,http://111.221.137.155:44330/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
+湖南卫视,http://111.221.137.155:44330/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
+江苏卫视,http://111.221.137.155:44330/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
+浙江卫视,http://111.221.137.155:44330/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
+北京卫视,http://111.221.137.155:44330/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
+东方卫视,http://111.221.137.155:44330/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
+天津卫视,http://111.221.137.155:44330/tsfile/live/0132_2.m3u8?key=txiptv&playlive=0&authid=0
+山东卫视,http://111.221.137.155:44330/tsfile/live/0121_2.m3u8?key=txiptv&playlive=0&authid=0
+黑龙江卫视,http://111.221.137.155:44330/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
+安徽卫视,http://111.221.137.155:44330/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
+辽宁卫视,http://111.221.137.155:44330/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
+湖北卫视,http://111.221.137.155:44330/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
+重庆卫视,http://111.221.137.155:44330/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+海南卫视,http://111.221.137.155:44330/tsfile/live/1016_1.m3u8?key=txiptv&playlive=0&authid=0
+四川卫视,http://111.221.137.155:44330/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
+吉林卫视,http://111.221.137.155:44330/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
+澳亚卫视,http://111.221.137.155:44330/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
+江西卫视,http://111.221.137.155:44330/tsfile/live/1019_1.m3u8?key=txiptv&playlive=0&authid=0
+山西卫视,http://111.221.137.155:44330/tsfile/live/1020_1.m3u8?key=txiptv&playlive=0&authid=0
+陕西卫视,http://111.221.137.155:44330/tsfile/live/0114_1.m3u8?key=txiptv&playlive=0&authid=0
+河南卫视,http://111.221.137.155:44330/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+云南卫视,http://111.221.137.155:44330/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
+翡翠台,http://111.221.137.155:44330/tsfile/live/1021_1.m3u8?key=txiptv&playlive=0&authid=0
+明珠台,http://111.221.137.155:44330/tsfile/live/0138_2.m3u8?key=txiptv&playlive=0&authid=0
+Channel [V],http://111.221.137.155:44330/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
+重温经典,http://111.221.137.155:44330/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
+
+🇨🇳央视投屏,#genre#,JS=https://5266.kstore.space/cctvnews.js
+CCTV1综合,http://A/ku9/js/cctvnews.js?id=cctv1
+CCTV2财经,http://A/ku9/js/cctvnews.js?id=cctv2
+CCTV4国际,http://A/ku9/js/cctvnews.js?id=cctv4
+CCTV13新闻,http://A/ku9/js/cctvnews.js?id=cctv13
+CCTV9纪录,http://A/ku9/js/cctvnews.js?id=cctv9
+CCTV10科教,http://A/ku9/js/cctvnews.js?id=cctv10
+CCTV7国防军事,http://A/ku9/js/cctvnews.js?id=cctv7
+CCTV12法制,http://A/ku9/js/cctvnews.js?id=cctv12
+CCTV17农业,http://A/ku9/js/cctvnews.js?id=cctv17
+CCTV4K,http://A/ku9/js/cctvnews.js?id=cctv4k
+🇨🇳北京频道,#genre#
+北京影视,webview://http://p2.ytelc.com/169l/bj/btv.php?id=btv4
+北京文艺,webview://http://p2.ytelc.com/169l/bj/btv.php?id=btv2
+北京纪实,webview://http://p2.ytelc.com/169l/bj/btv.php?id=btv3
+北京财经,webview://http://p2.ytelc.com/169l/bj/btv.php?id=btv5
+北京生活,webview://http://p2.ytelc.com/169l/bj/btv.php?id=btv7
+北京新闻,webview://http://p2.ytelc.com/169l/bj/btv.php?id=btv9
+
+
+🇨🇳河南频道,#genre#
+
+河南卫视,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=hnws
+河南都市,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=hnds
+河南民生,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=hnms
+河南法治,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=hmfz
+河南电视剧,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=hndsj
+河南新闻,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=hnxw
+欢腾购物,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=htgw
+河南公共,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=hngg
+河南乡村,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=hnxc
+河南梨园,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=hnly
+文物宝库,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=wwbk
+武术世界,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=wspd
+河南曲艺,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=hnqy
+移动戏曲,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=ydxj
+象视界,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=xsj
+国学频道,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=gxpd
+郑州新闻综合,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=zz1
+开封新闻综合,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=kf1
+洛阳新闻综合,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=ly1
+平顶山新闻综合,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=pds1
+安阳新闻综合,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=ay1
+鹤壁新闻综合,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=hb1
+新乡新闻综合,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=xx1
+焦作新闻综合,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=jz1
+濮阳新闻综合,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=py1
+许昌新闻综合,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=xc1
+漯河新闻综合,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=lh1
+三门峡新闻综合,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=smx1
+南阳新闻综合,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=ny1
+商丘新闻综合,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=sq1
+信阳新闻综合,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=xy1
+周口新闻综合,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=zk1
+驻马店新闻综合,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=zmd1
+济源新闻综合,https://www.pantxt.top/f/BYKh8/k-web/ku9/js/hnandx.js?id=jy1
+
+🇨🇳腾讯秒播,#genre#,JS=https://5266.kstore.space/txmbo.js
+
+
+贵州卫视,http://A/ku9/js/湘西卫视秒播.js?id=http://9bwaz8y2.gzstv.com/live/CH01_lo
+贵州公共,http://A/ku9/js/湘西卫视秒播.js?id=http://9bwaz8y2.gzstv.com/live/CH02_lo
+贵州影视文艺http://A/ku9/js/湘西卫视秒播.js?id=http://9bwaz8y2.gzstv.com/live/CH03_lo
+贵州大众生活,http://A/ku9/js/湘西卫视秒播.js?id=http://9bwaz8y2.gzstv.com/live/CH04_lo
+贵州生态乡村,http://A/ku9/js/湘西卫视秒播.js?id=http://9bwaz8y2.gzstv.com/live/CH05_lo
+贵州科教健康,http://A/ku9/js/湘西卫视秒播.js?id=http://9bwaz8y2.gzstv.com/live/CH06_lo
+贵州经济频道,http://A/ku9/js/湘西卫视秒播.js?id=http://9bwaz8y2.gzstv.com/live/CH09_lo
+贵州家有购物,http://A/ku9/js/湘西卫视秒播.js?id=http://9bwaz8y2.gzstv.com/live/CH10_lo
+贵州移动电视,http://A/ku9/js/湘西卫视秒播.js?id=http://9bwaz8y2.gzstv.com/live/CH13_lo
+贵州天元围棋,http://A/ku9/js/湘西卫视秒播.js?id=http://y0tavw6qlive.tyweiqi.com/live/weiqi-test
+
+
+江苏卫视,http://A/ku9/js/湘西卫视秒播.js?id=http://litchi-play-encrypted.jstv.com/applive/jswspro
+江苏城市,http://A/ku9/js/湘西卫视秒播.js?id=http://litchi-play-encrypted.jstv.com/applive/jscspro
+江苏综艺,http://A/ku9/js/湘西卫视秒播.js?id=http://litchi-play-encrypted.jstv.com/applive/jszypro
+江苏影视,http://A/ku9/js/湘西卫视秒播.js?id=http://litchi-play-encrypted.jstv.com/applive/jsyspro
+江苏新闻,http://A/ku9/js/湘西卫视秒播.js?id=http://litchi-play-encrypted.jstv.com/applive/jsxwpro
+江苏教育,http://A/ku9/js/湘西卫视秒播.js?id=http://litchi-play-encrypted.jstv.com/applive/jsjypro
+体育休闲,http://A/ku9/js/湘西卫视秒播.js?id=http://litchi-play-encrypted.jstv.com/applive/jsxxpro
+优漫卡通,http://A/ku9/js/湘西卫视秒播.js?id=http://litchi-play-encrypted.jstv.com/applive/ymktpro
+江苏国际,http://A/ku9/js/湘西卫视秒播.js?id=http://litchi-play-encrypted.jstv.com/applive/jsgjpro
+财富天下,http://A/ku9/js/湘西卫视秒播.js?id=http://litchi-play-encrypted.jstv.com/applive/cftxtxjm
+南京新闻综合,http://A/ku9/js/湘西卫视秒播.js?id=http://litchi-play-encrypted.jstv.com/applive/nanjing
+江阴新闻综合,http://A/ku9/js/湘西卫视秒播.js?id=http://litchi-play-encrypted.jstv.com/applive/jiangyin
+徐州-1,http://A/ku9/js/湘西卫视秒播.js?id=http://litchi-play-encrypted.jstv.com/applive/xuzhou
+邳州综合,http://A/ku9/js/湘西卫视秒播.js?id=http://litchi-play-encrypted.jstv.com/applive/pizhou
+新沂新闻综合,http://A/ku9/js/湘西卫视秒播.js?id=http://litchi-play-encrypted.jstv.com/applive/xinyi
+贾汪新闻综合,http://A/ku9/js/湘西卫视秒播.js?id=http://litchi-play-encrypted.jstv.com/applive/jiawang
+铜山新闻综合,http://A/ku9/js/湘西卫视秒播.js?id=http://litchi-play-encrypted.jstv.com/applive/tongshan
+常州新闻综合,http://A/ku9/js/湘西卫视秒播.js?id=http://litchi-play-encrypted.jstv.com/applive/czpro
+武进新闻,http://A/ku9/js/湘西卫视秒播.js?id=http://litchi-play-encrypted.jstv.com/applive/wujin
+苏州新闻综合,http://A/ku9/js/湘西卫视秒播.js?id=http://litchi-play-encrypted.jstv.com/applive/suzhou
+吴江新闻综合,http://A/ku9/js/湘西卫视秒播.js?id=http://litchi-play-encrypted.jstv.com/applive/wujiang
+南通新闻综合,http://A/ku9/js/湘西卫视秒播.js?id=http://litchi-play-encrypted.jstv.com/applive/nantong
+连云港新闻综合,http://A/ku9/js/湘西卫视秒播.js?id=http://litchi-play-encrypted.jstv.com/applive/lianyungang
+淮安综合,http://A/ku9/js/湘西卫视秒播.js?id=http://litchi-play-encrypted.jstv.com/applive/huaian
+盱眙综合,http://A/ku9/js/湘西卫视秒播.js?id=http://litchi-play-encrypted.jstv.com/applive/xuyi
+洪泽1套,http://A/ku9/js/湘西卫视秒播.js?id=http://litchi-play-encrypted.jstv.com/applive/hongze
+盐城1套,http://A/ku9/js/湘西卫视秒播.js?id=http://litchi-play-encrypted.jstv.com/applive/yancheng
+响水综合,http://A/ku9/js/湘西卫视秒播.js?id=http://litchi-play-encrypted.jstv.com/applive/xiangshui
+镇江新闻综合,http://A/ku9/js/湘西卫视秒播.js?id=http://litchi-play-encrypted.jstv.com/applive/zhenjiang
+泰州新闻综合,http://A/ku9/js/湘西卫视秒播.js?id=http://litchi-play-encrypted.jstv.com/applive/taizhou
+靖江新闻,http://A/ku9/js/湘西卫视秒播.js?id=http://litchi-play-encrypted.jstv.com/applive/jingjiang
+兴化新闻综合,http://A/ku9/js/湘西卫视秒播.js?id=http://litchi-play-encrypted.jstv.com/applive/xinghua
+泰兴综合,http://A/ku9/js/湘西卫视秒播.js?id=http://litchi-play-encrypted.jstv.com/applive/taixing
+宿迁综合,http://A/ku9/js/湘西卫视秒播.js?id=http://litchi-play-encrypted.jstv.com/applive/suqian
+泗阳综合,http://A/ku9/js/湘西卫视秒播.js?id=http://litchi-play-encrypted.jstv.com/applive/siyang
+
+江西卫视,http://A/ku9/js/湘西卫视秒播.js?id=http://jsp-tv-live.jxtvcn.com.cn/live-jsp/tv_jxtv1
+江西都市,http://A/ku9/js/湘西卫视秒播.js?id=http://jsp-tv-live.jxtvcn.com.cn/live-jsp/tv_jxtv2
+江西经济,http://A/ku9/js/湘西卫视秒播.js?id=http://jsp-tv-live.jxtvcn.com.cn/live-jsp/tv_jxtv3_hd
+江西影视,http://A/ku9/js/湘西卫视秒播.js?id=http://jsp-tv-live.jxtvcn.com.cn/live-jsp/tv_jxtv4
+江西公共,http://A/ku9/js/湘西卫视秒播.js?id=http://jsp-tv-live.jxtvcn.com.cn/live-jsp/tv_jxtv5
+江西少儿,http://A/ku9/js/湘西卫视秒播.js?id=http://jsp-tv-live.jxtvcn.com.cn/live-jsp/tv_jxtv6
+江西新闻,http://A/ku9/js/湘西卫视秒播.js?id=http://jsp-tv-live.jxtvcn.com.cn/live-jsp/tv_jxtv7
+陶瓷频道,http://A/ku9/js/湘西卫视秒播.js?id=http://jsp-tv-live.jxtvcn.com.cn/live-jsp/tv_taoci
+风尚购物,http://A/ku9/js/湘西卫视秒播.js?id=http://jsp-tv-live.jxtvcn.com.cn/live-jsp/tv_fsgw
+南昌新闻综合频道,http://A/ku9/js/湘西卫视秒播.js?id=http://play-live-jsp.jxtvcn.com.cn/live-city/tv_nanchang
+九江新闻综合频道,http://A/ku9/js/湘西卫视秒播.js?id=http://play-live-jsp.jxtvcn.com.cn/live-city/tv_jiujiang
+景德镇新闻综合频道,http://A/ku9/js/湘西卫视秒播.js?id=http://play-live-jsp.jxtvcn.com.cn/live-city/tv_jingdezhen
+萍乡新闻综合频道,http://A/ku9/js/湘西卫视秒播.js?id=http://play-live-jsp.jxtvcn.com.cn/live-city/tv_pingxiang
+新余新闻综合频道,http://A/ku9/js/湘西卫视秒播.js?id=http://play-live-jsp.jxtvcn.com.cn/live-city/tv_xinyu
+鹰潭综合频道,http://A/ku9/js/湘西卫视秒播.js?id=http://play-live-jsp.jxtvcn.com.cn/live-city/tv_yingtan
+赣州新闻综合频道,http://A/ku9/js/湘西卫视秒播.js?id=http://play-live-jsp.jxtvcn.com.cn/live-city/tv_ganzhou
+宜春综合频道,http://A/ku9/js/湘西卫视秒播.js?id=http://play-live-jsp.jxtvcn.com.cn/live-city/tv_yichun
+上饶新闻综合频道,http://A/ku9/js/湘西卫视秒播.js?id=http://play-live-jsp.jxtvcn.com.cn/live-city/tv_shangrao
+吉安综合频道,http://A/ku9/js/湘西卫视秒播.js?id=http://play-live-jsp.jxtvcn.com.cn/live-city/tv_jian
+抚州综合频道,http://A/ku9/js/湘西卫视秒播.js?id=http://play-live-jsp.jxtvcn.com.cn/live-city/tv_fuzhou
+
+
+内蒙古卫视,http://A/ku9/js/湘西卫视秒播.js?id=http://livestream-bt.nmtv.cn/nmtv/3208526general
+内蒙古蒙古语卫视,http://A/ku9/js/湘西卫视秒播.js?id=http://livestream-bt.nmtv.cn/nmtv/2315general
+新闻综合,http://A/ku9/js/湘西卫视秒播.js?id=http://livestream-bt.nmtv.cn/nmtv/2316general
+经济生活,http://A/ku9/js/湘西卫视秒播.js?id=http://livestream-bt.nmtv.cn/nmtv/2317general
+少儿频道,http://A/ku9/js/湘西卫视秒播.js?id=http://livestream-bt.nmtv.cn/nmtv/2318general
+文体娱乐,http://A/ku9/js/湘西卫视秒播.js?id=http://livestream-bt.nmtv.cn/nmtv/2319general
+农牧频道,http://A/ku9/js/湘西卫视秒播.js?id=http://livestream-bt.nmtv.cn/nmtv/2320general
+内蒙古蒙古语文化,http://A/ku9/js/湘西卫视秒播.js?id=http://livestream-bt.nmtv.cn/nmtv/2321general
+呼和浩特,http://A/ku9/js/湘西卫视秒播.js?id=http://livestream-bt.nmtv.cn/nmtv/2331general
+包头,http://A/ku9/js/湘西卫视秒播.js?id=http://livestream-bt.nmtv.cn/nmtv/2358general
+乌海,http://A/ku9/js/湘西卫视秒播.js?id=http://livestream-bt.nmtv.cn/nmtv/2355general
+赤峰,http://A/ku9/js/湘西卫视秒播.js?id=http://livestream-bt.nmtv.cn/nmtv/2351general
+呼伦贝尔,http://A/ku9/js/湘西卫视秒播.js?id=http://livestream-bt.nmtv.cn/nmtv/2356general
+兴安盟,http://A/ku9/js/湘西卫视秒播.js?id=http://livestream-bt.nmtv.cn/nmtv/2357general
+通辽,http://A/ku9/js/湘西卫视秒播.js?id=http://livestream-bt.nmtv.cn/nmtv/2353general
+锡林郭勒,http://A/ku9/js/湘西卫视秒播.js?id=http://livestream-bt.nmtv.cn/nmtv/2346general
+乌兰察布,http://A/ku9/js/湘西卫视秒播.js?id=http://livestream-bt.nmtv.cn/nmtv/2354general
+鄂尔多斯,http://A/ku9/js/湘西卫视秒播.js?id=http://livestream-bt.nmtv.cn/nmtv/2349general
+巴彦淖尔,http://A/ku9/js/湘西卫视秒播.js?id=http://livestream-bt.nmtv.cn/nmtv/2348general
+阿拉善,http://A/ku9/js/湘西卫视秒播.js?id=http://livestream-bt.nmtv.cn/nmtv/2347general
+
+
+
+🇨🇳成都频道,#genre#
+成都经济,https://www.pantxt.top/f/D1oi3/k-web/ku9/js/cdu.js?id=cdjj
+成都生活,https://www.pantxt.top/f/D1oi3/k-web/ku9/js/cdu.js?id=cdsh
+成都影视,https://www.pantxt.top/f/D1oi3/k-web/ku9/js/cdu.js?id=cdys
+成都公共,https://www.pantxt.top/f/D1oi3/k-web/ku9/js/cdu.js?id=cdgg
+成都少儿,https://www.pantxt.top/f/D1oi3/k-web/ku9/js/cdu.js?id=cdse
+成都榕城先锋,https://www.pantxt.top/f/D1oi3/k-web/ku9/js/cdu.js?id=cdrc
+
+SMT-央卫,#genre#
+CCTV-1 综合,https://smart.946985.filegear-sg.me/smart.php?id=cctv1
+CCTV-2 财经,https://smart.946985.filegear-sg.me/smart.php?id=cctv2
+CCTV-3 综艺,https://smart.946985.filegear-sg.me/smart.php?id=cctv3
+CCTV-4 中文国际,https://smart.946985.filegear-sg.me/smart.php?id=Cctv4
+CCTV-4 中文国际,https://smart.946985.filegear-sg.me/smart.php?id=cctv4
+CCTV-5 体育,https://smart.946985.filegear-sg.me/smart.php?id=cctv5
+CCTV-6 电影,https://smart.946985.filegear-sg.me/smart.php?id=cctv6
+CCTV-7 国防军事,https://smart.946985.filegear-sg.me/smart.php?id=cctv7
+CCTV-8 电视剧,https://smart.946985.filegear-sg.me/smart.php?id=cctv8hd
+CCTV-9 记录,https://smart.946985.filegear-sg.me/smart.php?id=cctv9hd
+CCTV-10 科教,https://smart.946985.filegear-sg.me/smart.php?id=cctv10hd
+CCTV-11 戏曲,https://smart.946985.filegear-sg.me/smart.php?id=cctv11
+CCTV-12 社会与法,https://smart.946985.filegear-sg.me/smart.php?id=cctv12
+CCTV-13 新闻,https://smart.946985.filegear-sg.me/smart.php?id=cctv13
+CCTV-14 少儿,https://smart.946985.filegear-sg.me/smart.php?id=cctv14
+CCTV-15 音乐,https://smart.946985.filegear-sg.me/smart.php?id=cctv15
+CCTV-16 奥林匹克,https://smart.946985.filegear-sg.me/smart.php?id=cctv16
+CCTV-17 农业农村,https://smart.946985.filegear-sg.me/smart.php?id=cctv17
+CCTV-5+ 体育赛事,https://smart.946985.filegear-sg.me/smart.php?id=cctv5plus
+湖南卫视,https://smart.946985.filegear-sg.me/smart.php?id=hunan_twn
+浙江卫视,https://smart.946985.filegear-sg.me/smart.php?id=zhejiang_twn
+江苏卫视,https://smart.946985.filegear-sg.me/smart.php?id=jiangsu_twn
+东方卫视,https://smart.946985.filegear-sg.me/smart.php?id=dongfangweishi_twn
+北京卫视,https://smart.946985.filegear-sg.me/smart.php?id=beijing
+深圳卫视,https://smart.946985.filegear-sg.me/smart.php?id=shenzhen
+广东卫视,https://smart.946985.filegear-sg.me/smart.php?id=guangdongweishi_twn
+大湾区卫视,https://smart.946985.filegear-sg.me/smart.php?id=nanfang_twn
+珠江台,https://smart.946985.filegear-sg.me/smart.php?id=zhujiang
+东南卫视,https://smart.946985.filegear-sg.me/smart.php?id=fujian
+广西卫视,https://smart.946985.filegear-sg.me/smart.php?id=guangxi
+湖北卫视,https://smart.946985.filegear-sg.me/smart.php?id=hubei
+四川卫视,https://smart.946985.filegear-sg.me/smart.php?id=sichuan_twn
+CGTN,https://smart.946985.filegear-sg.me/smart.php?id=CGTN
+SMT-香港,#genre#
+翡翠台,https://smart.946985.filegear-sg.me/smart.php?id=jade_twn
+翡翠台,https://smart.946985.filegear-sg.me/smart.php?id=Jade_xue
+明珠台,https://smart.946985.filegear-sg.me/smart.php?id=pearl_twn
+无线新闻,https://smart.946985.filegear-sg.me/smart.php?id=inews_twn
+TVBPLUS,https://smart.946985.filegear-sg.me/smart.php?id=j2_twn
+ViuTV,https://smart.946985.filegear-sg.me/smart.php?id=viu1_twn
+ViuTV 6,https://smart.946985.filegear-sg.me/smart.php?id=viusix_twn
+RTHK 31,https://smart.946985.filegear-sg.me/smart.php?id=rhk31_twn
+RTHK 32,https://smart.946985.filegear-sg.me/smart.php?id=rhk32_twn
+HOY TV,https://smart.946985.filegear-sg.me/smart.php?id=hoycaijing_twn
+凤凰中文,https://smart.946985.filegear-sg.me/smart.php?id=phoenixtv_hd
+凤凰资讯,https://smart.946985.filegear-sg.me/smart.php?id=phoenixinfo_hd
+凤凰香港,https://smart.946985.filegear-sg.me/smart.php?id=hkphoenix_twn
+SMT-台湾,#genre#
+台视 HD,https://smart.946985.filegear-sg.me/smart.php?id=ttv_taiwan
+台视新闻,https://smart.946985.filegear-sg.me/smart.php?id=ttvnews_twn
+台视综合,https://smart.946985.filegear-sg.me/smart.php?id=ttvzhonghe
+中视 HD,https://smart.946985.filegear-sg.me/smart.php?id=zhongshihd_twn
+中视新闻,https://smart.946985.filegear-sg.me/smart.php?id=zhongshinews_twn
+中视经典,https://smart.946985.filegear-sg.me/smart.php?id=zhongshi_twn
+华视 HD,https://smart.946985.filegear-sg.me/smart.php?id=ctshd_twn
+公视 HD,https://smart.946985.filegear-sg.me/smart.php?id=ctv_taiwan
+公视台语台,https://smart.946985.filegear-sg.me/smart.php?id=ctv2_twn
+三立台湾台,https://smart.946985.filegear-sg.me/smart.php?id=sanlitaiwan
+三立都会台,https://smart.946985.filegear-sg.me/smart.php?id=sanlidouhui
+三立综合台,https://smart.946985.filegear-sg.me/smart.php?id=sanlizhonghe
+三立戏剧台,https://smart.946985.filegear-sg.me/smart.php?id=sanlixiju_twn
+东森新闻台,https://smart.946985.filegear-sg.me/smart.php?id=ettvnews
+东森财经新闻台,https://smart.946985.filegear-sg.me/smart.php?id=ettvcaijing_twn
+东森综合台,https://smart.946985.filegear-sg.me/smart.php?id=ettvzhonghe
+东森戏剧台,https://smart.946985.filegear-sg.me/smart.php?id=ettvdrama
+东森电影台,https://smart.946985.filegear-sg.me/smart.php?id=ettvmovie
+东森洋片台,https://smart.946985.filegear-sg.me/smart.php?id=ettvwestern
+东森幼幼台,https://smart.946985.filegear-sg.me/smart.php?id=yoyo_twn
+东森超视,https://smart.946985.filegear-sg.me/smart.php?id=ettvsuper
+TVBS HD,https://smart.946985.filegear-sg.me/smart.php?id=tvbs
+TVBS 新闻台,https://smart.946985.filegear-sg.me/smart.php?id=tvbs_n
+TVBS 欢乐台,https://smart.946985.filegear-sg.me/smart.php?id=tvbshuanle_twn
+民视 HD,https://smart.946985.filegear-sg.me/smart.php?id=ftvhd_taiwan
+民视新闻台,https://smart.946985.filegear-sg.me/smart.php?id=ftvnew_taiwan
+民视台湾台,https://smart.946985.filegear-sg.me/smart.php?id=ftvtaiwan_twn
+中天综合,https://smart.946985.filegear-sg.me/smart.php?id=ctizhonghe
+中天娱乐,https://smart.946985.filegear-sg.me/smart.php?id=ctient
+中天亚洲,https://smart.946985.filegear-sg.me/smart.php?id=ctiasia_twn
+中天新闻,https://smart.946985.filegear-sg.me/smart.php?id=ctinews
+寰宇新闻台,https://smart.946985.filegear-sg.me/smart.php?id=huanyuxinwen_twn
+寰宇财经台,https://smart.946985.filegear-sg.me/smart.php?id=huanyutaiwan_twn
+八大第一台,https://smart.946985.filegear-sg.me/smart.php?id=badafirst
+八大综合台,https://smart.946985.filegear-sg.me/smart.php?id=badazhonghe
+八大戏剧台,https://smart.946985.filegear-sg.me/smart.php?id=badadrama
+八大娱乐台,https://smart.946985.filegear-sg.me/smart.php?id=badaentertain
+纬来体育,https://smart.946985.filegear-sg.me/smart.php?id=videolandsport
+纬来精彩,https://smart.946985.filegear-sg.me/smart.php?id=videolandspecial_twn
+纬来日本,https://smart.946985.filegear-sg.me/smart.php?id=videolandjapan
+纬来电影,https://smart.946985.filegear-sg.me/smart.php?id=videolandmovie
+纬来综合,https://smart.946985.filegear-sg.me/smart.php?id=videolandzonghe
+纬来育乐,https://smart.946985.filegear-sg.me/smart.php?id=videolandyule
+爱尔达综合台,https://smart.946985.filegear-sg.me/smart.php?id=eltazonghe_twn
+爱尔达影剧台,https://smart.946985.filegear-sg.me/smart.php?id=eltayingju_twn
+爱尔达体育1台,https://smart.946985.filegear-sg.me/smart.php?id=eltasport_twn
+爱尔达体育2台,https://smart.946985.filegear-sg.me/smart.php?id=eltasport2_twn
+爱尔达体育3台,https://smart.946985.filegear-sg.me/smart.php?id=eltasport3_twn
+爱尔达体育4台,https://smart.946985.filegear-sg.me/smart.php?id=eltasports4_twn
+非凡新闻,https://smart.946985.filegear-sg.me/smart.php?id=feifannews_twn
+年代新闻,https://smart.946985.filegear-sg.me/smart.php?id=niandainews_twn
+龙华戏剧,https://smart.946985.filegear-sg.me/smart.php?id=lunghuaxiju_twn
+龙华偶像,https://smart.946985.filegear-sg.me/smart.php?id=lunghuaidol_twn
+龙华电影,https://smart.946985.filegear-sg.me/smart.php?id=xingwei_movie
+龙华洋片,https://smart.946985.filegear-sg.me/smart.php?id=lunghuawestern_twn
+龙华经典,https://smart.946985.filegear-sg.me/smart.php?id=lunghuajingdian_twn
+靖天国际,https://smart.946985.filegear-sg.me/smart.php?id=jingtianintl_twn
+靖天卡通,https://smart.946985.filegear-sg.me/smart.php?id=jingtiancartoon_twn
+大愛電視,https://smart.946985.filegear-sg.me/smart.php?id=daai_twn
+大愛二台,https://smart.946985.filegear-sg.me/smart.php?id=daai2_twn
+EYE 旅游台,https://smart.946985.filegear-sg.me/smart.php?id=eyetvtravel_twn
+EYE 戏剧台,https://smart.946985.filegear-sg.me/smart.php?id=eyetvxiju_twn
+亚洲美食,https://smart.946985.filegear-sg.me/smart.php?id=afc_twn
+美食星球,https://smart.946985.filegear-sg.me/smart.php?id=foodplanet_twn
+TLC旅遊生活,https://smart.946985.filegear-sg.me/smart.php?id=tlc_twn
+亚洲旅游台,https://smart.946985.filegear-sg.me/smart.php?id=asiatravel_twn
+Arirang,https://smart.946985.filegear-sg.me/smart.php?id=arirang_twn
+AXN Taiwan,https://smart.946985.filegear-sg.me/smart.php?id=axn_twn
+MTV Live,https://smart.946985.filegear-sg.me/smart.php?id=mtvhd_twn
+HBO_HD,https://smart.946985.filegear-sg.me/smart.php?id=hbohd_twn
+HBO_HITS,https://smart.946985.filegear-sg.me/smart.php?id=hbohit_twn
+CINEMAX,https://smart.946985.filegear-sg.me/smart.php?id=cinemax_twn
+好萊塢電影台,https://smart.946985.filegear-sg.me/smart.php?id=hollywoodmovies_twn
+卫视电影台,https://smart.946985.filegear-sg.me/smart.php?id=weishimovie_twn
+龙祥时代,https://smart.946985.filegear-sg.me/smart.php?id=lungxiangtime_twn
+美亚电影,https://smart.946985.filegear-sg.me/smart.php?id=meiyamovie_twn
+華藝綜合,https://smart.946985.filegear-sg.me/smart.php?id=weishichinese_twn
+博斯运动一台,https://smart.946985.filegear-sg.me/smart.php?id=bosisport1_twn
+博斯运动二台,https://smart.946985.filegear-sg.me/smart.php?id=bosisport2_twn
+博斯高球一台,https://smart.946985.filegear-sg.me/smart.php?id=bosigolf1_twn
+博斯高球二台,https://smart.946985.filegear-sg.me/smart.php?id=bosigolf2_twn
+博斯网球台,https://smart.946985.filegear-sg.me/smart.php?id=bositennis_twn
+博斯无限台,https://smart.946985.filegear-sg.me/smart.php?id=bosiunlimited_twn
+好消息 2,https://smart.946985.filegear-sg.me/smart.php?id=good2_twn
+SMT-电影,#genre#
+CCTV-6,https://smart.946985.filegear-sg.me/smart.php?id=cctv6
+AXN Taiwan,https://smart.946985.filegear-sg.me/smart.php?id=axn_twn
+HBO_HD,https://smart.946985.filegear-sg.me/smart.php?id=hbohd_twn
+HBO_HITS,https://smart.946985.filegear-sg.me/smart.php?id=hbohit_twn
+CINEMAX,https://smart.946985.filegear-sg.me/smart.php?id=cinemax_twn
+好萊塢電影台,https://smart.946985.filegear-sg.me/smart.php?id=hollywoodmovies_twn
+东森电影,https://smart.946985.filegear-sg.me/smart.php?id=ettvmovie
+东森洋片,https://smart.946985.filegear-sg.me/smart.php?id=ettvwestern
+龙华电影,https://smart.946985.filegear-sg.me/smart.php?id=xingwei_movie
+龙华洋片,https://smart.946985.filegear-sg.me/smart.php?id=lunghuawestern_twn
+龙祥时代,https://smart.946985.filegear-sg.me/smart.php?id=lungxiangtime_twn
+美亚电影,https://smart.946985.filegear-sg.me/smart.php?id=meiyamovie_twn
+卫视电影台,https://smart.946985.filegear-sg.me/smart.php?id=weishimovie_twn
+天映频道,https://smart.946985.filegear-sg.me/smart.php?id=Celestial
+天映频道,https://smart.946985.filegear-sg.me/smart.php?id=Celestialindo
+天映经典,https://smart.946985.filegear-sg.me/smart.php?id=Celestial2
+Animax,https://smart.946985.filegear-sg.me/smart.php?id=Animax
+Movies Now HD,https://smart.946985.filegear-sg.me/smart.php?id=moviesnow_raj
+Star Movies HD,https://smart.946985.filegear-sg.me/smart.php?id=starmovies_raj
+Hits,https://smart.946985.filegear-sg.me/smart.php?id=Hits
+Warner TV,https://smart.946985.filegear-sg.me/smart.php?id=WarnerTV
+HBO HD,https://smart.946985.filegear-sg.me/smart.php?id=Hbo
+HBO Signature,https://smart.946985.filegear-sg.me/smart.php?id=Hbosignature
+HBO Family,https://smart.946985.filegear-sg.me/smart.php?id=Hbofamily
+HBO Hits,https://smart.946985.filegear-sg.me/smart.php?id=Hbohitshd
+Cinemax,https://smart.946985.filegear-sg.me/smart.php?id=Cinemax
+Dreamworks,https://smart.946985.filegear-sg.me/smart.php?id=Dreamworks
+SCM,https://smart.946985.filegear-sg.me/smart.php?id=Weishimovie
+Thrill,https://smart.946985.filegear-sg.me/smart.php?id=Thrill
+Hits Movie,https://smart.946985.filegear-sg.me/smart.php?id=Hitsmovie
+One,https://smart.946985.filegear-sg.me/smart.php?id=One
+tvN Movie,https://smart.946985.filegear-sg.me/smart.php?id=Tvnmovie
+Axn HD,https://smart.946985.filegear-sg.me/smart.php?id=Axn
+Paramount Network,https://smart.946985.filegear-sg.me/smart.php?id=Paramountnetwork
+Astrol Kplus,https://smart.946985.filegear-sg.me/smart.php?id=Kplus
+Rock Actions,https://smart.946985.filegear-sg.me/smart.php?id=Rockaction
+Rock Entertainment,https://smart.946985.filegear-sg.me/smart.php?id=Rockentertain
+SMT-记录,#genre#
+Natgeo_HD,https://smart.946985.filegear-sg.me/smart.php?id=natgeohd_twn
+NatGeo_Wild HD,https://smart.946985.filegear-sg.me/smart.php?id=natgeowild_twn
+Animal_Planet,https://smart.946985.filegear-sg.me/smart.php?id=animalplanet_twn
+Discovery Asia,https://smart.946985.filegear-sg.me/smart.php?id=discoverytwn_twn
+CI,https://smart.946985.filegear-sg.me/smart.php?id=ci_twn
+Asia Travel,https://smart.946985.filegear-sg.me/smart.php?id=asiatravel_twn
+Discovery HD,https://smart.946985.filegear-sg.me/smart.php?id=discoveryhd_twn
+亚洲美食,https://smart.946985.filegear-sg.me/smart.php?id=afc_twn
+美食星球,https://smart.946985.filegear-sg.me/smart.php?id=foodplanet_twn
+亚洲TLC,https://smart.946985.filegear-sg.me/smart.php?id=tlc_twn
+NatGeo HD,https://smart.946985.filegear-sg.me/smart.php?id=Natgeo
+Fashion TV,https://smart.946985.filegear-sg.me/smart.php?id=fashiontv_twn
+History,https://smart.946985.filegear-sg.me/smart.php?id=History
+BBC Earth HD,https://smart.946985.filegear-sg.me/smart.php?id=bbcearth_twn
+BBC Earth Lifestyle,https://smart.946985.filegear-sg.me/smart.php?id=bbclifestyle_twn
+MTV Live,https://smart.946985.filegear-sg.me/smart.php?id=mtvhd_twn
+NatGeo Wild HD,https://smart.946985.filegear-sg.me/smart.php?id=Natgeowild
+Animal Planet (Eng),https://smart.946985.filegear-sg.me/smart.php?id=AnimalPlanet
+TLC,https://smart.946985.filegear-sg.me/smart.php?id=Tlc
+Foodnetwork Hd,https://smart.946985.filegear-sg.me/smart.php?id=Foodnetwork
+HGTV,https://smart.946985.filegear-sg.me/smart.php?id=HGTV
+亚洲旅游台,https://smart.946985.filegear-sg.me/smart.php?id=asiatravel_twn
+SMT-新闻,#genre#
+Skynews,https://smart.946985.filegear-sg.me/smart.php?id=skynews_twn
+ABC News,https://smart.946985.filegear-sg.me/smart.php?id=abcnews_glo
+东森财经新闻,https://smart.946985.filegear-sg.me/smart.php?id=ettvcaijing_twn
+CBS HD,https://smart.946985.filegear-sg.me/smart.php?id=cbshd_glo
+CBSN HD,https://smart.946985.filegear-sg.me/smart.php?id=cbsn_glo
+France 24,https://smart.946985.filegear-sg.me/smart.php?id=france24_twn
+DW (Deutsch),https://smart.946985.filegear-sg.me/smart.php?id=dw_twn
+NHK World,https://smart.946985.filegear-sg.me/smart.php?id=nhkworld_japan
+Fox News,https://smart.946985.filegear-sg.me/smart.php?id=foxnews_twn
+CGTN,https://smart.946985.filegear-sg.me/smart.php?id=CGTN
+CNN International,https://smart.946985.filegear-sg.me/smart.php?id=Cnn
+CNN backup,https://smart.946985.filegear-sg.me/smart.php?id=cnn_twn
+CNBC,https://smart.946985.filegear-sg.me/smart.php?id=cnbc_twn
+CNA,https://smart.946985.filegear-sg.me/smart.php?id=cna
+BBC World News,https://smart.946985.filegear-sg.me/smart.php?id=bbcnews_twn
+BBC World News,https://smart.946985.filegear-sg.me/smart.php?id=Bbcnews
+Bloomberg News,https://smart.946985.filegear-sg.me/smart.php?id=bloomberg_twn
+Al-Jazeera,https://smart.946985.filegear-sg.me/smart.php?id=aljazeera_twn
+SMT-儿童,#genre#
+Baby TV Eng,https://smart.946985.filegear-sg.me/smart.php?id=Babytv
+CBeebies,https://smart.946985.filegear-sg.me/smart.php?id=Cbeebies
+Kids TV,https://smart.946985.filegear-sg.me/smart.php?id=KidsTV
+Momo TV,https://smart.946985.filegear-sg.me/smart.php?id=momo1_twn
+Animax,https://smart.946985.filegear-sg.me/smart.php?id=Animax
+Baby TV,https://smart.946985.filegear-sg.me/smart.php?id=babytv_twn
+MiaoMi,https://smart.946985.filegear-sg.me/smart.php?id=MiaoMi
+靖天卡通,https://smart.946985.filegear-sg.me/smart.php?id=jingtiancartoon_twn
+东森幼幼,https://smart.946985.filegear-sg.me/smart.php?id=yoyo_twn
+Cartoon Network,https://smart.946985.filegear-sg.me/smart.php?id=Cn
+Nickelodeon,https://smart.946985.filegear-sg.me/smart.php?id=Nickelodeon
+Nick Jr,https://smart.946985.filegear-sg.me/smart.php?id=Nickjr
+SMT-体育,#genre#
+Astro Premier League 1,https://smart.946985.filegear-sg.me/smart.php?id=go_assp1
+Astro EPL 1 backup,https://smart.946985.filegear-sg.me/smart.php?id=go_assp1x
+Astro Premier League 2,https://smart.946985.filegear-sg.me/smart.php?id=go_assp2
+Astro Grandstand,https://smart.946985.filegear-sg.me/smart.php?id=go_assp3
+Astro Football,https://smart.946985.filegear-sg.me/smart.php?id=go_assp4
+Astro Sports Plus,https://smart.946985.filegear-sg.me/smart.php?id=go_sportsplus
+Astro Badminton 1,https://smart.946985.filegear-sg.me/smart.php?id=go_badminton1
+Astro Badminton 2,https://smart.946985.filegear-sg.me/smart.php?id=go_badminton2
+Astro W-Sports,https://smart.946985.filegear-sg.me/smart.php?id=go_assp5
+Supersports 1,https://smart.946985.filegear-sg.me/smart.php?id=Assp1
+Supersports 2,https://smart.946985.filegear-sg.me/smart.php?id=Assp2
+Supersports 3,https://smart.946985.filegear-sg.me/smart.php?id=Assp3
+Supersports 4,https://smart.946985.filegear-sg.me/smart.php?id=Assp4
+WWE,https://smart.946985.filegear-sg.me/smart.php?id=Wwe
+Fight Sports,https://smart.946985.filegear-sg.me/smart.php?id=Fs
+NBA TV,https://smart.946985.filegear-sg.me/smart.php?id=Nba
+Astro Cricket,https://smart.946985.filegear-sg.me/smart.php?id=Acricket
+Astro Golf,https://smart.946985.filegear-sg.me/smart.php?id=Agolf
+Tnt Sports 1,https://smart.946985.filegear-sg.me/smart.php?id=6fac0aaead
+TNT Sports 2,https://smart.946985.filegear-sg.me/smart.php?id=d9a76a79cc
+TNT Sports 3,https://smart.946985.filegear-sg.me/smart.php?id=5fea4d73db
+TNT Sports 4,https://smart.946985.filegear-sg.me/smart.php?id=tntsport4
+Sony Ten 1,https://smart.946985.filegear-sg.me/smart.php?id=ten1_raj
+Sony Ten 2,https://smart.946985.filegear-sg.me/smart.php?id=ten2_raj
+Sony Ten 3,https://smart.946985.filegear-sg.me/smart.php?id=ten3_raj
+SPOTV 1 HD,https://smart.946985.filegear-sg.me/smart.php?id=go_spotv
+SPO TV 2,https://smart.946985.filegear-sg.me/smart.php?id=go_spotv2
+Skysports F1,https://smart.946985.filegear-sg.me/smart.php?id=tiankongf1
+Skysports Cricket,https://smart.946985.filegear-sg.me/smart.php?id=tiankongcricket
+Skysports EPL,https://smart.946985.filegear-sg.me/smart.php?id=tiankongepl
+Skysports Main Event,https://smart.946985.filegear-sg.me/smart.php?id=tiankongmain
+Skysports News,https://smart.946985.filegear-sg.me/smart.php?id=tiankongnews
+Skysports Mix,https://smart.946985.filegear-sg.me/smart.php?id=tiankongmix
+CCTV-5 体育频道,https://smart.946985.filegear-sg.me/smart.php?id=cctv5
+CCTV-5+ 体育赛事 HD,https://smart.946985.filegear-sg.me/smart.php?id=cctv5plus
+爱尔达体育2台,https://smart.946985.filegear-sg.me/smart.php?id=eltasport2_twn
+爱尔达体育3台,https://smart.946985.filegear-sg.me/smart.php?id=eltasport3_twn
+Rugby Pass TV,https://smart.946985.filegear-sg.me/smart.php?id=Rugbypasstv
+RTM Sports HD,https://smart.946985.filegear-sg.me/smart.php?id=Rtmsport
+Arena,https://smart.946985.filegear-sg.me/smart.php?id=Arena
+Arena 2,https://smart.946985.filegear-sg.me/smart.php?id=Arena2
+BolaArena 1,https://smart.946985.filegear-sg.me/smart.php?id=Bolaarena1
+BolaArena 2,https://smart.946985.filegear-sg.me/smart.php?id=Bolaarena2
+Astro Beinsports 1,https://smart.946985.filegear-sg.me/smart.php?id=Astrobein1
+Astro Beinsports 2,https://smart.946985.filegear-sg.me/smart.php?id=Astrobein2
+Astro Beinsports 3,https://smart.946985.filegear-sg.me/smart.php?id=Astrobein3
+SMT-新加坡,#genre#
+Channel 5,https://smart.946985.filegear-sg.me/smart.php?id=Channel5HD
+Channel 8,https://smart.946985.filegear-sg.me/smart.php?id=Channel8HD
+Suria,https://smart.946985.filegear-sg.me/smart.php?id=Suria
+Channel U,https://smart.946985.filegear-sg.me/smart.php?id=ChannelU
+Vasantham,https://smart.946985.filegear-sg.me/smart.php?id=Vasantham
+CNA,https://smart.946985.filegear-sg.me/smart.php?id=cna
+CNA backup,https://smart.946985.filegear-sg.me/smart.php?id=cna_twn
+MeWatch Ch 5,https://smart.946985.filegear-sg.me/smart.php?id=Mewatch_ch5
+MeWatch Ch 8,https://smart.946985.filegear-sg.me/smart.php?id=Mewatch_ch8
+MeWatch Ch U,https://smart.946985.filegear-sg.me/smart.php?id=Mewatch_chU
+MeWatch Suria,https://smart.946985.filegear-sg.me/smart.php?id=Mewatch_Suria
+MeWatch Vasantham,https://smart.946985.filegear-sg.me/smart.php?id=Mewatch_Vasantham
+MeWatch CNA,https://smart.946985.filegear-sg.me/smart.php?id=Mewatch_cna
+SMT-马来西亚,#genre#
+TV1,https://smart.946985.filegear-sg.me/smart.php?id=TV1
+TV1 backup,https://smart.946985.filegear-sg.me/smart.php?id=TV1_backup
+TV2,https://smart.946985.filegear-sg.me/smart.php?id=TV2
+TV3,https://smart.946985.filegear-sg.me/smart.php?id=TV3
+TV3 SD,https://smart.946985.filegear-sg.me/smart.php?id=TV3_mega
+NTV7,https://smart.946985.filegear-sg.me/smart.php?id=NTV7
+TV8,https://smart.946985.filegear-sg.me/smart.php?id=TV8
+TV9,https://smart.946985.filegear-sg.me/smart.php?id=TV9
+Ria,https://smart.946985.filegear-sg.me/smart.php?id=Ria-0
+Ria-3,https://smart.946985.filegear-sg.me/smart.php?id=Ria_backup
+Al-Hijrah,https://smart.946985.filegear-sg.me/smart.php?id=Alhijrah
+Al-Hijrah backup,https://smart.946985.filegear-sg.me/smart.php?id=Alhijrah_backup
+Awani,https://smart.946985.filegear-sg.me/smart.php?id=Awani
+Bernama,https://smart.946985.filegear-sg.me/smart.php?id=Bernama
+Prima,https://smart.946985.filegear-sg.me/smart.php?id=Prima-0
+Prima backup,https://smart.946985.filegear-sg.me/smart.php?id=AAprima1
+Prima backup 2,https://smart.946985.filegear-sg.me/smart.php?id=AAprima
+Ceria,https://smart.946985.filegear-sg.me/smart.php?id=Ceria
+Astro MTV,https://smart.946985.filegear-sg.me/smart.php?id=AstroMTV
+Mecca Live HD,https://smart.946985.filegear-sg.me/smart.php?id=quran_mido
+Madinah HD,https://smart.946985.filegear-sg.me/smart.php?id=sunnah_mido
+Oasis,https://smart.946985.filegear-sg.me/smart.php?id=Oasis
+HBO HD,https://smart.946985.filegear-sg.me/smart.php?id=Hbo
+HBO Signature,https://smart.946985.filegear-sg.me/smart.php?id=Hbosignature
+HBO Hits,https://smart.946985.filegear-sg.me/smart.php?id=Hbohitshd
+NatGeo Wild HD,https://smart.946985.filegear-sg.me/smart.php?id=Natgeowild
+Cartoon Network,https://smart.946985.filegear-sg.me/smart.php?id=Cn
+Nickelodeon,https://smart.946985.filegear-sg.me/smart.php?id=Nickelodeon
+Nick Jr,https://smart.946985.filegear-sg.me/smart.php?id=Nickjr
+Dreamworks,https://smart.946985.filegear-sg.me/smart.php?id=Dreamworks
+Siar,https://smart.946985.filegear-sg.me/smart.php?id=Siar
+Citra,https://smart.946985.filegear-sg.me/smart.php?id=AAcitra
+Citra backup,https://smart.946985.filegear-sg.me/smart.php?id=AAcitra1
+Sensasi,https://smart.946985.filegear-sg.me/smart.php?id=Sensasi
+Aura,https://smart.946985.filegear-sg.me/smart.php?id=Aura
+Rania,https://smart.946985.filegear-sg.me/smart.php?id=Rania
+KBS World,https://smart.946985.filegear-sg.me/smart.php?id=KBS
+Boo,https://smart.946985.filegear-sg.me/smart.php?id=Boo
+Awesome TV,https://smart.946985.filegear-sg.me/smart.php?id=Dsangat
+Astro Sonypix,https://smart.946985.filegear-sg.me/smart.php?id=Asonypix
+Sony HD,https://smart.946985.filegear-sg.me/smart.php?id=SetOne
+TvN,https://smart.946985.filegear-sg.me/smart.php?id=TVN
+AEC,https://smart.946985.filegear-sg.me/smart.php?id=AEC
+华丽台 HD （Wah Lai Toi）,https://smart.946985.filegear-sg.me/smart.php?id=Wlt
+欢喜台 HD （Hua Hee Tai）,https://smart.946985.filegear-sg.me/smart.php?id=Huahee
+Astro QJ,https://smart.946985.filegear-sg.me/smart.php?id=Quanjia
+TVB Jade,https://smart.946985.filegear-sg.me/smart.php?id=Tvbjade
+TVB Asia,https://smart.946985.filegear-sg.me/smart.php?id=Tvbasia
+TVB Entertainment,https://smart.946985.filegear-sg.me/smart.php?id=Tvbentertainment
+TVB Classic,https://smart.946985.filegear-sg.me/smart.php?id=Tvbclassic
+AOD,https://smart.946985.filegear-sg.me/smart.php?id=Aodhd
+One,https://smart.946985.filegear-sg.me/smart.php?id=One
+TVB 星河台 Xing He,https://smart.946985.filegear-sg.me/smart.php?id=Xinhe
+爱奇艺 iQiyi,https://smart.946985.filegear-sg.me/smart.php?id=Qiyi
+Animal Planet (Eng),https://smart.946985.filegear-sg.me/smart.php?id=AnimalPlanet
+tvN Movie,https://smart.946985.filegear-sg.me/smart.php?id=Tvnmovie
+CNN backup,https://smart.946985.filegear-sg.me/smart.php?id=cnn_twn
+Celestial Classic,https://smart.946985.filegear-sg.me/smart.php?id=Celestial2
+CNBC,https://smart.946985.filegear-sg.me/smart.php?id=cnbc_twn
+TLC,https://smart.946985.filegear-sg.me/smart.php?id=Tlc
+CNA,https://smart.946985.filegear-sg.me/smart.php?id=cna
+BBC World News,https://smart.946985.filegear-sg.me/smart.php?id=bbcnews_twn
+Foodnetwork Hd,https://smart.946985.filegear-sg.me/smart.php?id=Foodnetwork
+HGTV,https://smart.946985.filegear-sg.me/smart.php?id=HGTV
+Goshop,https://smart.946985.filegear-sg.me/smart.php?id=Goshop
+Celestial Movies HD,https://smart.946985.filegear-sg.me/smart.php?id=Celestial
+Axn HD,https://smart.946985.filegear-sg.me/smart.php?id=Axn
+Paramount Network,https://smart.946985.filegear-sg.me/smart.php?id=Paramountnetwork
+Astrol Kplus,https://smart.946985.filegear-sg.me/smart.php?id=Kplus
+AFC 亚洲旅游台,https://smart.946985.filegear-sg.me/smart.php?id=asiatravel_twn
+Rock Actions,https://smart.946985.filegear-sg.me/smart.php?id=Rockaction
+Bloomberg News,https://smart.946985.filegear-sg.me/smart.php?id=bloomberg_twn
+Al-Jazeera,https://smart.946985.filegear-sg.me/smart.php?id=aljazeera_twn
+Rock Entertainment,https://smart.946985.filegear-sg.me/smart.php?id=Rockentertain
+RTM Sports HD,https://smart.946985.filegear-sg.me/smart.php?id=Rtmsport
+Arena,https://smart.946985.filegear-sg.me/smart.php?id=Arena
+Arena 2,https://smart.946985.filegear-sg.me/smart.php?id=Arena2
+BolaArena 1,https://smart.946985.filegear-sg.me/smart.php?id=Bolaarena1
+BolaArena 2,https://smart.946985.filegear-sg.me/smart.php?id=Bolaarena2
+Astro LOL,https://smart.946985.filegear-sg.me/smart.php?id=Astro_lol
+Astro Rusi,https://smart.946985.filegear-sg.me/smart.php?id=Rusi
+WION,https://smart.946985.filegear-sg.me/smart.php?id=Wion
+RTM Asean,https://smart.946985.filegear-sg.me/smart.php?id=Rtmasean
+SMT-印尼,#genre#
+TVRI National,https://smart.946985.filegear-sg.me/smart.php?id=TVRI
+RCTI,https://smart.946985.filegear-sg.me/smart.php?id=Rcti
+Kompass TV,https://smart.946985.filegear-sg.me/smart.php?id=Kompass
+Berita Satu,https://smart.946985.filegear-sg.me/smart.php?id=BeritaSatu_eko
+Indosiar HD,https://smart.946985.filegear-sg.me/smart.php?id=Indosiar
+AnTV,https://smart.946985.filegear-sg.me/smart.php?id=Antv
+MNC TV,https://smart.946985.filegear-sg.me/smart.php?id=Mnctv
+Trans 7,https://smart.946985.filegear-sg.me/smart.php?id=Trans7_eko
+Transtv,https://smart.946985.filegear-sg.me/smart.php?id=Transtv
+JTV,https://smart.946985.filegear-sg.me/smart.php?id=JTV_eko
+Metro TV,https://smart.946985.filegear-sg.me/smart.php?id=metrotv_eko
+Cinemax,https://smart.946985.filegear-sg.me/smart.php?id=Cinemax
+SCTV,https://smart.946985.filegear-sg.me/smart.php?id=SCTV
+Tvone,https://smart.946985.filegear-sg.me/smart.php?id=Tvone
+TVMU,https://smart.946985.filegear-sg.me/smart.php?id=TVMU_eko
+GTV,https://smart.946985.filegear-sg.me/smart.php?id=Gtv
+RTV,https://smart.946985.filegear-sg.me/smart.php?id=Rtv
+Jak TV,https://smart.946985.filegear-sg.me/smart.php?id=JakTV
+iNews TV,https://smart.946985.filegear-sg.me/smart.php?id=Inewstv
+Daai TV,https://smart.946985.filegear-sg.me/smart.php?id=DaaiTV
+Net TV,https://smart.946985.filegear-sg.me/smart.php?id=NetTV
+Animax,https://smart.946985.filegear-sg.me/smart.php?id=Animax
+EWTN,https://smart.946985.filegear-sg.me/smart.php?id=Ewtn
+AlQuran AlKareem,https://smart.946985.filegear-sg.me/smart.php?id=AlQuran
+Tawaf TV,https://smart.946985.filegear-sg.me/smart.php?id=TawafTV
+Vision Prime,https://smart.946985.filegear-sg.me/smart.php?id=VisionPrime
+Muslim TV,https://smart.946985.filegear-sg.me/smart.php?id=MuslimTV
+Music TV,https://smart.946985.filegear-sg.me/smart.php?id=MusicTV
+Lifestyle&Fashion,https://smart.946985.filegear-sg.me/smart.php?id=Lifestyle
+Entertain,https://smart.946985.filegear-sg.me/smart.php?id=Entertain
+Hits,https://smart.946985.filegear-sg.me/smart.php?id=Hits
+Warner TV,https://smart.946985.filegear-sg.me/smart.php?id=WarnerTV
+SCM,https://smart.946985.filegear-sg.me/smart.php?id=Weishimovie
+Thrill,https://smart.946985.filegear-sg.me/smart.php?id=Thrill
+Fight Sports,https://smart.946985.filegear-sg.me/smart.php?id=Fs
+Hits Movie,https://smart.946985.filegear-sg.me/smart.php?id=Hitsmovie
+One,https://smart.946985.filegear-sg.me/smart.php?id=One
+tvN Movie,https://smart.946985.filegear-sg.me/smart.php?id=Tvnmovie
+Celestial Movies HD,https://smart.946985.filegear-sg.me/smart.php?id=Celestialindo
+Rock Actions,https://smart.946985.filegear-sg.me/smart.php?id=Rockaction
+Rock Entertainment,https://smart.946985.filegear-sg.me/smart.php?id=Rockentertain
+SMT-印度,#genre#
+Sun TV HD,https://smart.946985.filegear-sg.me/smart.php?id=Suntv
+Star Vijay,https://smart.946985.filegear-sg.me/smart.php?id=Starvijay
+Colors Tamil,https://smart.946985.filegear-sg.me/smart.php?id=Colorstam
+Sun Music,https://smart.946985.filegear-sg.me/smart.php?id=Sunmusic
+Astro Sunlife,https://smart.946985.filegear-sg.me/smart.php?id=Sunlife
+Astro Vaanavil,https://smart.946985.filegear-sg.me/smart.php?id=Vaanavil
+Zee Tamil,https://smart.946985.filegear-sg.me/smart.php?id=Zeetamil
+Zee Business,https://smart.946985.filegear-sg.me/smart.php?id=Zeebusiness
+News 18 Tamil,https://smart.946985.filegear-sg.me/smart.php?id=news18tamil_raj
+Adithya,https://smart.946985.filegear-sg.me/smart.php?id=Adithya
+Makkal TV,https://smart.946985.filegear-sg.me/smart.php?id=Makkaltv
+Zee Action,https://smart.946985.filegear-sg.me/smart.php?id=Zeeaction
+Astro KTV,https://smart.946985.filegear-sg.me/smart.php?id=Astroktv
+Zee TV HD,https://smart.946985.filegear-sg.me/smart.php?id=Zeetvhd
+Zee Cinema HD,https://smart.946985.filegear-sg.me/smart.php?id=Zeecinemahd
+Color HD,https://smart.946985.filegear-sg.me/smart.php?id=Colorhd
+Starplus HD,https://smart.946985.filegear-sg.me/smart.php?id=Starplushd
+Picture HD,https://smart.946985.filegear-sg.me/smart.php?id=Npicture
+Zee News,https://smart.946985.filegear-sg.me/smart.php?id=Zeenews
+Asianet,https://smart.946985.filegear-sg.me/smart.php?id=asianet_raj
+Asianet News,https://smart.946985.filegear-sg.me/smart.php?id=asianetnews_raj
+Discovery World Tamil,https://smart.946985.filegear-sg.me/smart.php?id=discoveryworldtam_raj
+History Tamil,https://smart.946985.filegear-sg.me/smart.php?id=historytam_raj
+NatGeo Tamil,https://smart.946985.filegear-sg.me/smart.php?id=natgeotamil_raj
+Natgeo Wild Tamil,https://smart.946985.filegear-sg.me/smart.php?id=natgeowildtamil_raj
+Astro Sonypix,https://smart.946985.filegear-sg.me/smart.php?id=Asonypix
+Discovery Kids Tamil,https://smart.946985.filegear-sg.me/smart.php?id=discoverykidtamil_raj
+Discovery Tamil,https://smart.946985.filegear-sg.me/smart.php?id=discoverytamil_raj
+Sony Yay Tamil,https://smart.946985.filegear-sg.me/smart.php?id=sonyyaytam_raj
+Sun TV India,https://smart.946985.filegear-sg.me/smart.php?id=suntv_raj
+Starmaa HD,https://smart.946985.filegear-sg.me/smart.php?id=starmaa_raj
+Starmaa Movies HD,https://smart.946985.filegear-sg.me/smart.php?id=starmaamovies_raj
+Bollyone,https://smart.946985.filegear-sg.me/smart.php?id=Bollyone
+Astro Sunmusic,https://smart.946985.filegear-sg.me/smart.php?id=Sunmusic
+Vijay Super,https://smart.946985.filegear-sg.me/smart.php?id=vijaysuper_raj
+Vellithirai,https://smart.946985.filegear-sg.me/smart.php?id=Vellithirai
+SMT-泰国,#genre#
+Channel 3 Thailand,https://smart.946985.filegear-sg.me/smart.php?id=ch3_pat
+Channel 5 Thailand,https://smart.946985.filegear-sg.me/smart.php?id=ch5_pat
+Channel 7 Thailand,https://smart.946985.filegear-sg.me/smart.php?id=ch7_pat
+MCOT HD Thailand-1,https://smart.946985.filegear-sg.me/smart.php?id=mcot_pat
+PPTV Thailand1,https://smart.946985.filegear-sg.me/smart.php?id=pptv_pat
+Thai Thai,https://smart.946985.filegear-sg.me/smart.php?id=thaithai_pat
+Amarin,https://smart.946985.filegear-sg.me/smart.php?id=amarin_pat
+Ch 8,https://smart.946985.filegear-sg.me/smart.php?id=ch8_pat
+GmmOne,https://smart.946985.filegear-sg.me/smart.php?id=gmmone_pat
+Mono,https://smart.946985.filegear-sg.me/smart.php?id=mono_pat
+Thairath,https://smart.946985.filegear-sg.me/smart.php?id=thairath_pat
+tpbs,https://smart.946985.filegear-sg.me/smart.php?id=tpbs_pat
+Workpoint,https://smart.946985.filegear-sg.me/smart.php?id=workpoint_pat
+Gmm Channel,https://smart.946985.filegear-sg.me/smart.php?id=gmmchannel_pat
+Nation,https://smart.946985.filegear-sg.me/smart.php?id=nation_pat
+Tnn24,https://smart.946985.filegear-sg.me/smart.php?id=tnn24_pat
+Nbt,https://smart.946985.filegear-sg.me/smart.php?id=nbt_pat
+New,https://smart.946985.filegear-sg.me/smart.php?id=new_pat
+TPTV,https://smart.946985.filegear-sg.me/smart.php?id=tptv_pat
+SMT-英国,#genre#
+BBC 1,https://smart.946985.filegear-sg.me/smart.php?id=bbc1_antik
+BBC 2,https://smart.946985.filegear-sg.me/smart.php?id=bbc2_antik
+CBBC,https://smart.946985.filegear-sg.me/smart.php?id=cbbc_antik
+More4,https://smart.946985.filegear-sg.me/smart.php?id=more4_antik
+Freesports,https://smart.946985.filegear-sg.me/smart.php?id=freesports_antik
+Skynews,https://smart.946985.filegear-sg.me/smart.php?id=skynews_twn
+Pick TV,https://smart.946985.filegear-sg.me/smart.php?id=picktv_antik
+itv 1,https://smart.946985.filegear-sg.me/smart.php?id=itv1_antik
+itv 2,https://smart.946985.filegear-sg.me/smart.php?id=itv2_antik
+Euronews,https://smart.946985.filegear-sg.me/smart.php?id=euronews_antik
+Channel 4,https://smart.946985.filegear-sg.me/smart.php?id=channel4_antik
+NatGeo HD,https://smart.946985.filegear-sg.me/smart.php?id=Natgeo
+CBeebies,https://smart.946985.filegear-sg.me/smart.php?id=Cbeebies
+History,https://smart.946985.filegear-sg.me/smart.php?id=History
+Kids TV,https://smart.946985.filegear-sg.me/smart.php?id=KidsTV
+France 24,https://smart.946985.filegear-sg.me/smart.php?id=france24_twn
+DW (Deutsch),https://smart.946985.filegear-sg.me/smart.php?id=dw_twn
+BBC Earth HD,https://smart.946985.filegear-sg.me/smart.php?id=bbcearth_twn
+BBC Earth Lifestyle,https://smart.946985.filegear-sg.me/smart.php?id=bbclifestyle_twn
+MTV Live,https://smart.946985.filegear-sg.me/smart.php?id=mtvhd_twn
+Star Movies HD,https://smart.946985.filegear-sg.me/smart.php?id=starmovies_raj
+NHK World,https://smart.946985.filegear-sg.me/smart.php?id=nhkworld_japan
+Warner TV,https://smart.946985.filegear-sg.me/smart.php?id=WarnerTV
+HBO HD,https://smart.946985.filegear-sg.me/smart.php?id=Hbo
+NatGeo Wild HD,https://smart.946985.filegear-sg.me/smart.php?id=Natgeowild
+Nickelodeon,https://smart.946985.filegear-sg.me/smart.php?id=Nickelodeon
+Nick Jr,https://smart.946985.filegear-sg.me/smart.php?id=Nickjr
+Thrill,https://smart.946985.filegear-sg.me/smart.php?id=Thrill
+CGTN,https://smart.946985.filegear-sg.me/smart.php?id=CGTN
+Hits Movie,https://smart.946985.filegear-sg.me/smart.php?id=Hitsmovie
+Animal Planet (Eng),https://smart.946985.filegear-sg.me/smart.php?id=AnimalPlanet
+CNBC,https://smart.946985.filegear-sg.me/smart.php?id=cnbc_twn
+TLC,https://smart.946985.filegear-sg.me/smart.php?id=Tlc
+BBC World News,https://smart.946985.filegear-sg.me/smart.php?id=bbcworldnews_antik
+HGTV,https://smart.946985.filegear-sg.me/smart.php?id=HGTV
+Axn HD,https://smart.946985.filegear-sg.me/smart.php?id=Axn
+Skysports F1,https://smart.946985.filegear-sg.me/smart.php?id=tiankongf1
+Skysports Cricket,https://smart.946985.filegear-sg.me/smart.php?id=tiankongcricket
+Bloomberg News,https://smart.946985.filegear-sg.me/smart.php?id=bloomberg_twn
+Skysports EPL,https://smart.946985.filegear-sg.me/smart.php?id=tiankongepl
+Skysports Main Event,https://smart.946985.filegear-sg.me/smart.php?id=tiankongmain
+Skysports News,https://smart.946985.filegear-sg.me/smart.php?id=tiankongnews
+Al-Jazeera,https://smart.946985.filegear-sg.me/smart.php?id=aljazeera_twn
+
+💥轮播视频,#genre#
+
+电影_星爷,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11342412&token=xiangxiweishiIPTV
+电影_英叔,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11342421&token=xiangxiweishiIPTV
+电影_发哥,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11342387&token=xiangxiweishiIPTV
+电影_成龙,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11342386&token=xiangxiweishiIPTV
+电影_王晶,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11602058&token=xiangxiweishiIPTV
+电影_沈腾,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11601968&token=xiangxiweishiIPTV
+电影_黄渤,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11352876&token=xiangxiweishiIPTV
+电影_强森,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=21059581&token=xiangxiweishiIPTV
+电影_漫威,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11602034&token=xiangxiweishiIPTV
+电影_宇宙,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11342428&token=xiangxiweishiIPTV
+电影_怪兽,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=21059577&token=xiangxiweishiIPTV
+电影_武侠,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11342427&token=xiangxiweishiIPTV
+电影_警匪,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11352886&token=xiangxiweishiIPTV
+电影_罪犯,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11352962&token=xiangxiweishiIPTV
+电影_枪战,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=21059579&token=xiangxiweishiIPTV
+电影_赛车,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11279247&token=xiangxiweishiIPTV
+电影_推荐,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11602041&token=xiangxiweishiIPTV
+电影_热血,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11352934&token=xiangxiweishiIPTV
+电影_盗墓,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=21059552&token=xiangxiweishiIPTV
+电影_贺岁,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11601971&token=xiangxiweishiIPTV
+电影_玄幻,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11342414&token=xiangxiweishiIPTV
+电影_谍战,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=21059585&token=xiangxiweishiIPTV
+电影_喜剧,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11352877&token=xiangxiweishiIPTV
+电影_港片,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11602043&token=xiangxiweishiIPTV
+电影_国产,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11352973&token=xiangxiweishiIPTV
+电影_周星星,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11336587&token=xiangxiweishiIPTV
+电影_李连杰,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11342390&token=xiangxiweishiIPTV
+电影_洪金宝,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11279251&token=xiangxiweishiIPTV
+电影_梁家辉,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11342429&token=xiangxiweishiIPTV
+电影_许冠英,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11601972&token=xiangxiweishiIPTV
+电影_刘德华,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11342424&token=xiangxiweishiIPTV
+电影_斯坦森,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=21059588&token=xiangxiweishiIPTV
+电影_八点档,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=880261&token=xiangxiweishiIPTV
+电影_贺岁片,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11601986&token=xiangxiweishiIPTV
+电影_功夫片,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11352941&token=xiangxiweishiIPTV
+电影_黑帮片,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11336719&token=xiangxiweishiIPTV
+电影_丧尸片,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=21059578&token=xiangxiweishiIPTV
+电影_灾难片,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11602075&token=xiangxiweishiIPTV
+电影_谍战片,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=21059587&token=xiangxiweishiIPTV
+电影_战争片,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=21059574&token=xiangxiweishiIPTV
+电影_犯罪片,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11352974&token=xiangxiweishiIPTV
+电影_古装片,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11336590&token=xiangxiweishiIPTV
+电影_高分动作,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11352884&token=xiangxiweishiIPTV
+电影_动作电影,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11602077&token=xiangxiweishiIPTV
+电影_搞笑喜剧,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11342423&token=xiangxiweishiIPTV
+电影_喜剧专场,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11602044&token=xiangxiweishiIPTV
+电影_欢笑影院,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11352894&token=xiangxiweishiIPTV
+电影_不挤影院,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11352897&token=xiangxiweishiIPTV
+电影_国产悬疑,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11342395&token=xiangxiweishiIPTV
+电影_快意江湖,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11342435&token=xiangxiweishiIPTV
+电影_黑帮斗争,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11342419&token=xiangxiweishiIPTV
+电影_古墓系列,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11352913&token=xiangxiweishiIPTV
+电影_嫣然影厅,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11601977&token=xiangxiweishiIPTV
+电影_女神系列,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11336571&token=xiangxiweishiIPTV
+电影_经典女神,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11352909&token=xiangxiweishiIPTV
+电影_许氏三杰,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11602033&token=xiangxiweishiIPTV
+电影_经典港片,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11352965&token=xiangxiweishiIPTV
+电影_镖行天下,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11352969&token=xiangxiweishiIPTV
+电影_喜乐影院,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=21059580&token=xiangxiweishiIPTV
+电影_蘑菇影厅,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11601981&token=xiangxiweishiIPTV
+电影_搞笑恐怖,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11601960&token=xiangxiweishiIPTV
+电影_死神来了,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11352903&token=xiangxiweishiIPTV
+电影_怪兽系列,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=21059554&token=xiangxiweishiIPTV
+搞笑_陈翔六点半,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/ptlunb.js?hy=11274154&token=xiangxiweishiIPTV
+
+
+强森,http://cfss.cc/cdn/hy/21059581.m3u8
+斯坦森,http://cfss.cc/cdn/hy/21059588.m3u8
+史泰龙,http://cfss.cc/cdn/hy/23864973.m3u8
+成龙,http://cfss.cc/cdn/hy/11342386.m3u8
+黄渤,http://cfss.cc/cdn/hy/11352876.m3u8
+沈腾,http://cfss.cc/cdn/hy/11601968.m3u8
+王晶,http://cfss.cc/cdn/hy/11602058.m3u8
+周星驰,http://cfss.cc/cdn/hy/11336587.m3u8
+李连杰,http://cfss.cc/cdn/hy/11342390.m3u8
+刘德华,http://cfss.cc/cdn/hy/11342424.m3u8
+周润发,http://cfss.cc/cdn/hy/11342387.m3u8
+古天乐,http://cfss.cc/cdn/hy/29982675.m3u8
+甄子丹,http://cfss.cc/cdn/hy/11352935.m3u8
+洪金宝,http://cfss.cc/cdn/hy/11279251.m3u8
+功夫,http://cfss.cc/cdn/hy/11352941.m3u8
+金庸武侠,http://cfss.cc/cdn/hy/11342435.m3u8
+武侠,http://cfss.cc/cdn/hy/11342427.m3u8
+玄幻,http://cfss.cc/cdn/hy/11342414.m3u8
+国产,http://cfss.cc/cdn/hy/11352973.m3u8
+不挤影院,http://cfss.cc/cdn/hy/11352897.m3u8
+许氏三杰,http://cfss.cc/cdn/hy/11602033.m3u8
+高分动作,http://cfss.cc/cdn/hy/11352884.m3u8
+欢笑影院,http://cfss.cc/cdn/hy/11352894.m3u8
+国产悬疑,http://cfss.cc/cdn/hy/11342395.m3u8
+黑帮斗争,http://cfss.cc/cdn/hy/11342419.m3u8
+国产电影,http://ygbh.site/php/bfgd.php?id=289
+埋堆堆,http://cfss.cc/cdn/hy/29465851.m3u8
+寻秦记,http://cfss.cc/cdn/hy/29465848.m3u8
+封神榜,http://cfss.cc/cdn/hy/29465849.m3u8
+繁花,http://cfss.cc/cdn/hy/21059580.m3u8
+繁花,http://cfss.cc/cdn/hy/23749083.m3u8
+亮剑,http://cfss.cc/cdn/hy/30080238.m3u8
+雪豹,http://cfss.cc/cdn/hy/29580970.m3u8
+庆余年,http://cfss.cc/cdn/hy/11352960.m3u8
+永夜星河,http://cfss.cc/cdn/hy/23734169.m3u8
+陈情令,http://cfss.cc/cdn/hy/29465862.m3u8
+洗冤录,http://cfss.cc/cdn/hy/23903130.m3u8
+济公,http://cfss.cc/cdn/hy/23903123.m3u8
+大时代,http://cfss.cc/cdn/hy/23865161.m3u8
+柳舟计,http://cfss.cc/cdn/hy/23860039.m3u8
+大秦赋,http://cfss.cc/cdn/hy/23903130.m3u8
+创世纪,http://cfss.cc/cdn/hy/29465852.m3u8
+老三国,http://cfss.cc/cdn/hy/11602081.m3u8
+猫和老鼠,http://cfss.cc/cdn/hy/11352879.m3u8
+皮卡丘,http://cfss.cc/cdn/hy/23749096.m3u8
+喜羊羊,http://cfss.cc/cdn/hy/23865080.m3u8
+茶啊二中,https://live.iill.top/huya/11213191
+哆啦A梦,https://live.iill.top/huya/11601963
+航海王,https://live.iill.top/huya/16913382
+七龙珠,https://live.iill.top/huya/11601966
+猫和老鼠,https://live.iill.top/huya/11352879
+中华小当家,https://live.iill.top/huya/11342413
+音乐石榴,https://live.iill.top/huya/17091681
+音乐速递,https://live.iill.top/huya/19439762
+治愈放松,https://live.iill.top/huya/21241811
+阅读学习,https://live.iill.top/huya/21241813
+
+
+
+高清电影,http://cfss.cc/cdn/hy/21059581.m3u8
+功夫电影,http://cfss.cc/cdn/hy/11352941.m3u8
+经典剧场,http://198.23.236.148:35455/douyu/7623292
+星河电影1,http://131.186.40.172:15002/huya/21059615
+星河电影2,http://131.186.40.172:15002/huya/11342432
+星河功夫,http://131.186.40.172:15002/huya/11342435
+星河高清电影3,http://131.186.40.172:15002/huya/11602031
+星河高清电影4,http://131.186.40.172:15002/huya/11602075
+星河高清电影5,http://131.186.40.172:15002/huya/11342399
+星河高清电影7,http://131.186.40.172:15002/huya/11601962
+星河高清电影9,http://131.186.40.172:15002/huya/11336571
+星河高清电影10,http://131.186.40.172:15002/huya/11601955
+星河剧集1,http://131.186.40.172:15002/huya/23903123
+星河剧集2 http://131.186.40.172:15002/huya/23863804
+星河剧集3,http://131.186.40.172:15002/huya/23865171
+星河剧集4,http://131.186.40.172:15002/huya/11602088
+星河剧集5,http://131.186.40.172:15002/huya/11336591
+星河剧集6,http://131.186.40.172:15002/huya/11342388
+星河剧集7,ttp://131.186.40.172:15002/huya/11342398
+星河剧集8,http://131.186.40.172:15002/huya/11342417
+星河剧集9,http://131.186.40.172:15002/huya/11342420
+星河剧集10,http://131.186.40.172:15002/huya/11342438
+星河剧集11,http://131.186.40.172:15002/huya/11601979
+星河剧集12,http://131.186.40.172:15002/huya/21059567
+星河剧集13,http://131.186.40.172:15002/huya/21059568
+星河剧集14,http://131.186.40.172:15002/huya/21059575
+星河剧集15,http://131.186.40.172:15002/huya/21059605
+星河剧集16,http://131.186.40.172:15002/huya/21059608
+星河剧集17,http://131.186.40.172:15002/huya/21059609
+星河剧集18,http://131.186.40.172:15002/huya/21059630
+星河剧集19,http://131.186.40.172:15002/huya/21059631
+星河剧集20,http://131.186.40.172:15002/huya/26355822
+星河剧集21,http://131.186.40.172:15002/huya/11602067
+星河高清剧场,http://131.186.40.172:15002/huya/11342412
+yy古装剧场,http://131.186.40.172:15002/yy/1354936134
+
+电影,#genre#
+周星星,http://h.20191209.xyz:25888/huya/11342412
+成龙,http://h.20191209.xyz:25888/huya/11342386
+林正英,http://h.20191209.xyz:25888/huya/11342421
+李茶的姑妈,http://h.20191209.xyz:25888/huya/880261
+宝盒没宝,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
+王晶,http://h.20191209.xyz:25888/huya/11602058
+贺岁档,http://h.20191209.xyz:25888/huya/11601986
+春节喜剧,http://h.20191209.xyz:25888/huya/11352897
+速肌,http://h.20191209.xyz:25888/huya/11279251
+刘德华,http://h.20191209.xyz:25888/huya/11342424
+丧尸来啦,http://h.20191209.xyz:25888/huya/11342422
+si神来了,http://h.20191209.xyz:25888/huya/11352903
+诺兰,http://h.20191209.xyz:25888/huya/30080257
+古天乐,http://h.20191209.xyz:25888/huya/29982675
+情人节,http://h.20191209.xyz:25888/huya/11352915
+女神系列,http://h.20191209.xyz:25888/huya/11336571
+喜剧专场,http://h.20191209.xyz:25888/huya/11602044
+Han国动作片,http://h.20191209.xyz:25888/huya/11352884
+香港贺岁片,http://h.20191209.xyz:25888/huya/11601955
+红楼梦,http://h.20191209.xyz:25888/huya/30080221
+许氏三杰,http://h.20191209.xyz:25888/huya/11602033
+玄幻剧场,http://h.20191209.xyz:25888/huya/11342414
+曾江,http://h.20191209.xyz:25888/huya/11601981
+动作电影,http://h.20191209.xyz:25888/huya/11602077
+国产悬疑,http://h.20191209.xyz:25888/huya/11342395
+尹正,http://h.20191209.xyz:25888/huya/30080231
+首尔之春,http://h.20191209.xyz:25888/huya/30080226
+港片追女仔,http://h.20191209.xyz:25888/huya/11602043
+孙红雷,http://h.20191209.xyz:25888/huya/11352917
+合家欢,http://h.20191209.xyz:25888/huya/11352877
+学不会系列,http://h.20191209.xyz:25888/huya/11352945
+误杀3,http://h.20191209.xyz:25888/huya/880219
+
+剧集,#genre#
+
+曾小贤,http://h.20191209.xyz:25888/huya/11336726
+李云龙,http://h.20191209.xyz:25888/huya/30080238
+超级交通站,http://h.20191209.xyz:25888/huya/11342433
+许三多,http://h.20191209.xyz:25888/huya/11342430
+父母爱情,http://h.20191209.xyz:25888/huya/11602071
+苏大强,http://h.20191209.xyz:25888/huya/21059594
+情满四合院,http://h.20191209.xyz:25888/huya/11342426
+宝盒没宝,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
+胡八一,http://h.20191209.xyz:25888/huya/11352871
+搞笑一家人,http://h.20191209.xyz:25888/huya/11342402
+杨光的快乐生活,http://h.20191209.xyz:25888/huya/11602085
+狄仁杰,http://h.20191209.xyz:25888/huya/11342425
+李淳罡,http://h.20191209.xyz:25888/huya/11336592
+范闲,http://h.20191209.xyz:25888/huya/11352960
+医馆笑传,http://h.20191209.xyz:25888/huya/11352891
+小染坊,http://h.20191209.xyz:25888/huya/11602086
+狄仁杰,http://h.20191209.xyz:25888/huya/11352958
+春水盈盈,http://h.20191209.xyz:25888/huya/30080255
+乡村爱情,http://h.20191209.xyz:25888/huya/11602088
+在哪儿跌倒的还得在哪儿爬起来,http://h.20191209.xyz:25888/huya/11602088
+夏雪夏雨夏冰雹,http://h.20191209.xyz:25888/huya/11352872
+扫黑风暴,http://h.20191209.xyz:25888/huya/11342404
+云南虫谷,http://h.20191209.xyz:25888/huya/11352910
+三国演义,http://h.20191209.xyz:25888/huya/11602081
+神雕侠侣,http://h.20191209.xyz:25888/huya/11352964
+鬼吹灯,http://h.20191209.xyz:25888/huya/29465863
+渗透,http://h.20191209.xyz:25888/huya/30080244
+抗日游击队,http://h.20191209.xyz:25888/huya/11352912
+抗战英雄,http://h.20191209.xyz:25888/huya/11352936
+炊事班的故事,http://h.20191209.xyz:25888/huya/19524135
+民兵葛二蛋,http://h.20191209.xyz:25888/huya/11602072
+你是我的荣耀,http://h.20191209.xyz:25888/huya/11352920
+特种兵之火凤凰,http://h.20191209.xyz:25888/huya/29982636
+我就问你这瓜保熟吗,http://h.20191209.xyz:25888/huya/11601970
+一代枭雄,http://h.20191209.xyz:25888/huya/11342398
+白鹿原,http://h.20191209.xyz:25888/huya/11342416
+太极张三丰,http://h.20191209.xyz:25888/huya/26355770
+勇敢的心,http://h.20191209.xyz:25888/huya/11602037
+刑事侦缉档案,http://h.20191209.xyz:25888/huya/29465856
+漫长的季节,http://h.20191209.xyz:25888/huya/11342393
+王漫妮,http://h.20191209.xyz:25888/huya/21059609
+汉武大帝,http://h.20191209.xyz:25888/huya/26355859
+全职高手,http://h.20191209.xyz:25888/huya/11352901
+风筝,http://h.20191209.xyz:25888/huya/30080225
+陀枪师姐,http://h.20191209.xyz:25888/huya/29465855
+还珠格格,http://h.20191209.xyz:25888/huya/30080241
+与凤行,http://h.20191209.xyz:25888/huya/26355866
+湄公河大案,http://h.20191209.xyz:25888/huya/30080245
+星汉灿烂,http://h.20191209.xyz:25888/huya/11336591
+洗冤录,http://h.20191209.xyz:25888/huya/29465851
+一起同过窗,http://h.20191209.xyz:25888/huya/30080228
+盗墓笔记,http://h.20191209.xyz:25888/huya/11352912
+三体,http://h.20191209.xyz:25888/huya/11352954
+亲爱的热爱的,http://h.20191209.xyz:25888/huya/29982671
+怒海潜沙,http://h.20191209.xyz:25888/huya/11342415
+画像师,http://h.20191209.xyz:25888/huya/11601962
+开端,http://h.20191209.xyz:25888/huya/11342397
+良心医疗剧,http://h.20191209.xyz:25888/huya/11352890
+鬼吹灯,http://h.20191209.xyz:25888/huya/11352883
+大瓜,http://h.20191209.xyz:25888/huya/11342436
+怒晴湘西,http://h.20191209.xyz:25888/huya/11602075
+打工姐妹花,http://h.20191209.xyz:25888/huya/21059564
+扫黄先锋,http://h.20191209.xyz:25888/huya/29465855
+红色经典,http://h.20191209.xyz:25888/huya/11602076
+青岛往事,http://h.20191209.xyz:25888/huya/11342434
+创世纪,http://h.20191209.xyz:25888/huya/29465852
+妙手仁心,http://h.20191209.xyz:25888/huya/29465853
+特战荣耀,http://h.20191209.xyz:25888/huya/30080252
+笑看风云,http://h.20191209.xyz:25888/huya/29465858
+包蛋超人,http://h.20191209.xyz:25888/huya/11342400
+传闻中的陈芊芊,http://h.20191209.xyz:25888/huya/21059608
+双面胶,http://h.20191209.xyz:25888/huya/11352956
+宝总与王小姐,http://h.20191209.xyz:25888/huya/21059580
+国风动画,http://h.20191209.xyz:25888/huya/30080242
+编辑部的故事,http://h.20191209.xyz:25888/huya/21059591
+外科风云,http://h.20191209.xyz:25888/huya/29982672
+超级英雄,http://h.20191209.xyz:25888/huya/29982666
+有翡,http://h.20191209.xyz:25888/huya/29982668
+天天有喜,http://h.20191209.xyz:25888/huya/26355849
+梦中的那片海,http://h.20191209.xyz:25888/huya/26355765
+神探夏洛克,http://h.20191209.xyz:25888/huya/26355792
+星球大战,http://h.20191209.xyz:25888/huya/30080234
+陆贞传奇,http://h.20191209.xyz:25888/huya/29982670
+王子变青蛙,http://h.20191209.xyz:25888/huya/11601964
+顾晓梦,http://h.20191209.xyz:25888/huya/21059605
+草莽英雄,http://h.20191209.xyz:25888/huya/11602042
+孙先生,http://h.20191209.xyz:25888/huya/26355821
+斗罗大陆,http://h.20191209.xyz:25888/huya/11352892
+王艳,http://h.20191209.xyz:25888/huya/11342420
+星际迷航,http://h.20191209.xyz:25888/huya/30080232
+民调局异闻录,http://h.20191209.xyz:25888/huya/26355820
+瑶山,http://h.20191209.xyz:25888/huya/11342392
+超异能族,http://h.20191209.xyz:25888/huya/21059586
+无心法师,http://h.20191209.xyz:25888/huya/30080233
+熊出没,http://h.20191209.xyz:25888/huya/11342438
+启航,http://h.20191209.xyz:25888/huya/30080248
+动画,#genre#
+童话经典·蜡笔小新欢乐多,http://h.20191209.xyz:25888/huya/30362138  
+柯南剧场版,http://h.20191209.xyz:25888/huya/30080236  
+黑子的篮球3,http://h.20191209.xyz:25888/huya/30080253  
+迪迦奥特曼,http://h.20191209.xyz:25888/huya/30080215  
+仙逆,http://h.20191209.xyz:25888/huya/30080215  
+不良人6,http://h.20191209.xyz:25888/huya/30080218  
+全职猎人,http://h.20191209.xyz:25888/huya/30080254  
+黑子的篮球3,http://h.20191209.xyz:25888/huya/30080253  
+天澜魔法高中,http://h.20191209.xyz:25888/huya/26355772  
+迪士尼！超经典动画电影,http://h.20191209.xyz:25888/huya/30080256  
+民调局异闻录,http://h.20191209.xyz:25888/huya/26355820  
+地灵曲,http://h.20191209.xyz:25888/huya/30080216  
+武魂世界,http://h.20191209.xyz:25888/huya/30357181  
+网球王子,http://h.20191209.xyz:25888/huya/11352882  
+国漫打戏天花板,http://h.20191209.xyz:25888/huya/11352869  
+成龍历险记,http://h.20191209.xyz:25888/huya/11352946  
+_blue胖,http://h.20191209.xyz:25888/huya/11601963  
+七龍珠改,http://h.20191209.xyz:25888/huya/11601966  
+一念斩千魔,http://h.20191209.xyz:25888/huya/21059592  
+魔法少女,http://h.20191209.xyz:25888/huya/21059587  
+一人之上,http://h.20191209.xyz:25888/huya/11602065  
+编辑部的故事,http://h.20191209.xyz:25888/huya/21059591  
+刘关张三活宝,http://h.20191209.xyz:25888/huya/29465871  
+红娘妖狐,http://h.20191209.xyz:25888/huya/11352967  
+灵界侦探浦饭幽助,http://h.20191209.xyz:25888/huya/11602034  
+假面骑士龙骑,http://h.20191209.xyz:25888/huya/11352918  
+综艺,#genre#
+
+
+易中天,http://h.20191209.xyz:25888/huya/11602032
+五哈,http://h.20191209.xyz:25888/huya/30080247
+维达人,http://h.20191209.xyz:25888/huya/880219
+水晶awa,http://h.20191209.xyz:25888/huya/30080247
+王纪超人,http://h.20191209.xyz:25888/huya/21059551
+-若凌Provence-,http://h.20191209.xyz:25888/huya/11352955
+脱口秀,http://h.20191209.xyz:25888/huya/11352875
+封神英雄,http://h.20191209.xyz:25888/huya/30080246
+RM跑男,http://h.20191209.xyz:25888/huya/11336725
+青环2,http://h.20191209.xyz:25888/huya/30080243
+刘小光,http://h.20191209.xyz:25888/huya/11352938
+脱口秀大会4,http://h.20191209.xyz:25888/huya/29465870
+奔跑家族,http://h.20191209.xyz:25888/huya/29465869
+宋小宝,http://h.20191209.xyz:25888/huya/11352907
+天赐5,http://h.20191209.xyz:25888/huya/30080249
+于谦吴京何猷君,http://h.20191209.xyz:25888/huya/29982647
+offer1,http://h.20191209.xyz:25888/huya/30080237
+还我瓢瓢拳,http://h.20191209.xyz:25888/huya/21059578
+
+
+虎牙,#genre#
+
+电影_星爷,http://h.20191209.xyz:25888/huya/11342412
+电影_英叔,http://h.20191209.xyz:25888/huya/11342421
+电影_发哥,http://h.20191209.xyz:25888/huya/11342387
+电影_成龙,http://h.20191209.xyz:25888/huya/11342386
+电影_王晶,http://h.20191209.xyz:25888/huya/11602058
+电影_沈腾,http://h.20191209.xyz:25888/huya/11601968
+电影_黄渤,http://h.20191209.xyz:25888/huya/11352876
+电影_强森,http://h.20191209.xyz:25888/huya/21059581
+电影_漫威,http://h.20191209.xyz:25888/huya/11602034
+电影_宇宙,http://h.20191209.xyz:25888/huya/11342428
+电影_怪兽,http://h.20191209.xyz:25888/huya/21059577
+电影_武侠,http://h.20191209.xyz:25888/huya/11342427
+电影_警匪,http://h.20191209.xyz:25888/huya/11352886
+电影_罪犯,http://h.20191209.xyz:25888/huya/11352962
+电影_枪战,http://h.20191209.xyz:25888/huya/21059579
+电影_赛车,http://h.20191209.xyz:25888/huya/11279247
+电影_推荐,http://h.20191209.xyz:25888/huya/11602041
+电影_热血,http://h.20191209.xyz:25888/huya/11352934
+电影_盗墓,http://h.20191209.xyz:25888/huya/21059552
+电影_贺岁,http://h.20191209.xyz:25888/huya/11601971
+电影_玄幻,http://h.20191209.xyz:25888/huya/11342414
+电影_谍战,http://h.20191209.xyz:25888/huya/21059585
+电影_喜剧,http://h.20191209.xyz:25888/huya/11352877
+电影_港片,http://h.20191209.xyz:25888/huya/11602043
+电影_国产,http://h.20191209.xyz:25888/huya/11352973
+电影_周星星,http://h.20191209.xyz:25888/huya/11336587
+电影_李连杰,http://h.20191209.xyz:25888/huya/11342390
+电影_洪金宝,http://h.20191209.xyz:25888/huya/11279251
+电影_梁家辉,http://h.20191209.xyz:25888/huya/11342429
+电影_许冠英,http://h.20191209.xyz:25888/huya/11601972
+电影_刘德华,http://h.20191209.xyz:25888/huya/11342424
+电影_斯坦森,http://h.20191209.xyz:25888/huya/21059588
+电影_八点档,http://h.20191209.xyz:25888/huya/880261
+电影_贺岁片,http://h.20191209.xyz:25888/huya/11601986
+电影_功夫片,http://h.20191209.xyz:25888/huya/11352941
+电影_黑帮片,http://h.20191209.xyz:25888/huya/11336719
+电影_丧尸片,http://h.20191209.xyz:25888/huya/21059578
+电影_灾难片,http://h.20191209.xyz:25888/huya/11602075
+电影_谍战片,http://h.20191209.xyz:25888/huya/21059587
+电影_战争片,http://h.20191209.xyz:25888/huya/21059574
+电影_犯罪片,http://h.20191209.xyz:25888/huya/11352974
+电影_古装片,http://h.20191209.xyz:25888/huya/11336590
+电影_高分动作,http://h.20191209.xyz:25888/huya/11352884
+电影_动作电影,http://h.20191209.xyz:25888/huya/11602077
+电影_搞笑喜剧,http://h.20191209.xyz:25888/huya/11342423
+电影_喜剧专场,http://h.20191209.xyz:25888/huya/11602044
+电影_欢笑影院,http://h.20191209.xyz:25888/huya/11352894
+电影_不挤影院,http://h.20191209.xyz:25888/huya/11352897
+电影_国产悬疑,http://h.20191209.xyz:25888/huya/11342395
+电影_快意江湖,http://h.20191209.xyz:25888/huya/11342435
+电影_黑帮斗争,http://h.20191209.xyz:25888/huya/11342419
+电影_古墓系列,http://h.20191209.xyz:25888/huya/11352913
+电影_嫣然影厅,http://h.20191209.xyz:25888/huya/11601977
+电影_女神系列,http://h.20191209.xyz:25888/huya/11336571
+电影_经典女神,http://h.20191209.xyz:25888/huya/11352909
+电影_许氏三杰,http://h.20191209.xyz:25888/huya/11602033
+电影_经典港片,http://h.20191209.xyz:25888/huya/11352965
+电影_镖行天下,http://h.20191209.xyz:25888/huya/11352969
+电影_喜乐影院,http://h.20191209.xyz:25888/huya/21059580
+电影_蘑菇影厅,http://h.20191209.xyz:25888/huya/11601981
+电影_搞笑恐怖,http://h.20191209.xyz:25888/huya/11601960
+电影_死神来了,http://h.20191209.xyz:25888/huya/11352903
+电影_怪兽系列,http://h.20191209.xyz:25888/huya/21059554
+搞笑_陈翔六点半,http://h.20191209.xyz:25888/huya/11274154
+解说_电影狂人,http://h.20191209.xyz:25888/huya/18715610
+解说_鹿哥电影,http://h.20191209.xyz:25888/huya/24396360
+解说_斌哥漫说,http://h.20191209.xyz:25888/huya/18632116
+解说_续哥说电影,http://h.20191209.xyz:25888/huya/24396472
+解说_小川侃电影,http://h.20191209.xyz:25888/huya/15870999
+解说_阿钙扒瞎,http://h.20191209.xyz:25888/huya/15978172
+解说_阿良说剧,http://h.20191209.xyz:25888/huya/20488841
+解说_鱼丸电影,http://h.20191209.xyz:25888/huya/16615910
+解说_阿斗说电影,http://h.20191209.xyz:25888/huya/13303478
+解说_扁豆看电影,http://h.20191209.xyz:25888/huya/16028551
+解说_乌贼说电影,http://h.20191209.xyz:25888/huya/16604522
+解说_大象放映室,http://h.20191209.xyz:25888/huya/21277391
+解说_科幻梦工场,http://h.20191209.xyz:25888/huya/15152155
+解说_亮哥讲电影,http://h.20191209.xyz:25888/huya/16144175
+解说_越哥说电影,http://h.20191209.xyz:25888/huya/15894162
+解说_小冉看电影,http://h.20191209.xyz:25888/huya/17341907
+解说_虎妞说电影,http://h.20191209.xyz:25888/huya/20343144
+解说_涵哥评电影,http://h.20191209.xyz:25888/huya/16865726
+解说_老皮讲电影,http://h.20191209.xyz:25888/huya/16968572
+解说_默爷侃电影,http://h.20191209.xyz:25888/huya/17204307
+解说_冷君说电影,http://h.20191209.xyz:25888/huya/16739452
+解说_刘老师说电影,http://h.20191209.xyz:25888/huya/20289754
+解说_恐怖电影解说,http://h.20191209.xyz:25888/huya/16741179
+剧集_老三国,http://h.20191209.xyz:25888/huya/11602081
+剧集_新三国,http://h.20191209.xyz:25888/huya/11352944
+剧集_纪晓岚,http://h.20191209.xyz:25888/huya/11342396
+剧集_庆余年,http://h.20191209.xyz:25888/huya/11352960
+剧集_雍正王朝,http://h.20191209.xyz:25888/huya/11342439
+剧集_士兵突击,http://h.20191209.xyz:25888/huya/11342430
+剧集_爱情公寓,http://h.20191209.xyz:25888/huya/11336726
+剧集_家有儿女,http://h.20191209.xyz:25888/huya/11352872
+剧集_武林外传,http://h.20191209.xyz:25888/huya/21059598
+剧集_地下交通站,http://h.20191209.xyz:25888/huya/11342433
+剧集_邻里一家亲,http://h.20191209.xyz:25888/huya/11342426
+搞笑_陈翔六点半,http://h.20191209.xyz:25888/huya/11274154
+
+密码获取,#genre#
+公众号,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
+宝盒视界,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
+回复 VIP,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
+即可获取,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
+私密頻道_0001,#genre#
+公众号,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
+宝盒视界,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
+回复 VIP,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
+即可获取,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
+
+
+赞赏支持,#genre#
+维护不易,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
+感谢支持,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
+觉得不错,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
+可以打赏,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
