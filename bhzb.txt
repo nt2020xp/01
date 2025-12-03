@@ -14,7 +14,7 @@ MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 ELEVEN体育3,rtmp://f13h.mine.nu/sat/tv751
-宝盒没宝,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
+
 翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
 华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
 无线新闻台, http://php.jdshipin.com/smt.php?id=inews_twn
@@ -107,7 +107,7 @@ CCTV1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 
 🌈宝盒没宝,#genre#
-宝盒没宝,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
+
 翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
 华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
 无线新闻台, http://php.jdshipin.com/smt.php?id=inews_twn
@@ -1738,20 +1738,3 @@ offer1,http://h.20191209.xyz:25888/huya/30080237
 剧集_邻里一家亲,http://h.20191209.xyz:25888/huya/11342426
 搞笑_陈翔六点半,http://h.20191209.xyz:25888/huya/11274154
 
-密码获取,#genre#
-公众号,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
-宝盒视界,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
-回复 VIP,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
-即可获取,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
-私密頻道_0001,#genre#
-公众号,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
-宝盒视界,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
-回复 VIP,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
-即可获取,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
-
-
-赞赏支持,#genre#
-维护不易,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
-感谢支持,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
-觉得不错,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
-可以打赏,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
