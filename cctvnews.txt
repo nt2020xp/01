@@ -1,0 +1,12 @@
+🇨🇳央视投屏,#genre#,JS=https://5266.kstore.space/cctvnews.js
+
+CCTV1综合,http://A/ku9/js/cctvnews.js?id=cctv1
+CCTV2财经,http://A/ku9/js/cctvnews.js?id=cctv2
+CCTV4国际,http://A/ku9/js/cctvnews.js?id=cctv4
+CCTV13新闻,http://A/ku9/js/cctvnews.js?id=cctv13
+CCTV9纪录,http://A/ku9/js/cctvnews.js?id=cctv9
+CCTV10科教,http://A/ku9/js/cctvnews.js?id=cctv10
+CCTV7国防军事,http://A/ku9/js/cctvnews.js?id=cctv7
+CCTV12法制,http://A/ku9/js/cctvnews.js?id=cctv12
+CCTV17农业,http://A/ku9/js/cctvnews.js?id=cctv17
+CCTV4K,http://A/ku9/js/cctvnews.js?id=cctv4k
