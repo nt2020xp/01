@@ -296,13 +296,3 @@ CHC影迷电影,https://tv.t8t.shop/hls/ymdy.m3u8
 经典动画,https://tv.t8t.shop/hls/dhjh.m3u8
 广东影视,https://tv.t8t.shop/hls/gdys.m3u8
 
-央視新聞,#genre#
-
-cctv4k,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=2127841942201075403
-cctv1,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
-cctv2,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103
-cctv4,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952
-cctv7,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=8516529981177953694
-cctv9,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=7252237247689203957
-cctv10,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=14589146016461298119
-cctv13,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228
