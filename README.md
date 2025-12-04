@@ -2,6 +2,8 @@
 
 直播源論壇  https://bbs.livecodes.vip/forum.php?mod=forumdisplay&fid=6
 
+火星直播網頁 https://www.kds.tw
+
 東森幼幼,https://tzh911.qzz.io/play-smt.php?id=yoyo_twn
 
 4GTV網頁,#genre#
@@ -127,7 +129,7 @@ https://www.xgcartoon.com/detail/yingtaoxiaowanzi_di1jiguoyu-zhishannu
 
 ==================
 
-直播網頁 https://www.kds.tw
+火星直播網頁 https://www.kds.tw
 
 油桃TV https://www.utao.tv
 
