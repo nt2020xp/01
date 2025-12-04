@@ -1,15 +1,5 @@
 月光寶盒 https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/bhzb.m3u
 
-2財經,https://migu.188766.xyz/?migutoken=fac197b729b561a0d71679a4df5e96bf&id=CCTV2&type=yy
-
-9紀錄,https://migu.188766.xyz/?migutoken=4b90ccc08e56e56989feca674455c14b&id=CCTV9&type=yy
-
-10科教,https://migu.188766.xyz/?migutoken=f7823f1b2e7485057c2f3a6be0f87270&id=CCTV10&type=yy
-
-13新聞,https://migu.188766.xyz/?migutoken=a1c1d0fae1fa571898cb28b999e4fb17&id=CCTV13&type=yy
-
-migu docker  develop767/migu_video:latest
-
 直播源論壇  https://bbs.livecodes.vip/forum.php?mod=forumdisplay&fid=6
 
 東森幼幼,https://tzh911.qzz.io/play-smt.php?id=yoyo_twn
@@ -39,10 +29,7 @@ parse=1
 
 =============
 
-
 ipv4  https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
-
-catvod的iptv：https://live.catvod.com/tv.m3u
 
 judy
 
@@ -52,23 +39,7 @@ https://github.com/judy-gotv/iptv
 
 SMART  https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/smart.m3u
 
-4gtv直播源 http://141.11.87.241:20013/?type=m3u
-
 ==========
-
-肥羊推荐的iptv替代品（机器人获取）：https://t.me/mursorottiptv_bot 获取订阅地址然后根据视频修改UA：okHttp/Mod-1.4.0.0 即可
-
-https://github.com/mursor1985/LIVE
-
-https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/huyayqk.m3u
-
-https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/bililive.m3u
-
-https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/douyuyqk.m3u
-
-https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/yylunbo.m3u
-
-===================
 
 綠茶官網  https://show.188766.xyz
 
@@ -108,36 +79,7 @@ now新聞台,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
 
 13新聞,http://cdn3.veryfast.filegear-sg.me/live/cctv13/stream.m3u8
 
-
-
-
-
-==========================
-
-migu
-
-https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
-
-
-米古直播源
-
-https://github.com/develop202/migu_video
-
-https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
-
-香港,#genre#
-
-无线新闻台,http://r.jdshipin.com/CkuBd
-
-翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
-
-华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
-
-天映频道,http://php.jdshipin.com/smt.php?id=Celestial
-
-天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
-
-=================================
+=============
 
 央視新聞,#genre#
 
@@ -169,27 +111,9 @@ https://www.xgcartoon.com/detail/yingtaoxiaowanzi_di1jiguoyu-zhishannu
 
 =========================
 
-4gtv,#genre#
-
-parse=1
-
-catvod Live_Smart代理源訂閱 https://live.catvod.com/tv.m3u
-
-直播源 https://live.catvod.com/tv.m3u
-
-直播源 https://tv.iill.top/m3u/Gather
-
-okhttp
-
-直播源 http://晓峰.azip.dpdns.org:5008/?type=m3u
-
-========================
-
 龍貓國語,https://xgct-video.vzcdn.net/46bc39c7-1d8c-4526-9e63-2e83a64d0d6c/842x480/video.m3u8
 
 千與千尋國語,https://xgct-video.vzcdn.net/99d3a8f8-750b-446e-ad2d-43db9ddc31ee/842x480/video.m3u8
-
-元素方程式國語,https://vv.jisuzyv.com/play/Qe1NWXZa/index.m3u8
 
 鐵達尼號國語,https://play.hhuus.com/play/zbqzXgDd/index.m3u8
 
@@ -243,32 +167,29 @@ ku9 https://t.me/Player_Ku9
 
 夏天 影視資源交流 https://t.me/mejo288
 
-juli https://t.me/tvzby
-
 jackTV https://t.me/jacktvb
 
 冰茶TV https://t.me/x188766
 
-gpt研究所 https://t.me/gpt_858
-
 tmxk 交流群 https://t.me/+rgxyQeDLtjcxM2U1
 
-(驗證)肥羊影音数码综合分享 https://t.me/feiyangdigital
+(垃圾群)肥羊影音数码综合分享 https://t.me/feiyangdigital
 
-(驗證)大宇的大家庭（电视盒子） https://t.me/Dayuptv
+(垃圾群)大宇的大家庭（电视盒子） https://t.me/Dayuptv
 
-(申請)极致播放器交流群 https://t.me/jizhi00
+(垃圾群)极致播放器交流群 https://t.me/jizhi00
 
 點播直播交流群：https://t.me/doubebly001
 
-智能電視盒子 https://t.me/meitu007
+(垃圾群)智能電視盒子 https://t.me/meitu007
 
-catvod https://t.me/www_catvod_com
+(垃圾群)catvod https://t.me/www_catvod_com
+
+(垃圾群)gpt研究所 https://t.me/gpt_858
 
 ＋＋＋＋＋＋＋＋＋
 
 訂閱頻道
-
 
 iptv研究所 https://t.me/Q_IPTV
 
