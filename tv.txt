@@ -9,6 +9,7 @@
 我們這一家,https://www.youtube.com/watch?v=e1gbvCkwxFE
 新哆啦A夢,https://www.youtube.com/watch?v=jbZCyIhL4WQ
 
+CN卡通頻道,,https://smt.go-iptv.ggff.net/smart.php?id=momo1_twn&token=Goiptv
 CBeebies,udp://@224.1.4.213:11111
 CBeebies,udp://@224.1.4.75:11111
 CatchPlay電影台,udp://@230.1.2.217:11111
