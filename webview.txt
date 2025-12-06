@@ -234,15 +234,27 @@ smt衛視,#genre#
 廣東頻道,#genre#
 
 廣東衛視,webview://https://www.gdtv.cn/tvChannelDetail/43
-廣東4K超高清,webview://https://www.gdtv.cn/tvChannelDetail/16
-廣東經典電視劇,webview://https://www.gdtv.cn/tvChannelDetail/100
-廣東珠江,webview://https://www.gdtv.cn/tvChannelDetail/44
-廣東新聞,webview://https://www.gdtv.cn/tvChannelDetail/45
-廣東民生,webview://https://www.gdtv.cn/tvChannelDetail/48
-廣東體育,webview://https://www.gdtv.cn/tvChannelDetail/47
-大灣區衛視,webview://https://www.gdtv.cn/tvChannelDetail/51
-大灣區衛視（海外版）,webview://https://www.gdtv.cn/tvChannelDetail/46
 廣東影視,webview://https://www.gdtv.cn/tvChannelDetail/53
 廣東移動,webview://https://www.gdtv.cn/tvChannelDetail/74
 廣東紀錄片,webview://https://www.gdtv.cn/tvChannelDetail/94
+廣東珠江,webview://https://www.gdtv.cn/tvChannelDetail/44
+廣東新聞,webview://https://www.gdtv.cn/tvChannelDetail/45
+大灣區衛視,webview://https://www.gdtv.cn/tvChannelDetail/51
+大灣區衛視（海外版）,webview://https://www.gdtv.cn/tvChannelDetail/46
+廣東4K超高清,webview://https://www.gdtv.cn/tvChannelDetail/16
+廣東經典電視劇,webview://https://www.gdtv.cn/tvChannelDetail/100
+廣東民生,webview://https://www.gdtv.cn/tvChannelDetail/48
+廣東體育,webview://https://www.gdtv.cn/tvChannelDetail/47
+
+北京頻道,#genre#
+
+
+北京衛視,webview://https://www.btime.com/btv/btvsy_index?tag=0
+北京影視,webview://https://www.btime.com/btv/btvsy_index?tag=3"
+北京新聞,webview://https://www.btime.com/btv/btvsy_index?tag=7"
+北京紀實科教,webview://https://www.btime.com/btv/btvsy_index?tag=2
+北京文藝,webview://https://www.btime.com/btv/btvsy_index?tag=1
+北京財經,webview://https://www.btime.com/btv/btvsy_index?tag=4"
+北京體育,webview://https://www.btime.com/btv/btvsy_index?tag=5"
+北京生活,webview://https://www.btime.com/btv/btvsy_index?tag=6"
 
