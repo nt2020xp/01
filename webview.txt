@@ -258,3 +258,18 @@ X廣東珠江,webview://https://www.gdtv.cn/tvChannelDetail/44
 北京體育,webview://https://www.btime.com/btv/btvsy_index?tag=5
 北京生活,webview://https://www.btime.com/btv/btvsy_index?tag=6
 
+
+央視新聞,#genre#
+
+cctv4k,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=2127841942201075403
+cctv1,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
+cctv2,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103
+cctv4,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952
+cctv7,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=8516529981177953694
+cctv9,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=7252237247689203957
+cctv10,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=14589146016461298119
+cctv13,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228
+
+
+
+
