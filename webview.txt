@@ -250,11 +250,11 @@ smt衛視,#genre#
 
 
 北京衛視,webview://https://www.btime.com/btv/btvsy_index?tag=0
-北京影視,webview://https://www.btime.com/btv/btvsy_index?tag=3"
-北京新聞,webview://https://www.btime.com/btv/btvsy_index?tag=7"
+北京影視,webview://https://www.btime.com/btv/btvsy_index?tag=3
+北京新聞,webview://https://www.btime.com/btv/btvsy_index?tag=7
 北京紀實科教,webview://https://www.btime.com/btv/btvsy_index?tag=2
 北京文藝,webview://https://www.btime.com/btv/btvsy_index?tag=1
-北京財經,webview://https://www.btime.com/btv/btvsy_index?tag=4"
-北京體育,webview://https://www.btime.com/btv/btvsy_index?tag=5"
-北京生活,webview://https://www.btime.com/btv/btvsy_index?tag=6"
+北京財經,webview://https://www.btime.com/btv/btvsy_index?tag=4
+北京體育,webview://https://www.btime.com/btv/btvsy_index?tag=5
+北京生活,webview://https://www.btime.com/btv/btvsy_index?tag=6
 
