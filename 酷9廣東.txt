@@ -1,0 +1,15 @@
+酷9廣東,#genre#
+
+廣東衛視,http://A/ku9/js/webview.js?id=https://www.gdtv.cn/tvChannelDetail/43
+廣東4K超高清,http://A/ku9/js/webview.js?id=https://www.gdtv.cn/tvChannelDetail/16
+廣東經典電視劇,http://A/ku9/js/webview.js?id=https://www.gdtv.cn/tvChannelDetail/100
+廣東珠江,http://A/ku9/js/webview.js?id=https://www.gdtv.cn/tvChannelDetail/44
+廣東新聞,http://A/ku9/js/webview.js?id=https://www.gdtv.cn/tvChannelDetail/45
+廣東民生,http://A/ku9/js/webview.js?id=https://www.gdtv.cn/tvChannelDetail/48
+廣東體育,http://A/ku9/js/webview.js?id=https://www.gdtv.cn/tvChannelDetail/47
+大灣區衛視,http://A/ku9/js/webview.js?id=https://www.gdtv.cn/tvChannelDetail/51
+大灣區衛視（海外版）,http://A/ku9/js/webview.js?id=https://www.gdtv.cn/tvChannelDetail/46
+廣東影視,http://A/ku9/js/webview.js?id=https://www.gdtv.cn/tvChannelDetail/53
+廣東移動,http://A/ku9/js/webview.js?id=https://www.gdtv.cn/tvChannelDetail/74
+廣東紀錄片,http://A/ku9/js/webview.js?id=https://www.gdtv.cn/tvChannelDetail/94
+
