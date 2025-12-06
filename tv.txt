@@ -200,8 +200,11 @@ smt衛視,#genre#
 四川卫视,http://3065.koyeb.app/smt.php?id=sichuan_twn
 
 央視新聞,#genre#
+parse=1
 
-cctv4k,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=2127841942201075403
+
+cctv4k,webview://https://m-
+live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=2127841942201075403
 cctv1,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
 cctv2,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103
 cctv4,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952
