@@ -1,6 +1,5 @@
 蠟筆小新,#genre#
 
-東森幼幼,http://3065.koyeb.app/smt.php?id=yoyo_twn
 蠟筆小新,https://live.ottiptv.cc/huya/11352970
 櫻桃小丸子,https://live.ottiptv.cc/huya/11342394
 蠟筆小新,http://113.45.240.129:35455/huya/11352970
@@ -21,10 +20,6 @@ LOVE NATURE,udp://@224.1.4.1:11111
 台視,udp://@224.1.4.8:11111
 台視,udp://@230.1.2.227:11111
 
-台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
-八大戲劇,http://66.90.99.154:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
-八大第一,http://66.90.99.154:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
-八大綜合,http://66.90.99.154:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
 柯南國語1,https://live.ottiptv.cc/huya/30080148
 柯南國語2,http://113.45.240.129:35455/huya/30080236
 柯南劇場版,https://live.ottiptv.cc/huya/30080236
@@ -113,7 +108,7 @@ TVBS新聞台,http://141.11.87.241:20013/li-4gtv-4gtv072/index.m3u8
 10中視,http://211.72.174.95:8113/0.ts
 08台視,http://211.72.174.95:8112/0.ts
 06民視,http://211.72.174.95:8115/0.ts
-
+台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 民視旅遊,http://141.11.87.241:20013/li-litv-ftv07/index.m3u8
 民視旅遊,http://141.11.87.241:20013/litv-ftv07/index.m3u8
 亞洲旅遊,http://141.11.87.241:20013/4gtv-4gtv076/index.m3u8
@@ -198,21 +193,4 @@ smt衛視,#genre#
 广西卫视,http://3065.koyeb.app/smt.php?id=guangxi
 湖北卫视,http://3065.koyeb.app/smt.php?id=hubei
 四川卫视,http://3065.koyeb.app/smt.php?id=sichuan_twn
-
-央視新聞,#genre#
-parse=1
-
-
-cctv4k,https://m-
-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=2127841942201075403
-cctv1,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
-cctv2,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103
-cctv4,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952
-cctv7,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=8516529981177953694
-cctv9,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=7252237247689203957
-cctv10,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=14589146016461298119
-cctv13,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228
-
-
-
 
