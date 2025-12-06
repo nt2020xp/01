@@ -230,3 +230,18 @@ smt衛視,#genre#
 湖北卫视,http://3065.koyeb.app/smt.php?id=hubei
 四川卫视,http://3065.koyeb.app/smt.php?id=sichuan_twn
 
+
+
+
+
+北京频道,#genre#
+北京影视,webview://http://p2.ytelc.com/169l/bj/btv.php?id=btv4
+北京文艺,webview://http://p2.ytelc.com/169l/bj/btv.php?id=btv2
+北京纪实,webview://http://p2.ytelc.com/169l/bj/btv.php?id=btv3
+北京财经,webview://http://p2.ytelc.com/169l/bj/btv.php?id=btv5
+北京生活,webview://http://p2.ytelc.com/169l/bj/btv.php?id=btv7
+北京新闻,webview://http://p2.ytelc.com/169l/bj/btv.php?id=btv9
+
+
+
+
