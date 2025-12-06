@@ -236,15 +236,15 @@ smt衛視,#genre#
 廣東衛視,webview://https://www.gdtv.cn/tvChannelDetail/43
 廣東影視,webview://https://www.gdtv.cn/tvChannelDetail/53
 廣東移動,webview://https://www.gdtv.cn/tvChannelDetail/74
-廣東紀錄片,webview://https://www.gdtv.cn/tvChannelDetail/94
-廣東珠江,webview://https://www.gdtv.cn/tvChannelDetail/44
+X廣東紀錄片,webview://https://www.gdtv.cn/tvChannelDetail/94
+X廣東珠江,webview://https://www.gdtv.cn/tvChannelDetail/44
 廣東新聞,webview://https://www.gdtv.cn/tvChannelDetail/45
 大灣區衛視,webview://https://www.gdtv.cn/tvChannelDetail/51
 大灣區衛視（海外版）,webview://https://www.gdtv.cn/tvChannelDetail/46
-廣東4K超高清,webview://https://www.gdtv.cn/tvChannelDetail/16
-廣東經典電視劇,webview://https://www.gdtv.cn/tvChannelDetail/100
-廣東民生,webview://https://www.gdtv.cn/tvChannelDetail/48
-廣東體育,webview://https://www.gdtv.cn/tvChannelDetail/47
+X廣東4K超高清,webview://https://www.gdtv.cn/tvChannelDetail/16
+X廣東經典電視劇,webview://https://www.gdtv.cn/tvChannelDetail/100
+X廣東民生,webview://https://www.gdtv.cn/tvChannelDetail/48
+X廣東體育,webview://https://www.gdtv.cn/tvChannelDetail/47
 
 北京頻道,#genre#
 
