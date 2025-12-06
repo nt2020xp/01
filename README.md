@@ -1,3 +1,5 @@
+每日更新直播源 https://itv.shrimp.netlib.re/MiGu.txt
+
 月光寶盒 https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/bhzb.m3u
 
 直播源論壇  https://bbs.livecodes.vip/forum.php?mod=forumdisplay&fid=6
