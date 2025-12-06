@@ -243,7 +243,7 @@ X廣東珠江,webview://https://www.gdtv.cn/tvChannelDetail/44
 大灣區衛視（海外版）,webview://https://www.gdtv.cn/tvChannelDetail/46
 X廣東4K超高清,webview://https://www.gdtv.cn/tvChannelDetail/16
 X廣東經典電視劇,webview://https://www.gdtv.cn/tvChannelDetail/100
-X廣東民生,webview://https://www.gdtv.cn/tvChannelDetail/48
+廣東民生,webview://https://www.gdtv.cn/tvChannelDetail/48
 X廣東體育,webview://https://www.gdtv.cn/tvChannelDetail/47
 
 北京頻道,#genre#
