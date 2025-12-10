@@ -1,3 +1,20 @@
+江蘇衛視
+https://live.jstv.com
+
+浙江衛視
+https://www.cztv.com/liveTV
+
+北京衛視
+https://www.btime.com/btv
+
+東方衛視
+https://live.kankanews.com/huikan
+
+廣東衛視
+https://www.gdtv.cn/tvChannelDetail/43
+
+===========
+
 每日更新直播源 https://itv.shrimp.netlib.re/MiGu.txt
 
 月光寶盒 https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/bhzb.m3u
