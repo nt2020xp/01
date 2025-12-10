@@ -261,14 +261,6 @@ smt衛視,#genre#
 浙江好易购,webview://https://www.cztv.com/liveTV/111
 浙江之江纪录,webview://https://www.cztv.com/liveTV/112
 
-杭州综合,webview://https://tv.hoolo.tv/hzzh/
-杭州西湖明珠,webview://https://tv.hoolo.tv/xhmz/
-杭州生活,webview://https://tv.hoolo.tv/hzsh/
-杭州影视,webview://https://tv.hoolo.tv/utv/
-杭州青少体育,webview://https://tv.hoolo.tv/hzse/
-杭州文化,webview://https://tv.hoolo.tv/whpd/
-
-
 上海东方卫视,webview://https://live.kankanews.com/huikan?id=1
 上海新闻综合,webview://https://live.kankanews.com/huikan?id=2
 上海魔都眼,webview://https://live.kankanews.com/huikan?id=11
