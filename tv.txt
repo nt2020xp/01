@@ -168,6 +168,13 @@ TVB星河台,https://www.faintv.com/channel/17767
 花甲少年趣旅行https://www.faintv.com/channel/20559
 請問今晚住誰家https://www.faintv.com/channel/20309
 
-
+北京衛視,https://www.btime.com/btv/btvsy_index?tag=0
+北京影視,https://www.btime.com/btv/btvsy_index?tag=3
+北京新聞,https://www.btime.com/btv/btvsy_index?tag=7
+北京紀實科教,https://www.btime.com/btv/btvsy_index?tag=2
+北京文藝,https://www.btime.com/btv/btvsy_index?tag=1
+北京財經,https://www.btime.com/btv/btvsy_index?tag=4
+北京體育,https://www.btime.com/btv/btvsy_index?tag=5
+北京生活,https://www.btime.com/btv/btvsy_index?tag=6
 
 
