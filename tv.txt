@@ -156,16 +156,16 @@ TVB翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
 
 網頁電視,#genre#
 parse=1
-CCTV1綜合,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
-CCTV2財經,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103
-CCTV4中文國際,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952
-CCTV7國防軍事,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=8516529981177953694
-CCTV9紀錄,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=7252237247689203957
-CCTV10科教,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=14589146016461298119
-CCTV12社會與法,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=13180385922471124325
-CCTV13新聞,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228
-CCTV17農業農村,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=4496917190172866934
-CCTV4K超高清,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=2127841942201075403
+CCTV1綜合,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
+CCTV2財經,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103
+CCTV4中文國際,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952
+CCTV7國防軍事,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=8516529981177953694
+CCTV9紀錄,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=7252237247689203957
+CCTV10科教,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=14589146016461298119
+CCTV12社會與法,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=13180385922471124325
+CCTV13新聞,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228
+CCTV17農業農村,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=4496917190172866934
+CCTV4K超高清,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=2127841942201075403
 
 TVB無綫新聞,https://www.faintv.com/channel/17766
 TVB星河台,https://www.faintv.com/channel/17767
