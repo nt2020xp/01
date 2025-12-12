@@ -169,19 +169,8 @@ TVB星河台,https://www.faintv.com/channel/17767
 請問今晚住誰家https://www.faintv.com/channel/20309
 
 江蘇衛視,https://live.jstv.com/?tag=江苏卫视
-江蘇影視,https://live.jstv.com/?tag=江苏影视
 浙江衛視,https://www.cztv.com/liveTV/101
 東方衛視,https://live.kankanews.com/huikan?id=1
-黑龙江影视,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
-
-北京衛視,https://www.btime.com/btv/btvsy_index?tag=0
-北京影視,https://www.btime.com/btv/btvsy_index?tag=3
-北京新聞,https://www.btime.com/btv/btvsy_index?tag=7
-北京紀實科教,https://www.btime.com/btv/btvsy_index?tag=2
-北京文藝,https://www.btime.com/btv/btvsy_index?tag=1
-北京財經,https://www.btime.com/btv/btvsy_index?tag=4
-北京體育,https://www.btime.com/btv/btvsy_index?tag=5
-北京生活,https://www.btime.com/btv/btvsy_index?tag=6
 
 廣東衛視,https://www.gdtv.cn/tvChannelDetail/43
 廣東4K超高清,https://www.gdtv.cn/tvChannelDetail/16
