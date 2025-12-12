@@ -232,6 +232,19 @@ smt衛視,#genre#
 
 天光網頁,#genre#
 
+央視新聞app
+
+CCTV1直播,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
+CCTV2直播,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103
+CCTV4直播,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952
+CCTV7直播,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=8516529981177953694
+CCTV9直播,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=7252237247689203957
+CCTV10直播,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=14589146016461298119
+CCTV12直播,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=13180385922471124325
+CCTV13直播,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228
+CCTV17直播,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=4496917190172866934
+CCTV4K直播,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=2127841942201075403
+
 黑龍江衛視,webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=10
 黑龍江影視,webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=12
 黑龍江都市,webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=50
