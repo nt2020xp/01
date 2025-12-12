@@ -232,6 +232,10 @@ smt衛視,#genre#
 
 天光網頁,#genre#
 
+
+TVB無綫新聞,webview://https://www.faintv.com/channel/17766
+TVB星河台,webview://https://www.faintv.com/channel/17767
+
 CCTV1綜合,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
 CCTV2財經,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103
 CCTV4中文國際,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952
