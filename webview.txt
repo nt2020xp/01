@@ -232,6 +232,14 @@ smt衛視,#genre#
 
 天光網頁,#genre#
 
+黑龍江衛視,webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=10
+黑龍江影視,webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=12
+黑龍江都市,webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=50
+黑龍江新聞法治,webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=49
+黑龍江文體,webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=11
+黑龍江農業科教,webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=15
+
+
 北京卫视,webview://https://www.btime.com/btv/btvsy_index?tag=0
 北京文艺,webview://https://www.btime.com/btv/btvsy_index?tag=1
 北京纪实科教,webview://https://www.btime.com/btv/btvsy_index?tag=2
