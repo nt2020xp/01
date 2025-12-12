@@ -1,10 +1,10 @@
 酷9北京,#genre#
 
-北京衛視,http://A/ku9/js/webview.js?id=https://www.btime.com/btv/btvsy_index?tag=0
-北京影視,http://A/ku9/js/webview.js?id=https://www.btime.com/btv/btvsy_index?tag=3
-北京新聞,http://A/ku9/js/webview.js?id=https://www.btime.com/btv/btvsy_index?tag=7
-北京紀實科教,http://A/ku9/js/webview.js?id=https://www.btime.com/btv/btvsy_index?tag=2
-北京文藝,http://A/ku9/js/webview.js?id=https://www.btime.com/btv/btvsy_index?tag=1
-北京財經,http://A/ku9/js/webview.js?id=https://www.btime.com/btv/btvsy_index?tag=4
-北京體育,http://A/ku9/js/webview.js?id=https://www.btime.com/btv/btvsy_index?tag=5
-北京生活,http://A/ku9/js/webview.js?id=https://www.btime.com/btv/btvsy_index?tag=6
+北京衛視,http://A/ku9/js/bjtime.js?id=bjws
+北京影視,http://A/ku9/js/bjtime.js?id=bjys
+北京新聞,http://A/ku9/js/bjtime.js?id=bjxw
+北京紀實科教,http://A/ku9/js/bjtime.js?id=bjjs
+北京文藝,http://A/ku9/js/bjtime.js?id=bjwy
+北京財經,http://A/ku9/js/bjtime.js?id=bjcj
+北京體育,http://A/ku9/js/bjtime.js?id=bjty
+北京生活,http://A/ku9/js/bjtime.js?id=bjsh
