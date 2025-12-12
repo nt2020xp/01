@@ -168,6 +168,10 @@ TVB星河台,https://www.faintv.com/channel/17767
 花甲少年趣旅行https://www.faintv.com/channel/20559
 請問今晚住誰家https://www.faintv.com/channel/20309
 
+江蘇衛視,https://live.jstv.com
+浙江衛視,https://www.cztv.com/liveTV
+東方衛視,https://live.kankanews.com/huikan
+
 北京衛視,https://www.btime.com/btv/btvsy_index?tag=0
 北京影視,https://www.btime.com/btv/btvsy_index?tag=3
 北京新聞,https://www.btime.com/btv/btvsy_index?tag=7
@@ -189,3 +193,5 @@ TVB星河台,https://www.faintv.com/channel/17767
 廣東影視,https://www.gdtv.cn/tvChannelDetail/53
 廣東移動,https://www.gdtv.cn/tvChannelDetail/74
 廣東紀錄片,https://www.gdtv.cn/tvChannelDetail/94
+
+
