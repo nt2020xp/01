@@ -161,3 +161,13 @@ parse=1
 
 TVB無綫新聞,https://www.faintv.com/channel/17766
 TVB星河台,https://www.faintv.com/channel/17767
+華視,https://www.faintv.com/channel/12892
+中視,https://www.faintv.com/channel/12921
+台視,https://www.faintv.com/channel/19371
+
+花甲少年趣旅行https://www.faintv.com/channel/20559
+請問今晚住誰家https://www.faintv.com/channel/20309
+
+
+
+
