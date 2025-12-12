@@ -172,6 +172,7 @@ TVB星河台,https://www.faintv.com/channel/17767
 江蘇影視,https://live.jstv.com/?tag=江苏影视
 浙江衛視,https://www.cztv.com/liveTV/101
 東方衛視,https://live.kankanews.com/huikan?id=1
+黑龙江影视,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
 
 北京衛視,https://www.btime.com/btv/btvsy_index?tag=0
 北京影視,https://www.btime.com/btv/btvsy_index?tag=3
