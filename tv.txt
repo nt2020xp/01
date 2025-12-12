@@ -172,6 +172,13 @@ TVB星河台,https://www.faintv.com/channel/17767
 浙江衛視,https://www.cztv.com/liveTV/101
 東方衛視,https://live.kankanews.com/huikan?id=1
 
+黑龍江衛視,https://zmt-m.hljtv.com/live_tv.html?tv_id=10
+黑龍江影視,https://zmt-m.hljtv.com/live_tv.html?tv_id=12
+黑龍江都市,https://zmt-m.hljtv.com/live_tv.html?tv_id=50
+黑龍江新聞法治,https://zmt-m.hljtv.com/live_tv.html?tv_id=49
+黑龍江文體,https://zmt-m.hljtv.com/live_tv.html?tv_id=11
+黑龍江農業科教,https://zmt-m.hljtv.com/live_tv.html?tv_id=15
+
 廣東衛視,https://www.gdtv.cn/tvChannelDetail/43
 廣東4K超高清,https://www.gdtv.cn/tvChannelDetail/16
 廣東經典電視劇,https://www.gdtv.cn/tvChannelDetail/100
