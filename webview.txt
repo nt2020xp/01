@@ -344,5 +344,10 @@ CCTV-15 音乐,https://migu.188766.xyz/?migutoken=fa2ba6b05a9b9248d2835a2bd9a535
 CCTV-17 农业农村,https://migu.188766.xyz/?migutoken=2a2beeb8513ece879845089ba29d642c&id=CCTV17&type=yy
 
 
-
-
+🇨🇳北京频道,#genre#
+北京影视,webview://http://p2.ytelc.com/169l/bj/btv.php?id=btv4
+北京新闻,webview://http://p2.ytelc.com/169l/bj/btv.php?id=btv9
+北京文艺,webview://http://p2.ytelc.com/169l/bj/btv.php?id=btv2
+北京纪实,webview://http://p2.ytelc.com/169l/bj/btv.php?id=btv3
+北京生活,webview://http://p2.ytelc.com/169l/bj/btv.php?id=btv7
+北京财经,webview://http://p2.ytelc.com/169l/bj/btv.php?id=btv5
