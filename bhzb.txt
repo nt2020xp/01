@@ -14,7 +14,7 @@ MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 ELEVEN体育3,rtmp://f13h.mine.nu/sat/tv751
-
+宝盒没宝,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
 翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
 华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
 无线新闻台, http://php.jdshipin.com/smt.php?id=inews_twn
@@ -105,9 +105,22 @@ RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 CCTV1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 
-
 🌈宝盒没宝,#genre#
-
+宝盒没宝,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
+myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
+TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
+明珠台,http://bxtv.3a.ink/api.php?id=mz
+無線新聞台,http://bxtv.3a.ink/api.php?id=wxxw
+美亞電影台,http://bxtv.3a.ink/api.php?id=meiya
+千禧經典台,http://bxtv.3a.ink/api.php?id=qxjd
+翡翠台,http://bxtv.3a.ink/api.php?id=fct
+鳳凰衛視中文台,http://bxtv.3a.ink/api.php?id=fhzw
+鳳凰衛視資訊台,http://bxtv.3a.ink/api.php?id=fhzx
+鳳凰衛視香港台,http://bxtv.3a.ink/api.php?id=fhhk
+POPC,http://bxtv.3a.ink/api.php?id=popc
+NOW爆谷台,http://bxtv.3a.ink/api.php?id=baogu
+NOW爆谷星影台,http://bxtv.3a.ink/api.php?id=xingying
+中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
 翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
 华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
 无线新闻台, http://php.jdshipin.com/smt.php?id=inews_twn
@@ -197,203 +210,606 @@ CCTV4K,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/cctvnews
 
 CCTV-8K,https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/k-web/ku9/js/jiu1zytv.js?ename=cctv8k&token=xiangxiweishiIPTV
 
-🇨🇳银河TV,#genre#,JS=https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/yinhe.js
-CCTV-1,http://A/ku9/js/yinhe.js?id=G_CCTV-1-HQ
-CCTV-2,http://A/ku9/js/yinhe.js?id=G_CCTV-2-HQ
-CCTV-3,http://A/ku9/js/yinhe.js?id=G_CCTV-3-HQ
-CCTV-4,http://A/ku9/js/yinhe.js?id=G_CCTV-4-HQ
-CCTV-4K,http://A/ku9/js/yinhe.js?id=G_CCTV-4K-HD
-CCTV-5,http://A/ku9/js/yinhe.js?id=G_CCTV-5-HQ
-CCTV-5+,http://A/ku9/js/yinhe.js?id=G_CCTV-5PLUS-HQ
-CCTV-6,http://A/ku9/js/yinhe.js?id=G_CCTV-6-HQ
-CCTV-7,http://A/ku9/js/yinhe.js?id=G_CCTV-7-HQ
-CCTV-8,http://A/ku9/js/yinhe.js?id=G_CCTV-8-HQ
-CCTV-9,http://A/ku9/js/yinhe.js?id=G_CCTV-9-HQ
-CCTV-10,http://A/ku9/js/yinhe.js?id=G_CCTV-10-HQ
-CCTV-11,http://A/ku9/js/yinhe.js?id=G_CCTV-11-HQ
-CCTV-12,http://A/ku9/js/yinhe.js?id=G_CCTV-12-HQ
-CCTV-13,http://A/ku9/js/yinhe.js?id=G_CCTV-13-HQ
-CCTV-14,http://A/ku9/js/yinhe.js?id=G_CCTV-14-HQ
-CCTV-15,http://A/ku9/js/yinhe.js?id=G_CCTV-15-HQ
-CCTV-16,http://A/ku9/js/yinhe.js?id=G_CCTV-16-HQ
-CCTV-17,http://A/ku9/js/yinhe.js?id=G_CCTV-17-HQ
-女性时尚,http://A/ku9/js/yinhe.js?id=G_NVXINGSS
-老故事,http://A/ku9/js/yinhe.js?id=G_LAOGUSHI
-发现之旅,http://A/ku9/js/yinhe.js?id=G_FAXIANZL
-CGTN新闻,http://A/ku9/js/yinhe.js?id=G_CCTV-NEWS
-CGTN俄语,http://A/ku9/js/yinhe.js?id=G_CGTN-PYCCNN
-CGTN西班牙语,http://A/ku9/js/yinhe.js?id=G_CGTN-ESPANOL
-CGTN法语,http://A/ku9/js/yinhe.js?id=G_CGTN-FRANCAIS
-CGTN阿拉伯语,http://A/ku9/js/yinhe.js?id=G_CGTN_A
-江苏卫视,http://A/ku9/js/yinhe.js?id=G_JIANGSU-HQ
-央广购物,http://A/ku9/js/yinhe.js?id=G_YANGGUANGGOU
-好享购物,http://A/ku9/js/yinhe.js?id=G_HAOXIANG
-优选好物,http://A/ku9/js/yinhe.js?id=GITV-GG-1
-湖南卫视,http://A/ku9/js/yinhe.js?id=G_HUNAN-HQ
-浙江卫视,http://A/ku9/js/yinhe.js?id=G_ZHEJIANG-HQ
-东方卫视,http://A/ku9/js/yinhe.js?id=G_DONGFANG-HQ
-北京卫视,http://A/ku9/js/yinhe.js?id=G_BEIJING-HQ
-北京卫视4K,http://A/ku9/js/yinhe.js?id=G_BEIJING-4K
-广东卫视,http://A/ku9/js/yinhe.js?id=G_GUANGDONG-HQ
-山东卫视,http://A/ku9/js/yinhe.js?id=G_SHANDONG-HQ
-深圳卫视,http://A/ku9/js/yinhe.js?id=G_SHENZHEN-HQ
-安徽卫视,http://A/ku9/js/yinhe.js?id=G_ANHUI-HQ
-四川卫视,http://A/ku9/js/yinhe.js?id=G_SICHUAN-HQ
-黑龙江卫视,http://A/ku9/js/yinhe.js?id=G_HEILONGJIANG-HQ
-天津卫视,http://A/ku9/js/yinhe.js?id=G_TIANJIN-HQ
-湖北卫视,http://A/ku9/js/yinhe.js?id=G_HUBEI-HQ
-辽宁卫视,http://A/ku9/js/yinhe.js?id=G_LIAONING-HQ
-甘肃卫视,http://A/ku9/js/yinhe.js?id=G_GANSU-HQ
-重庆卫视,http://A/ku9/js/yinhe.js?id=G_CHONGQING-HQ
-广西卫视,http://A/ku9/js/yinhe.js?id=G_GUANGXI-HQ
-贵州卫视,http://A/ku9/js/yinhe.js?id=G_GUIZHOU-HQ
-海南卫视,http://A/ku9/js/yinhe.js?id=G_HAINAN-HQ
-河北卫视,http://A/ku9/js/yinhe.js?id=G_HEBEI-HQ
-河南卫视,http://A/ku9/js/yinhe.js?id=G_HENAN-HQ
-吉林卫视,http://A/ku9/js/yinhe.js?id=G_JILIN-HQ
-江西卫视,http://A/ku9/js/yinhe.js?id=G_JIANGXI-HQ
-内蒙古卫视,http://A/ku9/js/yinhe.js?id=G_NEIMENGGU
-宁夏卫视,http://A/ku9/js/yinhe.js?id=G_NINGXIA
-三沙卫视,http://A/ku9/js/yinhe.js?id=G_SANSHA-HQ
-陕西卫视,http://A/ku9/js/yinhe.js?id=G_SHANXI-HQ
-西藏卫视,http://A/ku9/js/yinhe.js?id=G_XIZANG
-新疆卫视,http://A/ku9/js/yinhe.js?id=G_XINJIANG
-青海卫视,http://A/ku9/js/yinhe.js?id=G_QINGHAI
-厦门卫视,http://A/ku9/js/yinhe.js?id=G_XIAMEN
-云南卫视,http://A/ku9/js/yinhe.js?id=G_YUNNAN-HQ
-安多卫视,http://A/ku9/js/yinhe.js?id=G_ANDUO
-兵团卫视,http://A/ku9/js/yinhe.js?id=G_BINGTUAN
-东南卫视,http://A/ku9/js/yinhe.js?id=G_DONGNAN-HQ
-康巴卫视,http://A/ku9/js/yinhe.js?id=G_KANGBA
-农林卫视,http://A/ku9/js/yinhe.js?id=G_NONGLIN
-延边卫视,http://A/ku9/js/yinhe.js?id=G_YANBIAN
-山东教育,http://A/ku9/js/yinhe.js?id=G_SDETV
-北京冬奥纪实高清,http://A/ku9/js/yinhe.js?id=G_BEIJINGJS-HD
-家庭理财,http://A/ku9/js/yinhe.js?id=G_JIATINGLC
-炫动卡通,http://A/ku9/js/yinhe.js?id=G_XUANDONG
-金鹰卡通,http://A/ku9/js/yinhe.js?id=G_JINYING
-嘉佳卡通,http://A/ku9/js/yinhe.js?id=G_JIAJIA
-优漫卡通,http://A/ku9/js/yinhe.js?id=G_YOUMAN
-卡酷少儿,http://A/ku9/js/yinhe.js?id=G_KAKU
-CETV-1,http://A/ku9/js/yinhe.js?id=G_CETV-1-HQ
-CETV-2,http://A/ku9/js/yinhe.js?id=G_CETV-2
-CETV-3,http://A/ku9/js/yinhe.js?id=G_CETV-3
-CETV-4,http://A/ku9/js/yinhe.js?id=G_CETV-4
-早期教育,http://A/ku9/js/yinhe.js?id=G_CETV-ZQJY
-天元围棋,http://A/ku9/js/yinhe.js?id=G_TIANYUANWQ
-国学,http://A/ku9/js/yinhe.js?id=G_GUOXUE
-频道爆笑喜剧,http://A/ku9/js/yinhe.js?id=GITV-HB-1
-劲爆动作,http://A/ku9/js/yinhe.js?id=GITV-HB-2
-热门动画,http://A/ku9/js/yinhe.js?id=GITV-HB-3
-热播综艺,http://A/ku9/js/yinhe.js?id=GITV-HB-4
-情感地图,http://A/ku9/js/yinhe.js?id=GITV-HB-5
-真人秀场,http://A/ku9/js/yinhe.js?id=GITV-HB-6
-美好生活家,http://A/ku9/js/yinhe.js?id=GITV-GG-2
-AI直播频道,http://A/ku9/js/yinhe.js?id=GITV-AI-1
-AI直播频道4K,http://A/ku9/js/yinhe.js?id=GITV-AI-4K
-家庭剧场,http://A/ku9/js/yinhe.js?id=GITV-ZY-1
-怀旧年代,http://A/ku9/js/yinhe.js?id=GITV-ZY-2
-警匪悬疑,http://A/ku9/js/yinhe.js?id=GITV-ZY-3
-青春剧场,http://A/ku9/js/yinhe.js?id=GITV-ZY-4
-古装大剧,http://A/ku9/js/yinhe.js?id=GITV-ZY-5
-红色剧场,http://A/ku9/js/yinhe.js?id=GITV-ZY-6
-军旅战争,http://A/ku9/js/yinhe.js?id=GITV-ZY-7
-爆笑综艺,http://A/ku9/js/yinhe.js?id=GITV-ZY-8
-欧美大片,http://A/ku9/js/yinhe.js?id=GITV-ZY-9
-动画电影,http://A/ku9/js/yinhe.js?id=GITV-ZY-10
+🇭🇰凤凰视频,#genre#
+凤凰中文,https://gitee.com/gztzdy/js/raw/d/k-web/ku9/js/fhzx.js?id=fhzw
+凤凰资讯,https://gitee.com/gztzdy/js/raw/d/k-web/ku9/js/fhzx.js?id=fhzx
+凤凰香港,https://gitee.com/gztzdy/js/raw/d/k-web/ku9/js/fhzx.js?id=fhhk
 
-🇨🇳全网通TV,#genre#,JS=https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/nbsj.js
-CCTV4K,http://PLTV/ku9/js/nbsj.js?id=G_CCTV-4K-HD
-北京卫视4K,http://PLTV/ku9/js/nbsj.js?id=G_BEIJING-4K
-AI直播频道4K,http://PLTV/ku9/js/nbsj.js?id=GITV-AI-4K
-CCTV1综合频道,http://PLTV/ku9/js/nbsj.js?id=G_CCTV-1-HQ
-CCTV2财经频道,http://PLTV/ku9/js/nbsj.js?id=G_CCTV-2-HQ
-CCTV3综艺频道,http://PLTV/ku9/js/nbsj.js?id=G_CCTV-3-HQ
-CCTV4中文国际,http://PLTV/ku9/js/nbsj.js?id=G_CCTV-4-HQ
-CCTV5体育频道,http://PLTV/ku9/js/nbsj.js?id=G_CCTV-5-HQ
-CCTV5+体育赛事,http://PLTV/ku9/js/nbsj.js?id=G_CCTV-5PLUS-HQ
-CCTV6电影频道,http://PLTV/ku9/js/nbsj.js?id=G_CCTV-6-HQ
-CCTV7国防军事,http://PLTV/ku9/js/nbsj.js?id=G_CCTV-7-HQ
-CCTV8电视剧频道,http://PLTV/ku9/js/nbsj.js?id=G_CCTV-8-HQ
-CCTV9纪录片频道,http://PLTV/ku9/js/nbsj.js?id=G_CCTV-9-HQ
-CCTV10科教频道,http://PLTV/ku9/js/nbsj.js?id=G_CCTV-10-HQ
-CCTV11戏曲频道,http://PLTV/ku9/js/nbsj.js?id=G_CCTV-11-HQ
-CCTV12社会与法,http://PLTV/ku9/js/nbsj.js?id=G_CCTV-12-HQ
-CCTV13新闻频道,http://PLTV/ku9/js/nbsj.js?id=G_CCTV-13-HQ
-CCTV14少儿频道,http://PLTV/ku9/js/nbsj.js?id=G_CCTV-14-HQ
-CCTV15音乐频道,http://PLTV/ku9/js/nbsj.js?id=G_CCTV-15-HQ
-CCTV16奥林匹克,http://PLTV/ku9/js/nbsj.js?id=G_CCTV-16-HQ
-CCTV17农业农村,http://PLTV/ku9/js/nbsj.js?id=G_CCTV-17-HQ
-CGTN新闻,http://PLTV/ku9/js/nbsj.js?id=G_CCTV-NEWS
-广东卫视高清,http://PLTV/ku9/js/nbsj.js?id=G_GUANGDONG-HQ
-江苏卫视超清,http://PLTV/ku9/js/nbsj.js?id=G_JIANGSU-HQ
-浙江卫视超清,http://PLTV/ku9/js/nbsj.js?id=G_ZHEJIANG-HQ
-湖南卫视超清,http://PLTV/ku9/js/nbsj.js?id=G_HUNAN-HQ
-东方卫视超清,http://PLTV/ku9/js/nbsj.js?id=G_DONGFANG-HQ
-北京卫视超清,http://PLTV/ku9/js/nbsj.js?id=G_BEIJING-HQ
-深圳卫视高清,http://PLTV/ku9/js/nbsj.js?id=G_SHENZHEN-HQ
-辽宁卫视,http://PLTV/ku9/js/nbsj.js?id=G_LIAONING-HQ
-安徽卫视,http://PLTV/ku9/js/nbsj.js?id=G_ANHUI-HQ
-山东卫视超清,http://PLTV/ku9/js/nbsj.js?id=G_SHANDONG-HQ
-黑龙江卫视高清,http://PLTV/ku9/js/nbsj.js?id=G_HEILONGJIANG-HQ
-天津卫视,http://PLTV/ku9/js/nbsj.js?id=G_TIANJIN-HQ
-广西卫视,http://PLTV/ku9/js/nbsj.js?id=G_GUANGXI-HQ
-东南卫视高清,http://PLTV/ku9/js/nbsj.js?id=G_DONGNAN-HQ
-甘肃卫视,http://PLTV/ku9/js/nbsj.js?id=G_GANSU-HQ
-贵州卫视高清,http://PLTV/ku9/js/nbsj.js?id=G_GUIZHOU-HQ
-海南卫视,http://PLTV/ku9/js/nbsj.js?id=G_HAINAN-HQ
-河北卫视高清,http://PLTV/ku9/js/nbsj.js?id=G_HEBEI-HQ
-河南卫视高清,http://PLTV/ku9/js/nbsj.js?id=G_HENAN-HQ
-湖北卫视高清,http://PLTV/ku9/js/nbsj.js?id=G_HUBEI-HQ
-吉林卫视高清,http://PLTV/ku9/js/nbsj.js?id=G_JILIN-HQ
-江西卫视高清,http://PLTV/ku9/js/nbsj.js?id=G_JIANGXI-HQ
-康巴卫视,http://PLTV/ku9/js/nbsj.js?id=G_KANGBA
-安多卫视,http://PLTV/ku9/js/nbsj.js?id=G_ANDUO
-兵团卫视,http://PLTV/ku9/js/nbsj.js?id=G_BINGTUAN
-内蒙古卫视,http://PLTV/ku9/js/nbsj.js?id=G_NEIMENGGU
-宁夏卫视,http://PLTV/ku9/js/nbsj.js?id=G_NINGXIA
-农林卫视,http://PLTV/ku9/js/nbsj.js?id=G_NONGLIN
-三沙卫视,http://PLTV/ku9/js/nbsj.js?id=G_SANSHA-HQ
-陕西卫视,http://PLTV/ku9/js/nbsj.js?id=G_SHANXI-HQ
-四川卫视,http://PLTV/ku9/js/nbsj.js?id=G_SICHUAN-HQ
-西藏卫视,http://PLTV/ku9/js/nbsj.js?id=G_XIZANG
-新疆卫视,http://PLTV/ku9/js/nbsj.js?id=G_XINJIANG
-延边卫视,http://PLTV/ku9/js/nbsj.js?id=G_YANBIAN
-云南卫视,http://PLTV/ku9/js/nbsj.js?id=G_YUNNAN-HQ
-重庆卫视,http://PLTV/ku9/js/nbsj.js?id=G_CHONGQING-HQ
-北京冬奥纪实高清,http://PLTV/ku9/js/nbsj.js?id=G_BEIJINGJS-HD
-家庭理财,http://PLTV/ku9/js/nbsj.js?id=G_JIATINGLC
-金鹰卡通,http://PLTV/ku9/js/nbsj.js?id=G_JINYING
-卡酷少儿,http://PLTV/ku9/js/nbsj.js?id=G_KAKU
-女性时尚,http://PLTV/ku9/js/nbsj.js?id=G_NVXINGSS
-天元围棋,http://PLTV/ku9/js/nbsj.js?id=G_TIANYUANWQ
-炫动卡通,http://PLTV/ku9/js/nbsj.js?id=G_XUANDONG
-优漫卡通,http://PLTV/ku9/js/nbsj.js?id=G_YOUMAN
-CETV-1高清,http://PLTV/ku9/js/nbsj.js?id=G_CETV-1-HQ
-CETV-2,http://PLTV/ku9/js/nbsj.js?id=G_CETV-2
-CETV-3,http://PLTV/ku9/js/nbsj.js?id=G_CETV-3
-CETV-4,http://PLTV/ku9/js/nbsj.js?id=G_CETV-4
-频道爆笑喜剧,http://PLTV/ku9/js/nbsj.js?id=GITV-HB-1
-劲爆动作,http://PLTV/ku9/js/nbsj.js?id=GITV-HB-2
-热门动画,http://PLTV/ku9/js/nbsj.js?id=GITV-HB-3
-热播综艺,http://PLTV/ku9/js/nbsj.js?id=GITV-HB-4
-情感地图,http://PLTV/ku9/js/nbsj.js?id=GITV-HB-5
-真人秀场,http://PLTV/ku9/js/nbsj.js?id=GITV-HB-6
-央广购物,http://PLTV/ku9/js/nbsj.js?id=G_YANGGUANGGOU
-好享购物,http://PLTV/ku9/js/nbsj.js?id=G_HAOXIANG
-优选好物,http://PLTV/ku9/js/nbsj.js?id=GITV-GG-1
-美好生活家,http://PLTV/ku9/js/nbsj.js?id=GITV-GG-2
-AI直播频道,http://PLTV/ku9/js/nbsj.js?id=GITV-AI-1
-家庭剧场,http://PLTV/ku9/js/nbsj.js?id=GITV-ZY-1
-怀旧年代,http://PLTV/ku9/js/nbsj.js?id=GITV-ZY-2
-警匪悬疑,http://PLTV/ku9/js/nbsj.js?id=GITV-ZY-3
-青春剧场,http://PLTV/ku9/js/nbsj.js?id=GITV-ZY-4
-古装大剧,http://PLTV/ku9/js/nbsj.js?id=GITV-ZY-5
-红色剧场,http://PLTV/ku9/js/nbsj.js?id=GITV-ZY-6
-军旅战争,http://PLTV/ku9/js/nbsj.js?id=GITV-ZY-7
-爆笑综艺,http://PLTV/ku9/js/nbsj.js?id=GITV-ZY-8
-欧美大片,http://PLTV/ku9/js/nbsj.js?id=GITV-ZY-9
-动画电影,http://PLTV/ku9/js/nbsj.js?id=GITV-ZY-10
+
+
+
+pₒₚc电影,P2p://starvod.xyz:19806/688bba7c000da6943214e2280ad91465.ts
+美亚电影,P2p://starvod.xyz:19806/f9cdad09f3cc47bc83ba1d94167ebe64.ts
+龙华电影,P2p://starvod.xyz:19806/574ee66b78d44e6e81450ae523041523.ts
+私人影院,P2p://starvod.xyz:19806/74567d46c9a54cb8aab7bb35b7446cf2.ts
+爱奇艺综,P2p://starvod.xyz:19806/1cd1505d309948e596459856926cda41.ts
+八度空间,P2p://starvod.xyz:19806/ae2ec19c582f4a07baa35b40f91b4239.ts
+Ftv_城市,P2p://starvod.xyz:19806/2b3efa01d8bf4c7fbbef69911802df3f.ts
+Ftv1时代东晴,P2p://starvod.xyz:19806/e485c2b5af154a638d9d54d10dcb73d9.ts
+Ftv1时代西晴,P2p://starvod.xyz:19806/2c381681bcfd4ecdb2e52ece5014d6e8.ts
+Ftv2时代,P2p://starvod.xyz:19806/dd3cb3133b9d4ab38fb4b2c321a727a2.ts
+thrill电影,P2p://starvod.xyz:19806/68679be10008a36ea4fd4b2b3b26291d.ts
+中天亚洲,P2p://starvod.xyz:19806/cd11642fed21436aae33a4a2ad34d222.ts
+中视经典,P2p://starvod.xyz:19806/c523db6b2af648daa7c4c6bc2b8b4fa0.ts
+民视第一,P2p://starvod.xyz:19806/6a62462b09e141a289c6882ef0ae3d6d.ts
+民视闽语,P2p://starvod.xyz:19806/0ad1202aa2fe4fb4872479db5e384e46.ts
+台视财经,P2p://starvod.xyz:19806/0817341552e94d809c49a1a48598b8f1.ts
+台视综合,P2p://starvod.xyz:19806/c37a6ec58dd140ccab0e25b94849ee06.ts
+寰宇闽南,P2p://starvod.xyz:19806/afe7794ac5bf40ba96830dd97318be8c.ts
+tvbs亚洲,P2p://starvod.xyz:19806/62e69ecfa7ad4edfa092d77d9a9347d1.ts
+tvbs精采,P2p://starvod.xyz:19806/e9b905add7be4a3abd0a1993053ab547.ts
+龙华偶像,P2p://starvod.xyz:19806/b3c35c2e01d44a31b17efef0af0ebc64.ts
+龙华戏剧,P2p://starvod.xyz:19806/6a6681f04fcc4478886cded08a10c658.ts
+采昌影剧,P2p://starvod.xyz:19806/33264996f0c14a369140623dca66da43.ts
+数位电影,P2p://starvod.xyz:19806/37350129294343bcb28f6494c7ce4c07.ts
+壹电影'tv,P2p://starvod.xyz:19806/599f2aabecde4ed4b5fff257c229f986.ts
+靖天电影,P2p://starvod.xyz:19806/7a72ea8d27d64fb9aae835c30af3b1cc.ts
+靖天戏剧,P2p://starvod.xyz:19806/840e84aa0a114e108edcaf6137177c4a.ts
+靖天映画,P2p://starvod.xyz:19806/9c504d3521e4481088a8a6c54fbac3d3.ts
+靖天资讯,P2p://starvod.xyz:19806/db9b03374399434da716bae0cd93f784.ts
+靖天综合,P2p://starvod.xyz:19806/75b3e6bac51d4f08ba7ed008892ad6c2.ts
+靖天国际,P2p://starvod.xyz:19806/f349833dddb5488ab2ce1175246557c1.ts
+靖天日本,P2p://starvod.xyz:19806/17ccd24c94514b0d928a3abd047add40.ts
+靖天育乐,P2p://starvod.xyz:19806/9dfcf4658000439aadcf1feb841a8887.ts
+ELta影剧,P2p://starvod.xyz:19806/0ae8227ad4ca480499bdd9280ca57f7f.ts
+EYE-戏剧,P2p://starvod.xyz:19806/5756cf2acc364bd5ab062db33ddfad4b.ts
+SMARt知识晴,P2p://starvod.xyz:19806/91503615eaa2416b929e56f178be5100.ts
+韩国娱乐,P2p://starvod.xyz:19806/10ec27f261d74e86919383fdb6da355c.ts
+三立戏剧,P2p://starvod.xyz:19806/eb30a7e16f1841c6900b45c8be342071.ts
+三立综合,P2p://147.135.39.171:9906/6869374a000888579acb331f46c77c60.ts
+
+壹电影'tv,P2p://starvod.xyz:19806/599f2aabecde4ed4b5fff257c229f986.ts
+靖天电影,P2p://starvod.xyz:19806/7a72ea8d27d64fb9aae835c30af3b1cc.ts
+靖天戏剧,P2p://starvod.xyz:19806/840e84aa0a114e108edcaf6137177c4a.ts
+靖天映画,P2p://starvod.xyz:19806/9c504d3521e4481088a8a6c54fbac3d3.ts
+靖天资讯,P2p://starvod.xyz:19806/db9b03374399434da716bae0cd93f784.ts
+靖天综合,P2p://starvod.xyz:19806/75b3e6bac51d4f08ba7ed008892ad6c2.ts
+靖天国际,P2p://starvod.xyz:19806/f349833dddb5488ab2ce1175246557c1.ts
+靖天日本,P2p://starvod.xyz:19806/17ccd24c94514b0d928a3abd047add40.ts
+靖天育乐,P2p://starvod.xyz:19806/9dfcf4658000439aadcf1feb841a8887.ts
+ELta影剧,P2p://starvod.xyz:19806/0ae8227ad4ca480499bdd9280ca57f7f.ts
+EYE-戏剧,P2p://starvod.xyz:19806/5756cf2acc364bd5ab062db33ddfad4b.ts
+SMARt知识晴,P2p://starvod.xyz:19806/91503615eaa2416b929e56f178be5100.ts
+韩国娱乐,P2p://starvod.xyz:19806/10ec27f261d74e86919383fdb6da355c.ts
+三立戏剧,P2p://starvod.xyz:19806/eb30a7e16f1841c6900b45c8be342071.ts
+三立综合,P2p://147.135.39.171:9906/6869374a000888579acb331f46c77c60.ts
+纬来精采,P2p://147.135.39.171:9906/68693691000447559ac85f5e03845769.ts
+壹综合'tv,P2p://147.135.39.171:9906/685f810d000eeaf174db4a19563a6520.ts
+靖洋戏剧,P2p://147.135.39.171:9906/6867a22a000b7799949ca28717b451f5.ts
+中视菁采,P2p://147.135.39.171:9906/6867a07b0000813094960c2053bb31ec.ts
+八大优频道,P2p://147.135.39.171:9906/686141c600004a257bb419081c1d2844.ts
+
+壹电影'tv,P2p://starvod.xyz:19806/599f2aabecde4ed4b5fff257c229f986.ts
+靖天电影,P2p://starvod.xyz:19806/7a72ea8d27d64fb9aae835c30af3b1cc.ts
+靖天戏剧,P2p://starvod.xyz:19806/840e84aa0a114e108edcaf6137177c4a.ts
+靖天映画,P2p://starvod.xyz:19806/9c504d3521e4481088a8a6c54fbac3d3.ts
+靖天资讯,P2p://starvod.xyz:19806/db9b03374399434da716bae0cd93f784.ts
+靖天综合,P2p://starvod.xyz:19806/75b3e6bac51d4f08ba7ed008892ad6c2.ts
+靖天国际,P2p://starvod.xyz:19806/f349833dddb5488ab2ce1175246557c1.ts
+靖天日本,P2p://starvod.xyz:19806/17ccd24c94514b0d928a3abd047add40.ts
+靖天育乐,P2p://starvod.xyz:19806/9dfcf4658000439aadcf1feb841a8887.ts
+ELta影剧,P2p://starvod.xyz:19806/0ae8227ad4ca480499bdd9280ca57f7f.ts
+EYE-戏剧,P2p://starvod.xyz:19806/5756cf2acc364bd5ab062db33ddfad4b.ts
+SMARt知识晴,P2p://starvod.xyz:19806/91503615eaa2416b929e56f178be5100.ts
+韩国娱乐,P2p://starvod.xyz:19806/10ec27f261d74e86919383fdb6da355c.ts
+三立戏剧,P2p://starvod.xyz:19806/eb30a7e16f1841c6900b45c8be342071.ts
+
+
+GPT-香港,#genre#
+翡翠台,https://smt.go-iptv.ggff.net/smart.php?id=jade_twn&token=Goiptv
+翡翠台,https://smt.go-iptv.ggff.net/smart.php?id=Jade_xue&token=Goiptv
+明珠台,https://smt.go-iptv.ggff.net/smart.php?id=pearl_twn&token=Goiptv
+无线新闻,https://smt.go-iptv.ggff.net/smart.php?id=inews_twn&token=Goiptv
+TVBPLUS,https://smt.go-iptv.ggff.net/smart.php?id=j2_twn&token=Goiptv
+ViuTV,https://smt.go-iptv.ggff.net/smart.php?id=viu1_twn&token=Goiptv
+ViuTV 6,https://smt.go-iptv.ggff.net/smart.php?id=viusix_twn&token=Goiptv
+RTHK 31,https://smt.go-iptv.ggff.net/smart.php?id=rhk31_twn&token=Goiptv
+RTHK 32,https://smt.go-iptv.ggff.net/smart.php?id=rhk32_twn&token=Goiptv
+HOY TV,https://smt.go-iptv.ggff.net/smart.php?id=hoycaijing_twn&token=Goiptv
+凤凰中文,https://smt.go-iptv.ggff.net/smart.php?id=phoenixtv_hd&token=Goiptv
+凤凰资讯,https://smt.go-iptv.ggff.net/smart.php?id=phoenixinfo_hd&token=Goiptv
+凤凰香港,https://smt.go-iptv.ggff.net/smart.php?id=hkphoenix_twn&token=Goiptv
+GPT-台湾,#genre#
+台视 HD,https://smt.go-iptv.ggff.net/smart.php?id=ttv_taiwan&token=Goiptv
+台视新闻,https://smt.go-iptv.ggff.net/smart.php?id=ttvnews_twn&token=Goiptv
+台视综合,https://smt.go-iptv.ggff.net/smart.php?id=ttvzhonghe&token=Goiptv
+中视 HD,https://smt.go-iptv.ggff.net/smart.php?id=zhongshihd_twn&token=Goiptv
+中视新闻,https://smt.go-iptv.ggff.net/smart.php?id=zhongshinews_twn&token=Goiptv
+中视经典,https://smt.go-iptv.ggff.net/smart.php?id=zhongshi_twn&token=Goiptv
+华视 HD,https://smt.go-iptv.ggff.net/smart.php?id=ctshd_twn&token=Goiptv
+公视 HD,https://smt.go-iptv.ggff.net/smart.php?id=ctv_taiwan&token=Goiptv
+公视台语台,https://smt.go-iptv.ggff.net/smart.php?id=ctv2_twn&token=Goiptv
+三立台湾台,https://smt.go-iptv.ggff.net/smart.php?id=sanlitaiwan&token=Goiptv
+三立都会台,https://smt.go-iptv.ggff.net/smart.php?id=sanlidouhui&token=Goiptv
+三立综合台,https://smt.go-iptv.ggff.net/smart.php?id=sanlizhonghe&token=Goiptv
+三立戏剧台,https://smt.go-iptv.ggff.net/smart.php?id=sanlixiju_twn&token=Goiptv
+东森新闻台,https://smt.go-iptv.ggff.net/smart.php?id=ettvnews&token=Goiptv
+东森财经新闻台,https://smt.go-iptv.ggff.net/smart.php?id=ettvcaijing_twn&token=Goiptv
+东森综合台,https://smt.go-iptv.ggff.net/smart.php?id=ettvzhonghe&token=Goiptv
+东森戏剧台,https://smt.go-iptv.ggff.net/smart.php?id=ettvdrama&token=Goiptv
+东森电影台,https://smt.go-iptv.ggff.net/smart.php?id=ettvmovie&token=Goiptv
+东森洋片台,https://smt.go-iptv.ggff.net/smart.php?id=ettvwestern&token=Goiptv
+东森幼幼台,https://smt.go-iptv.ggff.net/smart.php?id=yoyo_twn&token=Goiptv
+东森超视,https://smt.go-iptv.ggff.net/smart.php?id=ettvsuper&token=Goiptv
+TVBS HD,https://smt.go-iptv.ggff.net/smart.php?id=tvbs&token=Goiptv
+TVBS 新闻台,https://smt.go-iptv.ggff.net/smart.php?id=tvbs_n&token=Goiptv
+TVBS 欢乐台,https://smt.go-iptv.ggff.net/smart.php?id=tvbshuanle_twn&token=Goiptv
+民视 HD,https://smt.go-iptv.ggff.net/smart.php?id=ftvhd_taiwan&token=Goiptv
+民视新闻台,https://smt.go-iptv.ggff.net/smart.php?id=ftvnew_taiwan&token=Goiptv
+民视台湾台,https://smt.go-iptv.ggff.net/smart.php?id=ftvtaiwan_twn&token=Goiptv
+中天综合,https://smt.go-iptv.ggff.net/smart.php?id=ctizhonghe&token=Goiptv
+中天娱乐,https://smt.go-iptv.ggff.net/smart.php?id=ctient&token=Goiptv
+中天亚洲,https://smt.go-iptv.ggff.net/smart.php?id=ctiasia_twn&token=Goiptv
+中天新闻,https://smt.go-iptv.ggff.net/smart.php?id=ctinews&token=Goiptv
+寰宇新闻台,https://smt.go-iptv.ggff.net/smart.php?id=huanyuxinwen_twn&token=Goiptv
+寰宇财经台,https://smt.go-iptv.ggff.net/smart.php?id=huanyutaiwan_twn&token=Goiptv
+八大第一台,https://smt.go-iptv.ggff.net/smart.php?id=badafirst&token=Goiptv
+八大综合台,https://smt.go-iptv.ggff.net/smart.php?id=badazhonghe&token=Goiptv
+八大戏剧台,https://smt.go-iptv.ggff.net/smart.php?id=badadrama&token=Goiptv
+八大娱乐台,https://smt.go-iptv.ggff.net/smart.php?id=badaentertain&token=Goiptv
+纬来体育,https://smt.go-iptv.ggff.net/smart.php?id=videolandsport&token=Goiptv
+纬来精彩,https://smt.go-iptv.ggff.net/smart.php?id=videolandspecial_twn&token=Goiptv
+纬来日本,https://smt.go-iptv.ggff.net/smart.php?id=videolandjapan&token=Goiptv
+纬来电影,https://smt.go-iptv.ggff.net/smart.php?id=videolandmovie&token=Goiptv
+纬来综合,https://smt.go-iptv.ggff.net/smart.php?id=videolandzonghe&token=Goiptv
+纬来育乐,https://smt.go-iptv.ggff.net/smart.php?id=videolandyule&token=Goiptv
+爱尔达综合台,https://smt.go-iptv.ggff.net/smart.php?id=eltazonghe_twn&token=Goiptv
+爱尔达影剧台,https://smt.go-iptv.ggff.net/smart.php?id=eltayingju_twn&token=Goiptv
+爱尔达体育1台,https://smt.go-iptv.ggff.net/smart.php?id=eltasport_twn&token=Goiptv
+爱尔达体育2台,https://smt.go-iptv.ggff.net/smart.php?id=eltasport2_twn&token=Goiptv
+爱尔达体育3台,https://smt.go-iptv.ggff.net/smart.php?id=eltasport3_twn&token=Goiptv
+爱尔达体育4台,https://smt.go-iptv.ggff.net/smart.php?id=eltasports4_twn&token=Goiptv
+非凡新闻,https://smt.go-iptv.ggff.net/smart.php?id=feifannews_twn&token=Goiptv
+年代新闻,https://smt.go-iptv.ggff.net/smart.php?id=niandainews_twn&token=Goiptv
+龙华戏剧,https://smt.go-iptv.ggff.net/smart.php?id=lunghuaxiju_twn&token=Goiptv
+龙华偶像,https://smt.go-iptv.ggff.net/smart.php?id=lunghuaidol_twn&token=Goiptv
+龙华电影,https://smt.go-iptv.ggff.net/smart.php?id=xingwei_movie&token=Goiptv
+龙华洋片,https://smt.go-iptv.ggff.net/smart.php?id=lunghuawestern_twn&token=Goiptv
+龙华经典,https://smt.go-iptv.ggff.net/smart.php?id=lunghuajingdian_twn&token=Goiptv
+靖天国际,https://smt.go-iptv.ggff.net/smart.php?id=jingtianintl_twn&token=Goiptv
+靖天卡通,https://smt.go-iptv.ggff.net/smart.php?id=jingtiancartoon_twn&token=Goiptv
+大愛電視,https://smt.go-iptv.ggff.net/smart.php?id=daai_twn&token=Goiptv
+大愛二台,https://smt.go-iptv.ggff.net/smart.php?id=daai2_twn&token=Goiptv
+EYE 旅游台,https://smt.go-iptv.ggff.net/smart.php?id=eyetvtravel_twn&token=Goiptv
+EYE 戏剧台,https://smt.go-iptv.ggff.net/smart.php?id=eyetvxiju_twn&token=Goiptv
+亚洲美食,https://smt.go-iptv.ggff.net/smart.php?id=afc_twn&token=Goiptv
+美食星球,https://smt.go-iptv.ggff.net/smart.php?id=foodplanet_twn&token=Goiptv
+TLC旅遊生活,https://smt.go-iptv.ggff.net/smart.php?id=tlc_twn&token=Goiptv
+亚洲旅游台,https://smt.go-iptv.ggff.net/smart.php?id=asiatravel_twn&token=Goiptv
+Arirang,https://smt.go-iptv.ggff.net/smart.php?id=arirang_twn&token=Goiptv
+AXN Taiwan,https://smt.go-iptv.ggff.net/smart.php?id=axn_twn&token=Goiptv
+MTV Live,https://smt.go-iptv.ggff.net/smart.php?id=mtvhd_twn&token=Goiptv
+HBO_HD,https://smt.go-iptv.ggff.net/smart.php?id=hbohd_twn&token=Goiptv
+HBO_HITS,https://smt.go-iptv.ggff.net/smart.php?id=hbohit_twn&token=Goiptv
+CINEMAX,https://smt.go-iptv.ggff.net/smart.php?id=cinemax_twn&token=Goiptv
+好萊塢電影台,https://smt.go-iptv.ggff.net/smart.php?id=hollywoodmovies_twn&token=Goiptv
+卫视电影台,https://smt.go-iptv.ggff.net/smart.php?id=weishimovie_twn&token=Goiptv
+龙祥时代,https://smt.go-iptv.ggff.net/smart.php?id=lungxiangtime_twn&token=Goiptv
+美亚电影,https://smt.go-iptv.ggff.net/smart.php?id=meiyamovie_twn&token=Goiptv
+華藝綜合,https://smt.go-iptv.ggff.net/smart.php?id=weishichinese_twn&token=Goiptv
+博斯运动一台,https://smt.go-iptv.ggff.net/smart.php?id=bosisport1_twn&token=Goiptv
+博斯运动二台,https://smt.go-iptv.ggff.net/smart.php?id=bosisport2_twn&token=Goiptv
+博斯高球一台,https://smt.go-iptv.ggff.net/smart.php?id=bosigolf1_twn&token=Goiptv
+博斯高球二台,https://smt.go-iptv.ggff.net/smart.php?id=bosigolf2_twn&token=Goiptv
+博斯网球台,https://smt.go-iptv.ggff.net/smart.php?id=bositennis_twn&token=Goiptv
+博斯无限台,https://smt.go-iptv.ggff.net/smart.php?id=bosiunlimited_twn&token=Goiptv
+好消息 2,https://smt.go-iptv.ggff.net/smart.php?id=good2_twn&token=Goiptv
+GPT-央视,#genre#
+CCTV-1 综合,https://smt.go-iptv.ggff.net/smart.php?id=cctv1&token=Goiptv
+CCTV-2 财经,https://smt.go-iptv.ggff.net/smart.php?id=cctv2&token=Goiptv
+CCTV-3 综艺,https://smt.go-iptv.ggff.net/smart.php?id=cctv3&token=Goiptv
+CCTV-4 中文国际,https://smt.go-iptv.ggff.net/smart.php?id=Cctv4&token=Goiptv
+CCTV-4 中文国际,https://smt.go-iptv.ggff.net/smart.php?id=cctv4&token=Goiptv
+CCTV-5 体育,https://smt.go-iptv.ggff.net/smart.php?id=cctv5&token=Goiptv
+CCTV-6 电影,https://smt.go-iptv.ggff.net/smart.php?id=cctv6&token=Goiptv
+CCTV-7 国防军事,https://smt.go-iptv.ggff.net/smart.php?id=cctv7&token=Goiptv
+CCTV-8 电视剧,https://smt.go-iptv.ggff.net/smart.php?id=cctv8hd&token=Goiptv
+CCTV-9 记录,https://smt.go-iptv.ggff.net/smart.php?id=cctv9hd&token=Goiptv
+CCTV-10 科教,https://smt.go-iptv.ggff.net/smart.php?id=cctv10hd&token=Goiptv
+CCTV-11 戏曲,https://smt.go-iptv.ggff.net/smart.php?id=cctv11&token=Goiptv
+CCTV-12 社会与法,https://smt.go-iptv.ggff.net/smart.php?id=cctv12&token=Goiptv
+CCTV-13 新闻,https://smt.go-iptv.ggff.net/smart.php?id=cctv13&token=Goiptv
+CCTV-14 少儿,https://smt.go-iptv.ggff.net/smart.php?id=cctv14&token=Goiptv
+CCTV-15 音乐,https://smt.go-iptv.ggff.net/smart.php?id=cctv15&token=Goiptv
+CCTV-16 奥林匹克,https://smt.go-iptv.ggff.net/smart.php?id=cctv16&token=Goiptv
+CCTV-17 农业农村,https://smt.go-iptv.ggff.net/smart.php?id=cctv17&token=Goiptv
+CCTV-5+ 体育赛事,https://smt.go-iptv.ggff.net/smart.php?id=cctv5plus&token=Goiptv
+湖南卫视,https://smt.go-iptv.ggff.net/smart.php?id=hunan_twn&token=Goiptv
+浙江卫视,https://smt.go-iptv.ggff.net/smart.php?id=zhejiang_twn&token=Goiptv
+江苏卫视,https://smt.go-iptv.ggff.net/smart.php?id=jiangsu_twn&token=Goiptv
+东方卫视,https://smt.go-iptv.ggff.net/smart.php?id=dongfangweishi_twn&token=Goiptv
+北京卫视,https://smt.go-iptv.ggff.net/smart.php?id=beijing&token=Goiptv
+深圳卫视,https://smt.go-iptv.ggff.net/smart.php?id=shenzhen&token=Goiptv
+广东卫视,https://smt.go-iptv.ggff.net/smart.php?id=guangdongweishi_twn&token=Goiptv
+大湾区卫视,https://smt.go-iptv.ggff.net/smart.php?id=nanfang_twn&token=Goiptv
+珠江台,https://smt.go-iptv.ggff.net/smart.php?id=zhujiang&token=Goiptv
+东南卫视,https://smt.go-iptv.ggff.net/smart.php?id=fujian&token=Goiptv
+广西卫视,https://smt.go-iptv.ggff.net/smart.php?id=guangxi&token=Goiptv
+湖北卫视,https://smt.go-iptv.ggff.net/smart.php?id=hubei&token=Goiptv
+四川卫视,https://smt.go-iptv.ggff.net/smart.php?id=sichuan_twn&token=Goiptv
+CGTN,https://smt.go-iptv.ggff.net/smart.php?id=CGTN&token=Goiptv
+GPT-电影,#genre#
+CCTV-6,https://smt.go-iptv.ggff.net/smart.php?id=cctv6&token=Goiptv
+AXN Taiwan,https://smt.go-iptv.ggff.net/smart.php?id=axn_twn&token=Goiptv
+HBO_HD,https://smt.go-iptv.ggff.net/smart.php?id=hbohd_twn&token=Goiptv
+HBO_HITS,https://smt.go-iptv.ggff.net/smart.php?id=hbohit_twn&token=Goiptv
+CINEMAX,https://smt.go-iptv.ggff.net/smart.php?id=cinemax_twn&token=Goiptv
+好萊塢電影台,https://smt.go-iptv.ggff.net/smart.php?id=hollywoodmovies_twn&token=Goiptv
+东森电影,https://smt.go-iptv.ggff.net/smart.php?id=ettvmovie&token=Goiptv
+东森洋片,https://smt.go-iptv.ggff.net/smart.php?id=ettvwestern&token=Goiptv
+龙华电影,https://smt.go-iptv.ggff.net/smart.php?id=xingwei_movie&token=Goiptv
+龙华洋片,https://smt.go-iptv.ggff.net/smart.php?id=lunghuawestern_twn&token=Goiptv
+龙祥时代,https://smt.go-iptv.ggff.net/smart.php?id=lungxiangtime_twn&token=Goiptv
+美亚电影,https://smt.go-iptv.ggff.net/smart.php?id=meiyamovie_twn&token=Goiptv
+卫视电影台,https://smt.go-iptv.ggff.net/smart.php?id=weishimovie_twn&token=Goiptv
+天映频道,https://smt.go-iptv.ggff.net/smart.php?id=Celestial&token=Goiptv
+天映频道,https://smt.go-iptv.ggff.net/smart.php?id=Celestialindo&token=Goiptv
+天映经典,https://smt.go-iptv.ggff.net/smart.php?id=Celestial2&token=Goiptv
+Animax,https://smt.go-iptv.ggff.net/smart.php?id=Animax&token=Goiptv
+Movies Now HD,https://smt.go-iptv.ggff.net/smart.php?id=moviesnow_raj&token=Goiptv
+Star Movies HD,https://smt.go-iptv.ggff.net/smart.php?id=starmovies_raj&token=Goiptv
+Hits,https://smt.go-iptv.ggff.net/smart.php?id=Hits&token=Goiptv
+Warner TV,https://smt.go-iptv.ggff.net/smart.php?id=WarnerTV&token=Goiptv
+HBO HD,https://smt.go-iptv.ggff.net/smart.php?id=Hbo&token=Goiptv
+HBO Signature,https://smt.go-iptv.ggff.net/smart.php?id=Hbosignature&token=Goiptv
+HBO Family,https://smt.go-iptv.ggff.net/smart.php?id=Hbofamily&token=Goiptv
+HBO Hits,https://smt.go-iptv.ggff.net/smart.php?id=Hbohitshd&token=Goiptv
+Cinemax,https://smt.go-iptv.ggff.net/smart.php?id=Cinemax&token=Goiptv
+Dreamworks,https://smt.go-iptv.ggff.net/smart.php?id=Dreamworks&token=Goiptv
+SCM,https://smt.go-iptv.ggff.net/smart.php?id=Weishimovie&token=Goiptv
+Thrill,https://smt.go-iptv.ggff.net/smart.php?id=Thrill&token=Goiptv
+Hits Movie,https://smt.go-iptv.ggff.net/smart.php?id=Hitsmovie&token=Goiptv
+One,https://smt.go-iptv.ggff.net/smart.php?id=One&token=Goiptv
+tvN Movie,https://smt.go-iptv.ggff.net/smart.php?id=Tvnmovie&token=Goiptv
+Axn HD,https://smt.go-iptv.ggff.net/smart.php?id=Axn&token=Goiptv
+Paramount Network,https://smt.go-iptv.ggff.net/smart.php?id=Paramountnetwork&token=Goiptv
+Astrol Kplus,https://smt.go-iptv.ggff.net/smart.php?id=Kplus&token=Goiptv
+Rock Actions,https://smt.go-iptv.ggff.net/smart.php?id=Rockaction&token=Goiptv
+Rock Entertainment,https://smt.go-iptv.ggff.net/smart.php?id=Rockentertain&token=Goiptv
+GPT-记录,#genre#
+Natgeo_HD,https://smt.go-iptv.ggff.net/smart.php?id=natgeohd_twn&token=Goiptv
+NatGeo_Wild HD,https://smt.go-iptv.ggff.net/smart.php?id=natgeowild_twn&token=Goiptv
+Animal_Planet,https://smt.go-iptv.ggff.net/smart.php?id=animalplanet_twn&token=Goiptv
+Discovery Asia,https://smt.go-iptv.ggff.net/smart.php?id=discoverytwn_twn&token=Goiptv
+CI,https://smt.go-iptv.ggff.net/smart.php?id=ci_twn&token=Goiptv
+Asia Travel,https://smt.go-iptv.ggff.net/smart.php?id=asiatravel_twn&token=Goiptv
+Discovery HD,https://smt.go-iptv.ggff.net/smart.php?id=discoveryhd_twn&token=Goiptv
+亚洲美食,https://smt.go-iptv.ggff.net/smart.php?id=afc_twn&token=Goiptv
+美食星球,https://smt.go-iptv.ggff.net/smart.php?id=foodplanet_twn&token=Goiptv
+亚洲TLC,https://smt.go-iptv.ggff.net/smart.php?id=tlc_twn&token=Goiptv
+NatGeo HD,https://smt.go-iptv.ggff.net/smart.php?id=Natgeo&token=Goiptv
+Fashion TV,https://smt.go-iptv.ggff.net/smart.php?id=fashiontv_twn&token=Goiptv
+History,https://smt.go-iptv.ggff.net/smart.php?id=History&token=Goiptv
+BBC Earth HD,https://smt.go-iptv.ggff.net/smart.php?id=bbcearth_twn&token=Goiptv
+BBC Earth Lifestyle,https://smt.go-iptv.ggff.net/smart.php?id=bbclifestyle_twn&token=Goiptv
+MTV Live,https://smt.go-iptv.ggff.net/smart.php?id=mtvhd_twn&token=Goiptv
+NatGeo Wild HD,https://smt.go-iptv.ggff.net/smart.php?id=Natgeowild&token=Goiptv
+Animal Planet (Eng),https://smt.go-iptv.ggff.net/smart.php?id=AnimalPlanet&token=Goiptv
+TLC,https://smt.go-iptv.ggff.net/smart.php?id=Tlc&token=Goiptv
+Foodnetwork Hd,https://smt.go-iptv.ggff.net/smart.php?id=Foodnetwork&token=Goiptv
+HGTV,https://smt.go-iptv.ggff.net/smart.php?id=HGTV&token=Goiptv
+亚洲旅游台,https://smt.go-iptv.ggff.net/smart.php?id=asiatravel_twn&token=Goiptv
+GPT-新闻,#genre#
+Skynews,https://smt.go-iptv.ggff.net/smart.php?id=skynews_twn&token=Goiptv
+ABC News,https://smt.go-iptv.ggff.net/smart.php?id=abcnews_glo&token=Goiptv
+东森财经新闻,https://smt.go-iptv.ggff.net/smart.php?id=ettvcaijing_twn&token=Goiptv
+CBS HD,https://smt.go-iptv.ggff.net/smart.php?id=cbshd_glo&token=Goiptv
+CBSN HD,https://smt.go-iptv.ggff.net/smart.php?id=cbsn_glo&token=Goiptv
+France 24,https://smt.go-iptv.ggff.net/smart.php?id=france24_twn&token=Goiptv
+DW (Deutsch),https://smt.go-iptv.ggff.net/smart.php?id=dw_twn&token=Goiptv
+NHK World,https://smt.go-iptv.ggff.net/smart.php?id=nhkworld_japan&token=Goiptv
+Fox News,https://smt.go-iptv.ggff.net/smart.php?id=foxnews_twn&token=Goiptv
+CGTN,https://smt.go-iptv.ggff.net/smart.php?id=CGTN&token=Goiptv
+CNN International,https://smt.go-iptv.ggff.net/smart.php?id=Cnn&token=Goiptv
+CNN backup,https://smt.go-iptv.ggff.net/smart.php?id=cnn_twn&token=Goiptv
+CNBC,https://smt.go-iptv.ggff.net/smart.php?id=cnbc_twn&token=Goiptv
+CNA,https://smt.go-iptv.ggff.net/smart.php?id=cna&token=Goiptv
+BBC World News,https://smt.go-iptv.ggff.net/smart.php?id=bbcnews_twn&token=Goiptv
+BBC World News,https://smt.go-iptv.ggff.net/smart.php?id=Bbcnews&token=Goiptv
+Bloomberg News,https://smt.go-iptv.ggff.net/smart.php?id=bloomberg_twn&token=Goiptv
+Al-Jazeera,https://smt.go-iptv.ggff.net/smart.php?id=aljazeera_twn&token=Goiptv
+GPT-儿童,#genre#
+Baby TV Eng,https://smt.go-iptv.ggff.net/smart.php?id=Babytv&token=Goiptv
+CBeebies,https://smt.go-iptv.ggff.net/smart.php?id=Cbeebies&token=Goiptv
+Kids TV,https://smt.go-iptv.ggff.net/smart.php?id=KidsTV&token=Goiptv
+Momo TV,https://smt.go-iptv.ggff.net/smart.php?id=momo1_twn&token=Goiptv
+Animax,https://smt.go-iptv.ggff.net/smart.php?id=Animax&token=Goiptv
+Baby TV,https://smt.go-iptv.ggff.net/smart.php?id=babytv_twn&token=Goiptv
+MiaoMi,https://smt.go-iptv.ggff.net/smart.php?id=MiaoMi&token=Goiptv
+靖天卡通,https://smt.go-iptv.ggff.net/smart.php?id=jingtiancartoon_twn&token=Goiptv
+东森幼幼,https://smt.go-iptv.ggff.net/smart.php?id=yoyo_twn&token=Goiptv
+Cartoon Network,https://smt.go-iptv.ggff.net/smart.php?id=Cn&token=Goiptv
+Nickelodeon,https://smt.go-iptv.ggff.net/smart.php?id=Nickelodeon&token=Goiptv
+Nick Jr,https://smt.go-iptv.ggff.net/smart.php?id=Nickjr&token=Goiptv
+GPT-体育,#genre#
+Astro Premier League 1,https://smt.go-iptv.ggff.net/smart.php?id=go_assp1&token=Goiptv
+Astro EPL 1 backup,https://smt.go-iptv.ggff.net/smart.php?id=go_assp1x&token=Goiptv
+Astro Premier League 2,https://smt.go-iptv.ggff.net/smart.php?id=go_assp2&token=Goiptv
+Astro Grandstand,https://smt.go-iptv.ggff.net/smart.php?id=go_assp3&token=Goiptv
+Astro Football,https://smt.go-iptv.ggff.net/smart.php?id=go_assp4&token=Goiptv
+Astro Sports Plus,https://smt.go-iptv.ggff.net/smart.php?id=go_sportsplus&token=Goiptv
+Astro Badminton 1,https://smt.go-iptv.ggff.net/smart.php?id=go_badminton1&token=Goiptv
+Astro Badminton 2,https://smt.go-iptv.ggff.net/smart.php?id=go_badminton2&token=Goiptv
+Astro W-Sports,https://smt.go-iptv.ggff.net/smart.php?id=go_assp5&token=Goiptv
+Supersports 1,https://smt.go-iptv.ggff.net/smart.php?id=Assp1&token=Goiptv
+Supersports 2,https://smt.go-iptv.ggff.net/smart.php?id=Assp2&token=Goiptv
+Supersports 3,https://smt.go-iptv.ggff.net/smart.php?id=Assp3&token=Goiptv
+Supersports 4,https://smt.go-iptv.ggff.net/smart.php?id=Assp4&token=Goiptv
+WWE,https://smt.go-iptv.ggff.net/smart.php?id=Wwe&token=Goiptv
+Fight Sports,https://smt.go-iptv.ggff.net/smart.php?id=Fs&token=Goiptv
+NBA TV,https://smt.go-iptv.ggff.net/smart.php?id=Nba&token=Goiptv
+Astro Cricket,https://smt.go-iptv.ggff.net/smart.php?id=Acricket&token=Goiptv
+Astro Golf,https://smt.go-iptv.ggff.net/smart.php?id=Agolf&token=Goiptv
+Tnt Sports 1,https://smt.go-iptv.ggff.net/smart.php?id=6fac0aaead&token=Goiptv
+TNT Sports 2,https://smt.go-iptv.ggff.net/smart.php?id=d9a76a79cc&token=Goiptv
+TNT Sports 3,https://smt.go-iptv.ggff.net/smart.php?id=5fea4d73db&token=Goiptv
+TNT Sports 4,https://smt.go-iptv.ggff.net/smart.php?id=tntsport4&token=Goiptv
+Sony Ten 1,https://smt.go-iptv.ggff.net/smart.php?id=ten1_raj&token=Goiptv
+Sony Ten 2,https://smt.go-iptv.ggff.net/smart.php?id=ten2_raj&token=Goiptv
+Sony Ten 3,https://smt.go-iptv.ggff.net/smart.php?id=ten3_raj&token=Goiptv
+SPOTV 1 HD,https://smt.go-iptv.ggff.net/smart.php?id=go_spotv&token=Goiptv
+SPO TV 2,https://smt.go-iptv.ggff.net/smart.php?id=go_spotv2&token=Goiptv
+Skysports F1,https://smt.go-iptv.ggff.net/smart.php?id=tiankongf1&token=Goiptv
+Skysports Cricket,https://smt.go-iptv.ggff.net/smart.php?id=tiankongcricket&token=Goiptv
+Skysports EPL,https://smt.go-iptv.ggff.net/smart.php?id=tiankongepl&token=Goiptv
+Skysports Main Event,https://smt.go-iptv.ggff.net/smart.php?id=tiankongmain&token=Goiptv
+Skysports News,https://smt.go-iptv.ggff.net/smart.php?id=tiankongnews&token=Goiptv
+Skysports Mix,https://smt.go-iptv.ggff.net/smart.php?id=tiankongmix&token=Goiptv
+CCTV-5 体育频道,https://smt.go-iptv.ggff.net/smart.php?id=cctv5&token=Goiptv
+CCTV-5+ 体育赛事 HD,https://smt.go-iptv.ggff.net/smart.php?id=cctv5plus&token=Goiptv
+爱尔达体育2台,https://smt.go-iptv.ggff.net/smart.php?id=eltasport2_twn&token=Goiptv
+爱尔达体育3台,https://smt.go-iptv.ggff.net/smart.php?id=eltasport3_twn&token=Goiptv
+Rugby Pass TV,https://smt.go-iptv.ggff.net/smart.php?id=Rugbypasstv&token=Goiptv
+RTM Sports HD,https://smt.go-iptv.ggff.net/smart.php?id=Rtmsport&token=Goiptv
+Arena,https://smt.go-iptv.ggff.net/smart.php?id=Arena&token=Goiptv
+Arena 2,https://smt.go-iptv.ggff.net/smart.php?id=Arena2&token=Goiptv
+BolaArena 1,https://smt.go-iptv.ggff.net/smart.php?id=Bolaarena1&token=Goiptv
+BolaArena 2,https://smt.go-iptv.ggff.net/smart.php?id=Bolaarena2&token=Goiptv
+Astro Beinsports 1,https://smt.go-iptv.ggff.net/smart.php?id=Astrobein1&token=Goiptv
+Astro Beinsports 2,https://smt.go-iptv.ggff.net/smart.php?id=Astrobein2&token=Goiptv
+Astro Beinsports 3,https://smt.go-iptv.ggff.net/smart.php?id=Astrobein3&token=Goiptv
+GPT-新加坡,#genre#
+Channel 5,https://smt.go-iptv.ggff.net/smart.php?id=Channel5HD&token=Goiptv
+Channel 8,https://smt.go-iptv.ggff.net/smart.php?id=Channel8HD&token=Goiptv
+Suria,https://smt.go-iptv.ggff.net/smart.php?id=Suria&token=Goiptv
+Channel U,https://smt.go-iptv.ggff.net/smart.php?id=ChannelU&token=Goiptv
+Vasantham,https://smt.go-iptv.ggff.net/smart.php?id=Vasantham&token=Goiptv
+CNA,https://smt.go-iptv.ggff.net/smart.php?id=cna&token=Goiptv
+CNA backup,https://smt.go-iptv.ggff.net/smart.php?id=cna_twn&token=Goiptv
+MeWatch Ch 5,https://smt.go-iptv.ggff.net/smart.php?id=Mewatch_ch5&token=Goiptv
+MeWatch Ch 8,https://smt.go-iptv.ggff.net/smart.php?id=Mewatch_ch8&token=Goiptv
+MeWatch Ch U,https://smt.go-iptv.ggff.net/smart.php?id=Mewatch_chU&token=Goiptv
+MeWatch Suria,https://smt.go-iptv.ggff.net/smart.php?id=Mewatch_Suria&token=Goiptv
+MeWatch Vasantham,https://smt.go-iptv.ggff.net/smart.php?id=Mewatch_Vasantham&token=Goiptv
+MeWatch CNA,https://smt.go-iptv.ggff.net/smart.php?id=Mewatch_cna&token=Goiptv
+GPT-马来西亚,#genre#
+TV1,https://smt.go-iptv.ggff.net/smart.php?id=TV1&token=Goiptv
+TV1 backup,https://smt.go-iptv.ggff.net/smart.php?id=TV1_backup&token=Goiptv
+TV2,https://smt.go-iptv.ggff.net/smart.php?id=TV2&token=Goiptv
+TV3,https://smt.go-iptv.ggff.net/smart.php?id=TV3&token=Goiptv
+TV3 SD,https://smt.go-iptv.ggff.net/smart.php?id=TV3_mega&token=Goiptv
+NTV7,https://smt.go-iptv.ggff.net/smart.php?id=NTV7&token=Goiptv
+TV8,https://smt.go-iptv.ggff.net/smart.php?id=TV8&token=Goiptv
+TV9,https://smt.go-iptv.ggff.net/smart.php?id=TV9&token=Goiptv
+Ria,https://smt.go-iptv.ggff.net/smart.php?id=Ria-0&token=Goiptv
+Ria-3,https://smt.go-iptv.ggff.net/smart.php?id=Ria_backup&token=Goiptv
+Al-Hijrah,https://smt.go-iptv.ggff.net/smart.php?id=Alhijrah&token=Goiptv
+Al-Hijrah backup,https://smt.go-iptv.ggff.net/smart.php?id=Alhijrah_backup&token=Goiptv
+Awani,https://smt.go-iptv.ggff.net/smart.php?id=Awani&token=Goiptv
+Bernama,https://smt.go-iptv.ggff.net/smart.php?id=Bernama&token=Goiptv
+Prima,https://smt.go-iptv.ggff.net/smart.php?id=Prima-0&token=Goiptv
+Prima backup,https://smt.go-iptv.ggff.net/smart.php?id=AAprima1&token=Goiptv
+Prima backup 2,https://smt.go-iptv.ggff.net/smart.php?id=AAprima&token=Goiptv
+Ceria,https://smt.go-iptv.ggff.net/smart.php?id=Ceria&token=Goiptv
+Astro MTV,https://smt.go-iptv.ggff.net/smart.php?id=AstroMTV&token=Goiptv
+Mecca Live HD,https://smt.go-iptv.ggff.net/smart.php?id=quran_mido&token=Goiptv
+Madinah HD,https://smt.go-iptv.ggff.net/smart.php?id=sunnah_mido&token=Goiptv
+Oasis,https://smt.go-iptv.ggff.net/smart.php?id=Oasis&token=Goiptv
+HBO HD,https://smt.go-iptv.ggff.net/smart.php?id=Hbo&token=Goiptv
+HBO Signature,https://smt.go-iptv.ggff.net/smart.php?id=Hbosignature&token=Goiptv
+HBO Hits,https://smt.go-iptv.ggff.net/smart.php?id=Hbohitshd&token=Goiptv
+NatGeo Wild HD,https://smt.go-iptv.ggff.net/smart.php?id=Natgeowild&token=Goiptv
+Cartoon Network,https://smt.go-iptv.ggff.net/smart.php?id=Cn&token=Goiptv
+Nickelodeon,https://smt.go-iptv.ggff.net/smart.php?id=Nickelodeon&token=Goiptv
+Nick Jr,https://smt.go-iptv.ggff.net/smart.php?id=Nickjr&token=Goiptv
+Dreamworks,https://smt.go-iptv.ggff.net/smart.php?id=Dreamworks&token=Goiptv
+Siar,https://smt.go-iptv.ggff.net/smart.php?id=Siar&token=Goiptv
+Citra,https://smt.go-iptv.ggff.net/smart.php?id=AAcitra&token=Goiptv
+Citra backup,https://smt.go-iptv.ggff.net/smart.php?id=AAcitra1&token=Goiptv
+Sensasi,https://smt.go-iptv.ggff.net/smart.php?id=Sensasi&token=Goiptv
+Aura,https://smt.go-iptv.ggff.net/smart.php?id=Aura&token=Goiptv
+Rania,https://smt.go-iptv.ggff.net/smart.php?id=Rania&token=Goiptv
+KBS World,https://smt.go-iptv.ggff.net/smart.php?id=KBS&token=Goiptv
+Boo,https://smt.go-iptv.ggff.net/smart.php?id=Boo&token=Goiptv
+Awesome TV,https://smt.go-iptv.ggff.net/smart.php?id=Dsangat&token=Goiptv
+Astro Sonypix,https://smt.go-iptv.ggff.net/smart.php?id=Asonypix&token=Goiptv
+Sony HD,https://smt.go-iptv.ggff.net/smart.php?id=SetOne&token=Goiptv
+TvN,https://smt.go-iptv.ggff.net/smart.php?id=TVN&token=Goiptv
+AEC,https://smt.go-iptv.ggff.net/smart.php?id=AEC&token=Goiptv
+华丽台 HD （Wah Lai Toi）,https://smt.go-iptv.ggff.net/smart.php?id=Wlt&token=Goiptv
+欢喜台 HD （Hua Hee Tai）,https://smt.go-iptv.ggff.net/smart.php?id=Huahee&token=Goiptv
+Astro QJ,https://smt.go-iptv.ggff.net/smart.php?id=Quanjia&token=Goiptv
+TVB Jade,https://smt.go-iptv.ggff.net/smart.php?id=Tvbjade&token=Goiptv
+TVB Asia,https://smt.go-iptv.ggff.net/smart.php?id=Tvbasia&token=Goiptv
+TVB Entertainment,https://smt.go-iptv.ggff.net/smart.php?id=Tvbentertainment&token=Goiptv
+TVB Classic,https://smt.go-iptv.ggff.net/smart.php?id=Tvbclassic&token=Goiptv
+AOD,https://smt.go-iptv.ggff.net/smart.php?id=Aodhd&token=Goiptv
+One,https://smt.go-iptv.ggff.net/smart.php?id=One&token=Goiptv
+TVB 星河台 Xing He,https://smt.go-iptv.ggff.net/smart.php?id=Xinhe&token=Goiptv
+爱奇艺 iQiyi,https://smt.go-iptv.ggff.net/smart.php?id=Qiyi&token=Goiptv
+Animal Planet (Eng),https://smt.go-iptv.ggff.net/smart.php?id=AnimalPlanet&token=Goiptv
+tvN Movie,https://smt.go-iptv.ggff.net/smart.php?id=Tvnmovie&token=Goiptv
+CNN backup,https://smt.go-iptv.ggff.net/smart.php?id=cnn_twn&token=Goiptv
+Celestial Classic,https://smt.go-iptv.ggff.net/smart.php?id=Celestial2&token=Goiptv
+CNBC,https://smt.go-iptv.ggff.net/smart.php?id=cnbc_twn&token=Goiptv
+TLC,https://smt.go-iptv.ggff.net/smart.php?id=Tlc&token=Goiptv
+CNA,https://smt.go-iptv.ggff.net/smart.php?id=cna&token=Goiptv
+BBC World News,https://smt.go-iptv.ggff.net/smart.php?id=bbcnews_twn&token=Goiptv
+Foodnetwork Hd,https://smt.go-iptv.ggff.net/smart.php?id=Foodnetwork&token=Goiptv
+HGTV,https://smt.go-iptv.ggff.net/smart.php?id=HGTV&token=Goiptv
+Goshop,https://smt.go-iptv.ggff.net/smart.php?id=Goshop&token=Goiptv
+Celestial Movies HD,https://smt.go-iptv.ggff.net/smart.php?id=Celestial&token=Goiptv
+Axn HD,https://smt.go-iptv.ggff.net/smart.php?id=Axn&token=Goiptv
+Paramount Network,https://smt.go-iptv.ggff.net/smart.php?id=Paramountnetwork&token=Goiptv
+Astrol Kplus,https://smt.go-iptv.ggff.net/smart.php?id=Kplus&token=Goiptv
+AFC 亚洲旅游台,https://smt.go-iptv.ggff.net/smart.php?id=asiatravel_twn&token=Goiptv
+Rock Actions,https://smt.go-iptv.ggff.net/smart.php?id=Rockaction&token=Goiptv
+Bloomberg News,https://smt.go-iptv.ggff.net/smart.php?id=bloomberg_twn&token=Goiptv
+Al-Jazeera,https://smt.go-iptv.ggff.net/smart.php?id=aljazeera_twn&token=Goiptv
+Rock Entertainment,https://smt.go-iptv.ggff.net/smart.php?id=Rockentertain&token=Goiptv
+RTM Sports HD,https://smt.go-iptv.ggff.net/smart.php?id=Rtmsport&token=Goiptv
+Arena,https://smt.go-iptv.ggff.net/smart.php?id=Arena&token=Goiptv
+Arena 2,https://smt.go-iptv.ggff.net/smart.php?id=Arena2&token=Goiptv
+BolaArena 1,https://smt.go-iptv.ggff.net/smart.php?id=Bolaarena1&token=Goiptv
+BolaArena 2,https://smt.go-iptv.ggff.net/smart.php?id=Bolaarena2&token=Goiptv
+Astro LOL,https://smt.go-iptv.ggff.net/smart.php?id=Astro_lol&token=Goiptv
+Astro Rusi,https://smt.go-iptv.ggff.net/smart.php?id=Rusi&token=Goiptv
+WION,https://smt.go-iptv.ggff.net/smart.php?id=Wion&token=Goiptv
+RTM Asean,https://smt.go-iptv.ggff.net/smart.php?id=Rtmasean&token=Goiptv
+GPT-印尼,#genre#
+TVRI National,https://smt.go-iptv.ggff.net/smart.php?id=TVRI&token=Goiptv
+RCTI,https://smt.go-iptv.ggff.net/smart.php?id=Rcti&token=Goiptv
+Kompass TV,https://smt.go-iptv.ggff.net/smart.php?id=Kompass&token=Goiptv
+Berita Satu,https://smt.go-iptv.ggff.net/smart.php?id=BeritaSatu_eko&token=Goiptv
+Indosiar HD,https://smt.go-iptv.ggff.net/smart.php?id=Indosiar&token=Goiptv
+AnTV,https://smt.go-iptv.ggff.net/smart.php?id=Antv&token=Goiptv
+MNC TV,https://smt.go-iptv.ggff.net/smart.php?id=Mnctv&token=Goiptv
+Trans 7,https://smt.go-iptv.ggff.net/smart.php?id=Trans7_eko&token=Goiptv
+Transtv,https://smt.go-iptv.ggff.net/smart.php?id=Transtv&token=Goiptv
+JTV,https://smt.go-iptv.ggff.net/smart.php?id=JTV_eko&token=Goiptv
+Metro TV,https://smt.go-iptv.ggff.net/smart.php?id=metrotv_eko&token=Goiptv
+Cinemax,https://smt.go-iptv.ggff.net/smart.php?id=Cinemax&token=Goiptv
+SCTV,https://smt.go-iptv.ggff.net/smart.php?id=SCTV&token=Goiptv
+Tvone,https://smt.go-iptv.ggff.net/smart.php?id=Tvone&token=Goiptv
+TVMU,https://smt.go-iptv.ggff.net/smart.php?id=TVMU_eko&token=Goiptv
+GTV,https://smt.go-iptv.ggff.net/smart.php?id=Gtv&token=Goiptv
+RTV,https://smt.go-iptv.ggff.net/smart.php?id=Rtv&token=Goiptv
+Jak TV,https://smt.go-iptv.ggff.net/smart.php?id=JakTV&token=Goiptv
+iNews TV,https://smt.go-iptv.ggff.net/smart.php?id=Inewstv&token=Goiptv
+Daai TV,https://smt.go-iptv.ggff.net/smart.php?id=DaaiTV&token=Goiptv
+Net TV,https://smt.go-iptv.ggff.net/smart.php?id=NetTV&token=Goiptv
+Animax,https://smt.go-iptv.ggff.net/smart.php?id=Animax&token=Goiptv
+EWTN,https://smt.go-iptv.ggff.net/smart.php?id=Ewtn&token=Goiptv
+AlQuran AlKareem,https://smt.go-iptv.ggff.net/smart.php?id=AlQuran&token=Goiptv
+Tawaf TV,https://smt.go-iptv.ggff.net/smart.php?id=TawafTV&token=Goiptv
+Vision Prime,https://smt.go-iptv.ggff.net/smart.php?id=VisionPrime&token=Goiptv
+Muslim TV,https://smt.go-iptv.ggff.net/smart.php?id=MuslimTV&token=Goiptv
+Music TV,https://smt.go-iptv.ggff.net/smart.php?id=MusicTV&token=Goiptv
+Lifestyle&Fashion,https://smt.go-iptv.ggff.net/smart.php?id=Lifestyle&token=Goiptv
+Entertain,https://smt.go-iptv.ggff.net/smart.php?id=Entertain&token=Goiptv
+Hits,https://smt.go-iptv.ggff.net/smart.php?id=Hits&token=Goiptv
+Warner TV,https://smt.go-iptv.ggff.net/smart.php?id=WarnerTV&token=Goiptv
+SCM,https://smt.go-iptv.ggff.net/smart.php?id=Weishimovie&token=Goiptv
+Thrill,https://smt.go-iptv.ggff.net/smart.php?id=Thrill&token=Goiptv
+Fight Sports,https://smt.go-iptv.ggff.net/smart.php?id=Fs&token=Goiptv
+Hits Movie,https://smt.go-iptv.ggff.net/smart.php?id=Hitsmovie&token=Goiptv
+One,https://smt.go-iptv.ggff.net/smart.php?id=One&token=Goiptv
+tvN Movie,https://smt.go-iptv.ggff.net/smart.php?id=Tvnmovie&token=Goiptv
+Celestial Movies HD,https://smt.go-iptv.ggff.net/smart.php?id=Celestialindo&token=Goiptv
+Rock Actions,https://smt.go-iptv.ggff.net/smart.php?id=Rockaction&token=Goiptv
+Rock Entertainment,https://smt.go-iptv.ggff.net/smart.php?id=Rockentertain&token=Goiptv
+GPT-印度,#genre#
+Sun TV HD,https://smt.go-iptv.ggff.net/smart.php?id=Suntv&token=Goiptv
+Star Vijay,https://smt.go-iptv.ggff.net/smart.php?id=Starvijay&token=Goiptv
+Colors Tamil,https://smt.go-iptv.ggff.net/smart.php?id=Colorstam&token=Goiptv
+Sun Music,https://smt.go-iptv.ggff.net/smart.php?id=Sunmusic&token=Goiptv
+Astro Sunlife,https://smt.go-iptv.ggff.net/smart.php?id=Sunlife&token=Goiptv
+Astro Vaanavil,https://smt.go-iptv.ggff.net/smart.php?id=Vaanavil&token=Goiptv
+Zee Tamil,https://smt.go-iptv.ggff.net/smart.php?id=Zeetamil&token=Goiptv
+Zee Business,https://smt.go-iptv.ggff.net/smart.php?id=Zeebusiness&token=Goiptv
+News 18 Tamil,https://smt.go-iptv.ggff.net/smart.php?id=news18tamil_raj&token=Goiptv
+Adithya,https://smt.go-iptv.ggff.net/smart.php?id=Adithya&token=Goiptv
+Makkal TV,https://smt.go-iptv.ggff.net/smart.php?id=Makkaltv&token=Goiptv
+Zee Action,https://smt.go-iptv.ggff.net/smart.php?id=Zeeaction&token=Goiptv
+Astro KTV,https://smt.go-iptv.ggff.net/smart.php?id=Astroktv&token=Goiptv
+Zee TV HD,https://smt.go-iptv.ggff.net/smart.php?id=Zeetvhd&token=Goiptv
+Zee Cinema HD,https://smt.go-iptv.ggff.net/smart.php?id=Zeecinemahd&token=Goiptv
+Color HD,https://smt.go-iptv.ggff.net/smart.php?id=Colorhd&token=Goiptv
+Starplus HD,https://smt.go-iptv.ggff.net/smart.php?id=Starplushd&token=Goiptv
+Picture HD,https://smt.go-iptv.ggff.net/smart.php?id=Npicture&token=Goiptv
+Zee News,https://smt.go-iptv.ggff.net/smart.php?id=Zeenews&token=Goiptv
+Asianet,https://smt.go-iptv.ggff.net/smart.php?id=asianet_raj&token=Goiptv
+Asianet News,https://smt.go-iptv.ggff.net/smart.php?id=asianetnews_raj&token=Goiptv
+Discovery World Tamil,https://smt.go-iptv.ggff.net/smart.php?id=discoveryworldtam_raj&token=Goiptv
+History Tamil,https://smt.go-iptv.ggff.net/smart.php?id=historytam_raj&token=Goiptv
+NatGeo Tamil,https://smt.go-iptv.ggff.net/smart.php?id=natgeotamil_raj&token=Goiptv
+Natgeo Wild Tamil,https://smt.go-iptv.ggff.net/smart.php?id=natgeowildtamil_raj&token=Goiptv
+Astro Sonypix,https://smt.go-iptv.ggff.net/smart.php?id=Asonypix&token=Goiptv
+Discovery Kids Tamil,https://smt.go-iptv.ggff.net/smart.php?id=discoverykidtamil_raj&token=Goiptv
+Discovery Tamil,https://smt.go-iptv.ggff.net/smart.php?id=discoverytamil_raj&token=Goiptv
+Sony Yay Tamil,https://smt.go-iptv.ggff.net/smart.php?id=sonyyaytam_raj&token=Goiptv
+Sun TV India,https://smt.go-iptv.ggff.net/smart.php?id=suntv_raj&token=Goiptv
+Starmaa HD,https://smt.go-iptv.ggff.net/smart.php?id=starmaa_raj&token=Goiptv
+Starmaa Movies HD,https://smt.go-iptv.ggff.net/smart.php?id=starmaamovies_raj&token=Goiptv
+Bollyone,https://smt.go-iptv.ggff.net/smart.php?id=Bollyone&token=Goiptv
+Astro Sunmusic,https://smt.go-iptv.ggff.net/smart.php?id=Sunmusic&token=Goiptv
+Vijay Super,https://smt.go-iptv.ggff.net/smart.php?id=vijaysuper_raj&token=Goiptv
+Vellithirai,https://smt.go-iptv.ggff.net/smart.php?id=Vellithirai&token=Goiptv
+GPT-泰国,#genre#
+Channel 3 Thailand,https://smt.go-iptv.ggff.net/smart.php?id=ch3_pat&token=Goiptv
+Channel 5 Thailand,https://smt.go-iptv.ggff.net/smart.php?id=ch5_pat&token=Goiptv
+Channel 7 Thailand,https://smt.go-iptv.ggff.net/smart.php?id=ch7_pat&token=Goiptv
+MCOT HD Thailand-1,https://smt.go-iptv.ggff.net/smart.php?id=mcot_pat&token=Goiptv
+PPTV Thailand1,https://smt.go-iptv.ggff.net/smart.php?id=pptv_pat&token=Goiptv
+Thai Thai,https://smt.go-iptv.ggff.net/smart.php?id=thaithai_pat&token=Goiptv
+Amarin,https://smt.go-iptv.ggff.net/smart.php?id=amarin_pat&token=Goiptv
+Ch 8,https://smt.go-iptv.ggff.net/smart.php?id=ch8_pat&token=Goiptv
+GmmOne,https://smt.go-iptv.ggff.net/smart.php?id=gmmone_pat&token=Goiptv
+Mono,https://smt.go-iptv.ggff.net/smart.php?id=mono_pat&token=Goiptv
+Thairath,https://smt.go-iptv.ggff.net/smart.php?id=thairath_pat&token=Goiptv
+tpbs,https://smt.go-iptv.ggff.net/smart.php?id=tpbs_pat&token=Goiptv
+Workpoint,https://smt.go-iptv.ggff.net/smart.php?id=workpoint_pat&token=Goiptv
+Gmm Channel,https://smt.go-iptv.ggff.net/smart.php?id=gmmchannel_pat&token=Goiptv
+Nation,https://smt.go-iptv.ggff.net/smart.php?id=nation_pat&token=Goiptv
+Tnn24,https://smt.go-iptv.ggff.net/smart.php?id=tnn24_pat&token=Goiptv
+Nbt,https://smt.go-iptv.ggff.net/smart.php?id=nbt_pat&token=Goiptv
+New,https://smt.go-iptv.ggff.net/smart.php?id=new_pat&token=Goiptv
+TPTV,https://smt.go-iptv.ggff.net/smart.php?id=tptv_pat&token=Goiptv
+GPT-英国,#genre#
+BBC 1,https://smt.go-iptv.ggff.net/smart.php?id=bbc1_antik&token=Goiptv
+BBC 2,https://smt.go-iptv.ggff.net/smart.php?id=bbc2_antik&token=Goiptv
+CBBC,https://smt.go-iptv.ggff.net/smart.php?id=cbbc_antik&token=Goiptv
+More4,https://smt.go-iptv.ggff.net/smart.php?id=more4_antik&token=Goiptv
+Freesports,https://smt.go-iptv.ggff.net/smart.php?id=freesports_antik&token=Goiptv
+Skynews,https://smt.go-iptv.ggff.net/smart.php?id=skynews_twn&token=Goiptv
+Pick TV,https://smt.go-iptv.ggff.net/smart.php?id=picktv_antik&token=Goiptv
+itv 1,https://smt.go-iptv.ggff.net/smart.php?id=itv1_antik&token=Goiptv
+itv 2,https://smt.go-iptv.ggff.net/smart.php?id=itv2_antik&token=Goiptv
+Euronews,https://smt.go-iptv.ggff.net/smart.php?id=euronews_antik&token=Goiptv
+Channel 4,https://smt.go-iptv.ggff.net/smart.php?id=channel4_antik&token=Goiptv
+NatGeo HD,https://smt.go-iptv.ggff.net/smart.php?id=Natgeo&token=Goiptv
+CBeebies,https://smt.go-iptv.ggff.net/smart.php?id=Cbeebies&token=Goiptv
+History,https://smt.go-iptv.ggff.net/smart.php?id=History&token=Goiptv
+Kids TV,https://smt.go-iptv.ggff.net/smart.php?id=KidsTV&token=Goiptv
+France 24,https://smt.go-iptv.ggff.net/smart.php?id=france24_twn&token=Goiptv
+DW (Deutsch),https://smt.go-iptv.ggff.net/smart.php?id=dw_twn&token=Goiptv
+BBC Earth HD,https://smt.go-iptv.ggff.net/smart.php?id=bbcearth_twn&token=Goiptv
+BBC Earth Lifestyle,https://smt.go-iptv.ggff.net/smart.php?id=bbclifestyle_twn&token=Goiptv
+MTV Live,https://smt.go-iptv.ggff.net/smart.php?id=mtvhd_twn&token=Goiptv
+Star Movies HD,https://smt.go-iptv.ggff.net/smart.php?id=starmovies_raj&token=Goiptv
+NHK World,https://smt.go-iptv.ggff.net/smart.php?id=nhkworld_japan&token=Goiptv
+Warner TV,https://smt.go-iptv.ggff.net/smart.php?id=WarnerTV&token=Goiptv
+HBO HD,https://smt.go-iptv.ggff.net/smart.php?id=Hbo&token=Goiptv
+NatGeo Wild HD,https://smt.go-iptv.ggff.net/smart.php?id=Natgeowild&token=Goiptv
+Nickelodeon,https://smt.go-iptv.ggff.net/smart.php?id=Nickelodeon&token=Goiptv
+Nick Jr,https://smt.go-iptv.ggff.net/smart.php?id=Nickjr&token=Goiptv
+Thrill,https://smt.go-iptv.ggff.net/smart.php?id=Thrill&token=Goiptv
+CGTN,https://smt.go-iptv.ggff.net/smart.php?id=CGTN&token=Goiptv
+Hits Movie,https://smt.go-iptv.ggff.net/smart.php?id=Hitsmovie&token=Goiptv
+Animal Planet (Eng),https://smt.go-iptv.ggff.net/smart.php?id=AnimalPlanet&token=Goiptv
+CNBC,https://smt.go-iptv.ggff.net/smart.php?id=cnbc_twn&token=Goiptv
+TLC,https://smt.go-iptv.ggff.net/smart.php?id=Tlc&token=Goiptv
+BBC World News,https://smt.go-iptv.ggff.net/smart.php?id=bbcworldnews_antik&token=Goiptv
+HGTV,https://smt.go-iptv.ggff.net/smart.php?id=HGTV&token=Goiptv
+Axn HD,https://smt.go-iptv.ggff.net/smart.php?id=Axn&token=Goiptv
+Skysports F1,https://smt.go-iptv.ggff.net/smart.php?id=tiankongf1&token=Goiptv
+Skysports Cricket,https://smt.go-iptv.ggff.net/smart.php?id=tiankongcricket&token=Goiptv
+Bloomberg News,https://smt.go-iptv.ggff.net/smart.php?id=bloomberg_twn&token=Goiptv
+Skysports EPL,https://smt.go-iptv.ggff.net/smart.php?id=tiankongepl&token=Goiptv
+Skysports Main Event,https://smt.go-iptv.ggff.net/smart.php?id=tiankongmain&token=Goiptv
+Skysports News,https://smt.go-iptv.ggff.net/smart.php?id=tiankongnews&token=Goiptv
+Al-Jazeera,https://smt.go-iptv.ggff.net/smart.php?id=aljazeera_twn&token=Goiptv
+
 
 🇨🇳咪咕720,#genre#,JS=https://5266.kstore.space/mg720p.js#PB=starttime={start|yyyyMMdd'T'HHmmss'.00Z'}&endtime={end|yyyyMMdd'T'HHmmss'.00Z'}
 
@@ -776,520 +1192,7 @@ CCTV4K,http://A/ku9/js/cctvnews.js?id=cctv4k
 成都少儿,https://www.pantxt.top/f/D1oi3/k-web/ku9/js/cdu.js?id=cdse
 成都榕城先锋,https://www.pantxt.top/f/D1oi3/k-web/ku9/js/cdu.js?id=cdrc
 
-SMT-央卫,#genre#
-CCTV-1 综合,https://smart.946985.filegear-sg.me/smart.php?id=cctv1
-CCTV-2 财经,https://smart.946985.filegear-sg.me/smart.php?id=cctv2
-CCTV-3 综艺,https://smart.946985.filegear-sg.me/smart.php?id=cctv3
-CCTV-4 中文国际,https://smart.946985.filegear-sg.me/smart.php?id=Cctv4
-CCTV-4 中文国际,https://smart.946985.filegear-sg.me/smart.php?id=cctv4
-CCTV-5 体育,https://smart.946985.filegear-sg.me/smart.php?id=cctv5
-CCTV-6 电影,https://smart.946985.filegear-sg.me/smart.php?id=cctv6
-CCTV-7 国防军事,https://smart.946985.filegear-sg.me/smart.php?id=cctv7
-CCTV-8 电视剧,https://smart.946985.filegear-sg.me/smart.php?id=cctv8hd
-CCTV-9 记录,https://smart.946985.filegear-sg.me/smart.php?id=cctv9hd
-CCTV-10 科教,https://smart.946985.filegear-sg.me/smart.php?id=cctv10hd
-CCTV-11 戏曲,https://smart.946985.filegear-sg.me/smart.php?id=cctv11
-CCTV-12 社会与法,https://smart.946985.filegear-sg.me/smart.php?id=cctv12
-CCTV-13 新闻,https://smart.946985.filegear-sg.me/smart.php?id=cctv13
-CCTV-14 少儿,https://smart.946985.filegear-sg.me/smart.php?id=cctv14
-CCTV-15 音乐,https://smart.946985.filegear-sg.me/smart.php?id=cctv15
-CCTV-16 奥林匹克,https://smart.946985.filegear-sg.me/smart.php?id=cctv16
-CCTV-17 农业农村,https://smart.946985.filegear-sg.me/smart.php?id=cctv17
-CCTV-5+ 体育赛事,https://smart.946985.filegear-sg.me/smart.php?id=cctv5plus
-湖南卫视,https://smart.946985.filegear-sg.me/smart.php?id=hunan_twn
-浙江卫视,https://smart.946985.filegear-sg.me/smart.php?id=zhejiang_twn
-江苏卫视,https://smart.946985.filegear-sg.me/smart.php?id=jiangsu_twn
-东方卫视,https://smart.946985.filegear-sg.me/smart.php?id=dongfangweishi_twn
-北京卫视,https://smart.946985.filegear-sg.me/smart.php?id=beijing
-深圳卫视,https://smart.946985.filegear-sg.me/smart.php?id=shenzhen
-广东卫视,https://smart.946985.filegear-sg.me/smart.php?id=guangdongweishi_twn
-大湾区卫视,https://smart.946985.filegear-sg.me/smart.php?id=nanfang_twn
-珠江台,https://smart.946985.filegear-sg.me/smart.php?id=zhujiang
-东南卫视,https://smart.946985.filegear-sg.me/smart.php?id=fujian
-广西卫视,https://smart.946985.filegear-sg.me/smart.php?id=guangxi
-湖北卫视,https://smart.946985.filegear-sg.me/smart.php?id=hubei
-四川卫视,https://smart.946985.filegear-sg.me/smart.php?id=sichuan_twn
-CGTN,https://smart.946985.filegear-sg.me/smart.php?id=CGTN
-SMT-香港,#genre#
-翡翠台,https://smart.946985.filegear-sg.me/smart.php?id=jade_twn
-翡翠台,https://smart.946985.filegear-sg.me/smart.php?id=Jade_xue
-明珠台,https://smart.946985.filegear-sg.me/smart.php?id=pearl_twn
-无线新闻,https://smart.946985.filegear-sg.me/smart.php?id=inews_twn
-TVBPLUS,https://smart.946985.filegear-sg.me/smart.php?id=j2_twn
-ViuTV,https://smart.946985.filegear-sg.me/smart.php?id=viu1_twn
-ViuTV 6,https://smart.946985.filegear-sg.me/smart.php?id=viusix_twn
-RTHK 31,https://smart.946985.filegear-sg.me/smart.php?id=rhk31_twn
-RTHK 32,https://smart.946985.filegear-sg.me/smart.php?id=rhk32_twn
-HOY TV,https://smart.946985.filegear-sg.me/smart.php?id=hoycaijing_twn
-凤凰中文,https://smart.946985.filegear-sg.me/smart.php?id=phoenixtv_hd
-凤凰资讯,https://smart.946985.filegear-sg.me/smart.php?id=phoenixinfo_hd
-凤凰香港,https://smart.946985.filegear-sg.me/smart.php?id=hkphoenix_twn
-SMT-台湾,#genre#
-台视 HD,https://smart.946985.filegear-sg.me/smart.php?id=ttv_taiwan
-台视新闻,https://smart.946985.filegear-sg.me/smart.php?id=ttvnews_twn
-台视综合,https://smart.946985.filegear-sg.me/smart.php?id=ttvzhonghe
-中视 HD,https://smart.946985.filegear-sg.me/smart.php?id=zhongshihd_twn
-中视新闻,https://smart.946985.filegear-sg.me/smart.php?id=zhongshinews_twn
-中视经典,https://smart.946985.filegear-sg.me/smart.php?id=zhongshi_twn
-华视 HD,https://smart.946985.filegear-sg.me/smart.php?id=ctshd_twn
-公视 HD,https://smart.946985.filegear-sg.me/smart.php?id=ctv_taiwan
-公视台语台,https://smart.946985.filegear-sg.me/smart.php?id=ctv2_twn
-三立台湾台,https://smart.946985.filegear-sg.me/smart.php?id=sanlitaiwan
-三立都会台,https://smart.946985.filegear-sg.me/smart.php?id=sanlidouhui
-三立综合台,https://smart.946985.filegear-sg.me/smart.php?id=sanlizhonghe
-三立戏剧台,https://smart.946985.filegear-sg.me/smart.php?id=sanlixiju_twn
-东森新闻台,https://smart.946985.filegear-sg.me/smart.php?id=ettvnews
-东森财经新闻台,https://smart.946985.filegear-sg.me/smart.php?id=ettvcaijing_twn
-东森综合台,https://smart.946985.filegear-sg.me/smart.php?id=ettvzhonghe
-东森戏剧台,https://smart.946985.filegear-sg.me/smart.php?id=ettvdrama
-东森电影台,https://smart.946985.filegear-sg.me/smart.php?id=ettvmovie
-东森洋片台,https://smart.946985.filegear-sg.me/smart.php?id=ettvwestern
-东森幼幼台,https://smart.946985.filegear-sg.me/smart.php?id=yoyo_twn
-东森超视,https://smart.946985.filegear-sg.me/smart.php?id=ettvsuper
-TVBS HD,https://smart.946985.filegear-sg.me/smart.php?id=tvbs
-TVBS 新闻台,https://smart.946985.filegear-sg.me/smart.php?id=tvbs_n
-TVBS 欢乐台,https://smart.946985.filegear-sg.me/smart.php?id=tvbshuanle_twn
-民视 HD,https://smart.946985.filegear-sg.me/smart.php?id=ftvhd_taiwan
-民视新闻台,https://smart.946985.filegear-sg.me/smart.php?id=ftvnew_taiwan
-民视台湾台,https://smart.946985.filegear-sg.me/smart.php?id=ftvtaiwan_twn
-中天综合,https://smart.946985.filegear-sg.me/smart.php?id=ctizhonghe
-中天娱乐,https://smart.946985.filegear-sg.me/smart.php?id=ctient
-中天亚洲,https://smart.946985.filegear-sg.me/smart.php?id=ctiasia_twn
-中天新闻,https://smart.946985.filegear-sg.me/smart.php?id=ctinews
-寰宇新闻台,https://smart.946985.filegear-sg.me/smart.php?id=huanyuxinwen_twn
-寰宇财经台,https://smart.946985.filegear-sg.me/smart.php?id=huanyutaiwan_twn
-八大第一台,https://smart.946985.filegear-sg.me/smart.php?id=badafirst
-八大综合台,https://smart.946985.filegear-sg.me/smart.php?id=badazhonghe
-八大戏剧台,https://smart.946985.filegear-sg.me/smart.php?id=badadrama
-八大娱乐台,https://smart.946985.filegear-sg.me/smart.php?id=badaentertain
-纬来体育,https://smart.946985.filegear-sg.me/smart.php?id=videolandsport
-纬来精彩,https://smart.946985.filegear-sg.me/smart.php?id=videolandspecial_twn
-纬来日本,https://smart.946985.filegear-sg.me/smart.php?id=videolandjapan
-纬来电影,https://smart.946985.filegear-sg.me/smart.php?id=videolandmovie
-纬来综合,https://smart.946985.filegear-sg.me/smart.php?id=videolandzonghe
-纬来育乐,https://smart.946985.filegear-sg.me/smart.php?id=videolandyule
-爱尔达综合台,https://smart.946985.filegear-sg.me/smart.php?id=eltazonghe_twn
-爱尔达影剧台,https://smart.946985.filegear-sg.me/smart.php?id=eltayingju_twn
-爱尔达体育1台,https://smart.946985.filegear-sg.me/smart.php?id=eltasport_twn
-爱尔达体育2台,https://smart.946985.filegear-sg.me/smart.php?id=eltasport2_twn
-爱尔达体育3台,https://smart.946985.filegear-sg.me/smart.php?id=eltasport3_twn
-爱尔达体育4台,https://smart.946985.filegear-sg.me/smart.php?id=eltasports4_twn
-非凡新闻,https://smart.946985.filegear-sg.me/smart.php?id=feifannews_twn
-年代新闻,https://smart.946985.filegear-sg.me/smart.php?id=niandainews_twn
-龙华戏剧,https://smart.946985.filegear-sg.me/smart.php?id=lunghuaxiju_twn
-龙华偶像,https://smart.946985.filegear-sg.me/smart.php?id=lunghuaidol_twn
-龙华电影,https://smart.946985.filegear-sg.me/smart.php?id=xingwei_movie
-龙华洋片,https://smart.946985.filegear-sg.me/smart.php?id=lunghuawestern_twn
-龙华经典,https://smart.946985.filegear-sg.me/smart.php?id=lunghuajingdian_twn
-靖天国际,https://smart.946985.filegear-sg.me/smart.php?id=jingtianintl_twn
-靖天卡通,https://smart.946985.filegear-sg.me/smart.php?id=jingtiancartoon_twn
-大愛電視,https://smart.946985.filegear-sg.me/smart.php?id=daai_twn
-大愛二台,https://smart.946985.filegear-sg.me/smart.php?id=daai2_twn
-EYE 旅游台,https://smart.946985.filegear-sg.me/smart.php?id=eyetvtravel_twn
-EYE 戏剧台,https://smart.946985.filegear-sg.me/smart.php?id=eyetvxiju_twn
-亚洲美食,https://smart.946985.filegear-sg.me/smart.php?id=afc_twn
-美食星球,https://smart.946985.filegear-sg.me/smart.php?id=foodplanet_twn
-TLC旅遊生活,https://smart.946985.filegear-sg.me/smart.php?id=tlc_twn
-亚洲旅游台,https://smart.946985.filegear-sg.me/smart.php?id=asiatravel_twn
-Arirang,https://smart.946985.filegear-sg.me/smart.php?id=arirang_twn
-AXN Taiwan,https://smart.946985.filegear-sg.me/smart.php?id=axn_twn
-MTV Live,https://smart.946985.filegear-sg.me/smart.php?id=mtvhd_twn
-HBO_HD,https://smart.946985.filegear-sg.me/smart.php?id=hbohd_twn
-HBO_HITS,https://smart.946985.filegear-sg.me/smart.php?id=hbohit_twn
-CINEMAX,https://smart.946985.filegear-sg.me/smart.php?id=cinemax_twn
-好萊塢電影台,https://smart.946985.filegear-sg.me/smart.php?id=hollywoodmovies_twn
-卫视电影台,https://smart.946985.filegear-sg.me/smart.php?id=weishimovie_twn
-龙祥时代,https://smart.946985.filegear-sg.me/smart.php?id=lungxiangtime_twn
-美亚电影,https://smart.946985.filegear-sg.me/smart.php?id=meiyamovie_twn
-華藝綜合,https://smart.946985.filegear-sg.me/smart.php?id=weishichinese_twn
-博斯运动一台,https://smart.946985.filegear-sg.me/smart.php?id=bosisport1_twn
-博斯运动二台,https://smart.946985.filegear-sg.me/smart.php?id=bosisport2_twn
-博斯高球一台,https://smart.946985.filegear-sg.me/smart.php?id=bosigolf1_twn
-博斯高球二台,https://smart.946985.filegear-sg.me/smart.php?id=bosigolf2_twn
-博斯网球台,https://smart.946985.filegear-sg.me/smart.php?id=bositennis_twn
-博斯无限台,https://smart.946985.filegear-sg.me/smart.php?id=bosiunlimited_twn
-好消息 2,https://smart.946985.filegear-sg.me/smart.php?id=good2_twn
-SMT-电影,#genre#
-CCTV-6,https://smart.946985.filegear-sg.me/smart.php?id=cctv6
-AXN Taiwan,https://smart.946985.filegear-sg.me/smart.php?id=axn_twn
-HBO_HD,https://smart.946985.filegear-sg.me/smart.php?id=hbohd_twn
-HBO_HITS,https://smart.946985.filegear-sg.me/smart.php?id=hbohit_twn
-CINEMAX,https://smart.946985.filegear-sg.me/smart.php?id=cinemax_twn
-好萊塢電影台,https://smart.946985.filegear-sg.me/smart.php?id=hollywoodmovies_twn
-东森电影,https://smart.946985.filegear-sg.me/smart.php?id=ettvmovie
-东森洋片,https://smart.946985.filegear-sg.me/smart.php?id=ettvwestern
-龙华电影,https://smart.946985.filegear-sg.me/smart.php?id=xingwei_movie
-龙华洋片,https://smart.946985.filegear-sg.me/smart.php?id=lunghuawestern_twn
-龙祥时代,https://smart.946985.filegear-sg.me/smart.php?id=lungxiangtime_twn
-美亚电影,https://smart.946985.filegear-sg.me/smart.php?id=meiyamovie_twn
-卫视电影台,https://smart.946985.filegear-sg.me/smart.php?id=weishimovie_twn
-天映频道,https://smart.946985.filegear-sg.me/smart.php?id=Celestial
-天映频道,https://smart.946985.filegear-sg.me/smart.php?id=Celestialindo
-天映经典,https://smart.946985.filegear-sg.me/smart.php?id=Celestial2
-Animax,https://smart.946985.filegear-sg.me/smart.php?id=Animax
-Movies Now HD,https://smart.946985.filegear-sg.me/smart.php?id=moviesnow_raj
-Star Movies HD,https://smart.946985.filegear-sg.me/smart.php?id=starmovies_raj
-Hits,https://smart.946985.filegear-sg.me/smart.php?id=Hits
-Warner TV,https://smart.946985.filegear-sg.me/smart.php?id=WarnerTV
-HBO HD,https://smart.946985.filegear-sg.me/smart.php?id=Hbo
-HBO Signature,https://smart.946985.filegear-sg.me/smart.php?id=Hbosignature
-HBO Family,https://smart.946985.filegear-sg.me/smart.php?id=Hbofamily
-HBO Hits,https://smart.946985.filegear-sg.me/smart.php?id=Hbohitshd
-Cinemax,https://smart.946985.filegear-sg.me/smart.php?id=Cinemax
-Dreamworks,https://smart.946985.filegear-sg.me/smart.php?id=Dreamworks
-SCM,https://smart.946985.filegear-sg.me/smart.php?id=Weishimovie
-Thrill,https://smart.946985.filegear-sg.me/smart.php?id=Thrill
-Hits Movie,https://smart.946985.filegear-sg.me/smart.php?id=Hitsmovie
-One,https://smart.946985.filegear-sg.me/smart.php?id=One
-tvN Movie,https://smart.946985.filegear-sg.me/smart.php?id=Tvnmovie
-Axn HD,https://smart.946985.filegear-sg.me/smart.php?id=Axn
-Paramount Network,https://smart.946985.filegear-sg.me/smart.php?id=Paramountnetwork
-Astrol Kplus,https://smart.946985.filegear-sg.me/smart.php?id=Kplus
-Rock Actions,https://smart.946985.filegear-sg.me/smart.php?id=Rockaction
-Rock Entertainment,https://smart.946985.filegear-sg.me/smart.php?id=Rockentertain
-SMT-记录,#genre#
-Natgeo_HD,https://smart.946985.filegear-sg.me/smart.php?id=natgeohd_twn
-NatGeo_Wild HD,https://smart.946985.filegear-sg.me/smart.php?id=natgeowild_twn
-Animal_Planet,https://smart.946985.filegear-sg.me/smart.php?id=animalplanet_twn
-Discovery Asia,https://smart.946985.filegear-sg.me/smart.php?id=discoverytwn_twn
-CI,https://smart.946985.filegear-sg.me/smart.php?id=ci_twn
-Asia Travel,https://smart.946985.filegear-sg.me/smart.php?id=asiatravel_twn
-Discovery HD,https://smart.946985.filegear-sg.me/smart.php?id=discoveryhd_twn
-亚洲美食,https://smart.946985.filegear-sg.me/smart.php?id=afc_twn
-美食星球,https://smart.946985.filegear-sg.me/smart.php?id=foodplanet_twn
-亚洲TLC,https://smart.946985.filegear-sg.me/smart.php?id=tlc_twn
-NatGeo HD,https://smart.946985.filegear-sg.me/smart.php?id=Natgeo
-Fashion TV,https://smart.946985.filegear-sg.me/smart.php?id=fashiontv_twn
-History,https://smart.946985.filegear-sg.me/smart.php?id=History
-BBC Earth HD,https://smart.946985.filegear-sg.me/smart.php?id=bbcearth_twn
-BBC Earth Lifestyle,https://smart.946985.filegear-sg.me/smart.php?id=bbclifestyle_twn
-MTV Live,https://smart.946985.filegear-sg.me/smart.php?id=mtvhd_twn
-NatGeo Wild HD,https://smart.946985.filegear-sg.me/smart.php?id=Natgeowild
-Animal Planet (Eng),https://smart.946985.filegear-sg.me/smart.php?id=AnimalPlanet
-TLC,https://smart.946985.filegear-sg.me/smart.php?id=Tlc
-Foodnetwork Hd,https://smart.946985.filegear-sg.me/smart.php?id=Foodnetwork
-HGTV,https://smart.946985.filegear-sg.me/smart.php?id=HGTV
-亚洲旅游台,https://smart.946985.filegear-sg.me/smart.php?id=asiatravel_twn
-SMT-新闻,#genre#
-Skynews,https://smart.946985.filegear-sg.me/smart.php?id=skynews_twn
-ABC News,https://smart.946985.filegear-sg.me/smart.php?id=abcnews_glo
-东森财经新闻,https://smart.946985.filegear-sg.me/smart.php?id=ettvcaijing_twn
-CBS HD,https://smart.946985.filegear-sg.me/smart.php?id=cbshd_glo
-CBSN HD,https://smart.946985.filegear-sg.me/smart.php?id=cbsn_glo
-France 24,https://smart.946985.filegear-sg.me/smart.php?id=france24_twn
-DW (Deutsch),https://smart.946985.filegear-sg.me/smart.php?id=dw_twn
-NHK World,https://smart.946985.filegear-sg.me/smart.php?id=nhkworld_japan
-Fox News,https://smart.946985.filegear-sg.me/smart.php?id=foxnews_twn
-CGTN,https://smart.946985.filegear-sg.me/smart.php?id=CGTN
-CNN International,https://smart.946985.filegear-sg.me/smart.php?id=Cnn
-CNN backup,https://smart.946985.filegear-sg.me/smart.php?id=cnn_twn
-CNBC,https://smart.946985.filegear-sg.me/smart.php?id=cnbc_twn
-CNA,https://smart.946985.filegear-sg.me/smart.php?id=cna
-BBC World News,https://smart.946985.filegear-sg.me/smart.php?id=bbcnews_twn
-BBC World News,https://smart.946985.filegear-sg.me/smart.php?id=Bbcnews
-Bloomberg News,https://smart.946985.filegear-sg.me/smart.php?id=bloomberg_twn
-Al-Jazeera,https://smart.946985.filegear-sg.me/smart.php?id=aljazeera_twn
-SMT-儿童,#genre#
-Baby TV Eng,https://smart.946985.filegear-sg.me/smart.php?id=Babytv
-CBeebies,https://smart.946985.filegear-sg.me/smart.php?id=Cbeebies
-Kids TV,https://smart.946985.filegear-sg.me/smart.php?id=KidsTV
-Momo TV,https://smart.946985.filegear-sg.me/smart.php?id=momo1_twn
-Animax,https://smart.946985.filegear-sg.me/smart.php?id=Animax
-Baby TV,https://smart.946985.filegear-sg.me/smart.php?id=babytv_twn
-MiaoMi,https://smart.946985.filegear-sg.me/smart.php?id=MiaoMi
-靖天卡通,https://smart.946985.filegear-sg.me/smart.php?id=jingtiancartoon_twn
-东森幼幼,https://smart.946985.filegear-sg.me/smart.php?id=yoyo_twn
-Cartoon Network,https://smart.946985.filegear-sg.me/smart.php?id=Cn
-Nickelodeon,https://smart.946985.filegear-sg.me/smart.php?id=Nickelodeon
-Nick Jr,https://smart.946985.filegear-sg.me/smart.php?id=Nickjr
-SMT-体育,#genre#
-Astro Premier League 1,https://smart.946985.filegear-sg.me/smart.php?id=go_assp1
-Astro EPL 1 backup,https://smart.946985.filegear-sg.me/smart.php?id=go_assp1x
-Astro Premier League 2,https://smart.946985.filegear-sg.me/smart.php?id=go_assp2
-Astro Grandstand,https://smart.946985.filegear-sg.me/smart.php?id=go_assp3
-Astro Football,https://smart.946985.filegear-sg.me/smart.php?id=go_assp4
-Astro Sports Plus,https://smart.946985.filegear-sg.me/smart.php?id=go_sportsplus
-Astro Badminton 1,https://smart.946985.filegear-sg.me/smart.php?id=go_badminton1
-Astro Badminton 2,https://smart.946985.filegear-sg.me/smart.php?id=go_badminton2
-Astro W-Sports,https://smart.946985.filegear-sg.me/smart.php?id=go_assp5
-Supersports 1,https://smart.946985.filegear-sg.me/smart.php?id=Assp1
-Supersports 2,https://smart.946985.filegear-sg.me/smart.php?id=Assp2
-Supersports 3,https://smart.946985.filegear-sg.me/smart.php?id=Assp3
-Supersports 4,https://smart.946985.filegear-sg.me/smart.php?id=Assp4
-WWE,https://smart.946985.filegear-sg.me/smart.php?id=Wwe
-Fight Sports,https://smart.946985.filegear-sg.me/smart.php?id=Fs
-NBA TV,https://smart.946985.filegear-sg.me/smart.php?id=Nba
-Astro Cricket,https://smart.946985.filegear-sg.me/smart.php?id=Acricket
-Astro Golf,https://smart.946985.filegear-sg.me/smart.php?id=Agolf
-Tnt Sports 1,https://smart.946985.filegear-sg.me/smart.php?id=6fac0aaead
-TNT Sports 2,https://smart.946985.filegear-sg.me/smart.php?id=d9a76a79cc
-TNT Sports 3,https://smart.946985.filegear-sg.me/smart.php?id=5fea4d73db
-TNT Sports 4,https://smart.946985.filegear-sg.me/smart.php?id=tntsport4
-Sony Ten 1,https://smart.946985.filegear-sg.me/smart.php?id=ten1_raj
-Sony Ten 2,https://smart.946985.filegear-sg.me/smart.php?id=ten2_raj
-Sony Ten 3,https://smart.946985.filegear-sg.me/smart.php?id=ten3_raj
-SPOTV 1 HD,https://smart.946985.filegear-sg.me/smart.php?id=go_spotv
-SPO TV 2,https://smart.946985.filegear-sg.me/smart.php?id=go_spotv2
-Skysports F1,https://smart.946985.filegear-sg.me/smart.php?id=tiankongf1
-Skysports Cricket,https://smart.946985.filegear-sg.me/smart.php?id=tiankongcricket
-Skysports EPL,https://smart.946985.filegear-sg.me/smart.php?id=tiankongepl
-Skysports Main Event,https://smart.946985.filegear-sg.me/smart.php?id=tiankongmain
-Skysports News,https://smart.946985.filegear-sg.me/smart.php?id=tiankongnews
-Skysports Mix,https://smart.946985.filegear-sg.me/smart.php?id=tiankongmix
-CCTV-5 体育频道,https://smart.946985.filegear-sg.me/smart.php?id=cctv5
-CCTV-5+ 体育赛事 HD,https://smart.946985.filegear-sg.me/smart.php?id=cctv5plus
-爱尔达体育2台,https://smart.946985.filegear-sg.me/smart.php?id=eltasport2_twn
-爱尔达体育3台,https://smart.946985.filegear-sg.me/smart.php?id=eltasport3_twn
-Rugby Pass TV,https://smart.946985.filegear-sg.me/smart.php?id=Rugbypasstv
-RTM Sports HD,https://smart.946985.filegear-sg.me/smart.php?id=Rtmsport
-Arena,https://smart.946985.filegear-sg.me/smart.php?id=Arena
-Arena 2,https://smart.946985.filegear-sg.me/smart.php?id=Arena2
-BolaArena 1,https://smart.946985.filegear-sg.me/smart.php?id=Bolaarena1
-BolaArena 2,https://smart.946985.filegear-sg.me/smart.php?id=Bolaarena2
-Astro Beinsports 1,https://smart.946985.filegear-sg.me/smart.php?id=Astrobein1
-Astro Beinsports 2,https://smart.946985.filegear-sg.me/smart.php?id=Astrobein2
-Astro Beinsports 3,https://smart.946985.filegear-sg.me/smart.php?id=Astrobein3
-SMT-新加坡,#genre#
-Channel 5,https://smart.946985.filegear-sg.me/smart.php?id=Channel5HD
-Channel 8,https://smart.946985.filegear-sg.me/smart.php?id=Channel8HD
-Suria,https://smart.946985.filegear-sg.me/smart.php?id=Suria
-Channel U,https://smart.946985.filegear-sg.me/smart.php?id=ChannelU
-Vasantham,https://smart.946985.filegear-sg.me/smart.php?id=Vasantham
-CNA,https://smart.946985.filegear-sg.me/smart.php?id=cna
-CNA backup,https://smart.946985.filegear-sg.me/smart.php?id=cna_twn
-MeWatch Ch 5,https://smart.946985.filegear-sg.me/smart.php?id=Mewatch_ch5
-MeWatch Ch 8,https://smart.946985.filegear-sg.me/smart.php?id=Mewatch_ch8
-MeWatch Ch U,https://smart.946985.filegear-sg.me/smart.php?id=Mewatch_chU
-MeWatch Suria,https://smart.946985.filegear-sg.me/smart.php?id=Mewatch_Suria
-MeWatch Vasantham,https://smart.946985.filegear-sg.me/smart.php?id=Mewatch_Vasantham
-MeWatch CNA,https://smart.946985.filegear-sg.me/smart.php?id=Mewatch_cna
-SMT-马来西亚,#genre#
-TV1,https://smart.946985.filegear-sg.me/smart.php?id=TV1
-TV1 backup,https://smart.946985.filegear-sg.me/smart.php?id=TV1_backup
-TV2,https://smart.946985.filegear-sg.me/smart.php?id=TV2
-TV3,https://smart.946985.filegear-sg.me/smart.php?id=TV3
-TV3 SD,https://smart.946985.filegear-sg.me/smart.php?id=TV3_mega
-NTV7,https://smart.946985.filegear-sg.me/smart.php?id=NTV7
-TV8,https://smart.946985.filegear-sg.me/smart.php?id=TV8
-TV9,https://smart.946985.filegear-sg.me/smart.php?id=TV9
-Ria,https://smart.946985.filegear-sg.me/smart.php?id=Ria-0
-Ria-3,https://smart.946985.filegear-sg.me/smart.php?id=Ria_backup
-Al-Hijrah,https://smart.946985.filegear-sg.me/smart.php?id=Alhijrah
-Al-Hijrah backup,https://smart.946985.filegear-sg.me/smart.php?id=Alhijrah_backup
-Awani,https://smart.946985.filegear-sg.me/smart.php?id=Awani
-Bernama,https://smart.946985.filegear-sg.me/smart.php?id=Bernama
-Prima,https://smart.946985.filegear-sg.me/smart.php?id=Prima-0
-Prima backup,https://smart.946985.filegear-sg.me/smart.php?id=AAprima1
-Prima backup 2,https://smart.946985.filegear-sg.me/smart.php?id=AAprima
-Ceria,https://smart.946985.filegear-sg.me/smart.php?id=Ceria
-Astro MTV,https://smart.946985.filegear-sg.me/smart.php?id=AstroMTV
-Mecca Live HD,https://smart.946985.filegear-sg.me/smart.php?id=quran_mido
-Madinah HD,https://smart.946985.filegear-sg.me/smart.php?id=sunnah_mido
-Oasis,https://smart.946985.filegear-sg.me/smart.php?id=Oasis
-HBO HD,https://smart.946985.filegear-sg.me/smart.php?id=Hbo
-HBO Signature,https://smart.946985.filegear-sg.me/smart.php?id=Hbosignature
-HBO Hits,https://smart.946985.filegear-sg.me/smart.php?id=Hbohitshd
-NatGeo Wild HD,https://smart.946985.filegear-sg.me/smart.php?id=Natgeowild
-Cartoon Network,https://smart.946985.filegear-sg.me/smart.php?id=Cn
-Nickelodeon,https://smart.946985.filegear-sg.me/smart.php?id=Nickelodeon
-Nick Jr,https://smart.946985.filegear-sg.me/smart.php?id=Nickjr
-Dreamworks,https://smart.946985.filegear-sg.me/smart.php?id=Dreamworks
-Siar,https://smart.946985.filegear-sg.me/smart.php?id=Siar
-Citra,https://smart.946985.filegear-sg.me/smart.php?id=AAcitra
-Citra backup,https://smart.946985.filegear-sg.me/smart.php?id=AAcitra1
-Sensasi,https://smart.946985.filegear-sg.me/smart.php?id=Sensasi
-Aura,https://smart.946985.filegear-sg.me/smart.php?id=Aura
-Rania,https://smart.946985.filegear-sg.me/smart.php?id=Rania
-KBS World,https://smart.946985.filegear-sg.me/smart.php?id=KBS
-Boo,https://smart.946985.filegear-sg.me/smart.php?id=Boo
-Awesome TV,https://smart.946985.filegear-sg.me/smart.php?id=Dsangat
-Astro Sonypix,https://smart.946985.filegear-sg.me/smart.php?id=Asonypix
-Sony HD,https://smart.946985.filegear-sg.me/smart.php?id=SetOne
-TvN,https://smart.946985.filegear-sg.me/smart.php?id=TVN
-AEC,https://smart.946985.filegear-sg.me/smart.php?id=AEC
-华丽台 HD （Wah Lai Toi）,https://smart.946985.filegear-sg.me/smart.php?id=Wlt
-欢喜台 HD （Hua Hee Tai）,https://smart.946985.filegear-sg.me/smart.php?id=Huahee
-Astro QJ,https://smart.946985.filegear-sg.me/smart.php?id=Quanjia
-TVB Jade,https://smart.946985.filegear-sg.me/smart.php?id=Tvbjade
-TVB Asia,https://smart.946985.filegear-sg.me/smart.php?id=Tvbasia
-TVB Entertainment,https://smart.946985.filegear-sg.me/smart.php?id=Tvbentertainment
-TVB Classic,https://smart.946985.filegear-sg.me/smart.php?id=Tvbclassic
-AOD,https://smart.946985.filegear-sg.me/smart.php?id=Aodhd
-One,https://smart.946985.filegear-sg.me/smart.php?id=One
-TVB 星河台 Xing He,https://smart.946985.filegear-sg.me/smart.php?id=Xinhe
-爱奇艺 iQiyi,https://smart.946985.filegear-sg.me/smart.php?id=Qiyi
-Animal Planet (Eng),https://smart.946985.filegear-sg.me/smart.php?id=AnimalPlanet
-tvN Movie,https://smart.946985.filegear-sg.me/smart.php?id=Tvnmovie
-CNN backup,https://smart.946985.filegear-sg.me/smart.php?id=cnn_twn
-Celestial Classic,https://smart.946985.filegear-sg.me/smart.php?id=Celestial2
-CNBC,https://smart.946985.filegear-sg.me/smart.php?id=cnbc_twn
-TLC,https://smart.946985.filegear-sg.me/smart.php?id=Tlc
-CNA,https://smart.946985.filegear-sg.me/smart.php?id=cna
-BBC World News,https://smart.946985.filegear-sg.me/smart.php?id=bbcnews_twn
-Foodnetwork Hd,https://smart.946985.filegear-sg.me/smart.php?id=Foodnetwork
-HGTV,https://smart.946985.filegear-sg.me/smart.php?id=HGTV
-Goshop,https://smart.946985.filegear-sg.me/smart.php?id=Goshop
-Celestial Movies HD,https://smart.946985.filegear-sg.me/smart.php?id=Celestial
-Axn HD,https://smart.946985.filegear-sg.me/smart.php?id=Axn
-Paramount Network,https://smart.946985.filegear-sg.me/smart.php?id=Paramountnetwork
-Astrol Kplus,https://smart.946985.filegear-sg.me/smart.php?id=Kplus
-AFC 亚洲旅游台,https://smart.946985.filegear-sg.me/smart.php?id=asiatravel_twn
-Rock Actions,https://smart.946985.filegear-sg.me/smart.php?id=Rockaction
-Bloomberg News,https://smart.946985.filegear-sg.me/smart.php?id=bloomberg_twn
-Al-Jazeera,https://smart.946985.filegear-sg.me/smart.php?id=aljazeera_twn
-Rock Entertainment,https://smart.946985.filegear-sg.me/smart.php?id=Rockentertain
-RTM Sports HD,https://smart.946985.filegear-sg.me/smart.php?id=Rtmsport
-Arena,https://smart.946985.filegear-sg.me/smart.php?id=Arena
-Arena 2,https://smart.946985.filegear-sg.me/smart.php?id=Arena2
-BolaArena 1,https://smart.946985.filegear-sg.me/smart.php?id=Bolaarena1
-BolaArena 2,https://smart.946985.filegear-sg.me/smart.php?id=Bolaarena2
-Astro LOL,https://smart.946985.filegear-sg.me/smart.php?id=Astro_lol
-Astro Rusi,https://smart.946985.filegear-sg.me/smart.php?id=Rusi
-WION,https://smart.946985.filegear-sg.me/smart.php?id=Wion
-RTM Asean,https://smart.946985.filegear-sg.me/smart.php?id=Rtmasean
-SMT-印尼,#genre#
-TVRI National,https://smart.946985.filegear-sg.me/smart.php?id=TVRI
-RCTI,https://smart.946985.filegear-sg.me/smart.php?id=Rcti
-Kompass TV,https://smart.946985.filegear-sg.me/smart.php?id=Kompass
-Berita Satu,https://smart.946985.filegear-sg.me/smart.php?id=BeritaSatu_eko
-Indosiar HD,https://smart.946985.filegear-sg.me/smart.php?id=Indosiar
-AnTV,https://smart.946985.filegear-sg.me/smart.php?id=Antv
-MNC TV,https://smart.946985.filegear-sg.me/smart.php?id=Mnctv
-Trans 7,https://smart.946985.filegear-sg.me/smart.php?id=Trans7_eko
-Transtv,https://smart.946985.filegear-sg.me/smart.php?id=Transtv
-JTV,https://smart.946985.filegear-sg.me/smart.php?id=JTV_eko
-Metro TV,https://smart.946985.filegear-sg.me/smart.php?id=metrotv_eko
-Cinemax,https://smart.946985.filegear-sg.me/smart.php?id=Cinemax
-SCTV,https://smart.946985.filegear-sg.me/smart.php?id=SCTV
-Tvone,https://smart.946985.filegear-sg.me/smart.php?id=Tvone
-TVMU,https://smart.946985.filegear-sg.me/smart.php?id=TVMU_eko
-GTV,https://smart.946985.filegear-sg.me/smart.php?id=Gtv
-RTV,https://smart.946985.filegear-sg.me/smart.php?id=Rtv
-Jak TV,https://smart.946985.filegear-sg.me/smart.php?id=JakTV
-iNews TV,https://smart.946985.filegear-sg.me/smart.php?id=Inewstv
-Daai TV,https://smart.946985.filegear-sg.me/smart.php?id=DaaiTV
-Net TV,https://smart.946985.filegear-sg.me/smart.php?id=NetTV
-Animax,https://smart.946985.filegear-sg.me/smart.php?id=Animax
-EWTN,https://smart.946985.filegear-sg.me/smart.php?id=Ewtn
-AlQuran AlKareem,https://smart.946985.filegear-sg.me/smart.php?id=AlQuran
-Tawaf TV,https://smart.946985.filegear-sg.me/smart.php?id=TawafTV
-Vision Prime,https://smart.946985.filegear-sg.me/smart.php?id=VisionPrime
-Muslim TV,https://smart.946985.filegear-sg.me/smart.php?id=MuslimTV
-Music TV,https://smart.946985.filegear-sg.me/smart.php?id=MusicTV
-Lifestyle&Fashion,https://smart.946985.filegear-sg.me/smart.php?id=Lifestyle
-Entertain,https://smart.946985.filegear-sg.me/smart.php?id=Entertain
-Hits,https://smart.946985.filegear-sg.me/smart.php?id=Hits
-Warner TV,https://smart.946985.filegear-sg.me/smart.php?id=WarnerTV
-SCM,https://smart.946985.filegear-sg.me/smart.php?id=Weishimovie
-Thrill,https://smart.946985.filegear-sg.me/smart.php?id=Thrill
-Fight Sports,https://smart.946985.filegear-sg.me/smart.php?id=Fs
-Hits Movie,https://smart.946985.filegear-sg.me/smart.php?id=Hitsmovie
-One,https://smart.946985.filegear-sg.me/smart.php?id=One
-tvN Movie,https://smart.946985.filegear-sg.me/smart.php?id=Tvnmovie
-Celestial Movies HD,https://smart.946985.filegear-sg.me/smart.php?id=Celestialindo
-Rock Actions,https://smart.946985.filegear-sg.me/smart.php?id=Rockaction
-Rock Entertainment,https://smart.946985.filegear-sg.me/smart.php?id=Rockentertain
-SMT-印度,#genre#
-Sun TV HD,https://smart.946985.filegear-sg.me/smart.php?id=Suntv
-Star Vijay,https://smart.946985.filegear-sg.me/smart.php?id=Starvijay
-Colors Tamil,https://smart.946985.filegear-sg.me/smart.php?id=Colorstam
-Sun Music,https://smart.946985.filegear-sg.me/smart.php?id=Sunmusic
-Astro Sunlife,https://smart.946985.filegear-sg.me/smart.php?id=Sunlife
-Astro Vaanavil,https://smart.946985.filegear-sg.me/smart.php?id=Vaanavil
-Zee Tamil,https://smart.946985.filegear-sg.me/smart.php?id=Zeetamil
-Zee Business,https://smart.946985.filegear-sg.me/smart.php?id=Zeebusiness
-News 18 Tamil,https://smart.946985.filegear-sg.me/smart.php?id=news18tamil_raj
-Adithya,https://smart.946985.filegear-sg.me/smart.php?id=Adithya
-Makkal TV,https://smart.946985.filegear-sg.me/smart.php?id=Makkaltv
-Zee Action,https://smart.946985.filegear-sg.me/smart.php?id=Zeeaction
-Astro KTV,https://smart.946985.filegear-sg.me/smart.php?id=Astroktv
-Zee TV HD,https://smart.946985.filegear-sg.me/smart.php?id=Zeetvhd
-Zee Cinema HD,https://smart.946985.filegear-sg.me/smart.php?id=Zeecinemahd
-Color HD,https://smart.946985.filegear-sg.me/smart.php?id=Colorhd
-Starplus HD,https://smart.946985.filegear-sg.me/smart.php?id=Starplushd
-Picture HD,https://smart.946985.filegear-sg.me/smart.php?id=Npicture
-Zee News,https://smart.946985.filegear-sg.me/smart.php?id=Zeenews
-Asianet,https://smart.946985.filegear-sg.me/smart.php?id=asianet_raj
-Asianet News,https://smart.946985.filegear-sg.me/smart.php?id=asianetnews_raj
-Discovery World Tamil,https://smart.946985.filegear-sg.me/smart.php?id=discoveryworldtam_raj
-History Tamil,https://smart.946985.filegear-sg.me/smart.php?id=historytam_raj
-NatGeo Tamil,https://smart.946985.filegear-sg.me/smart.php?id=natgeotamil_raj
-Natgeo Wild Tamil,https://smart.946985.filegear-sg.me/smart.php?id=natgeowildtamil_raj
-Astro Sonypix,https://smart.946985.filegear-sg.me/smart.php?id=Asonypix
-Discovery Kids Tamil,https://smart.946985.filegear-sg.me/smart.php?id=discoverykidtamil_raj
-Discovery Tamil,https://smart.946985.filegear-sg.me/smart.php?id=discoverytamil_raj
-Sony Yay Tamil,https://smart.946985.filegear-sg.me/smart.php?id=sonyyaytam_raj
-Sun TV India,https://smart.946985.filegear-sg.me/smart.php?id=suntv_raj
-Starmaa HD,https://smart.946985.filegear-sg.me/smart.php?id=starmaa_raj
-Starmaa Movies HD,https://smart.946985.filegear-sg.me/smart.php?id=starmaamovies_raj
-Bollyone,https://smart.946985.filegear-sg.me/smart.php?id=Bollyone
-Astro Sunmusic,https://smart.946985.filegear-sg.me/smart.php?id=Sunmusic
-Vijay Super,https://smart.946985.filegear-sg.me/smart.php?id=vijaysuper_raj
-Vellithirai,https://smart.946985.filegear-sg.me/smart.php?id=Vellithirai
-SMT-泰国,#genre#
-Channel 3 Thailand,https://smart.946985.filegear-sg.me/smart.php?id=ch3_pat
-Channel 5 Thailand,https://smart.946985.filegear-sg.me/smart.php?id=ch5_pat
-Channel 7 Thailand,https://smart.946985.filegear-sg.me/smart.php?id=ch7_pat
-MCOT HD Thailand-1,https://smart.946985.filegear-sg.me/smart.php?id=mcot_pat
-PPTV Thailand1,https://smart.946985.filegear-sg.me/smart.php?id=pptv_pat
-Thai Thai,https://smart.946985.filegear-sg.me/smart.php?id=thaithai_pat
-Amarin,https://smart.946985.filegear-sg.me/smart.php?id=amarin_pat
-Ch 8,https://smart.946985.filegear-sg.me/smart.php?id=ch8_pat
-GmmOne,https://smart.946985.filegear-sg.me/smart.php?id=gmmone_pat
-Mono,https://smart.946985.filegear-sg.me/smart.php?id=mono_pat
-Thairath,https://smart.946985.filegear-sg.me/smart.php?id=thairath_pat
-tpbs,https://smart.946985.filegear-sg.me/smart.php?id=tpbs_pat
-Workpoint,https://smart.946985.filegear-sg.me/smart.php?id=workpoint_pat
-Gmm Channel,https://smart.946985.filegear-sg.me/smart.php?id=gmmchannel_pat
-Nation,https://smart.946985.filegear-sg.me/smart.php?id=nation_pat
-Tnn24,https://smart.946985.filegear-sg.me/smart.php?id=tnn24_pat
-Nbt,https://smart.946985.filegear-sg.me/smart.php?id=nbt_pat
-New,https://smart.946985.filegear-sg.me/smart.php?id=new_pat
-TPTV,https://smart.946985.filegear-sg.me/smart.php?id=tptv_pat
-SMT-英国,#genre#
-BBC 1,https://smart.946985.filegear-sg.me/smart.php?id=bbc1_antik
-BBC 2,https://smart.946985.filegear-sg.me/smart.php?id=bbc2_antik
-CBBC,https://smart.946985.filegear-sg.me/smart.php?id=cbbc_antik
-More4,https://smart.946985.filegear-sg.me/smart.php?id=more4_antik
-Freesports,https://smart.946985.filegear-sg.me/smart.php?id=freesports_antik
-Skynews,https://smart.946985.filegear-sg.me/smart.php?id=skynews_twn
-Pick TV,https://smart.946985.filegear-sg.me/smart.php?id=picktv_antik
-itv 1,https://smart.946985.filegear-sg.me/smart.php?id=itv1_antik
-itv 2,https://smart.946985.filegear-sg.me/smart.php?id=itv2_antik
-Euronews,https://smart.946985.filegear-sg.me/smart.php?id=euronews_antik
-Channel 4,https://smart.946985.filegear-sg.me/smart.php?id=channel4_antik
-NatGeo HD,https://smart.946985.filegear-sg.me/smart.php?id=Natgeo
-CBeebies,https://smart.946985.filegear-sg.me/smart.php?id=Cbeebies
-History,https://smart.946985.filegear-sg.me/smart.php?id=History
-Kids TV,https://smart.946985.filegear-sg.me/smart.php?id=KidsTV
-France 24,https://smart.946985.filegear-sg.me/smart.php?id=france24_twn
-DW (Deutsch),https://smart.946985.filegear-sg.me/smart.php?id=dw_twn
-BBC Earth HD,https://smart.946985.filegear-sg.me/smart.php?id=bbcearth_twn
-BBC Earth Lifestyle,https://smart.946985.filegear-sg.me/smart.php?id=bbclifestyle_twn
-MTV Live,https://smart.946985.filegear-sg.me/smart.php?id=mtvhd_twn
-Star Movies HD,https://smart.946985.filegear-sg.me/smart.php?id=starmovies_raj
-NHK World,https://smart.946985.filegear-sg.me/smart.php?id=nhkworld_japan
-Warner TV,https://smart.946985.filegear-sg.me/smart.php?id=WarnerTV
-HBO HD,https://smart.946985.filegear-sg.me/smart.php?id=Hbo
-NatGeo Wild HD,https://smart.946985.filegear-sg.me/smart.php?id=Natgeowild
-Nickelodeon,https://smart.946985.filegear-sg.me/smart.php?id=Nickelodeon
-Nick Jr,https://smart.946985.filegear-sg.me/smart.php?id=Nickjr
-Thrill,https://smart.946985.filegear-sg.me/smart.php?id=Thrill
-CGTN,https://smart.946985.filegear-sg.me/smart.php?id=CGTN
-Hits Movie,https://smart.946985.filegear-sg.me/smart.php?id=Hitsmovie
-Animal Planet (Eng),https://smart.946985.filegear-sg.me/smart.php?id=AnimalPlanet
-CNBC,https://smart.946985.filegear-sg.me/smart.php?id=cnbc_twn
-TLC,https://smart.946985.filegear-sg.me/smart.php?id=Tlc
-BBC World News,https://smart.946985.filegear-sg.me/smart.php?id=bbcworldnews_antik
-HGTV,https://smart.946985.filegear-sg.me/smart.php?id=HGTV
-Axn HD,https://smart.946985.filegear-sg.me/smart.php?id=Axn
-Skysports F1,https://smart.946985.filegear-sg.me/smart.php?id=tiankongf1
-Skysports Cricket,https://smart.946985.filegear-sg.me/smart.php?id=tiankongcricket
-Bloomberg News,https://smart.946985.filegear-sg.me/smart.php?id=bloomberg_twn
-Skysports EPL,https://smart.946985.filegear-sg.me/smart.php?id=tiankongepl
-Skysports Main Event,https://smart.946985.filegear-sg.me/smart.php?id=tiankongmain
-Skysports News,https://smart.946985.filegear-sg.me/smart.php?id=tiankongnews
-Al-Jazeera,https://smart.946985.filegear-sg.me/smart.php?id=aljazeera_twn
+
 
 💥轮播视频,#genre#
 
@@ -1738,3 +1641,20 @@ offer1,http://h.20191209.xyz:25888/huya/30080237
 剧集_邻里一家亲,http://h.20191209.xyz:25888/huya/11342426
 搞笑_陈翔六点半,http://h.20191209.xyz:25888/huya/11274154
 
+密码获取,#genre#
+公众号,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
+宝盒视界,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
+回复 VIP,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
+即可获取,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
+私密頻道_0001,#genre#
+公众号,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
+宝盒视界,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
+回复 VIP,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
+即可获取,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
+
+
+赞赏支持,#genre#
+维护不易,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
+感谢支持,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
+觉得不错,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
+可以打赏,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
