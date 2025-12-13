@@ -152,6 +152,7 @@ TVB翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
 重溫經典,http://cdn6.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
 
 🇨🇳北京频道,#genre#
+parse=1
 
 北京影视,webview://http://p2.ytelc.com/169l/bj/btv.php?id=btv4
 北京文艺,webview://http://p2.ytelc.com/169l/bj/btv.php?id=btv2
