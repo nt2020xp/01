@@ -148,13 +148,13 @@ TVB翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
 天映經典,http://php.jdshipin.com/smt.php?id=Celestial2
 重溫經典,http://cdn6.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
 
-🇨🇳北京频道,#genre#
-parse=1
+北京频道,#genre#
 
-北京影视,webview://http://p2.ytelc.com/169l/bj/btv.php?id=btv4
-北京文艺,webview://http://p2.ytelc.com/169l/bj/btv.php?id=btv2
-北京纪实,webview://http://p2.ytelc.com/169l/bj/btv.php?id=btv3
-北京财经,webview://http://p2.ytelc.com/169l/bj/btv.php?id=btv5
-北京生活,webview://http://p2.ytelc.com/169l/bj/btv.php?id=btv7
-北京新闻,webview://http://p2.ytelc.com/169l/bj/btv.php?id=btv9
+
+北京影视,https://migu.188766.xyz/?migutoken=566499b3091ccd34fa8039af2cf7e6d2&id=%E5%8C%97%E4%BA%AC%E5%BD%B1%E8%A7%86&type=yy
+北京文艺,https://migu.188766.xyz/?migutoken=9b2306c4f72577300690720bd4b2f821&id=%E5%8C%97%E4%BA%AC%E6%96%87%E8%89%BA&type=yy
+北京财经,https://migu.188766.xyz/?migutoken=a267976da1221b9649b7adffebf240db&id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&type=yy
+北京生活,https://migu.188766.xyz/?migutoken=b9676e6959986d3c1075248180b1e82a&id=%E5%8C%97%E4%BA%ACi%E7%94%9F%E6%B4%BB&type=yy
+北京新闻,https://migu.188766.xyz/?migutoken=3f6567bce28c2acffaf8fdda3f878202&id=%E5%8C%97%E4%BA%AC%E6%96%B0%E9%97%BB&type=yy
+北京纪实科教,https://migu.188766.xyz/?migutoken=b8d91d4a9f96fbb0d3f054924a2bf3d9&id=%E5%8C%97%E4%BA%AC%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99&type=yy
 
