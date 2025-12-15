@@ -2,6 +2,8 @@ CCTV-1 综合,https://migu.188766.xyz/?migutoken=cda823af96bf9567d4318840e61f322
 CCTV-2 财经,https://migu.188766.xyz/?migutoken=57dcbbeab6d22aad0668073f23141afd&id=CCTV2&type=yy
 CCTV-3 综艺,https://migu.188766.xyz/?migutoken=ef520295648c7c2d979ac5be725919e8&id=CCTV3&type=yy
 CCTV-4 中文国际,https://migu.188766.xyz/?migutoken=b3f87c804b488a4dbabc1b1b4d55d59b&id=CCTV4&type=yy
+CCTV-4 中文国际 欧洲,https://migu.188766.xyz/?migutoken=6a06314d6b4691441d34e72cad087bc5&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
+CCTV-4 中文国际 美洲,https://migu.188766.xyz/?migutoken=cdfe59ebfd981390838047a2623b2d2e&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy
 CCTV-5 体育,https://migu.188766.xyz/?migutoken=4a8dd9f1b204562c1ef7d0ae49c40c82&id=CCTV5&type=yy
 CCTV-5+ 体育赛事,https://migu.188766.xyz/?migutoken=96034b1f3f8418f635c33df82b1fe2b9&id=CCTV5p&type=yy
 CCTV-6 电影,https://migu.188766.xyz/?migutoken=98f50dcf0834e9b71bb1f322aa5cfb65&id=CCTV6&type=yy
@@ -15,8 +17,7 @@ CCTV-13 新闻,https://migu.188766.xyz/?migutoken=29e2db54482f252c57f010ce50e764
 CCTV-14 少儿,https://migu.188766.xyz/?migutoken=2e71209b49174f305d90107d189c0477&id=CCTV14&type=yy
 CCTV-15 音乐,https://migu.188766.xyz/?migutoken=302c7e1ab856cabcb0c811e1ce4df276&id=CCTV15&type=yy
 CCTV-17 农业农村,https://migu.188766.xyz/?migutoken=8ee5952783eeeeedc4c226ceb9cfd400&id=CCTV17&type=yy
-CCTV-4 中文国际 欧洲,https://migu.188766.xyz/?migutoken=6a06314d6b4691441d34e72cad087bc5&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
-CCTV-4 中文国际 美洲,https://migu.188766.xyz/?migutoken=cdfe59ebfd981390838047a2623b2d2e&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy
+
 湖南卫视,https://migu.188766.xyz/?migutoken=3cc4b832d19ed12dfe8a940e5a9f407e&id=hnws&type=sz
 浙江卫视,https://migu.188766.xyz/?migutoken=aa667d319d38a9904e6e77e826d7f26d&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1
 浙江卫视,https://migu.188766.xyz/?migutoken=fafd395ae173028b92c7de05b4bc42b8&id=z_jws&type=sz
