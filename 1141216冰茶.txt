@@ -1,3 +1,7 @@
+CHC家庭影院,https://migu.188766.xyz/?migutoken=ebecba1ad65f74e3b314124c1c4517b6&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&type=yy
+CHC动作电影,https://migu.188766.xyz/?migutoken=7f9b0689ea104cd756a3c23f7782d8ef&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&type=yy
+CHC影迷电影,https://migu.188766.xyz/?migutoken=ffae00ef6e9d7a62c681e93b8309287d&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy
+
 CCTV-1 综合,https://migu.188766.xyz/?migutoken=cda823af96bf9567d4318840e61f3226&id=CCTV1&type=yy
 CCTV-2 财经,https://migu.188766.xyz/?migutoken=57dcbbeab6d22aad0668073f23141afd&id=CCTV2&type=yy
 CCTV-3 综艺,https://migu.188766.xyz/?migutoken=ef520295648c7c2d979ac5be725919e8&id=CCTV3&type=yy
@@ -45,9 +49,7 @@ CCTV-17 农业农村,https://migu.188766.xyz/?migutoken=8ee5952783eeeeedc4c226ce
 深圳卫视4K,https://migu.188766.xyz/?migutoken=3245152fe4c305a1ae85149d18a55b63&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
-CHC家庭影院,https://migu.188766.xyz/?migutoken=ebecba1ad65f74e3b314124c1c4517b6&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&type=yy
-CHC动作电影,https://migu.188766.xyz/?migutoken=7f9b0689ea104cd756a3c23f7782d8ef&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&type=yy
-CHC影迷电影,https://migu.188766.xyz/?migutoken=ffae00ef6e9d7a62c681e93b8309287d&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy
+
 五星体育,https://migu.188766.xyz/?migutoken=52b7096b59f919138c3d5b9808d89d9f&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1
 五星体育,#EXTVLCOPT:http-user-agent=okHttp/Mod-1.4.0.0
 重温经典,#EXTVLCOPT:http-user-agent=okHttp/Mod-1.4.0.0
