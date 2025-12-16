@@ -228,33 +228,8 @@ smt衛視,#genre#
 四川卫视,http://3065.koyeb.app/smt.php?id=sichuan_twn
 
 
-冰茶,#genre#
-
-CCTV-1 综合,https://migu.188766.xyz/?migutoken=197edc287059e21454acaf0b7ef667bd&id=CCTV1&type=yy
-CCTV-2 财经,https://migu.188766.xyz/?migutoken=3efa7ddf6d4a62c5acc6a6f1963822c6&id=CCTV2&type=yy
-CCTV-3 综艺,https://migu.188766.xyz/?migutoken=b4ef4267d9833d951577bc3ebe742401&id=CCTV3&type=yy
-CCTV-4 中文国际,https://migu.188766.xyz/?migutoken=fd064008722f75d99dabbd56d2cd69ab&id=CCTV4&type=yy
-CCTV-4 中文国际 欧洲,https://migu.188766.xyz/?migutoken=1a63b830b6ced25ed8ad0448b4118219&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
-CCTV-4 中文国际 美洲,https://migu.188766.xyz/?migutoken=ee8ffd4c8bff8f93d70c456670a738f6&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy
-CCTV-5 体育,https://migu.188766.xyz/?migutoken=dfe7248ebc315b0c5cfe5f923960efcb&id=CCTV5&type=yy
-CCTV-5+ 体育赛事,https://migu.188766.xyz/?migutoken=1f1f1145e44385d95dd950c223f7cad0&id=CCTV5p&type=yy
-CCTV-6 电影,https://migu.188766.xyz/?migutoken=92b40cda76b6ca215fd91a0d6a5d4b34&id=CCTV6&type=yy
-CCTV-7 国防军事,https://migu.188766.xyz/?migutoken=013700d551618c30c99556077f876f9d&id=CCTV7&type=yy
-CCTV-8 电视剧,https://migu.188766.xyz/?migutoken=42252660494aa1fba97539622d3592b0&id=CCTV8&type=yy
-CCTV-9 纪录,https://migu.188766.xyz/?migutoken=a8c127a59d0d1fc576b042188102b186&id=CCTV9&type=yy
-CCTV-10 科教,https://migu.188766.xyz/?migutoken=32ae961de0630b6c4f8cf6ea2c64e0dc&id=CCTV10&type=yy
-CCTV-11 戏曲,https://migu.188766.xyz/?migutoken=3bb0a07abc01805ec80a5b2b8072fbeb&id=CCTV11&type=yy
-CCTV-12 社会与法,https://migu.188766.xyz/?migutoken=ab7756f16705a08cb8d633d95bd29093&id=CCTV12&type=yy
-CCTV-13 新闻,https://migu.188766.xyz/?migutoken=d78031d9c7dec2d6635bf679d26c521b&id=CCTV13&type=yy
-CCTV-14 少儿,https://migu.188766.xyz/?migutoken=118f6bbcbddecc9546c727ef64bc6af4&id=CCTV14&type=yy
-CCTV-15 音乐,https://migu.188766.xyz/?migutoken=fa2ba6b05a9b9248d2835a2bd9a53518&id=CCTV15&type=yy
-CCTV-17 农业农村,https://migu.188766.xyz/?migutoken=2a2beeb8513ece879845089ba29d642c&id=CCTV17&type=yy
 
 北京频道,#genre#
-
-CHC家庭影院,https://migu.188766.xyz/?migutoken=ebecba1ad65f74e3b314124c1c4517b6&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&type=yy
-CHC动作电影,https://migu.188766.xyz/?migutoken=7f9b0689ea104cd756a3c23f7782d8ef&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&type=yy
-CHC影迷电影,https://migu.188766.xyz/?migutoken=ffae00ef6e9d7a62c681e93b8309287d&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy
 
 CCTV-1 综合,https://migu.188766.xyz/?migutoken=cda823af96bf9567d4318840e61f3226&id=CCTV1&type=yy
 CCTV-2 财经,https://migu.188766.xyz/?migutoken=57dcbbeab6d22aad0668073f23141afd&id=CCTV2&type=yy
