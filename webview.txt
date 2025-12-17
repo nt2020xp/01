@@ -193,10 +193,6 @@ TVB翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
 
 冰茶TV,#genre#
 
-CHC家庭影院,https://migu.188766.xyz/?migutoken=dfaa2848f08f82a7b64f7b20abaef306&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&type=yy
-CHC动作电影,https://migu.188766.xyz/?migutoken=f76f9a4401d1e90574ca8914ed633d14&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&type=yy
-CHC影迷电影,https://migu.188766.xyz/?migutoken=48d19b9817576c83ced3b0f3f5f1817e&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy
-
 CCTV-1 综合,https://migu.188766.xyz/?migutoken=f6f4cbca43639560e15dcee90bf812b3&id=CCTV1&type=yy
 CCTV-2 财经,https://migu.188766.xyz/?migutoken=d812ee770e6067cc6208734ed656d557&id=CCTV2&type=yy
 CCTV-3 综艺,https://migu.188766.xyz/?migutoken=0821839c1daee1a7fb479aeb687a9f42&id=CCTV3&type=yy
