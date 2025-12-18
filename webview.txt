@@ -241,7 +241,7 @@ CCTV-17 农业农村,https://migu.188766.xyz/?migutoken=915965a3c209b4a3a9225ffe
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 
-smart,#genre#
+smart香港,#genre#
 
 翡翠台,https://1234.koyeb.app/smart.php?id=jade_twn&token=1234
 翡翠台,https://1234.koyeb.app/smart.php?id=Jade_xue&token=1234
@@ -256,6 +256,9 @@ HOY TV,https://1234.koyeb.app/smart.php?id=hoycaijing_twn&token=1234
 凤凰中文,https://1234.koyeb.app/smart.php?id=phoenixtv_hd&token=1234
 凤凰资讯,https://1234.koyeb.app/smart.php?id=phoenixinfo_hd&token=1234
 凤凰香港,https://1234.koyeb.app/smart.php?id=hkphoenix_twn&token=1234
+
+smart台灣,#genre#
+
 台视 HD,https://1234.koyeb.app/smart.php?id=ttv_taiwan&token=1234
 台视新闻,https://1234.koyeb.app/smart.php?id=ttvnews_twn&token=1234
 台视综合,https://1234.koyeb.app/smart.php?id=ttvzhonghe&token=1234
@@ -340,6 +343,9 @@ CINEMAX,https://1234.koyeb.app/smart.php?id=cinemax_twn&token=1234
 博斯网球台,https://1234.koyeb.app/smart.php?id=bositennis_twn&token=1234
 博斯无限台,https://1234.koyeb.app/smart.php?id=bosiunlimited_twn&token=1234
 好消息 2,https://1234.koyeb.app/smart.php?id=good2_twn&token=1234
+
+smart央視,#genre#
+
 CCTV-1 综合,https://1234.koyeb.app/smart.php?id=cctv1&token=1234
 CCTV-2 财经,https://1234.koyeb.app/smart.php?id=cctv2&token=1234
 CCTV-3 综艺,https://1234.koyeb.app/smart.php?id=cctv3&token=1234
@@ -372,7 +378,9 @@ CCTV-5+ 体育赛事,https://1234.koyeb.app/smart.php?id=cctv5plus&token=1234
 广西卫视,https://1234.koyeb.app/smart.php?id=guangxi&token=1234
 湖北卫视,https://1234.koyeb.app/smart.php?id=hubei&token=1234
 四川卫视,https://1234.koyeb.app/smart.php?id=sichuan_twn&token=1234
-CGTN,https://1234.koyeb.app/smart.php?id=CGTN&token=1234
+
+smart電影,#genre#
+
 CCTV-6,https://1234.koyeb.app/smart.php?id=cctv6&token=1234
 AXN Taiwan,https://1234.koyeb.app/smart.php?id=axn_twn&token=1234
 HBO_HD,https://1234.koyeb.app/smart.php?id=hbohd_twn&token=1234
