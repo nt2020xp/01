@@ -191,8 +191,6 @@ https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
 
 aptv https://t.me/AptvPlayer
 
-失效夏天 影視資源交流 https://t.me/mejo288
-
 jackTV https://t.me/jacktvb
 
 冰茶TV https://t.me/x188766
@@ -244,6 +242,9 @@ Tvbox接口 https://t.me/TVBoxjkou
 港澳台直播軟件 https://t.me/tvbox9521
 
 catvod https://t.me/catvod_com
+
+云影空蒙 https://t.me/YYKM_release
+
 ================
 
 聽音樂 @vkmusbot
