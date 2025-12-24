@@ -245,6 +245,21 @@ CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 西藏卫视,webview://https://yangshipin.cn/tv/home?pid=600190403
 新疆卫视,webview://https://yangshipin.cn/tv/home?pid=600152138
 
+廣東,#genre#
+
+廣東衛視,webview://https://www.gdtv.cn/tvChannelDetail/43
+廣東4K超高清,webview://https://www.gdtv.cn/tvChannelDetail/16
+廣東經典電視劇,webview://https://www.gdtv.cn/tvChannelDetail/100
+廣東珠江,webview://https://www.gdtv.cn/tvChannelDetail/44
+廣東新聞,webview://https://www.gdtv.cn/tvChannelDetail/45
+廣東民生,webview://https://www.gdtv.cn/tvChannelDetail/48
+廣東體育,webview://https://www.gdtv.cn/tvChannelDetail/47
+大灣區衛視,webview://https://www.gdtv.cn/tvChannelDetail/51
+大灣區衛視（海外版）,webview://https://www.gdtv.cn/tvChannelDetail/46
+廣東影視,webview://https://www.gdtv.cn/tvChannelDetail/53
+廣東移動,webview://https://www.gdtv.cn/tvChannelDetail/74
+廣東紀錄片,webview://https://www.gdtv.cn/tvChannelDetail/94
+
 香港,#genre#
 
 TVB翡翠台,http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
