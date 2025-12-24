@@ -182,7 +182,7 @@ Pet Club TV,http://integral-prisca-ef399aa6.koyeb.app/5678.php?id=4gtv-4gtv110
 博斯無限二台,http://integral-prisca-ef399aa6.koyeb.app/5678.php?id=litv-longturn13
 韓國娛樂台 KMTV,http://integral-prisca-ef399aa6.koyeb.app/5678.php?id=4gtv-4gtv016
 
-央視網頁,#genre#
+央視,#genre#
 
 CCTV4K,webview://https://www.yangshipin.cn/tv/home?pid=600002264
 CCTV8K,webview://https://www.yangshipin.cn/tv/home?pid=600156816
@@ -211,7 +211,7 @@ CCTV第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655
 CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 
 
-衛視網頁,#genre#
+衛視,#genre#
 
 北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
 江苏卫视,webview://https://yangshipin.cn/tv/home?pid=600002521
