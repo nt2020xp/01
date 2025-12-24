@@ -260,6 +260,15 @@ CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 廣東移動,webview://https://www.gdtv.cn/tvChannelDetail/74
 廣東紀錄片,webview://https://www.gdtv.cn/tvChannelDetail/94
 
+黑龍江,#genre#
+
+黑龍江衛視,webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=10
+黑龍江影視,webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=12
+黑龍江都市,webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=50
+黑龍江新聞法治,webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=49
+黑龍江文體,webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=11
+黑龍江農業科教,webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=15
+
 香港,#genre#
 
 TVB翡翠台,http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
