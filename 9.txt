@@ -94,3 +94,15 @@ CCTV怀旧剧场,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid
 北京財經,http://A/ku9/js/webview.js?id=https://www.btime.com/btv/btvsy_index?tag=4
 北京體育,http://A/ku9/js/webview.js?id=https://www.btime.com/btv/btvsy_index?tag=5
 北京生活,http://A/ku9/js/webview.js?id=https://www.btime.com/btv/btvsy_index?tag=6
+
+浙江新藍網,#genre#
+
+浙江衛視,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江新聞,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江國際,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江少兒,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+之江紀錄,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江經濟,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江錢江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
