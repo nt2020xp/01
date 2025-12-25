@@ -1,4 +1,4 @@
-141,#genre#
+141新聞,#genre#
 
 TVBS新聞台,http://141.11.87.241:20013/li-4gtv-4gtv072/index.m3u8
 東森新聞台,http://141.11.87.241:20013/4gtv-4gtv152/index.m3u8
@@ -112,7 +112,7 @@ TVBS歡樂台,http://141.11.87.241:20013/li-4gtv-4gtv068/index.m3u8
 韓國娛樂台,http://141.11.87.241:20013/4gtv-4gtv016/index.m3u8
 韓國娛樂台,http://141.11.87.241:20013/li-4gtv-4gtv016/index.m3u8
 
-我的新聞,#genre#
+5678新聞,#genre#
 
 TVBS新聞,http://integral-prisca-ef399aa6.koyeb.app/5678.php?id=4gtv-4gtv072
 東森新聞,http://integral-prisca-ef399aa6.koyeb.app/5678.php?id=4gtv-4gtv152
@@ -281,29 +281,6 @@ CCTV4K,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNu
 黑龍江新聞法治,webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=49
 黑龍江文體,webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=11
 黑龍江農業科教,webview://https://zmt-m.hljtv.com/live_tv.html?tv_id=15
-
-浙江新藍網,#genre#
-
-浙江衛視,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-浙江新聞,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江國際,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江少兒,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-之江紀錄,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江經濟,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江錢江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-
-北京,#genre#
-
-北京衛視,webview://https://www.btime.com/btv/btvsy_index?tag=0
-北京影視,webview://https://www.btime.com/btv/btvsy_index?tag=3
-北京新聞,webview://https://www.btime.com/btv/btvsy_index?tag=7
-北京紀實科教,webview://https://www.btime.com/btv/btvsy_index?tag=2
-北京文藝,webview://https://www.btime.com/btv/btvsy_index?tag=1
-北京財經,webview://https://www.btime.com/btv/btvsy_index?tag=4
-北京體育,webview://https://www.btime.com/btv/btvsy_index?tag=5
-北京生活,webview://https://www.btime.com/btv/btvsy_index?tag=6
 
 香港,#genre#
 
