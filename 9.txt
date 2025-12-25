@@ -224,28 +224,16 @@ CCTV怀旧剧场,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid
 
 酷9CCTV,#genre#
 
-CCTV1综合,http://A/ku9/js/cctvnews.js?id=cctv1
-CCTV2财经,http://A/ku9/js/cctvnews.js?id=cctv2
-CCTV4国际,http://A/ku9/js/cctvnews.js?id=cctv4
-CCTV7国防军事,http://A/ku9/js/cctvnews.js?id=cctv7
-CCTV9纪录,http://A/ku9/js/cctvnews.js?id=cctv9
-CCTV10科教,http://A/ku9/js/cctvnews.js?id=cctv10
-CCTV12法制,http://A/ku9/js/cctvnews.js?id=cctv12
-CCTV13新闻,http://A/ku9/js/cctvnews.js?id=cctv13
-CCTV17农业,http://A/ku9/js/cctvnews.js?id=cctv17
-CCTV4K,http://A/ku9/js/cctvnews.js?id=cctv4k
-
-浙江新藍網,#genre#
-
-浙江衛視,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-浙江新聞,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江國際,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江少兒,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-之江紀錄,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江經濟,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江錢江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+CCTV1综合,http://A/ku9/js/webview.js?id=cctv1
+CCTV2财经,http://A/ku9/js/webview.js?id=cctv2
+CCTV4国际,http://A/ku9/js/webview.js?id=cctv4
+CCTV7国防军事,http://A/ku9/js/webview.js?id=cctv7
+CCTV9纪录,http://A/ku9/js/webview.js?id=cctv9
+CCTV10科教,http://A/ku9/js/webview.js?id=cctv10
+CCTV12法制,http://A/ku9/js/webview.js?id=cctv12
+CCTV13新闻,http://A/ku9/js/webview.js?id=cctv13
+CCTV17农业,http://A/ku9/js/webview.js?id=cctv17
+CCTV4K,http://A/ku9/js/webview.js?id=cctv4k
 
 酷9黑龍江,#genre#
 
@@ -270,15 +258,4 @@ CCTV4K,http://A/ku9/js/cctvnews.js?id=cctv4k
 廣東影視,http://A/ku9/js/webview.js?id=https://www.gdtv.cn/tvChannelDetail/53
 廣東移動,http://A/ku9/js/webview.js?id=https://www.gdtv.cn/tvChannelDetail/74
 廣東紀錄片,http://A/ku9/js/webview.js?id=https://www.gdtv.cn/tvChannelDetail/94
-
-酷9北京,#genre#
-
-北京衛視,http://A/ku9/js/webview.js?id=https://www.btime.com/btv/btvsy_index?tag=0
-北京影視,http://A/ku9/js/webview.js?id=https://www.btime.com/btv/btvsy_index?tag=3
-北京新聞,http://A/ku9/js/webview.js?id=https://www.btime.com/btv/btvsy_index?tag=7
-北京紀實科教,http://A/ku9/js/webview.js?id=https://www.btime.com/btv/btvsy_index?tag=2
-北京文藝,http://A/ku9/js/webview.js?id=https://www.btime.com/btv/btvsy_index?tag=1
-北京財經,http://A/ku9/js/webview.js?id=https://www.btime.com/btv/btvsy_index?tag=4
-北京體育,http://A/ku9/js/webview.js?id=https://www.btime.com/btv/btvsy_index?tag=5
-北京生活,http://A/ku9/js/webview.js?id=https://www.btime.com/btv/btvsy_index?tag=6
 
