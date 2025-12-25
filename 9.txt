@@ -106,3 +106,16 @@ CCTV怀旧剧场,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid
 浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江經濟,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江錢江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+
+酷9TV,#genre#
+
+CCTV1综合,http://A/ku9/js/cctvnews.js?id=cctv1
+CCTV2财经,http://A/ku9/js/cctvnews.js?id=cctv2
+CCTV4国际,http://A/ku9/js/cctvnews.js?id=cctv4
+CCTV7国防军事,http://A/ku9/js/cctvnews.js?id=cctv7
+CCTV9纪录,http://A/ku9/js/cctvnews.js?id=cctv9
+CCTV10科教,http://A/ku9/js/cctvnews.js?id=cctv10
+CCTV12法制,http://A/ku9/js/cctvnews.js?id=cctv12
+CCTV13新闻,http://A/ku9/js/cctvnews.js?id=cctv13
+CCTV17农业,http://A/ku9/js/cctvnews.js?id=cctv17
+CCTV4K,http://A/ku9/js/cctvnews.js?id=cctv4k
