@@ -1,4 +1,4 @@
-北京,#genre#
+酷9北京,#genre#
 
 北京衛視,http://A/ku9/js/webview.js?id=https://www.btime.com/btv/btvsy_index?tag=0
 北京影視,http://A/ku9/js/webview.js?id=https://www.btime.com/btv/btvsy_index?tag=3
