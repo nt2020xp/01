@@ -1,4 +1,4 @@
-我的新聞,#genre#
+5678新聞,#genre#
 
 TVBS新聞,http://integral-prisca-ef399aa6.koyeb.app/5678.php?id=4gtv-4gtv072
 東森新聞,http://integral-prisca-ef399aa6.koyeb.app/5678.php?id=4gtv-4gtv152
@@ -68,7 +68,7 @@ Pet Club TV,http://integral-prisca-ef399aa6.koyeb.app/5678.php?id=4gtv-4gtv110
 博斯無限二台,http://integral-prisca-ef399aa6.koyeb.app/5678.php?id=litv-longturn13
 韓國娛樂台 KMTV,http://integral-prisca-ef399aa6.koyeb.app/5678.php?id=4gtv-4gtv016
 
-台灣新聞,#genre#
+141新聞,#genre#
 
 TVBS新聞台,http://141.11.87.241:20013/li-4gtv-4gtv072/index.m3u8
 東森新聞台,http://141.11.87.241:20013/4gtv-4gtv152/index.m3u8
@@ -221,19 +221,6 @@ CCTV怀旧剧场,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid
 青海卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600190406
 西藏卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600190403
 新疆卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600152138
-
-酷9CCTV,#genre#
-
-CCTV1综合,http://A/ku9/js/webview.js?id=cctv1
-CCTV2财经,http://A/ku9/js/webview.js?id=cctv2
-CCTV4国际,http://A/ku9/js/webview.js?id=cctv4
-CCTV7国防军事,http://A/ku9/js/webview.js?id=cctv7
-CCTV9纪录,http://A/ku9/js/webview.js?id=cctv9
-CCTV10科教,http://A/ku9/js/webview.js?id=cctv10
-CCTV12法制,http://A/ku9/js/webview.js?id=cctv12
-CCTV13新闻,http://A/ku9/js/webview.js?id=cctv13
-CCTV17农业,http://A/ku9/js/webview.js?id=cctv17
-CCTV4K,http://A/ku9/js/webview.js?id=cctv4k
 
 酷9黑龍江,#genre#
 
