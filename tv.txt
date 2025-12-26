@@ -219,6 +219,10 @@ TVB翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
 天映經典,http://php.jdshipin.com/smt.php?id=Celestial2
 重溫經典,http://cdn6.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
 
+網頁電視,#genre#
+
+TVB無綫新聞,https://www.faintv.com/channel/17766
+TVB星河台,https://www.faintv.com/channel/17767
 
 新我們這一家,#genre#
 
