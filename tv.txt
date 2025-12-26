@@ -223,6 +223,9 @@ TVB翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
 
 TVB無綫新聞,https://www.faintv.com/channel/17766
 TVB星河台,https://www.faintv.com/channel/17767
+華視,https://www.faintv.com/channel/12892
+中視,https://www.faintv.com/channel/12921
+台視,https://www.faintv.com/channel/19371
 
 新我們這一家,#genre#
 
