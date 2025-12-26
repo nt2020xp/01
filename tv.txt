@@ -220,6 +220,7 @@ TVB翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
 重溫經典,http://cdn6.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
 
 央視CCTV,#genre#
+parse=1
 
 CCTV1综合,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
 CCTV2财经,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103
