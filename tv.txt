@@ -220,6 +220,7 @@ TVB翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
 重溫經典,http://cdn6.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
 
 網頁電視,#genre#
+parse=1
 
 TVB無綫新聞,https://www.faintv.com/channel/17766
 TVB星河台,https://www.faintv.com/channel/17767
