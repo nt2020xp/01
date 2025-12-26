@@ -226,6 +226,13 @@ TVB星河台,https://www.faintv.com/channel/17767
 華視,https://www.faintv.com/channel/12892
 中視,https://www.faintv.com/channel/12921
 台視,https://www.faintv.com/channel/19371
+龍華電影,https://www.faintv.com/channel/132
+龍華經典,https://www.faintv.com/channel/234
+龍華洋片,https://www.faintv.com/channel/228
+龍華日韓,https://www.faintv.com/channel/116
+龍華戲劇,https://www.faintv.com/channel/95
+龍華偶像,https://www.faintv.com/channel/122
+SMART知識台,https://www.faintv.com/channel/68
 
 新我們這一家,#genre#
 
