@@ -283,3 +283,19 @@ TVB翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
 天映頻道,http://php.jdshipin.com/smt.php?id=Celestial
 天映經典,http://php.jdshipin.com/smt.php?id=Celestial2
 
+網頁電視,#genre#
+
+
+TVB無綫新聞,webview://https://www.faintv.com/channel/17766
+TVB星河台,webview://https://www.faintv.com/channel/17767
+華視,webview://https://www.faintv.com/channel/12892
+中視,webview://https://www.faintv.com/channel/12921
+台視,webview://https://www.faintv.com/channel/19371
+龍華電影,webview://https://www.faintv.com/channel/132
+龍華經典,webview://https://www.faintv.com/channel/234
+龍華洋片,webview://https://www.faintv.com/channel/228
+龍華日韓,webview://https://www.faintv.com/channel/116
+龍華戲劇,webview://https://www.faintv.com/channel/95
+龍華偶像,webview://https://www.faintv.com/channel/122
+SMART知識台,webview://https://www.faintv.com/channel/68
+
