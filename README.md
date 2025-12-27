@@ -197,11 +197,11 @@ jackTV https://t.me/jacktvb
 
 tmxk 交流群 https://t.me/+rgxyQeDLtjcxM2U1
 
-(垃圾群)肥羊影音数码综合分享 https://t.me/feiyangdigital
+(垃圾群不要加)肥羊影音数码综合分享 https://t.me/feiyangdigital
 
 (垃圾群)大宇的大家庭（电视盒子） https://t.me/Dayuptv
 
-(垃圾群)极致播放器交流群 https://t.me/jizhi00
+(垃圾群不要加)极致播放器交流群 https://t.me/jizhi00
 
 點播直播交流群：https://t.me/doubebly001
 
@@ -209,7 +209,7 @@ tmxk 交流群 https://t.me/+rgxyQeDLtjcxM2U1
 
 (垃圾群)catvod https://t.me/www_catvod_com
 
-(垃圾群)gpt研究所 https://t.me/gpt_858
+(垃圾群不要加)gpt研究所 https://t.me/gpt_858
 
 ＋＋＋＋＋＋＋＋＋
 
