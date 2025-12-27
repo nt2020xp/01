@@ -243,8 +243,6 @@ Tvbox接口 https://t.me/TVBoxjkou
 
 catvod https://t.me/catvod_com
 
-云影空蒙 https://t.me/YYKM_release
-
 ================
 
 聽音樂 @vkmusbot
