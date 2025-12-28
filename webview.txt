@@ -288,6 +288,8 @@ CCTV-01咪咕,http://go.bkpcp.top/mg/cctv1
 CCTV-02咪咕,http://go.bkpcp.top/mg/cctv2
 CCTV-03咪咕,http://go.bkpcp.top/mg/cctv3
 CCTV-04咪咕,http://go.bkpcp.top/mg/cctv4
+cct4欧洲咪咕,http://go.bkpcp.top/mg/cctv4o
+cct4美洲咪咕,http://go.bkpcp.top/mg/cctv4m
 CCTV-05咪咕,http://go.bkpcp.top/mg/cctv5
 CCTV-5+咪咕,http://go.bkpcp.top/mg/cctv5p
 CCTV-06咪咕,http://go.bkpcp.top/mg/cctv6
@@ -302,8 +304,6 @@ CCTV-14咪咕,http://go.bkpcp.top/mg/cctv14
 CCTV-15咪咕,http://go.bkpcp.top/mg/cctv15
 CCTV-16咪咕,http://go.bkpcp.top/mg/cctv16
 CCTV-17咪咕,http://go.bkpcp.top/mg/cctv17
-cct4欧洲咪咕,http://go.bkpcp.top/mg/cctv4o
-cct4美洲咪咕,http://go.bkpcp.top/mg/cctv4m
 
 江苏卫视,http://go.bkpcp.top/mg/jsws
 浙江卫视,http://go.bkpcp.top/mg/zjws
