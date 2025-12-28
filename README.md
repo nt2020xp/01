@@ -103,10 +103,6 @@ TVB星河台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
 
 now新聞台,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
 
-1綜合,http://cdn6.veryfast.filegear-sg.me/live/cctv1/stream.m3u8
-
-13新聞,http://cdn3.veryfast.filegear-sg.me/live/cctv13/stream.m3u8
-
 =============
 
 央視新聞,#genre#
