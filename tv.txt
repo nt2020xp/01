@@ -210,7 +210,7 @@ TBS NEWS DIG,https://www.youtube.com/live/Anr15FA9OCI?si=ZyLCFkpVCpC9tQ-N
 
 TVB翡翠台,http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
 TVB新聞台,http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
-TVB星河台,https://o11.163189.xyz/stream/live/tvbxh
+TVB星河台,http://php.jdshipin.com/PLTV/iptv.php?id=tvbxh
 NOW爆谷台,http://23.237.228.133/live2/baogutai.m3u8
 NOW星影台,http://23.237.228.133/live2/xingyingtai.m3u8
 NOW新聞台,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
