@@ -289,4 +289,4 @@ CCTV-17咪咕,http://go.bkpcp.top/mg/cctv17
 海南卫视,http://go.bkpcp.top/mg/hinws
 陕西卫视,http://go.bkpcp.top/mg/sxws
 兵团卫视,http://go.bkpcp.top/mg/btws
-黑龙江视,http://go.bkpcp.top/mg/hljws
+黑龙江卫视,http://go.bkpcp.top/mg/hljws
