@@ -264,9 +264,11 @@ TVB翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
 西螺跨年晚會,https://www.youtube.com/watch?v=p8sCOzVY1HU
 嘉義跨年晚會,https://www.youtube.com/watch?v=_ePcCXyHDAk
 台南跨年晚會,https://www.youtube.com/watch?v=LvebymzFc2I
+高雄跨年晚會,https://www.youtube.com/watch?v=6nV37uSsx1o
 台東跨年晚會,https://www.youtube.com/watch?v=VnZ6x6m5VAc
 金門跨年晚會,https://www.youtube.com/watch?v=pVmCY8dJKCo
 浙江卫视,https://www.youtube.com/watch?v=sytiQ3rfMn8
+湖南衛視,https://www.youtube.com/watch?v=DwNoUIspeHg
 東方衛視,https://www.youtube.com/watch?v=e3EeqcQjSAM
 
 綠茶央視,#genre#
