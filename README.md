@@ -1,3 +1,5 @@
+okHttp/Mod-1.5.0.0
+
 直播源 https://bc.188766.xyz/?ip=192.168.1.2&mishitong=true&mima=mianfeibuhuaqian
 
 直播源 https://bc.188766.xyz/?ip=192.168.1.2
