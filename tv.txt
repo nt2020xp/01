@@ -252,6 +252,18 @@ TVB翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
 電影版1超能力,https://www.youtube.com/watch?v=aFOWxeDGKyY
 電影版2這一家,https://www.youtube.com/watch?v=edKZqHhJMPc
 
+跨年晚會,#genre#
+
+台北跨年晚會,北https://www.youtube.com/watch?v=6Ekqt2eQWaM
+新北跨年晚會,https://www.youtube.com/watch?v=R8wy0ptiuVs
+新竹跨年晚會,https://www.youtube.com/watch?v=fO69UoXVgUU
+彰化跨年晚會,https://www.youtube.com/watch?v=Fua-K7Yjydw
+雲林跨年晚會,https://www.youtube.com/watch?v=AF3wC8L8NyA
+台南跨年晚會,https://www.youtube.com/watch?v=LvebymzFc2I
+台東跨年晚會,https://www.youtube.com/watch?v=VnZ6x6m5VAc
+浙江卫视,https://www.youtube.com/watch?v=sytiQ3rfMn8
+東方衛視,https://www.youtube.com/watch?v=e3EeqcQjSAM
+
 綠茶央視,#genre#
 CCTV-1 综合,https://migu.188766.xyz/?migutoken=12f45bef7af527917f511f5195f230be&id=CCTV1&type=yy
 CCTV-2 财经,https://migu.188766.xyz/?migutoken=960bb4f4dae6a420b48ae0f0bd61150f&id=CCTV2&type=yy
