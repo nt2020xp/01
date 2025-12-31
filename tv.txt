@@ -254,7 +254,7 @@ TVB翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
 
 跨年晚會,#genre#
 
-台北跨年晚會,北https://www.youtube.com/watch?v=6Ekqt2eQWaM
+台北跨年晚會,https://www.youtube.com/watch?v=6Ekqt2eQWaM
 新北跨年晚會,https://www.youtube.com/watch?v=R8wy0ptiuVs
 新竹跨年晚會,https://www.youtube.com/watch?v=fO69UoXVgUU
 台中跨年晚會,https://www.youtube.com/watch?v=YuF_KbM01T4
@@ -270,6 +270,7 @@ TVB翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
 央視春晚,https://www.youtube.com/watch?v=thQA4_4Vvko
 浙江卫视,https://www.youtube.com/watch?v=sytiQ3rfMn8
 湖南衛視,https://www.youtube.com/watch?v=DwNoUIspeHg
+北京衛視,https://www.youtube.com/watch?v=dE_A83eNQ7A
 東方衛視,https://www.youtube.com/watch?v=e3EeqcQjSAM
 
 綠茶央視,#genre#
