@@ -17,6 +17,8 @@ CatchPlay電影台,udp://@230.1.2.37:11111
 08台視,http://211.72.174.95:8112/0.ts
 06民視,http://211.72.174.95:8115/0.ts
 
+緯來日本,https://live.catvod.com/live.php?id=videolandjapan
+
 柯南國語,https://live.ottiptv.cc/huya/30080148
 
 柯南劇場版,https://live.ottiptv.cc/huya/30080236
