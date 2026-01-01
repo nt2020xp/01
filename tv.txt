@@ -226,27 +226,21 @@ TVB翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
 天映經典,http://php.jdshipin.com/smt.php?id=Celestial2
 重溫經典,http://cdn6.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
 
+蠟筆小新劇場版,#genre#
 
-綠茶央視,#genre#
-CCTV-1 综合,https://migu.188766.xyz/?migutoken=12f45bef7af527917f511f5195f230be&id=CCTV1&type=yy
-CCTV-2 财经,https://migu.188766.xyz/?migutoken=960bb4f4dae6a420b48ae0f0bd61150f&id=CCTV2&type=yy
-CCTV-3 综艺,https://migu.188766.xyz/?migutoken=b572cd4ce92a469b589fbad53b39459b&id=CCTV3&type=yy
-CCTV-4 中文国际,https://migu.188766.xyz/?migutoken=e181429aa35be31503ae711a024faf64&id=CCTV4&type=yy
-CCTV-5 体育,https://migu.188766.xyz/?migutoken=015dac1ba88c65f57a7a9d1c8b707372&id=CCTV5&type=yy
-CCTV-5+ 体育赛事,https://migu.188766.xyz/?migutoken=5594c13771eda0047e0b8d0c0921bc69&id=CCTV5p&type=yy
-CCTV-6 电影,https://migu.188766.xyz/?migutoken=6302215fa79195ba9d17e45f6deedb2a&id=CCTV6&type=yy
-CCTV-7 国防军事,https://migu.188766.xyz/?migutoken=bc3b848a60c573a96f41d935421fc373&id=CCTV7&type=yy
-CCTV-8 电视剧,https://migu.188766.xyz/?migutoken=8c219eb083d559854524d795a9b52389&id=CCTV8&type=yy
-CCTV-9 纪录,https://migu.188766.xyz/?migutoken=df17b6caa83a3527488df3b092e1f959&id=CCTV9&type=yy
-CCTV-10 科教,https://migu.188766.xyz/?migutoken=52db7d2641e1ede637b63c25ef599ee7&id=CCTV10&type=yy
-CCTV-11 戏曲,https://migu.188766.xyz/?migutoken=45ff78d9262d7a8917b78b88be921b98&id=CCTV11&type=yy
-CCTV-12 社会与法,https://migu.188766.xyz/?migutoken=fb042a07852e2ec23b4c15cfb5b93006&id=CCTV12&type=yy
-CCTV-13 新闻,https://migu.188766.xyz/?migutoken=f6f596485c42e38c9eb1fbf73bf35328&id=CCTV13&type=yy
-CCTV-14 少儿,https://migu.188766.xyz/?migutoken=5c0b003181e61d05631cba9a66982125&id=CCTV14&type=yy
-CCTV-15 音乐,https://migu.188766.xyz/?migutoken=d746cbdefc14cc5616495c27c50afec2&id=CCTV15&type=yy
-CCTV-17 农业农村,https://migu.188766.xyz/?migutoken=de91db50a94ac7f3538eea23db4cf1f1&id=CCTV17&type=yy
-CCTV-4 中文国际 欧洲,https://migu.188766.xyz/?migutoken=20174757859f3acd1bb1f2a383235571&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
-CCTV-4 中文国际 美洲,https://migu.188766.xyz/?migutoken=277eea70169602ea8ab8728dfad09980&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy
+蠟筆小新1993動感超人VS高衩魔王,https://www.youtube.com/watch?v=ieT3iBtVL34					
+蠟筆小新1994不理不理王國的秘寶,https://www.youtube.com/watch?v=31vbJtkHtrk					
+蠟筆小新1995雲黑齋的野心,https://www.youtube.com/watch?v=ZPZzOw0ZJ9w					
+蠟筆小新1996搞怪遊樂園大冒險,https://www.youtube.com/watch?v=J8rb5Eugx4M					
+蠟筆小新1997黑暗珠珠大追擊,https://www.youtube.com/watch?v=7Cozc1yRkCU					
+蠟筆小新1998電擊!豬蹄大作戰,https://www.youtube.com/watch?v=_52TLtnQNtc					
+蠟筆小新1999爆發!溫泉激烈大決戰,https://www.youtube.com/watch?v=gWe1ahkNOxc					
+蠟筆小新2000風起雲湧的叢林冒險,https://www.youtube.com/watch?v=J3_PON_gJvw					
+蠟筆小新2016爆睡！夢世界大作戰,https://www.youtube.com/watch?v=6aC7T7N3BgM					
+蠟筆小新2018功夫小子〜拉麵大亂鬥,https://www.youtube.com/watch?v=rMX3I2ST2d4					
+蠟筆小新2019新婚旅行風暴-奪回廣志大作戰,https://www.youtube.com/watch?v=MSZPvDyLTSw					
+						
+
 
 新我們這一家,#genre#
 
