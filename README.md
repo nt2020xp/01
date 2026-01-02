@@ -26,15 +26,11 @@ https://www.gdtv.cn/tvChannelDetail/43
 
 ===========
 
-每日更新直播源 https://itv.shrimp.netlib.re/MiGu.txt
-
 月光寶盒 https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/bhzb.m3u
 
 直播源論壇  https://bbs.livecodes.vip/forum.php?mod=forumdisplay&fid=6
 
 火星直播網頁 https://www.kds.tw
-
-東森幼幼,https://tzh911.qzz.io/play-smt.php?id=yoyo_twn
 
 4GTV網頁,#genre#
 parse=1
