@@ -137,8 +137,8 @@ TVB翡翠台,http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
 TVB新聞台,http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
 TVB星河台,http://php.jdshipin.com/PLTV/iptv.php?id=tvbxh
 重溫經典,http://cdn6.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
-now新聞台,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
-TVB無線新聞,http://r.jdshipin.com/CkuBd
+NOW新聞台,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
+TVB新聞,http://r.jdshipin.com/CkuBd
 TVB翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
 華麗翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
 天映頻道,http://php.jdshipin.com/smt.php?id=Celestial
