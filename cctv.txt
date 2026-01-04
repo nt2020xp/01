@@ -10,8 +10,8 @@ CCTV8K,webview://https://www.yangshipin.cn/tv/home?pid=600156816
 4亞洲,webview://https://tv.cctv.com/live/cctv4
 4歐洲,webview://https://tv.cctv.com/live/cctveurope/index.shtml
 4美洲,webview://https://tv.cctv.com/live/cctvamerica
-x5體育,webview://https://tv.cctv.com/live/cctv5
-x5+體育賽事,webview://https://tv.cctv.com/live/cctv5plus
+5體育,webview://https://tv.cctv.com/live/cctv5
+5+體育賽事,webview://https://tv.cctv.com/live/cctv5plus
 6電影,webview://https://tv.cctv.com/live/cctv6
 7國防軍事,webview://https://tv.cctv.com/live/cctv7
 8電視劇,webview://https://tv.cctv.com/live/cctv8
@@ -22,7 +22,7 @@ x5+體育賽事,webview://https://tv.cctv.com/live/cctv5plus
 13新聞,webview://https://tv.cctv.com/live/cctv13
 14少兒,webview://https://tv.cctv.com/live/cctvchild
 15音樂,webview://https://tv.cctv.com/live/cctv15
-x16奧林匹克,webview://https://tv.cctv.com/live/cctv16
+16奧林匹克,webview://https://tv.cctv.com/live/cctv16
 17農業農村,webview://https://tv.cctv.com/live/cctv17
 風雲劇場,webview://https://yangshipin.cn/tv/home?pid=600099658
 第一劇場,webview://https://yangshipin.cn/tv/home?pid=600099655
@@ -30,40 +30,6 @@ x16奧林匹克,webview://https://tv.cctv.com/live/cctv16
 
 
 衛視,#genre#
-
-北京卫视,https://yangshipin.cn/tv/home?pid=600002309
-江苏卫视,https://yangshipin.cn/tv/home?pid=600002521
-东方卫视,https://yangshipin.cn/tv/home?pid=600002483
-浙江卫视,https://yangshipin.cn/tv/home?pid=600002520
-湖南卫视,https://yangshipin.cn/tv/home?pid=600002475
-湖北卫视,https://yangshipin.cn/tv/home?pid=600002508
-广东卫视,https://yangshipin.cn/tv/home?pid=600002485
-广西卫视,https://yangshipin.cn/tv/home?pid=600002509
-黑龙江卫视,https://yangshipin.cn/tv/home?pid=600002498
-海南卫视,https://yangshipin.cn/tv/home?pid=600002506
-重庆卫视,https://yangshipin.cn/tv/home?pid=600002531
-深圳卫视,https://yangshipin.cn/tv/home?pid=600002481
-四川卫视,https://yangshipin.cn/tv/home?pid=600002516
-河南卫视,https://yangshipin.cn/tv/home?pid=600002525
-东南卫视,https://yangshipin.cn/tv/home?pid=600002484
-贵州卫视,https://yangshipin.cn/tv/home?pid=600002490
-江西卫视,https://yangshipin.cn/tv/home?pid=600002503
-辽宁卫视,https://yangshipin.cn/tv/home?pid=600002505
-安徽卫视,https://yangshipin.cn/tv/home?pid=600002532
-河北卫视,https://yangshipin.cn/tv/home?pid=600002493
-山东卫视,https://yangshipin.cn/tv/home?pid=600002513
-天津卫视,https://yangshipin.cn/tv/home?pid=600152137
-吉林卫视,https://yangshipin.cn/tv/home?pid=600190405
-陕西卫视,https://yangshipin.cn/tv/home?pid=600190400
-宁夏卫视,https://yangshipin.cn/tv/home?pid=600190737
-内蒙古卫视,https://yangshipin.cn/tv/home?pid=600190401
-云南卫视,https://yangshipin.cn/tv/home?pid=600190402
-山西卫视,https://yangshipin.cn/tv/home?pid=600190407
-青海卫视,https://yangshipin.cn/tv/home?pid=600190406
-西藏卫视,https://yangshipin.cn/tv/home?pid=600190403
-新疆卫视,https://yangshipin.cn/tv/home?pid=600152138
-
-
 
 北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
 江苏卫视,webview://https://yangshipin.cn/tv/home?pid=600002521
