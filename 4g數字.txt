@@ -16,7 +16,6 @@ Global Trekker	https://www.4gtv.tv/channel/4gtv-live112?set=1&ch=252
 History 歷史頻道	https://www.4gtv.tv/channel/4gtv-live026?set=1&ch=214		
 HITS頻道	https://www.4gtv.tv/channel/4gtv-live620?set=1&ch=186		
 INULTRA	https://www.4gtv.tv/channel/4gtv-live096?set=1&ch=444		
-KLT-靖天國際台	https://www.4gtv.tv/channel/4gtv-4gtv063?set=1&ch=84		
 Lifetime 娛樂頻道	https://www.4gtv.tv/channel/4gtv-live029?set=1&ch=217		
 LiveABC互動英語頻道	https://www.4gtv.tv/channel/4gtv-live030?set=1&ch=188		
 Love Nature	https://www.4gtv.tv/channel/4gtv-live208?set=1&ch=139		
@@ -26,7 +25,6 @@ Mezzo Live HD	https://www.4gtv.tv/channel/4gtv-4gtv083?set=1&ch=79
 MOMO親子台	https://www.4gtv.tv/channel/4gtv-live107?set=1&ch=231		
 My Cinema Europe HD 我的歐洲電影	https://www.4gtv.tv/channel/litv-ftv10?set=1&ch=463		
 NHK WORLD-JAPAN	https://www.4gtv.tv/channel/4gtv-live168?set=1&ch=461		
-Nice TV 靖天歡樂台	https://www.4gtv.tv/channel/4gtv-4gtv054?set=1&ch=119		
 Nick Jr. 兒童頻道	https://www.4gtv.tv/channel/4gtv-live032?set=1&ch=219		
 Pet Club TV	https://www.4gtv.tv/channel/4gtv-4gtv110?set=1&ch=464		
 ROCK Action	https://www.4gtv.tv/channel/4gtv-live138?set=1&ch=180		
@@ -93,20 +91,22 @@ TVBS歡樂台	https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184
 靖天日本台	https://www.4gtv.tv/channel/4gtv-4gtv047?set=1&ch=22		
 靖天卡通台	https://www.4gtv.tv/channel/4gtv-4gtv044?set=1&ch=15		
 靖天育樂台	https://www.4gtv.tv/channel/4gtv-4gtv062?set=1&ch=83		
-靖天映畫	https://www.4gtv.tv/channel/4gtv-4gtv055?set=1&ch=42		
+靖天映畫台	https://www.4gtv.tv/channel/4gtv-4gtv055?set=1&ch=42		
+靖天國際台	https://www.4gtv.tv/channel/4gtv-4gtv063?set=1&ch=84		
 靖天資訊台	https://www.4gtv.tv/channel/4gtv-4gtv065?set=1&ch=88		
 靖天電影台	https://www.4gtv.tv/channel/4gtv-4gtv061?set=1&ch=82		
 靖天綜合台	https://www.4gtv.tv/channel/4gtv-4gtv046?set=1&ch=21		
 靖天戲劇台	https://www.4gtv.tv/channel/4gtv-4gtv058?set=1&ch=116		
-靖洋卡通Nice Bingo	https://www.4gtv.tv/channel/4gtv-4gtv057?set=1&ch=59		
+靖天歡樂台	https://www.4gtv.tv/channel/4gtv-4gtv054?set=1&ch=119		
+靖洋卡通台	https://www.4gtv.tv/channel/4gtv-4gtv057?set=1&ch=59		
 靖洋戲劇台	https://www.4gtv.tv/channel/4gtv-4gtv045?set=1&ch=118		
 滾動力rollor	https://www.4gtv.tv/channel/4gtv-live012?set=1&ch=249		
 精選動漫台	https://www.4gtv.tv/channel/4gtv-live024?set=1&ch=204		
 影迷數位紀實台	https://www.4gtv.tv/channel/litv-ftv15?set=1&ch=445		
 影迷數位電影台	https://www.4gtv.tv/channel/4gtv-4gtv011?set=1&ch=40		
 豬哥亮歌廳秀	https://www.4gtv.tv/channel/4gtv-4gtv006?set=1&ch=113		
+寰宇台灣台	https://www.4gtv.tv/channel/4gtv-4gtv156?set=1&ch=280		
 寰宇新聞台	https://www.4gtv.tv/channel/litv-longturn14?set=1&ch=36		
-寰宇新聞台灣台	https://www.4gtv.tv/channel/4gtv-4gtv156?set=1&ch=280		
 韓國娛樂台 KMTV	https://www.4gtv.tv/channel/4gtv-4gtv016?set=1&ch=446		
 鏡電視新聞台	https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268		
 			
