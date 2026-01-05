@@ -1,3 +1,14 @@
+https://py.doube.eu.org/static/t4.json
+
+加密接口解析提取
+https://www.xn--sss604efuw.com/jm/
+
+https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/TVlogo/refs/heads/main/smt.txt
+
+https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/TVlogo/refs/heads/main/py/SMT.py
+
+============================================
+
 https://t.me/mursorottiptv_bot
 
 okHttp/Mod-1.5.0.0
