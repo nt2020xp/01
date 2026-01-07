@@ -129,6 +129,14 @@ TVB翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
 天映頻道,http://php.jdshipin.com/smt.php?id=Celestial
 天映經典,http://php.jdshipin.com/smt.php?id=Celestial2
 
+網頁電視,#genre#
+
+
+江蘇衛視,webview://https://live.jstv.com
+浙江衛視,webview://https://www.cztv.com/liveTV/101
+北京衛視,webview://https://www.btime.com/btv/btvsy_index
+東方衛視,webview://https://live.kankanews.com/huikan?id=1
+
 catvod,#genre#
 
 东森幼幼台,https://live.catvod.com/live.php?id=yoyo_twn
