@@ -712,6 +712,7 @@ CCTV2财经,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV3综艺,http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV4中文国际,http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV5体育,http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV5+体育赛事,http://74.91.26.218:82/live/cctv5p.m3u8
 CCTV6电影,http://74.91.26.218:82/live/cctv6hd.m3u8
 CCTV7国防军事,http://74.91.26.218:82/live/cctv7hd.m3u8
 CCTV8电视剧,http://74.91.26.218:82/live/cctv8hd.m3u8
@@ -724,27 +725,11 @@ CCTV14少儿,http://74.91.26.218:82/live/cctv14hd.m3u8
 CCTV15音乐,http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV16奥利匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV17农业农村,http://74.91.26.218:82/live/cctv17hd.m3u8
-CCTV5+体育赛事,http://74.91.26.218:82/live/cctv5p.m3u8
 
-体育,#genre#
-CCTV5体育,http://74.91.26.218:82/live/cctv5hd.m3u8
-CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
-CCTV5+体育赛事,http://74.91.26.218:82/live/cctv5p.m3u8
-广东体育,http://74.91.26.218:82/live/cctv5p.m3u8
-
-香港,#genre#
+香港1,#genre#
 翡翠台,http://74.91.26.218:82/live/jade.m3u8
 无线新闻台,http://74.91.26.218:82/live/inews.m3u8
 TVB Plus,http://74.91.26.218:82/live/j2.m3u8
 NOW星影台,http://74.91.26.218:82/live/nowxy.m3u8
 美亚电影台,http://74.91.26.218:82/live/mydy.m3u8
 
-台湾,#genre#
-中视,http://74.91.26.218:82/live/ctv.m3u8
-中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
-中视经典,http://74.91.26.218:82/live/ctvjd.m3u8
-中视菁采,http://74.91.26.218:82/live/ctvjc.m3u8
-台视,http://74.91.26.218:82/live/ttv.m3u8
-台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8
-台视综合,http://74.91.26.218:82/live/ttvzh.m3u8
-台视财经,http://74.91.26.218:82/live/ttvcj.m3u8
