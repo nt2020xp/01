@@ -130,18 +130,7 @@ TVB翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
 天映經典,http://php.jdshipin.com/smt.php?id=Celestial2
 
 
-catvod,#genre#
-
-东森幼幼台,https://live.catvod.com/live.php?id=yoyo_twn
-CATCHPLAY电影,https://live.catvod.com/live.php?id=catchplay_twn
-纬来日本,https://live.catvod.com/live.php?id=videolandjapan
-纬来综合,https://live.catvod.com/live.php?id=videolandzonghe
-纬来戏剧,https://live.catvod.com/live.php?id=videolandtv
-纬来体育,https://live.catvod.com/live.php?id=videolandsport
-东森洋片台,https://live.catvod.com/live.php?id=ettvwestern
-好萊塢電影台,https://live.catvod.com/live.php?id=hollywoodmovies_twn
-
-央视,#genre#
+74央視,#genre#
 CCTV1综合,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV2财经,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV3综艺,http://74.91.26.218:82/live/cctv3hd.m3u8
@@ -161,7 +150,7 @@ CCTV15音乐,http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV17农业农村,http://74.91.26.218:82/live/cctv17hd.m3u8
 
-央視新聞app,#genre#
+央視新聞p,#genre#
 
 CCTV4K超高清,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=2127841942201075403
 CCTV1綜合,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
