@@ -14,10 +14,6 @@ CBeebies,udp://@224.1.4.75:11111
 CatchPlay電影台,udp://@230.1.2.217:11111
 CatchPlay電影台,udp://@230.1.2.37:11111
 
-緯來日本,https://live.catvod.com/live.php?id=videolandjapan
-緯來綜合,https://live.catvod.com/live.php?id=videolandzonghe
-緯來體育,https://live.catvod.com/live.php?id=videolandsport
-
 柯南國語,https://live.ottiptv.cc/huya/30080148
 
 柯南劇場版,https://live.ottiptv.cc/huya/30080236
@@ -85,7 +81,6 @@ TVBS歡樂台,http://integral-prisca-ef399aa6.koyeb.app/5678.php?id=4gtv-4gtv068
 高雄蓮池潭,https://www.youtube.com/watch?v=BnPoNatG-HE
 淡水漁人碼頭,https://www.youtube.com/watch?v=xwAWSh35uuw
 澳門議事亭前地,https://www.youtube.com/watch?v=ctYalRx7kY4
-武嶺,https://www.youtube.com/live/2lVMTs_Fj0M?si=7hKA1arqWeYNj0Ue
 中文國際亞洲,https://www.youtube.com/watch?v=7j92Myu2wzg
 中文國際美洲,https://www.youtube.com/watch?v=f6Kq93wnaZ8
 
@@ -197,7 +192,8 @@ TBS NEWS DIG,https://www.youtube.com/live/Anr15FA9OCI?si=ZyLCFkpVCpC9tQ-N
 12新兵迎接終極試煉 期末鑑測全面展開,https://www.youtube.com/watch?v=VcACNbm9NrM
 13結訓了！嘉賓現身見證榮耀時刻 新兵感動淚崩,https://www.youtube.com/watch?v=72vgEHBeAa0
 
-央视,#genre#
+74央視,#genre#
+
 CCTV1综合,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV2财经,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV3综艺,http://74.91.26.218:82/live/cctv3hd.m3u8
