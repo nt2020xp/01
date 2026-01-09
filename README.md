@@ -1,3 +1,6 @@
+直播源  https://php.946985.filegear-sg.me/jackTV.m3u
+
+
 https://py.doube.eu.org/static/t4.json
 
 加密接口解析提取
