@@ -1,5 +1,32 @@
 4gtv,#genre#
 
+TVBS新聞,https://www.4gtv.tv/channel/4gtv-4gtv072?set=1&ch=291
+東森新聞,https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292
+民視新聞,https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=31
+中天新聞,https://www.4gtv.tv/channel/4gtv-4gtv009?set=1&ch=30
+寰宇台灣,https://www.4gtv.tv/channel/4gtv-4gtv156?set=1&ch=280
+寰宇新聞,https://www.4gtv.tv/channel/litv-longturn14?set=1&ch=36
+華視,https://www.4gtv.tv/channel/4gtv-4gtv041?set=1&ch=6
+華視新聞,https://www.4gtv.tv/channel/4gtv-4gtv052?set=1&ch=34
+中視,https://www.4gtv.tv/channel/4gtv-4gtv040?set=1&ch=4
+中視新聞,https://www.4gtv.tv/channel/4gtv-4gtv074?set=1&ch=33
+
+
+
+
+靖天日本台,https://www.4gtv.tv/channel/4gtv-4gtv047?set=1&ch=22
+靖天卡通台,https://www.4gtv.tv/channel/4gtv-4gtv044?set=1&ch=15
+靖天育樂台,https://www.4gtv.tv/channel/4gtv-4gtv062?set=1&ch=83
+靖天映畫台,https://www.4gtv.tv/channel/4gtv-4gtv055?set=1&ch=42
+靖天國際台,https://www.4gtv.tv/channel/4gtv-4gtv063?set=1&ch=84
+靖天資訊台,https://www.4gtv.tv/channel/4gtv-4gtv065?set=1&ch=88
+靖天電影台,https://www.4gtv.tv/channel/4gtv-4gtv061?set=1&ch=82
+靖天綜合台,https://www.4gtv.tv/channel/4gtv-4gtv046?set=1&ch=21
+靖天戲劇台,https://www.4gtv.tv/channel/4gtv-4gtv058?set=1&ch=116
+靖天歡樂台,https://www.4gtv.tv/channel/4gtv-4gtv054?set=1&ch=119
+靖洋卡通台,https://www.4gtv.tv/channel/4gtv-4gtv057?set=1&ch=59
+靖洋戲劇台,https://www.4gtv.tv/channel/4gtv-4gtv045?set=1&ch=118
+
 amc電影台,https://www.4gtv.tv/channel/4gtv-4gtv017?set=1&ch=39
 ARIRANG阿里郎頻道,https://www.4gtv.tv/channel/4gtv-4gtv079?set=1&ch=189
 Bloomberg TV,https://www.4gtv.tv/channel/4gtv-live059?set=1&ch=283
@@ -34,7 +61,7 @@ TRACE Sport Stars,https://www.4gtv.tv/channel/4gtv-4gtv077?set=1&ch=57
 TRACE Urban,https://www.4gtv.tv/channel/4gtv-4gtv082?set=1&ch=78
 TVBS,https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=183
 TVBS台劇台,https://www.4gtv.tv/channel/4gtv-live088?set=1&ch=285
-TVBS新聞,https://www.4gtv.tv/channel/4gtv-4gtv072?set=1&ch=291
+
 TVBS精采台,https://www.4gtv.tv/channel/4gtv-4gtv067?set=1&ch=227
 TVBS綜藝台,https://www.4gtv.tv/channel/4gtv-live087?set=1&ch=284
 TVBS歡樂台,https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184
@@ -45,9 +72,7 @@ TVBS歡樂台,https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184
 三立綜合台,https://www.4gtv.tv/channel/4gtv-live207?set=1&ch=169
 大愛二台,https://www.4gtv.tv/channel/4gtv-live106?set=1&ch=230
 大愛電視,https://www.4gtv.tv/channel/4gtv-live007?set=1&ch=209
-中天新聞,https://www.4gtv.tv/channel/4gtv-4gtv009?set=1&ch=30
-中視,https://www.4gtv.tv/channel/4gtv-4gtv040?set=1&ch=4
-中視新聞,https://www.4gtv.tv/channel/4gtv-4gtv074?set=1&ch=33
+
 公視戲劇,https://www.4gtv.tv/channel/4gtv-4gtv042?set=1&ch=7
 半島國際新聞台,https://www.4gtv.tv/channel/4gtv-live157?set=1&ch=462
 尼克兒童頻道,https://www.4gtv.tv/channel/4gtv-live105?set=1&ch=185
@@ -55,7 +80,7 @@ TVBS歡樂台,https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184
 民視台灣台,https://www.4gtv.tv/channel/4gtv-4gtv001?set=1&ch=2
 民視旅遊台,https://www.4gtv.tv/channel/litv-ftv07?set=1&ch=61
 民視第一台,https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=1
-民視新聞,https://www.4gtv.tv/channel/litv-ftv13?set=1&ch=31
+
 民視綜藝台,https://www.4gtv.tv/channel/4gtv-4gtv004?set=1&ch=16
 民視影劇台,https://www.4gtv.tv/channel/litv-ftv09?set=1&ch=24
 生活時尚,https://www.4gtv.tv/channel/4gtv-live122?set=1&ch=178
@@ -66,7 +91,7 @@ TVBS歡樂台,https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184
 亞洲旅遊台,https://www.4gtv.tv/channel/4gtv-4gtv076?set=1&ch=250
 幸福空間居家台,https://www.4gtv.tv/channel/4gtv-live206?set=1&ch=168
 東森財經,https://www.4gtv.tv/channel/4gtv-4gtv153?set=1&ch=293
-東森新聞,https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292
+
 東森購物一台,https://www.4gtv.tv/channel/4gtv-live047?set=1&ch=173
 東森購物二台,https://www.4gtv.tv/channel/4gtv-live046?set=1&ch=174
 東森購物三台,https://www.4gtv.tv/channel/4gtv-live048?set=1&ch=287
@@ -80,8 +105,7 @@ TVBS歡樂台,https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184
 國會頻道2,https://www.4gtv.tv/channel/4gtv-4gtv085?set=1&ch=171
 麥哲倫頻道,https://www.4gtv.tv/channel/4gtv-live123?set=1&ch=450
 智林體育台,https://www.4gtv.tv/channel/4gtv-4gtv101?set=1&ch=58
-華視,https://www.4gtv.tv/channel/4gtv-4gtv041?set=1&ch=6
-華視新聞,https://www.4gtv.tv/channel/4gtv-4gtv052?set=1&ch=34
+
 視納華仁紀實頻道,https://www.4gtv.tv/channel/4gtv-4gtv013?set=1&ch=38
 愛爾達生活旅遊台,https://www.4gtv.tv/channel/4gtv-live120?set=1&ch=237
 愛爾達娛樂台,https://www.4gtv.tv/channel/4gtv-4gtv070?set=1&ch=19
@@ -90,25 +114,13 @@ TVBS歡樂台,https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184
 經典電影台,https://www.4gtv.tv/channel/4gtv-live021?set=1&ch=201
 達文西頻道,https://www.4gtv.tv/channel/4gtv-4gtv018?set=1&ch=11
 電影原聲台CMusic,https://www.4gtv.tv/channel/4gtv-live031?set=1&ch=218
-靖天日本台,https://www.4gtv.tv/channel/4gtv-4gtv047?set=1&ch=22
-靖天卡通台,https://www.4gtv.tv/channel/4gtv-4gtv044?set=1&ch=15
-靖天育樂台,https://www.4gtv.tv/channel/4gtv-4gtv062?set=1&ch=83
-靖天映畫台,https://www.4gtv.tv/channel/4gtv-4gtv055?set=1&ch=42
-靖天國際台,https://www.4gtv.tv/channel/4gtv-4gtv063?set=1&ch=84
-靖天資訊台,https://www.4gtv.tv/channel/4gtv-4gtv065?set=1&ch=88
-靖天電影台,https://www.4gtv.tv/channel/4gtv-4gtv061?set=1&ch=82
-靖天綜合台,https://www.4gtv.tv/channel/4gtv-4gtv046?set=1&ch=21
-靖天戲劇台,https://www.4gtv.tv/channel/4gtv-4gtv058?set=1&ch=116
-靖天歡樂台,https://www.4gtv.tv/channel/4gtv-4gtv054?set=1&ch=119
-靖洋卡通台,https://www.4gtv.tv/channel/4gtv-4gtv057?set=1&ch=59
-靖洋戲劇台,https://www.4gtv.tv/channel/4gtv-4gtv045?set=1&ch=118
+
 滾動力rollor,https://www.4gtv.tv/channel/4gtv-live012?set=1&ch=249
 精選動漫台,https://www.4gtv.tv/channel/4gtv-live024?set=1&ch=204
 影迷數位紀實台,https://www.4gtv.tv/channel/litv-ftv15?set=1&ch=445
 影迷數位電影台,https://www.4gtv.tv/channel/4gtv-4gtv011?set=1&ch=40
 豬哥亮歌廳秀,https://www.4gtv.tv/channel/4gtv-4gtv006?set=1&ch=113
-寰宇台灣,https://www.4gtv.tv/channel/4gtv-4gtv156?set=1&ch=280
-寰宇新聞,https://www.4gtv.tv/channel/litv-longturn14?set=1&ch=36
+
 韓國娛樂台 KMTV,https://www.4gtv.tv/channel/4gtv-4gtv016?set=1&ch=446
 鏡新聞,https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268
 	
