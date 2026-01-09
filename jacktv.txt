@@ -1,3 +1,5 @@
+jacktv,#genre#
+
 翡翠台,http://mytv.veryfast.filegear-sg.me/hls/fct/playlist.m3u8
 翡翠台(广电),http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
 翡翠台4K,http://cdn6.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
