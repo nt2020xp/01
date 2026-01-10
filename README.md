@@ -1,5 +1,15 @@
 東森幼幼,http://47.110.137.212/smt.php?id=yoyo_twn
 
+緯來日本,http://47.110.137.212/smt.php?id=videolandjapan
+
+緯來綜合,http://47.110.137.212/smt.php?id=videolandzonghe
+
+緯來體育,http://47.110.137.212/smt.php?id=videolandsport
+
+東森洋片,http://47.110.137.212/smt.php?id=ettvwestern
+
+好萊塢電影,http://47.110.137.212/smt.php?id=hollywoodmovies_twn
+
 
 直播源  https://php.946985.filegear-sg.me/jackTV.m3u
 
