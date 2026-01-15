@@ -127,7 +127,7 @@ NOW新聞台,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
 官方網頁,#genre#
 江蘇衛視,webview://https://live.jstv.com/
 浙江衛視,webview://https://www.cztv.com/liveTV/101
-北京衛視,webview://https://www.btime.com/btv
+北京衛視,webview://https://www.btime.com/btv/btvsy_index?tag=0
 東方衛視,webview://https://live.kankanews.com/huikan?id=1
 
 74央視,#genre#
