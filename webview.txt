@@ -116,6 +116,14 @@ CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 西藏卫视,webview://https://yangshipin.cn/tv/home?pid=600190403
 新疆卫视,webview://https://yangshipin.cn/tv/home?pid=600152138
 
+官方網頁,#genre#
+江蘇衛視,webview://https://live.jstv.com/
+浙江衛視,webview://https://www.cztv.com/liveTV/101
+北京衛視,webview://https://www.btime.com/btv/btvsy_index?tag=0
+東方衛視,webview://https://live.kankanews.com/huikan?id=1
+黑龍江衛視,https://zmt-m.hljtv.com/live_tv.html?tv_id=10
+黑龍江影視,https://zmt-m.hljtv.com/live_tv.html?tv_id=12
+
 香港,#genre#
 
 TVB翡翠台,http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
@@ -124,11 +132,7 @@ TVB星河台,http://php.jdshipin.com/PLTV/iptv.php?id=tvbxh
 重溫經典,http://cdn6.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
 NOW新聞台,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
 
-官方網頁,#genre#
-江蘇衛視,webview://https://live.jstv.com/
-浙江衛視,webview://https://www.cztv.com/liveTV/101
-北京衛視,webview://https://www.btime.com/btv/btvsy_index?tag=0
-東方衛視,webview://https://live.kankanews.com/huikan?id=1
+
 
 74央視,#genre#
 CCTV1综合,http://74.91.26.218:82/live/cctv1hd.m3u8
