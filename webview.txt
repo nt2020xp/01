@@ -121,8 +121,6 @@ CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 浙江衛視,webview://https://www.cztv.com/liveTV/101
 北京衛視,webview://https://www.btime.com/btv/btvsy_index?tag=0
 東方衛視,webview://https://live.kankanews.com/huikan?id=1
-黑龍江衛視,webview://https://zmtm.hljtv.com/live_tv.html?tv_id=10
-黑龍江影視,webview://https://zmtm.hljtv.com/live_tv.html?tv_id=12
 
 香港,#genre#
 
