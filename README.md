@@ -214,6 +214,8 @@ echo "$value[3],","$base_url/tv.php?token=" . urlencode($SECRET_TOKEN) . "&id=" 
 https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
 
 ====================== TG群組
+gray share https://t.me/garyshare
+
 
 aptv https://t.me/AptvPlayer
 
