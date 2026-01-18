@@ -1,81 +1,82 @@
-4gtv-4gtv001	民視台灣台
-4gtv-4gtv003	民視第一台
-4gtv-4gtv004	民視綜藝台
-4gtv-4gtv006	豬哥亮歌廳秀
-4gtv-4gtv009	中天新聞台
-4gtv-4gtv010	非凡新聞台
-4gtv-4gtv011	影迷數位電影台
-4gtv-4gtv013	視納華仁紀實頻道
-4gtv-4gtv014	時尚運動X
-4gtv-4gtv016	韓國娛樂台 KMTV
-4gtv-4gtv018	達文西頻道
-4gtv-4gtv034	八大精彩台
-4gtv-4gtv039	八大綜藝台
-4gtv-4gtv040	中視
-4gtv-4gtv041	華視
-4gtv-4gtv042	公視戲劇
-4gtv-4gtv043	客家電視台
-4gtv-4gtv044	靖天卡通台
-4gtv-4gtv045	靖洋戲劇台
-4gtv-4gtv046	靖天綜合台
-4gtv-4gtv047	靖天日本台
-4gtv-4gtv048	非凡商業台
-4gtv-4gtv049	采昌影劇台
-4gtv-4gtv051	台視新聞
-4gtv-4gtv052	華視新聞
-4gtv-4gtv053	GINX Esports TV
-4gtv-4gtv054	靖天歡樂台
-4gtv-4gtv055	靖天映畫台
-4gtv-4gtv056	台視財經
-4gtv-4gtv057	靖洋卡通台
-4gtv-4gtv058	靖天戲劇台
-4gtv-4gtv059	CLASSICA 古典樂
-4gtv-4gtv061	靖天電影台
-4gtv-4gtv062	靖天育樂台
-4gtv-4gtv063	靖天國際台
-4gtv-4gtv065	靖天資訊台
-4gtv-4gtv066	台視
-4gtv-4gtv070	愛爾達娛樂台
-4gtv-4gtv074	中視新聞
-4gtv-4gtv076	亞洲旅遊台
-4gtv-4gtv077	TRACE Sport Stars
-4gtv-4gtv079	ARIRANG阿里郎頻道
-4gtv-4gtv082	TRACE Urban
-4gtv-4gtv083	Mezzo Live HD
-4gtv-4gtv084	國會頻道1台
-4gtv-4gtv085	國會頻道2台
-4gtv-4gtv101	智林體育台
-4gtv-4gtv102	東森購物1台
-4gtv-4gtv103	東森購物2台
-4gtv-4gtv104	第1商業台
-4gtv-4gtv109	中天亞洲台
-4gtv-4gtv110	Pet Club TV
-4gtv-4gtv152	東森新聞台
-4gtv-4gtv153	東森財經台
-4gtv-4gtv155	民視
-4gtv-4gtv156	寰宇新聞台
-4gtv-4gtv158	寰宇財經台
-litv-ftv07	民視旅遊台
-litv-ftv09	民視影劇台
-litv-ftv10	我的歐洲電影
-litv-ftv13	民視新聞台
-litv-ftv15	影迷數位紀實台
-litv-longturn14	寰宇新聞台
-litv-xinchuang01	龍華卡通台
-litv-xinchuang02	龍華洋片台
-litv-xinchuang03	龍華電影台
-litv-xinchuang04	博斯魅力台
-litv-xinchuang05	博斯高球台
-litv-xinchuang06	博斯高球二台
-litv-xinchuang07	博斯運動一台
-litv-xinchuang08	博斯運動二台
-litv-xinchuang09	博斯網球台
-litv-xinchuang10	博斯無限台
-litv-xinchuang11	龍華日韓台
-litv-xinchuang12	龍華偶像台
-litv-xinchuang13	博斯無限二台
-litv-xinchuang18	龍華戲劇台
-litv-xinchuang19	Smart知識台
-litv-xinchuang20	ELTV生活英語台
-litv-xinchuang21	龍華經典台
-litv-xinchuang22	台灣戲劇台
+民視台灣台	4gtv-4gtv001						
+民視第一台	4gtv-4gtv003						
+民視綜藝台	4gtv-4gtv004						
+豬哥亮歌廳秀	4gtv-4gtv006						
+中天新聞台	4gtv-4gtv009						
+非凡新聞台	4gtv-4gtv010						
+影迷數位電影台	4gtv-4gtv011						
+視納華仁紀實頻道	4gtv-4gtv013						
+時尚運動X	4gtv-4gtv014						
+韓國娛樂台 KMTV	4gtv-4gtv016						
+達文西頻道	4gtv-4gtv018						
+八大精彩台	4gtv-4gtv034						
+八大綜藝台	4gtv-4gtv039						
+中視	4gtv-4gtv040						
+華視	4gtv-4gtv041						
+公視戲劇	4gtv-4gtv042						
+客家電視台	4gtv-4gtv043						
+靖天卡通台	4gtv-4gtv044						
+靖洋戲劇台	4gtv-4gtv045						
+靖天綜合台	4gtv-4gtv046						
+靖天日本台	4gtv-4gtv047						
+非凡商業台	4gtv-4gtv048						
+采昌影劇台	4gtv-4gtv049						
+台視新聞	4gtv-4gtv051						
+華視新聞	4gtv-4gtv052						
+GINX Esports TV	4gtv-4gtv053						
+靖天歡樂台	4gtv-4gtv054						
+靖天映畫台	4gtv-4gtv055						
+台視財經	4gtv-4gtv056						
+靖洋卡通台	4gtv-4gtv057						
+靖天戲劇台	4gtv-4gtv058						
+CLASSICA 古典樂	4gtv-4gtv059						
+靖天電影台	4gtv-4gtv061						
+靖天育樂台	4gtv-4gtv062						
+靖天國際台	4gtv-4gtv063						
+靖天資訊台	4gtv-4gtv065						
+台視	4gtv-4gtv066						
+愛爾達娛樂台	4gtv-4gtv070						
+中視新聞	4gtv-4gtv074						
+亞洲旅遊台	4gtv-4gtv076						
+TRACE Sport Stars	4gtv-4gtv077						
+ARIRANG阿里郎頻道	4gtv-4gtv079						
+TRACE Urban	4gtv-4gtv082						
+Mezzo Live HD	4gtv-4gtv083						
+國會頻道1台	4gtv-4gtv084						
+國會頻道2台	4gtv-4gtv085						
+智林體育台	4gtv-4gtv101						
+東森購物1台	4gtv-4gtv102						
+東森購物2台	4gtv-4gtv103						
+第1商業台	4gtv-4gtv104						
+中天亞洲台	4gtv-4gtv109						
+Pet Club TV	4gtv-4gtv110						
+東森新聞台	4gtv-4gtv152						
+東森財經台	4gtv-4gtv153						
+民視	4gtv-4gtv155						
+寰宇新聞台	4gtv-4gtv156						
+寰宇財經台	4gtv-4gtv158						
+民視旅遊台	litv-ftv07						
+民視影劇台	litv-ftv09						
+我的歐洲電影	litv-ftv10						
+民視新聞台	litv-ftv13						
+影迷數位紀實台	litv-ftv15						
+寰宇新聞台	litv-longturn14						
+龍華卡通台	litv-xinchuang01						
+龍華洋片台	litv-xinchuang02						
+龍華電影台	litv-xinchuang03						
+博斯魅力台	litv-xinchuang04						
+博斯高球台	litv-xinchuang05						
+博斯高球二台	litv-xinchuang06						
+博斯運動一台	litv-xinchuang07						
+博斯運動二台	litv-xinchuang08						
+博斯網球台	litv-xinchuang09						
+博斯無限台	litv-xinchuang10						
+龍華日韓台	litv-xinchuang11						
+龍華偶像台	litv-xinchuang12						
+博斯無限二台	litv-xinchuang13						
+龍華戲劇台	litv-xinchuang18						
+Smart知識台	litv-xinchuang19						
+ELTV生活英語台	litv-xinchuang20						
+龍華經典台	litv-xinchuang21						
+台灣戲劇台	litv-xinchuang22		
+
