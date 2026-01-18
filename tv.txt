@@ -13,6 +13,10 @@ CBeebies,udp://@224.1.4.75:11111
 CatchPlay電影台,udp://@230.1.2.217:11111
 CatchPlay電影台,udp://@230.1.2.37:11111
 
+東森幼幼,https://live.catvod.com/live.php?id=yoyo_twn
+緯來日本,https://live.catvod.com/live.php?id=videolandjapan
+緯來綜合,https://live.catvod.com/live.php?id=videolandzonghe
+緯來體育,https://live.catvod.com/live.php?id=videolandsport
 
 柯南國語,https://live.ottiptv.cc/huya/30080148
 
