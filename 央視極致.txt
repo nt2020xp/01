@@ -30,5 +30,3 @@ order=14
 CCTV風雲劇場,https://yangshipin.cn/tv/home?pid=600099658
 CCTV第一劇場,https://yangshipin.cn/tv/home?pid=600099655
 CCTV懷舊劇場,https://yangshipin.cn/tv/home?pid=600099620
-極致央視.txt
-目前顯示的是「極致央視.txt」。
