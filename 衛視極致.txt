@@ -37,6 +37,3 @@ order=14
 遼寧衛視,https://yangshipin.cn/tv/home?pid=600002505
 内蒙古衛視,https://yangshipin.cn/tv/home?pid=600190401
 黑龍江衛視,https://yangshipin.cn/tv/home?pid=600002498
-
-極致衛視.txt
-目前顯示的是「極致衛視.txt」。
