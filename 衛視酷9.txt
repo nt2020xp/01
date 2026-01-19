@@ -31,5 +31,3 @@
 青海卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600190406
 西藏卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600190403
 新疆卫视,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600152138
-酷9衛視.txt
-目前顯示的是「酷9衛視.txt」。
