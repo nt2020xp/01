@@ -31,5 +31,3 @@
 青海卫视,webview://https://yangshipin.cn/tv/home?pid=600190406
 西藏卫视,webview://https://yangshipin.cn/tv/home?pid=600190403
 新疆卫视,webview://https://yangshipin.cn/tv/home?pid=600152138
-天光云影衛視.txt
-目前顯示的是「極致衛視.txt」。
