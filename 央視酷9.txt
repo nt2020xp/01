@@ -25,5 +25,3 @@ CCTV17农业农村,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv17
 CCTV风云剧场,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600099658
 CCTV第一剧场,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600099655
 CCTV怀旧剧场,http://A/ku9/js/webview.js?id=https://yangshipin.cn/tv/home?pid=600099620
-酷9央視.txt
-目前顯示的是「酷9央視.txt」。
