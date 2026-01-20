@@ -84,7 +84,6 @@ CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 
 衛視,#genre#
 
-
 江苏卫视,webview://https://yangshipin.cn/tv/home?pid=600002521
 浙江卫视,webview://https://yangshipin.cn/tv/home?pid=600002520
 湖南卫视,webview://https://yangshipin.cn/tv/home?pid=600002475
@@ -117,6 +116,19 @@ CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 西藏卫视,webview://https://yangshipin.cn/tv/home?pid=600190403
 新疆卫视,webview://https://yangshipin.cn/tv/home?pid=600152138
 
+央視新聞,#genre#
+
+CCTV4K超高清,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=2127841942201075403
+CCTV1綜合,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
+CCTV2財經,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103
+CCTV4中文國際,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952
+CCTV7國防軍事,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=8516529981177953694
+CCTV9紀錄,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=7252237247689203957
+CCTV10科教,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=14589146016461298119
+CCTV12社會與法,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=13180385922471124325
+CCTV13新聞,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228
+CCTV17農業農村,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=4496917190172866934
+
 官方網頁,#genre#
 江蘇衛視,webview://https://live.jstv.com/
 浙江衛視,webview://https://www.cztv.com/liveTV/101
@@ -130,20 +142,6 @@ TVB新聞台,http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
 TVB星河台,http://php.jdshipin.com/PLTV/iptv.php?id=tvbxh
 重溫經典,http://cdn6.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
 NOW新聞台,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
-
-
-央視新聞,#genre#
-
-CCTV4K超高清,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=2127841942201075403
-CCTV1綜合,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
-CCTV2財經,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103
-CCTV4中文國際,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952
-CCTV7國防軍事,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=8516529981177953694
-CCTV9紀錄,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=7252237247689203957
-CCTV10科教,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=14589146016461298119
-CCTV12社會與法,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=13180385922471124325
-CCTV13新聞,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228
-CCTV17農業農村,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=4496917190172866934
 
 
 cctv,#genre#
