@@ -132,7 +132,7 @@ TVB星河台,http://php.jdshipin.com/PLTV/iptv.php?id=tvbxh
 NOW新聞台,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
 
 
-天光云影央視新聞,#genre#
+央視新聞,#genre#
 
 CCTV4K超高清,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=2127841942201075403
 CCTV1綜合,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
