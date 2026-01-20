@@ -454,3 +454,16 @@ NOW 90s00s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW9
 Concerto,https://php.946985.filegear-sg.me/mytv265.php?id=CONC
 TRACE Urban,https://php.946985.filegear-sg.me/mytv265.php?id=TRUR
 NewsWorld,https://php.946985.filegear-sg.me/mytv265.php?id=NSWD
+
+cctv,#genre#
+
+1,https://integral-prisca-ef399aa6.koyeb.app/cctv.php?id=cctv1&q=lg
+2,https://integral-prisca-ef399aa6.koyeb.app/cctv.php?id=cctv2&q=lg
+4,https://integral-prisca-ef399aa6.koyeb.app/cctv.php?id=cctv4&q=lg
+7,https://integral-prisca-ef399aa6.koyeb.app/cctv.php?id=cctv7&q=lg
+9,https://integral-prisca-ef399aa6.koyeb.app/cctv.php?id=cctv9&q=lg
+10,https://integral-prisca-ef399aa6.koyeb.app/cctv.php?id=cctv10&q=lg
+12,https://integral-prisca-ef399aa6.koyeb.app/cctv.php?id=cctv12&q=lg
+13,https://integral-prisca-ef399aa6.koyeb.app/cctv.php?id=cctv13&q=lg
+17,https://integral-prisca-ef399aa6.koyeb.app/cctv.php?id=cctv17&q=lg
+4k,https://integral-prisca-ef399aa6.koyeb.app/cctv.php?id=cctv4k&q=lg
