@@ -1,3 +1,9 @@
+https://php.946985.filegear-sg.me/jackTV.m3u
+
+https://fanmingming.com/txt?url=
+https://php.946985.filegear-sg.me/jackTV.m3u
+
+
 https://fanmingming.com/txt?url= https://integral-prisca-ef399aa6.koyeb.app/litv.php
 
 https://fanmingming.com/txt?url=
