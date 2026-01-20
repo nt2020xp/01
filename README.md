@@ -1,5 +1,6 @@
 用酷9播放：https://gongdian.top/tv/ku9/webview.txt#JS=https://gongdian.top/tv/ku9/js/webview.js
 
+https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/9.txt#JS=https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/9.js
 
 東森幼幼,http://47.110.137.212/smt.php?id=yoyo_twn
 
