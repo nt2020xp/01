@@ -146,16 +146,17 @@ NOW新聞台,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
 
 cctv,#genre#
 
-1,https://integral-prisca-ef399aa6.koyeb.app/cctv.php?id=cctv1&q=lg
-2,https://integral-prisca-ef399aa6.koyeb.app/cctv.php?id=cctv2&q=lg
-4,https://integral-prisca-ef399aa6.koyeb.app/cctv.php?id=cctv4&q=lg
-7,https://integral-prisca-ef399aa6.koyeb.app/cctv.php?id=cctv7&q=lg
-9,https://integral-prisca-ef399aa6.koyeb.app/cctv.php?id=cctv9&q=lg
-10,https://integral-prisca-ef399aa6.koyeb.app/cctv.php?id=cctv10&q=lg
-12,https://integral-prisca-ef399aa6.koyeb.app/cctv.php?id=cctv12&q=lg
-13,https://integral-prisca-ef399aa6.koyeb.app/cctv.php?id=cctv13&q=lg
-17,https://integral-prisca-ef399aa6.koyeb.app/cctv.php?id=cctv17&q=lg
-4k,https://integral-prisca-ef399aa6.koyeb.app/cctv.php?id=cctv4k&q=lg
+CCTV4K,https://integral-prisca-ef399aa6.koyeb.app/cctv.php?id=cctv4k&q=lg
+CCTV1综合,https://integral-prisca-ef399aa6.koyeb.app/cctv.php?id=cctv1&q=lg
+CCTV2财经,https://integral-prisca-ef399aa6.koyeb.app/cctv.php?id=cctv2&q=lg
+CCTV4中文国际,https://integral-prisca-ef399aa6.koyeb.app/cctv.php?id=cctv4&q=lg
+CCTV7国防军事,https://integral-prisca-ef399aa6.koyeb.app/cctv.php?id=cctv7&q=lg
+CCTV9纪录,https://integral-prisca-ef399aa6.koyeb.app/cctv.php?id=cctv9&q=lg
+CCTV10科教,https://integral-prisca-ef399aa6.koyeb.app/cctv.php?id=cctv10&q=lg
+CCTV12社会与法,https://integral-prisca-ef399aa6.koyeb.app/cctv.php?id=cctv12&q=lg
+CCTV13新闻,https://integral-prisca-ef399aa6.koyeb.app/cctv.php?id=cctv13&q=lg
+CCTV17农业农村,https://integral-prisca-ef399aa6.koyeb.app/cctv.php?id=cctv17&q=lg
+
 
 74央視,#genre#
 CCTV1综合,http://74.91.26.218:82/live/cctv1hd.m3u8
