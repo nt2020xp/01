@@ -1,4 +1,4 @@
-https://fanmingming.com/txt?url=integral-prisca-ef399aa6.koyeb.app/litv.php
+https://fanmingming.com/txt?url= https://integral-prisca-ef399aa6.koyeb.app/litv.php
 
 https://fanmingming.com/txt?url=
 
