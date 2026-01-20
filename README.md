@@ -1,3 +1,5 @@
+全自动生成litv脚本  https://litv.msbot.dpdns.org/litv.php
+
 用酷9播放：https://gongdian.top/tv/ku9/webview.txt#JS=https://gongdian.top/tv/ku9/js/webview.js
 
 https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/9.txt#JS=https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/9.js
