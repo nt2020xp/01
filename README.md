@@ -1,3 +1,7 @@
+https://fanmingming.com/txt?url=integral-prisca-ef399aa6.koyeb.app/litv.php
+
+https://fanmingming.com/txt?url=
+
 全自动生成litv脚本  https://litv.msbot.dpdns.org/litv.php
 
 用酷9播放：https://gongdian.top/tv/ku9/webview.txt#JS=https://gongdian.top/tv/ku9/js/webview.js
