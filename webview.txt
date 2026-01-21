@@ -219,7 +219,6 @@ TVBS新聞台,https://4gtv.tzh911.qzz.io/playlist?channel=TVBS%E6%96%B0%E8%81%9E
 民視,https://4gtv.tzh911.qzz.io/playlist?channel=%E6%B0%91%E8%A6%96
 
 靖天日本台,https://4gtv.tzh911.qzz.io/playlist?channel=%E9%9D%96%E5%A4%A9%E6%97%A5%E6%9C%AC%E5%8F%B0
-靖天卡通台,https://4gtv.tzh911.qzz.io/playlist?channel=%E9%9D%96%E5%A4%A9%E5%8D%A1%E9%80%9A%E5%8F%B0
 靖天育樂台,https://4gtv.tzh911.qzz.io/playlist?channel=%E9%9D%96%E5%A4%A9%E8%82%B2%E6%A8%82%E5%8F%B0
 靖天映畫台,https://4gtv.tzh911.qzz.io/playlist?channel=%E9%9D%96%E5%A4%A9%E6%98%A0%E7%95%AB
 靖天國際台,https://4gtv.tzh911.qzz.io/playlist?channel=KLT-%E9%9D%96%E5%A4%A9%E5%9C%8B%E9%9A%9B%E5%8F%B0
@@ -228,8 +227,9 @@ TVBS新聞台,https://4gtv.tzh911.qzz.io/playlist?channel=TVBS%E6%96%B0%E8%81%9E
 靖天綜合台,https://4gtv.tzh911.qzz.io/playlist?channel=%E9%9D%96%E5%A4%A9%E7%B6%9C%E5%90%88%E5%8F%B0
 靖天戲劇台,https://4gtv.tzh911.qzz.io/playlist?channel=%E9%9D%96%E5%A4%A9%E6%88%B2%E5%8A%87%E5%8F%B0
 靖天歡樂台,https://4gtv.tzh911.qzz.io/playlist?channel=Nice%20TV%20%E9%9D%96%E5%A4%A9%E6%AD%A1%E6%A8%82%E5%8F%B0
-靖洋卡通台,https://4gtv.tzh911.qzz.io/playlist?channel=%E9%9D%96%E6%B4%8B%E5%8D%A1%E9%80%9ANice%20Bingo
 靖洋戲劇台,https://4gtv.tzh911.qzz.io/playlist?channel=%E9%9D%96%E6%B4%8B%E6%88%B2%E5%8A%87%E5%8F%B0
+靖天卡通台,https://4gtv.tzh911.qzz.io/playlist?channel=%E9%9D%96%E5%A4%A9%E5%8D%A1%E9%80%9A%E5%8F%B0
+靖洋卡通台,https://4gtv.tzh911.qzz.io/playlist?channel=%E9%9D%96%E6%B4%8B%E5%8D%A1%E9%80%9ANice%20Bingo
 
 Love Nature,https://4gtv.tzh911.qzz.io/playlist?channel=Love%20Nature
 Pet Club TV,https://4gtv.tzh911.qzz.io/playlist?channel=Pet%20Club%20TV
