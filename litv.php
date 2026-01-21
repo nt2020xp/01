@@ -1,8 +1,29 @@
 <?php
-//脚本生成时间：2026-01-20 18:00:21
+//脚本生成时间：2026-01-21 09:48:09
 header('Content-Type: text/plain; charset=utf-8');
 error_reporting(0);
-function creat_m3u8($id,$qlt,$alt){
+function get_curl($url,$download=false){
+    $ch=curl_init();
+    curl_setopt($ch,CURLOPT_URL,$url);
+    curl_setopt($ch,CURLOPT_SSL_VERIFYPEER,false);
+    curl_setopt($ch,CURLOPT_SSL_VERIFYHOST,false);
+    curl_setopt($ch, CURLOPT_TIMEOUT, 30);          
+    curl_setopt($ch, CURLOPT_CONNECTTIMEOUT,10); 
+    curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1); 
+    curl_setopt($ch, CURLOPT_MAXREDIRS, 5);
+    if($download){
+        curl_setopt($ch, CURLOPT_BUFFERSIZE, 128000);
+        curl_setopt($ch, CURLOPT_WRITEFUNCTION, 'stream');
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, false);
+    }else{
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+    }
+    $result = curl_exec($ch);
+    curl_close($ch);
+    return $result;
+   
+}
+function creat_m3u8($id,$qlt,$alt,$proxy){
     $timestamp = intval(time()/4-355017628);
     $t=$timestamp*4;
     $m3u8 = "#EXTM3U\n";
@@ -11,7 +32,11 @@ function creat_m3u8($id,$qlt,$alt){
     $m3u8.= "#EXT-X-MEDIA-SEQUENCE:{$timestamp}\n";
     for ($i=0; $i<10; $i++) {
         $m3u8.= "#EXTINF:4,\n";
-        $m3u8.="https://ntd-tgc.cdn.hinet.net/live/pool/{$id}/litv-pc/{$id}-avc1_6000000={$qlt}-mp4a_134000_zho={$alt}-begin={$t}0000000-dur=40000000-seq={$timestamp}.ts\n";
+        if($proxy!="true"){
+            $m3u8.="https://ntd-tgc.cdn.hinet.net/live/pool/{$id}/litv-pc/{$id}-avc1_6000000={$qlt}-mp4a_134000_zho={$alt}-begin={$t}0000000-dur=40000000-seq={$timestamp}.ts\n";
+        }else{
+            $m3u8.=get_path()."?id={$id}&url=".urlencode("https://ntd-tgc.cdn.hinet.net/live/pool/{$id}/litv-pc/{$id}-avc1_6000000={$qlt}-mp4a_134000_zho={$alt}-begin={$t}0000000-dur=40000000-seq={$timestamp}.ts")."\n";
+        }
         $timestamp = $timestamp+1;
         $t=$t+4;
     }
@@ -21,11 +46,25 @@ function get_path() {
     $protocol = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') ? "https" : "http";
     return $protocol . "://" . $_SERVER['HTTP_HOST'] . $_SERVER['SCRIPT_NAME'];
 }
-function creat_m3u($n){
+function stream($ch, $data) {
+    if (connection_aborted()) {
+        return 0;
+    }
+    echo $data;
+    ob_flush();
+    flush();
+    return strlen($data);
+}
+function creat_m3u($n,$proxy){
     $m3u="#EXTM3U x-tvg-url=".'"https://epg.iill.top/epg.xml.gz"'."\n";
     $local_path = get_path();
+    if($proxy=="true"){
+        $proxy="&proxy=true";
+    }else{
+         $proxy="";
+    }
     foreach ($n as $id => $key ){
-        $m3u.='#EXTINF:-1 tvg-id="'.$id.'" tvg-name="'.$key[4].'" tvg-logo="https://epg.iill.top/logo/'.$key[2].'.png" group-title="'.$key[3].'",'.$key[4]."\n{$local_path}?id={$id}\n";
+        $m3u.='#EXTINF:-1 tvg-id="'.$id.'" tvg-name="'.$key[4].'" tvg-logo="https://epg.iill.top/logo/'.$key[2].'.png" group-title="'.$key[3].'",'.$key[4]."\n{$local_path}?id={$id}{$proxy}\n";
     }
     return $m3u;
 }
@@ -126,14 +165,22 @@ $n = [
 "litv-ftv03"=>[1,7,"VOA-美國之音","新聞財經","VOA美國之音"],
 ];
 $id = $_GET['id'] ?? '';
+$url= $_GET['url'] ?? '';
+$proxy = $_GET['proxy'] ?? '';
 if(empty(trim($id))){
-    die(creat_m3u($n)); 
+    die(creat_m3u($n,$proxy)); 
 }
 if(!isset($n[$id])){
     header("HTTP/1.1 404 Not Found");
     die('Channel not found');
 }
-$m3u8 = creat_m3u8($id, $n[$id][0], $n[$id][1]);
-header('Content-Type: application/vnd.apple.mpegurl'); 
-header('Content-Disposition: inline; filename=index.m3u8');
-die(trim($m3u8));
+if(empty(trim($url))){
+    $m3u8 = creat_m3u8($id, $n[$id][0], $n[$id][1],$proxy);
+    header('Content-Type: application/vnd.apple.mpegurl');
+    header('Content-Disposition: inline; filename=index.m3u8');
+    die(trim($m3u8));
+}
+header('X-Accel-Buffering: no');
+header('Content-Disposition: inline; filename=stream.ts');
+get_curl($url,true);
+exit;
