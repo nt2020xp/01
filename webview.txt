@@ -217,7 +217,7 @@ TVBS新聞,https://4gtv.tzh911.qzz.io/playlist?channel=TVBS%E6%96%B0%E8%81%9E
 
 華視,https://4gtv.tzh911.qzz.io/playlist?channel=%E8%8F%AF%E8%A6%96
 中視,https://4gtv.tzh911.qzz.io/playlist?channel=%E4%B8%AD%E8%A6%96
-
+民視,https://4gtv.tzh911.qzz.io/playlist?channel=%E6%B0%91%E8%A6%96
 Bloomberg TV,https://4gtv.tzh911.qzz.io/playlist?channel=Bloomberg%20TV
 SBN全球財經台,https://4gtv.tzh911.qzz.io/playlist?channel=SBN%E5%85%A8%E7%90%83%E8%B2%A1%E7%B6%93%E5%8F%B0
 FRANCE24 英文台,https://4gtv.tzh911.qzz.io/playlist?channel=FRANCE24%20%E8%8B%B1%E6%96%87%E5%8F%B0
@@ -227,9 +227,7 @@ CNBC Asia 財經台,https://4gtv.tzh911.qzz.io/playlist?channel=CNBC%20Asia%20%E
 DW德國之聲,https://4gtv.tzh911.qzz.io/playlist?channel=DW%E5%BE%B7%E5%9C%8B%E4%B9%8B%E8%81%B2
 民視第一台,https://4gtv.tzh911.qzz.io/playlist?channel=%E6%B0%91%E8%A6%96%E7%AC%AC%E4%B8%80%E5%8F%B0
 民視台灣台,https://4gtv.tzh911.qzz.io/playlist?channel=%E6%B0%91%E8%A6%96%E5%8F%B0%E7%81%A3%E5%8F%B0
-民視,https://4gtv.tzh911.qzz.io/playlist?channel=%E6%B0%91%E8%A6%96
 三立綜合台,https://4gtv.tzh911.qzz.io/playlist?channel=%E4%B8%89%E7%AB%8B%E7%B6%9C%E5%90%88%E5%8F%B0
-
 中視經典台,https://4gtv.tzh911.qzz.io/playlist?channel=%E4%B8%AD%E8%A6%96%E7%B6%93%E5%85%B8%E5%8F%B0
 中視菁采台,https://4gtv.tzh911.qzz.io/playlist?channel=%E4%B8%AD%E8%A6%96%E8%8F%81%E9%87%87%E5%8F%B0
 八大綜藝台,https://4gtv.tzh911.qzz.io/playlist?channel=%E5%85%AB%E5%A4%A7%E7%B6%9C%E8%97%9D%E5%8F%B0
@@ -299,7 +297,6 @@ DreamWorks 夢工廠動畫,https://4gtv.tzh911.qzz.io/playlist?channel=DreamWork
 靖天卡通台,https://4gtv.tzh911.qzz.io/playlist?channel=%E9%9D%96%E5%A4%A9%E5%8D%A1%E9%80%9A%E5%8F%B0
 靖洋卡通Nice Bingo,https://4gtv.tzh911.qzz.io/playlist?channel=%E9%9D%96%E6%B4%8B%E5%8D%A1%E9%80%9ANice%20Bingo
 金光布袋戲,https://4gtv.tzh911.qzz.io/playlist?channel=%E9%87%91%E5%85%89%E5%B8%83%E8%A2%8B%E6%88%B2
-霹靂布袋戲,https://4gtv.tzh911.qzz.io/playlist?channel=%E9%9C%B9%E9%9D%82%E5%B8%83%E8%A2%8B%E6%88%B2
 經典卡通台,https://4gtv.tzh911.qzz.io/playlist?channel=%E7%B6%93%E5%85%B8%E5%8D%A1%E9%80%9A%E5%8F%B0
 精選動漫台,https://4gtv.tzh911.qzz.io/playlist?channel=%E7%B2%BE%E9%81%B8%E5%8B%95%E6%BC%AB%E5%8F%B0
 Mezzo Live HD,https://4gtv.tzh911.qzz.io/playlist?channel=Mezzo%20Live%20HD
