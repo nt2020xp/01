@@ -202,19 +202,17 @@ Astro QJ_SMT,http://smt.1678520.xyz/smt3.2.3.php?id=Quanjia
 
 4gtv,#genre#
 
-TVBS新聞,https://4gtv.tzh911.qzz.io/playlist?channel=TVBS%E6%96%B0%E8%81%9E
+TVBS新聞台,https://4gtv.tzh911.qzz.io/playlist?channel=TVBS%E6%96%B0%E8%81%9E
 東森新聞台,https://4gtv.tzh911.qzz.io/playlist?channel=%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E%E5%8F%B0
-東森財經新聞台,https://4gtv.tzh911.qzz.io/playlist?channel=%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0
+東森財經台,https://4gtv.tzh911.qzz.io/playlist?channel=%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0
 民視新聞台,https://4gtv.tzh911.qzz.io/playlist?channel=%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0
-三立新聞iNEWS,https://4gtv.tzh911.qzz.io/playlist?channel=%E4%B8%89%E7%AB%8B%E6%96%B0%E8%81%9EiNEWS
+三立財經台,https://4gtv.tzh911.qzz.io/playlist?channel=%E4%B8%89%E7%AB%8B%E6%96%B0%E8%81%9EiNEWS
 中天新聞台,https://4gtv.tzh911.qzz.io/playlist?channel=%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E%E5%8F%B0
-
 華視新聞,https://4gtv.tzh911.qzz.io/playlist?channel=%E8%8F%AF%E8%A6%96%E6%96%B0%E8%81%9E
 中視新聞,https://4gtv.tzh911.qzz.io/playlist?channel=%E4%B8%AD%E8%A6%96%E6%96%B0%E8%81%9E
 寰宇新聞台,https://4gtv.tzh911.qzz.io/playlist?channel=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0
 寰宇台灣台,https://4gtv.tzh911.qzz.io/playlist?channel=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0%E7%81%A3%E5%8F%B0
 鏡新聞台,https://4gtv.tzh911.qzz.io/playlist?channel=%E9%8F%A1%E9%9B%BB%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0
-
 
 華視,https://4gtv.tzh911.qzz.io/playlist?channel=%E8%8F%AF%E8%A6%96
 中視,https://4gtv.tzh911.qzz.io/playlist?channel=%E4%B8%AD%E8%A6%96
