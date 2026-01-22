@@ -1,4 +1,4 @@
-ezc,#genre#
+ezc-litv,#genre#
 
 民視,http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv002
 民視第一台,http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv003
