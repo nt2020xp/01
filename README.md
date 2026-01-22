@@ -231,30 +231,24 @@ echo "$value[3],","$base_url/tv.php?token=" . urlencode($SECRET_TOKEN) . "&id=" 
 https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
 
 ====================== TG群組
-gray share https://t.me/garyshare
 
+(垃圾群) 冰茶TV https://t.me/x188766
 
-aptv https://t.me/AptvPlayer
+(垃圾群) tmxk 交流群 https://t.me/+rgxyQeDLtjcxM2U1
 
-jackTV https://t.me/jacktvb
+(垃圾群) 點播直播交流群：https://t.me/doubebly001
 
-冰茶TV https://t.me/x188766
+(垃圾群) catvod https://t.me/www_catvod_com
 
-tmxk 交流群 https://t.me/+rgxyQeDLtjcxM2U1
+(垃圾群) gpt研究所 https://t.me/gpt_858
 
-(垃圾群不要加)肥羊影音数码综合分享 https://t.me/feiyangdigital
+(垃圾群) 肥羊影音数码综合分享 https://t.me/feiyangdigital
 
-(垃圾群)大宇的大家庭（电视盒子） https://t.me/Dayuptv
+(垃圾群) 大宇的大家庭（电视盒子） https://t.me/Dayuptv
 
-(垃圾群不要加)极致播放器交流群 https://t.me/jizhi00
+(垃圾群) 极致播放器交流群 https://t.me/jizhi00
 
-點播直播交流群：https://t.me/doubebly001
-
-(垃圾群)智能電視盒子 https://t.me/meitu007
-
-(垃圾群)catvod https://t.me/www_catvod_com
-
-(垃圾群不要加)gpt研究所 https://t.me/gpt_858
+(垃圾群) 智能電視盒子 https://t.me/meitu007
 
 ＋＋＋＋＋＋＋＋＋
 
