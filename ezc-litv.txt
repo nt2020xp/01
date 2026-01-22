@@ -1,4 +1,4 @@
-ezc-litv,#genre#
+litv頻道,#genre#
 
 TVBS新聞台,http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv072
 東森新聞台,http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv152
