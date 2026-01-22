@@ -225,7 +225,7 @@ Astro AOD_SMT,http://smt.1678520.xyz/smt3.2.3.php?id=Aodhd
 Astro AEC_SMT,http://smt.1678520.xyz/smt3.2.3.php?id=AEC
 Astro QJ_SMT,http://smt.1678520.xyz/smt3.2.3.php?id=Quanjia
 
-4gtv,#genre#
+4gtv頻道,#genre#
 
 TVBS新聞台,https://4gtv.tzh911.qzz.io/playlist?channel=TVBS%E6%96%B0%E8%81%9E
 東森新聞台,https://4gtv.tzh911.qzz.io/playlist?channel=%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E%E5%8F%B0
