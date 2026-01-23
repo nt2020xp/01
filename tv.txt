@@ -13,6 +13,13 @@ CBeebies,udp://@224.1.4.75:11111
 CatchPlay電影台,udp://@230.1.2.217:11111
 CatchPlay電影台,udp://@230.1.2.37:11111
 
+東森幼幼,http://integral-prisca-ef399aa6.koyeb.app/smt.php?id=yoyo_twn
+緯來日本,http://integral-prisca-ef399aa6.koyeb.app/smt.php?id=videolandjapan
+緯來綜合,http://integral-prisca-ef399aa6.koyeb.app/smt.php?id=videolandzonghe
+緯來體育,http://integral-prisca-ef399aa6.koyeb.app/smt.php?id=videolandsport
+東森洋片,http://integral-prisca-ef399aa6.koyeb.app/smt.php?id=ettvwestern
+好萊塢電影,http://integral-prisca-ef399aa6.koyeb.app/smt.php?id=hollywoodmovies_twn
+
 柯南國語,https://live.ottiptv.cc/huya/30080148
 
 柯南劇場版,https://live.ottiptv.cc/huya/30080236
