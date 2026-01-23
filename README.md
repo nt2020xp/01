@@ -1,3 +1,14 @@
+東森幼幼,http://integral-prisca-ef399aa6.koyeb.app/smt.php?id=yoyo_twn
+
+緯來日本,http://integral-prisca-ef399aa6.koyeb.app/smt.php?id=videolandjapan
+
+緯來綜合,http://integral-prisca-ef399aa6.koyeb.app/smt.php?id=videolandzonghe
+
+緯來體育,http://integral-prisca-ef399aa6.koyeb.app/smt.php?id=videolandsport
+
+東森洋片,http://integral-prisca-ef399aa6.koyeb.app/smt.php?id=ettvwestern
+
+好萊塢電影,http://integral-prisca-ef399aa6.koyeb.app/smt.php?id=hollywoodmovies_twn
 
 寶盒live   https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/bhzb.m3u
 
