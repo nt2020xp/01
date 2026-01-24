@@ -393,3 +393,8 @@ TVBS歡樂台,https://4gtv.tzh911.qzz.io/playlist?channel=TVBS%E6%AD%A1%E6%A8%82
 阿里郎頻道,https://4gtv.tzh911.qzz.io/playlist?channel=ARIRANG%E9%98%BF%E9%87%8C%E9%83%8E%E9%A0%BB%E9%81%93
 韓國娛樂台 KMTV,https://4gtv.tzh911.qzz.io/playlist?channel=%E9%9F%93%E5%9C%8B%E5%A8%9B%E6%A8%82%E5%8F%B0%20KMTV
 
+大米之女國稅局資料調查課,#genre#
+
+大米之女1,https://cdn.yzzy33-play.com/20260108/3985_0c2f66f4/index.m3u8
+大米之女2,https://cdn.yzzy31-play.com/20260115/11408_44139389/index.m3u8
+大米之女3,https://cdn.yzzy31-play.com/20260122/12014_7b497aa1/index.m3u8
