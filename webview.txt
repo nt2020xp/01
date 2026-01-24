@@ -230,6 +230,12 @@ CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 黑龙江卫视,webview://https://yangshipin.cn/tv/home?pid=600002498
 
 官方網頁,#genre#
+東森幼幼,http://integral-prisca-ef399aa6.koyeb.app/smt.php?id=yoyo_twn
+緯來日本,http://integral-prisca-ef399aa6.koyeb.app/smt.php?id=videolandjapan
+緯來綜合,http://integral-prisca-ef399aa6.koyeb.app/smt.php?id=videolandzonghe
+緯來體育,http://integral-prisca-ef399aa6.koyeb.app/smt.php?id=videolandsport
+東森洋片,http://integral-prisca-ef399aa6.koyeb.app/smt.php?id=ettvwestern
+好萊塢電影,http://integral-prisca-ef399aa6.koyeb.app/smt.php?id=hollywoodmovies_twn
 江蘇衛視,webview://https://live.jstv.com/
 浙江衛視,webview://https://www.cztv.com/liveTV/101
 北京衛視,webview://https://www.btime.com/btv/btvsy_index?tag=0
