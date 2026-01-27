@@ -202,6 +202,7 @@ TVBS歡樂台,http://integral-prisca-ef399aa6.koyeb.app/5678.php?id=4gtv-4gtv068
 
 
 日本新聞,#genre#
+parse=1
 
 TBS NEWS DIG,https://www.youtube.com/live/Anr15FA9OCI
 関西24時間配信,https://www.youtube.com/watch?v=Ili9_YMvYQs
