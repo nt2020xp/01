@@ -1,78 +1,11 @@
 
 冰茶 https://bc.188766.xyz/?ip=&mishitong=true&lunbo=false&mima=bingchawusifengxian
 
-東森幼幼,http://integral-prisca-ef399aa6.koyeb.app/smt.php?id=yoyo_twn
-
-緯來日本,http://integral-prisca-ef399aa6.koyeb.app/smt.php?id=videolandjapan
-
-緯來綜合,http://integral-prisca-ef399aa6.koyeb.app/smt.php?id=videolandzonghe
-
-緯來體育,http://integral-prisca-ef399aa6.koyeb.app/smt.php?id=videolandsport
-
-東森洋片,http://integral-prisca-ef399aa6.koyeb.app/smt.php?id=ettvwestern
-
-好萊塢電影,http://integral-prisca-ef399aa6.koyeb.app/smt.php?id=hollywoodmovies_twn
-
 寶盒live   https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/bhzb.m3u
-
-
-http://ezc.xtvantsc.xyz/litv.php
-
-https://fanmingming.com/txt?url=http://ezc.xtvantsc.xyz/litv.php
-
-https://php.946985.filegear-sg.me/jackTV.m3u
-
-https://fanmingming.com/txt?url=
-https://php.946985.filegear-sg.me/jackTV.m3u
-
-
-https://fanmingming.com/txt?url= https://integral-prisca-ef399aa6.koyeb.app/litv.php
-
-https://fanmingming.com/txt?url=
-
-全自动生成litv脚本  https://litv.msbot.dpdns.org/litv.php
-
-用酷9播放：https://gongdian.top/tv/ku9/webview.txt#JS=https://gongdian.top/tv/ku9/js/webview.js
-
-https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/9.txt#JS=https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/9.js
-
-東森幼幼,http://47.110.137.212/smt.php?id=yoyo_twn
-
-緯來日本,http://47.110.137.212/smt.php?id=videolandjapan
-
-緯來綜合,http://47.110.137.212/smt.php?id=videolandzonghe
-
-緯來體育,http://47.110.137.212/smt.php?id=videolandsport
-
-東森洋片,http://47.110.137.212/smt.php?id=ettvwestern
-
-好萊塢電影,http://47.110.137.212/smt.php?id=hollywoodmovies_twn
-
 
 直播源  https://php.946985.filegear-sg.me/jackTV.m3u
 
-
-https://py.doube.eu.org/static/t4.json
-
-加密接口解析提取
-https://www.xn--sss604efuw.com/jm/
-
-https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/TVlogo/refs/heads/main/smt.txt
-
-https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/TVlogo/refs/heads/main/py/SMT.py
-
 ============================================
-
-https://t.me/mursorottiptv_bot
-
-okHttp/Mod-1.5.0.0
-
-直播源 https://bc.188766.xyz/?ip=192.168.1.2&mishitong=true&mima=mianfeibuhuaqian
-
-直播源 https://bc.188766.xyz/?ip=192.168.1.2
-
-
-寶盒live   https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/bhzb.m3u
 
 江蘇衛視
 https://live.jstv.com
@@ -124,9 +57,7 @@ parse=1
 
 ipv4  https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
 
-judy
-
-https://github.com/judy-gotv/iptv
+judy  https://github.com/judy-gotv/iptv
 
 4GTV  https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/4gtv.m3u
 
@@ -189,32 +120,6 @@ cctv10,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=14589
 cctv13,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228
 
 ==========================
-
-蠟筆小新 第1-10季【國語】
-
-https://www.xgcartoon.com/detail/labixiaoxin_di1-10jiguoyu-jiujingyiren__CFUq7h
-
-櫻桃小丸子（Chibi Maruko-chan）第1-3季【國語】
-
-https://www.xgcartoon.com/detail/yingtaoxiaowanzi_di1jiguoyu-zhishannu
-
-=========================
-
-龍貓國語,https://xgct-video.vzcdn.net/46bc39c7-1d8c-4526-9e63-2e83a64d0d6c/842x480/video.m3u8
-
-千與千尋國語,https://xgct-video.vzcdn.net/99d3a8f8-750b-446e-ad2d-43db9ddc31ee/842x480/video.m3u8
-
-鐵達尼號國語,https://play.hhuus.com/play/zbqzXgDd/index.m3u8
-
-==================
-
-好小子 https://comic.acgn.cc/manhua-haoxiaozi.htm
-
-漂流教室 https://comic.acgn.cc/manhua-pljs.htm
-
-陸地沉沒記 https://comic.acgn.cc/manhua-ludichenmo.htm
-
-==================
 
 火星直播網頁 https://www.kds.tw
 
