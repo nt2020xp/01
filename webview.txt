@@ -101,14 +101,6 @@ TVB星河台,http://php.jdshipin.com/PLTV/iptv.php?id=tvbxh
 重溫經典,http://cdn6.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
 NOW新聞台,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
 
-
-大米之女國稅局資料調查課,#genre#
-
-大米之女1,https://cdn.yzzy33-play.com/20260108/3985_0c2f66f4/index.m3u8
-大米之女2,https://cdn.yzzy31-play.com/20260115/11408_44139389/index.m3u8
-大米之女3,https://cdn.yzzy31-play.com/20260122/12014_7b497aa1/index.m3u8
-大米之女4,https://cdn.wlcdn88.com:777/c45a522d/index.m3u8
-
 4gtv網頁,#genre#
 
 TVBS新聞台,webview://https://www.4gtv.tv/channel/media-live072?set=1&ch=473
@@ -170,3 +162,9 @@ TVBS歡樂台,webview://https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184
 影迷數位紀實台,webview://https://www.4gtv.tv/channel/litv-ftv15?set=1&ch=445
 韓國娛樂台,webview://https://www.4gtv.tv/channel/4gtv-4gtv016?set=1&ch=446
 
+大米之女國稅局資料調查課,#genre#
+
+大米之女1,https://cdn.yzzy33-play.com/20260108/3985_0c2f66f4/index.m3u8
+大米之女2,https://cdn.yzzy31-play.com/20260115/11408_44139389/index.m3u8
+大米之女3,https://cdn.yzzy31-play.com/20260122/12014_7b497aa1/index.m3u8
+大米之女4,https://cdn.wlcdn88.com:777/c45a522d/index.m3u8
