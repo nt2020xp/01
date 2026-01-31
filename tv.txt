@@ -384,10 +384,10 @@ parse=1
 7國防軍事,https://tv.cctv.com/live/cctv7
 8電視劇,https://tv.cctv.com/live/cctv8
 9紀錄,https://www.yangshipin.cn/tv/home?pid=600004078
-10科教,https://tv.cctv.com/live/cctv10
+10科教,video://https://tv.cctv.com/live/cctv10
 11戲曲,https://tv.cctv.com/live/cctv11
 12社會與法,https://tv.cctv.com/live/cctv12
-13新聞,https://tv.cctv.com/live/cctv13
+13新聞,webview://https://tv.cctv.com/live/cctv13
 14少兒,https://tv.cctv.com/live/cctvchild
 15音樂,https://tv.cctv.com/live/cctv15
 16奧林匹克,https://tv.cctv.com/live/cctv16
