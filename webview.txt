@@ -81,18 +81,6 @@ CCTV怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 内蒙古卫视,webview://https://yangshipin.cn/tv/home?pid=600190401
 黑龙江卫视,webview://https://yangshipin.cn/tv/home?pid=600002498
 
-官方網頁,#genre#
-東森幼幼,http://integral-prisca-ef399aa6.koyeb.app/smt.php?id=yoyo_twn
-緯來日本,http://integral-prisca-ef399aa6.koyeb.app/smt.php?id=videolandjapan
-緯來綜合,http://integral-prisca-ef399aa6.koyeb.app/smt.php?id=videolandzonghe
-緯來體育,http://integral-prisca-ef399aa6.koyeb.app/smt.php?id=videolandsport
-東森洋片,http://integral-prisca-ef399aa6.koyeb.app/smt.php?id=ettvwestern
-好萊塢電影,http://integral-prisca-ef399aa6.koyeb.app/smt.php?id=hollywoodmovies_twn
-江蘇衛視,webview://https://live.jstv.com/
-浙江衛視,webview://https://www.cztv.com/liveTV/101
-北京衛視,webview://https://www.btime.com/btv/btvsy_index?tag=0
-東方衛視,webview://https://live.kankanews.com/huikan?id=1
-
 香港,#genre#
 
 TVB翡翠台,http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
@@ -168,6 +156,3 @@ TVBS歡樂台,webview://https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184
 大米之女2,https://cdn.yzzy31-play.com/20260115/11408_44139389/index.m3u8
 大米之女3,https://cdn.yzzy31-play.com/20260122/12014_7b497aa1/index.m3u8
 大米之女4,https://cdn.wlcdn88.com:777/c45a522d/index.m3u8
-
-
-台視,https://www.youtube.com/live/uDqQo8a7Xmk
