@@ -16,7 +16,7 @@ CatchPlay電影台,udp://@230.1.2.37:11111
 柯南國語,https://live.ottiptv.cc/huya/30080148
 柯南劇場版,https://live.ottiptv.cc/huya/30080236
 
-台灣油管,#genre#
+台灣新聞,#genre#
 
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
