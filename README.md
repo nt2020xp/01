@@ -177,6 +177,8 @@ https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
 
 訂閱頻道
 
+酷佬  https://t.me/stymei1
+
 iptv研究所 https://t.me/Q_IPTV
 
 tmxk 频道 https://t.me/tmxktg
