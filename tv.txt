@@ -34,6 +34,13 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 寰宇台灣,https://www.youtube.com/watch?v=w87VGpgd90U
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 
+
+台北101,https://www.youtube.com/watch?v=z_fY1pj1VBw
+九份,https://www.youtube.com/watch?v=XSD5ptYisw8
+武嶺,https://www.youtube.com/watch?v=2lVMTs_Fj0M
+蓮池潭,https://www.youtube.com/watch?v=BnPoNatG-HE
+金門建功嶼,https://www.youtube.com/watch?v=uh_yNAE01w8
+
 日本新聞,#genre#
 
 TBS NEWS DIG,https://www.youtube.com/live/Anr15FA9OCI
