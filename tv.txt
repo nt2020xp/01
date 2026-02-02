@@ -39,6 +39,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 九份,https://www.youtube.com/watch?v=XSD5ptYisw8
 武嶺,https://www.youtube.com/watch?v=2lVMTs_Fj0M
 蓮池潭,https://www.youtube.com/watch?v=BnPoNatG-HE
+淡水碼頭,https://www.youtube.com/watch?v=xwAWSh35uuw
 金門建功嶼,https://www.youtube.com/watch?v=uh_yNAE01w8
 
 日本新聞,#genre#
