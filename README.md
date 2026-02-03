@@ -1,3 +1,7 @@
+直播源  https://live.catvod.com/tv.m3u
+
+直播源  https://iptv.catvod.com/tv.m3u
+
 
 冰茶 https://bc.188766.xyz/?ip=&mishitong=true&lunbo=false&mima=bingchawusifengxian
 
