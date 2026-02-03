@@ -8,7 +8,7 @@ UA：
 
 okHttp/Mod-1.5.0.0 
 
-https://live.ottiptv.cc/iptv.m3u?userid=8368997297&sign=5125f2917e9ab3fcb3dc39f4159fc75084e90f824f73075485c666a000d9a447c750062a66bf54540ca83fea6fcffd95d49ab672bd5dacb7b5d3858c8017e82d517533858b9a48&auth_token=ebda4f547109a2cee1d700f2404a2d31
+=========================
 
 直播源  https://live.catvod.com/tv.m3u
 
