@@ -1,3 +1,13 @@
+肥羊推荐的iptv替代品（机器人获取）：
+
+https://t.me/mursorottiptv_bot 
+
+获取订阅地址然后根据视频修改
+
+UA：
+
+okHttp/Mod-1.5.0.0 
+
 直播源  https://live.catvod.com/tv.m3u
 
 直播源  https://iptv.catvod.com/tv.m3u
