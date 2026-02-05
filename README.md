@@ -1,4 +1,4 @@
-冰茶官網  [https://bc.188766.xyz/?ip=192.168.1.2](https://show.188766.xyz/)
+冰茶官網  https://show.188766.xyz
 
 冰茶直播源  https://bc.188766.xyz/?ip=192.168.1.2
 
