@@ -14,9 +14,6 @@ okHttp/Mod-1.5.0.0
 
 直播源  https://iptv.catvod.com/tv.m3u
 
-
-冰茶 https://bc.188766.xyz/?ip=&mishitong=true&lunbo=false&mima=bingchawusifengxian
-
 寶盒live   https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/bhzb.m3u
 
 直播源  https://php.946985.filegear-sg.me/jackTV.m3u
@@ -50,24 +47,6 @@ https://www.gdtv.cn/tvChannelDetail/43
 parse=1
 
 1234,#genre#
-
-直播源  https://live.catvod.com/tv.m3u
-
-直播源  https://bc.188766.xyz/?ip=192.168.1.2&mishitong=true&mima=mianfeibuhuaqian
-
-直播源  https://tmxk.pp.ua/smart-cn.m3u
-
-直播源  https://tmxk.pp.ua/litv.php?token=tmxk
-
-直播源 https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
-
-直播源  https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/4gtv.m3u
-
-直播源 http://141.11.87.241:20013/?type=m3u
-
-直播源  http://vhr.dpdns.org:8080/litv.php
-
-直播源  http://vhr.dpdns.org:8080/ofiii.php
 
 =============
 
