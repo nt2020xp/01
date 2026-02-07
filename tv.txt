@@ -873,6 +873,20 @@ CHC家庭影院,http://61.184.46.85:9901/tsfile/live/1023_1.m3u8?key=txiptv&play
 笑傲江湖,https://lunbo.freetv.top/yy/1352833750
 
 
+69央视,#genre#
+
+1综合,http://69.30.245.50/live/cctv1.m3u8
+2财经,http://69.30.245.50/live/cctv2.m3u8
+3综艺,http://69.30.245.50/live/cctv3.m3u8
+4中文国际,http://69.30.245.50/live/cctv4.m3u8
+5体育,http://69.30.245.50/live/cctv5.m3u8
+6电影,http://69.30.245.50/live/cctv6.m3u8
+7国防军事,http://69.30.245.50/live/cctv7.m3u8
+8电视剧,http://69.30.245.50/live/cctv8.m3u8
+9纪录,http://69.30.245.50/live/cctv9.m3u8
+10科教,http://69.30.245.50/live/cctv10.m3u8
+13新闻,http://69.30.246.194/live/cctv13.m3u8
+
 大米之女國稅局資料調查課,#genre#
 
 大米之女1,https://cdn.yzzy33-play.com/20260108/3985_0c2f66f4/index.m3u8
