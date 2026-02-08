@@ -154,6 +154,9 @@ https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
 
 ====================== TG群組
 
+夏天 
+https://t.me/summerTV168
+
 (垃圾群) 冰茶TV https://t.me/x188766
 
 (垃圾群) tmxk 交流群 https://t.me/+rgxyQeDLtjcxM2U1
