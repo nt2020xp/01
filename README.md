@@ -161,11 +161,9 @@ https://t.me/summerTV168
 
 (垃圾群) tmxk 交流群 https://t.me/+rgxyQeDLtjcxM2U1
 
-(垃圾群) 點播直播交流群：https://t.me/doubebly001
 
 (垃圾群) catvod https://t.me/www_catvod_com
 
-(垃圾群) gpt研究所 https://t.me/gpt_858
 
 (垃圾群) 肥羊影音数码综合分享 https://t.me/feiyangdigital
 
@@ -174,6 +172,11 @@ https://t.me/summerTV168
 (垃圾群) 极致播放器交流群 https://t.me/jizhi00
 
 (垃圾群) 智能電視盒子 https://t.me/meitu007
+
+(垃圾群) 點播直播交流群：https://t.me/doubebly001
+
+(垃圾群) gpt研究所 https://t.me/gpt_858
+
 
 ＋＋＋＋＋＋＋＋＋
 
