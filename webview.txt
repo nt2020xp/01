@@ -1,3 +1,14 @@
+
+
+2026,#genre#
+東森幼幼,https://tuiliu.goiptv.us.ci/yoyo/yoyo.m3u8
+
+緯來日本,https://tuiliu.goiptv.us.ci/videolandjapan/videolandjapan.m3u8
+
+緯來體育,https://tuiliu.goiptv.us.ci/videolandsport/videolandsport.m3u8
+
+
+
 74央視,#genre#
 CCTV1综合,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV2财经,http://74.91.26.218:82/live/cctv2hd.m3u8
