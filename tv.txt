@@ -1,4 +1,5 @@
 蠟筆小新,#genre#
+
 東森幼幼,https://tuiliu.goiptv.us.ci/yoyo/yoyo.m3u8
 
 緯來日本,https://tuiliu.goiptv.us.ci/videolandjapan/videolandjapan.m3u8
@@ -22,10 +23,9 @@ CatchPlay電影台,udp://@230.1.2.37:11111
 柯南劇場版,https://live.ottiptv.cc/huya/30080236
 飢餓遊戲》點閱人氣榜,https://www.youtube.com/watch?v=UJgN7q6jpns
 飢餓遊戲》一次播到飽,https://www.youtube.com/watch?v=wiwPHyJj6pI
-57新聞,https://www.youtube.com/watch?v=k0uJVhYX12Y
 
 
-我的新聞,#genre#
+ggff新聞,#genre#
 
 TVBS新聞,https://litv.go-iptv.ggff.net/litv.php?id=4gtv-4gtv072
 東森新聞,https://litv.go-iptv.ggff.net/litv.php?id=4gtv-4gtv152
