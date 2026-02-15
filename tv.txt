@@ -96,7 +96,7 @@ Pet Club TV,https://litv.go-iptv.ggff.net/litv.php?id=4gtv-4gtv110
 韓國娛樂台 KMTV,https://litv.go-iptv.ggff.net/litv.php?id=4gtv-4gtv016
 
 
-台灣新聞,#genre#
+台灣油管新聞,#genre#
 
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
