@@ -166,10 +166,12 @@ CCTV17农业农村,http://74.91.26.218:82/live/cctv17hd.m3u8
 
 大米之女國稅局資料調查課,#genre#
 
-大米之女1,https://cdn.yzzy33-play.com/20260108/3985_0c2f66f4/index.m3u8
-大米之女2,https://cdn.yzzy31-play.com/20260115/11408_44139389/index.m3u8
-大米之女3,https://cdn.yzzy31-play.com/20260122/12014_7b497aa1/index.m3u8
-大米之女4,https://cdn.wlcdn88.com:777/c45a522d/index.m3u8
+大米之女1,https://v13.yuglf.com/202601/08/NUZKyhcK0m27/video/index.m3u8
+大米之女2,https://v13.yuglf.com/202601/15/MZ3HQ0tHV827/video/index.m3u8
+大米之女3,https://v13.yuglf.com/202601/22/P8J9EZjLH927/video/index.m3u8
+大米之女4,https://v13.yuglf.com/202601/29/NJu3fSnALK27/video/index.m3u8
+大米之女5,https://v14.yuglf.com/202602/05/8SHDBVYAi027/video/index.m3u8
+大米之女6,https://v13.yuglf.com/202602/12/YqvYirwNTe27/video/index.m3u8
 
 
 
