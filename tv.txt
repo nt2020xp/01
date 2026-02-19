@@ -1,9 +1,7 @@
 蠟筆小新,#genre#
 
 東森幼幼,http://v.cnlive.club/channel/naa6d18/index.m3u8
-
 緯來日本,https://tuiliu.goiptv.us.ci/videolandjapan/videolandjapan.m3u8
-
 緯來體育,https://tuiliu.goiptv.us.ci/videolandsport/videolandsport.m3u8
 
 蠟筆小新,https://live.ottiptv.cc/huya/11352970
@@ -39,7 +37,6 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 寰宇台灣,https://www.youtube.com/watch?v=w87VGpgd90U
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 
-
 台北101,https://www.youtube.com/watch?v=z_fY1pj1VBw
 九份,https://www.youtube.com/watch?v=XSD5ptYisw8
 武嶺,https://www.youtube.com/watch?v=2lVMTs_Fj0M
@@ -63,8 +60,6 @@ TBS NEWS DIG,https://www.youtube.com/live/Anr15FA9OCI
 渋谷交差点2,https://www.youtube.com/watch?v=tujkoXI8rWM
 草津温泉,https://www.youtube.com/watch?v=GrEEoEmmrKs
 草津温泉（移動式),https://www.youtube.com/watch?v=B_Sc1v1qR-g
-櫻島火山(遠看),https://www.youtube.com/watch?v=eF9PohrRP_o
-櫻島火山(近看),https://www.youtube.com/watch?v=PeElJClXtzE
 富士山忍野八海,https://www.youtube.com/watch?v=sm3xXTfDtGE
 	
 4gtv網頁,#genre#
