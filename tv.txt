@@ -15,7 +15,7 @@
 蠟筆小新TV版,https://www.youtube.com/watch?v=ENnjj7jQ23g
 蠟筆小新劇場版,https://www.youtube.com/watch?v=tBYG62NeTdU
 我們這一家,https://www.youtube.com/watch?v=e1gbvCkwxFE
-新哆啦A夢,https://www.youtube.com/watch?v=jbZCyIhL4WQ
+新哆啦A夢,https://www.youtube.com/watch?v=gnDok9gtopw
 
 CBeebies,udp://@224.1.4.213:11111
 CBeebies,udp://@224.1.4.75:11111
