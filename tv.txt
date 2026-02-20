@@ -25,7 +25,7 @@ CatchPlay電影台,udp://@230.1.2.37:11111
 柯南國語,https://live.ottiptv.cc/huya/30080148
 柯南劇場版,https://live.ottiptv.cc/huya/30080236
 飢餓遊戲》點閱人氣榜,https://www.youtube.com/watch?v=UJgN7q6jpns
-飢餓遊戲》一次播到飽,https://www.youtube.com/watch?v=wiwPHyJj6pI
+飢餓遊戲》一次播到飽,https://www.youtube.com/watch?v=dKCewm0l1nM
 
 台灣油管新聞,#genre#
 
