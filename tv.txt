@@ -164,14 +164,6 @@ CCTV17农业农村,http://74.91.26.218:82/live/cctv17hd.m3u8
 10科教,http://69.30.245.50/live/cctv10.m3u8
 13新闻,http://69.30.246.194/live/cctv13.m3u8
 
-大米之女國稅局資料調查課,#genre#
-
-大米之女1,https://v13.yuglf.com/202601/08/NUZKyhcK0m27/video/index.m3u8
-大米之女2,https://v13.yuglf.com/202601/15/MZ3HQ0tHV827/video/index.m3u8
-大米之女3,https://v13.yuglf.com/202601/22/P8J9EZjLH927/video/index.m3u8
-大米之女4,https://v13.yuglf.com/202601/29/NJu3fSnALK27/video/index.m3u8
-大米之女5,https://v14.yuglf.com/202602/05/8SHDBVYAi027/video/index.m3u8
-大米之女6,https://v13.yuglf.com/202602/12/YqvYirwNTe27/video/index.m3u8
 
 CATVOD直播,#genre#
 
@@ -213,9 +205,6 @@ CCTV-15 音樂,https://live.catvod.com/live.php?token=e34813f1dcc64c0e5ad199a5d0
 
 東森幼幼,https://live.catvod.com/live.php?token=e34813f1dcc64c0e5ad199a5d0d7869ad5bb212c3dbdcba24fc1f63db597884e&id=yoyo_twn
 東森幼幼,https://live.catvod.com/live.php?token=e34813f1dcc64c0e5ad199a5d0d7869ad5bb212c3dbdcba24fc1f63db597884e&id=yoyo_twn
-Cartoon Network,https://live.catvod.com/live.php?token=e34813f1dcc64c0e5ad199a5d0d7869ad5bb212c3dbdcba24fc1f63db597884e&id=Cn
-Cartoon Network,https://live.catvod.com/live.php?token=e34813f1dcc64c0e5ad199a5d0d7869ad5bb212c3dbdcba24fc1f63db597884e&id=Cn
-
 
 東森新聞 ETTV News,https://live.catvod.com/live.php?token=e34813f1dcc64c0e5ad199a5d0d7869ad5bb212c3dbdcba24fc1f63db597884e&id=ettvnews
 東森新聞 ETTV News,https://live.catvod.com/live.php?token=e34813f1dcc64c0e5ad199a5d0d7869ad5bb212c3dbdcba24fc1f63db597884e&id=ettvnews
@@ -297,3 +286,13 @@ EYETV 旅遊,https://live.catvod.com/live.php?token=e34813f1dcc64c0e5ad199a5d0d7
 EYETV 戲劇,https://live.catvod.com/live.php?token=e34813f1dcc64c0e5ad199a5d0d7869ad5bb212c3dbdcba24fc1f63db597884e&id=eyetvxiju_twn
 天映頻道Celestial Movies,https://live.catvod.com/live.php?token=e34813f1dcc64c0e5ad199a5d0d7869ad5bb212c3dbdcba24fc1f63db597884e&id=Celestialindo
 天映頻道Celestial Movies,https://live.catvod.com/live.php?token=e34813f1dcc64c0e5ad199a5d0d7869ad5bb212c3dbdcba24fc1f63db597884e&id=Celestialindo
+
+大米之女國稅局資料調查課,#genre#
+
+大米之女1,https://v13.yuglf.com/202601/08/NUZKyhcK0m27/video/index.m3u8
+大米之女2,https://v13.yuglf.com/202601/15/MZ3HQ0tHV827/video/index.m3u8
+大米之女3,https://v13.yuglf.com/202601/22/P8J9EZjLH927/video/index.m3u8
+大米之女4,https://v13.yuglf.com/202601/29/NJu3fSnALK27/video/index.m3u8
+大米之女5,https://v14.yuglf.com/202602/05/8SHDBVYAi027/video/index.m3u8
+大米之女6,https://v13.yuglf.com/202602/12/YqvYirwNTe27/video/index.m3u8
+大米之女7,https://cdn.wlcdn99.com:777/3505a635/index.m3u8
