@@ -6,7 +6,10 @@
 東森幼幼,https://live.catvod.com/live.php?token=e34813f1dcc64c0e5ad199a5d0d7869ad5bb212c3dbdcba24fc1f63db597884e&id=yoyo_twn
 東森幼幼,https://live.catvod.com/live.php?token=e34813f1dcc64c0e5ad199a5d0d7869ad5bb212c3dbdcba24fc1f63db597884e&id=yoyo_twn
 緯來日本,https://tuiliu.goiptv.us.ci/videolandjapan/videolandjapan.m3u8
+緯來日本,https://live.catvod.com/live.php?token=e34813f1dcc64c0e5ad199a5d0d7869ad5bb212c3dbdcba24fc1f63db597884e&id=videolandjapan
+緯來綜合,https://live.catvod.com/live.php?token=e34813f1dcc64c0e5ad199a5d0d7869ad5bb212c3dbdcba24fc1f63db597884e&id=videolandzonghe
 緯來體育,https://tuiliu.goiptv.us.ci/videolandsport/videolandsport.m3u8
+緯來體育,https://live.catvod.com/live.php?token=e34813f1dcc64c0e5ad199a5d0d7869ad5bb212c3dbdcba24fc1f63db597884e&id=videolandsport
 
 
 74央視,#genre#
