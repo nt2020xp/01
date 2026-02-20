@@ -305,10 +305,10 @@ EYETV 戲劇,https://live.catvod.com/live.php?token=e34813f1dcc64c0e5ad199a5d0d7
 
 大米之女國稅局資料調查課,#genre#
 
-大米之女1,https://v13.yuglf.com/202601/08/NUZKyhcK0m27/video/index.m3u8
-大米之女2,https://v13.yuglf.com/202601/15/MZ3HQ0tHV827/video/index.m3u8
-大米之女3,https://v13.yuglf.com/202601/22/P8J9EZjLH927/video/index.m3u8
-大米之女4,https://v13.yuglf.com/202601/29/NJu3fSnALK27/video/index.m3u8
-大米之女5,https://v14.yuglf.com/202602/05/8SHDBVYAi027/video/index.m3u8
-大米之女6,https://v13.yuglf.com/202602/12/YqvYirwNTe27/video/index.m3u8
+大米之女1,https://cdn.wlcdn99.com:777/3ee4762d/index.m3u8
+大米之女2,https://cdn.wlcdn99.com:777/fe2c07d3/index.m3u8
+大米之女3,https://cdn.wlcdn99.com:777/f6617d1f/index.m3u8
+大米之女4,https://cdn.wlcdn99.com:777/c45a522d/index.m3u8
+大米之女5,https://cdn.wlcdn99.com:777/7d9dbc8c/index.m3u8
+大米之女6,https://cdn.wlcdn99.com:777/1584c6e0/index.m3u8
 大米之女7,https://cdn.wlcdn99.com:777/3505a635/index.m3u8
