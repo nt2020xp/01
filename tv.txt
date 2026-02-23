@@ -125,6 +125,20 @@ TVBS歡樂台,https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184
 影迷數位紀實台,https://www.4gtv.tv/channel/litv-ftv15?set=1&ch=445
 韓國娛樂台,https://www.4gtv.tv/channel/4gtv-4gtv016?set=1&ch=446
 
+69央视,#genre#
+
+1综合,http://69.30.245.50/live/cctv1.m3u8
+2财经,http://69.30.245.50/live/cctv2.m3u8
+3综艺,http://69.30.245.50/live/cctv3.m3u8
+4中文国际,http://69.30.245.50/live/cctv4.m3u8
+5体育,http://69.30.245.50/live/cctv5.m3u8
+6电影,http://69.30.245.50/live/cctv6.m3u8
+7国防军事,http://69.30.245.50/live/cctv7.m3u8
+8电视剧,http://69.30.245.50/live/cctv8.m3u8
+9纪录,http://69.30.245.50/live/cctv9.m3u8
+10科教,http://69.30.245.50/live/cctv10.m3u8
+13新闻,http://69.30.246.194/live/cctv13.m3u8
+
 74央視,#genre#
 CCTV1综合,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV2财经,http://74.91.26.218:82/live/cctv2hd.m3u8
@@ -144,20 +158,6 @@ CCTV14少儿,http://74.91.26.218:82/live/cctv14hd.m3u8
 CCTV15音乐,http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV17农业农村,http://74.91.26.218:82/live/cctv17hd.m3u8
-
-69央视,#genre#
-
-1综合,http://69.30.245.50/live/cctv1.m3u8
-2财经,http://69.30.245.50/live/cctv2.m3u8
-3综艺,http://69.30.245.50/live/cctv3.m3u8
-4中文国际,http://69.30.245.50/live/cctv4.m3u8
-5体育,http://69.30.245.50/live/cctv5.m3u8
-6电影,http://69.30.245.50/live/cctv6.m3u8
-7国防军事,http://69.30.245.50/live/cctv7.m3u8
-8电视剧,http://69.30.245.50/live/cctv8.m3u8
-9纪录,http://69.30.245.50/live/cctv9.m3u8
-10科教,http://69.30.245.50/live/cctv10.m3u8
-13新闻,http://69.30.246.194/live/cctv13.m3u8
 
 
 大米之女國稅局資料調查課,#genre#
