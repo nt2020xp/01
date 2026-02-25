@@ -127,6 +127,18 @@ TVBS歡樂台,https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184
 
 69央视,#genre#
 
+2026新年快乐:
+台视,http://74.91.26.218:82/live/ttv.m3u8
+
+中视,http://74.91.26.218:82/live/ctv.m3u8
+
+华视,http://74.91.26.218:82/live/cts.m3u8
+
+无线新闻台,http://74.91.26.218:82/live/inews.m3u8
+
+翡翠台,http://74.91.26.218:82/live/jade.m3u8
+
+
 1综合,http://69.30.245.50/live/cctv1.m3u8
 2财经,http://69.30.245.50/live/cctv2.m3u8
 3综艺,http://69.30.245.50/live/cctv3.m3u8
