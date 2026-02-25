@@ -14,12 +14,21 @@ CBeebies,udp://@224.1.4.75:11111
 CatchPlay電影台,udp://@230.1.2.217:11111
 CatchPlay電影台,udp://@230.1.2.37:11111
 
+
+
 柯南國語,https://live.ottiptv.cc/huya/30080148
 柯南劇場版,https://live.ottiptv.cc/huya/30080236
 飢餓遊戲》點閱人氣榜,https://www.youtube.com/watch?v=UJgN7q6jpns
 飢餓遊戲》一次播到飽,https://www.youtube.com/watch?v=dKCewm0l1nM
 緯來日本,https://tuiliu.goiptv.us.ci/videolandjapan/videolandjapan.m3u8
 緯來體育,https://tuiliu.goiptv.us.ci/videolandsport/videolandsport.m3u8
+
+華視,http://74.91.26.218:82/live/cts.m3u8
+中視,http://74.91.26.218:82/live/ctv.m3u8
+台視,http://74.91.26.218:82/live/ttv.m3u8
+
+TVB无线新闻台,http://74.91.26.218:82/live/inews.m3u8
+TVB翡翠台,http://74.91.26.218:82/live/jade.m3u8
 
 台灣油管新聞,#genre#
 
@@ -126,18 +135,6 @@ TVBS歡樂台,https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184
 韓國娛樂台,https://www.4gtv.tv/channel/4gtv-4gtv016?set=1&ch=446
 
 69央视,#genre#
-
-2026新年快乐:
-台视,http://74.91.26.218:82/live/ttv.m3u8
-
-中视,http://74.91.26.218:82/live/ctv.m3u8
-
-华视,http://74.91.26.218:82/live/cts.m3u8
-
-无线新闻台,http://74.91.26.218:82/live/inews.m3u8
-
-翡翠台,http://74.91.26.218:82/live/jade.m3u8
-
 
 1综合,http://69.30.245.50/live/cctv1.m3u8
 2财经,http://69.30.245.50/live/cctv2.m3u8
