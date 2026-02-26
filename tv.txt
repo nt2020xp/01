@@ -191,3 +191,4 @@ CCTV17農業農村,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoom
 大米之女5,https://cdn.wlcdn99.com:777/7d9dbc8c/index.m3u8
 大米之女6,https://cdn.wlcdn99.com:777/1584c6e0/index.m3u8
 大米之女7,https://cdn.wlcdn99.com:777/3505a635/index.m3u8
+大米之女8,https://v14.hhiklm.com/yyv14/202602/26/2LU1V3vVms22/video/index.m3u8
