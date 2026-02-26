@@ -130,16 +130,10 @@ echo "\n";
 
 echo "$value[3],","$base_url/tv.php?token=" . urlencode($SECRET_TOKEN) . "&id=" . urlencode($key) . "\n";
 
-============
 
-蜂蜜影視或 ok 影視 點播 直播
+======================
 
-https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json
-
-====================== TG群組
-
-夏天 
-https://t.me/summerTV168
+夏天 https://t.me/summerTV168
 
 (垃圾群) 冰茶TV https://t.me/x188766
 
