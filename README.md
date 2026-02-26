@@ -1,7 +1,3 @@
-冰茶官網  https://show.188766.xyz
-
-冰茶直播源  https://bc.188766.xyz/?ip=192.168.1.2
-
 肥羊推荐的iptv替代品（机器人获取）：
 
 https://t.me/mursorottiptv_bot 
@@ -63,18 +59,6 @@ judy  https://github.com/judy-gotv/iptv
 SMART  https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/smart.m3u
 
 ==========
-
-綠茶官網  https://show.188766.xyz
-
-綠茶tg   https://t.me/x188766
-
-體育密碼 mianfeibuhuaqian
-
-https://bc.188766.xyz/?ip=192.168.1.2&mishitong=true&mima=mianfeibuhuaqian&haiwai=true
-
-https://bc.188766.xyz/?ip=192.168.1.2&mishitong=true&mima=mianfeibuhuaqian
-
-====================
 
 天馬行空  https://tmxk.pp.ua
 
