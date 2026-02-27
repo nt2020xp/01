@@ -137,10 +137,6 @@ echo "$value[3],","$base_url/tv.php?token=" . urlencode($SECRET_TOKEN) . "&id=" 
 
 ======================
 
-夏天 https://t.me/summerTV168
-
-(垃圾群) 冰茶TV https://t.me/x188766
-
 (垃圾群) tmxk 交流群 https://t.me/+rgxyQeDLtjcxM2U1
 
 (垃圾群) catvod https://t.me/www_catvod_com
