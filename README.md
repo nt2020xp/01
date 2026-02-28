@@ -137,6 +137,8 @@ echo "$value[3],","$base_url/tv.php?token=" . urlencode($SECRET_TOKEN) . "&id=" 
 
 ======================
 
+風雲秒播交流群 https://t.me/qytv888
+
 (垃圾群) tmxk 交流群 https://t.me/+rgxyQeDLtjcxM2U1
 
 (垃圾群) catvod https://t.me/www_catvod_com
