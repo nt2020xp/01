@@ -18,6 +18,11 @@ CatchPlay電影台,udp://@230.1.2.37:11111
 飢餓遊戲》點閱人氣榜,https://www.youtube.com/watch?v=UJgN7q6jpns
 飢餓遊戲》一次播到飽,https://www.youtube.com/watch?v=dKCewm0l1nM
 
+華視地波,http://rihou.cc:555/tv/[mn]华视闽南
+中視地波,http://rihou.cc:555/tv/[mn]中视闽南
+台視地波,http://rihou.cc:555/tv/[mn]台视闽南
+民視地波,http://rihou.cc:555/tv/[mn]民视闽南
+
 緯來日本,https://tuiliu.goiptv.us.ci/videolandjapan/videolandjapan.m3u8
 緯來體育,https://tuiliu.goiptv.us.ci/videolandsport/videolandsport.m3u8
 
