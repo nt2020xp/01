@@ -22,10 +22,6 @@ CatchPlay電影台,udp://@230.1.2.37:11111
 中視,http://rihou.cc:555/tv/[mn]中视闽南
 台視,http://rihou.cc:555/tv/[mn]台视闽南
 民視,http://rihou.cc:555/tv/[mn]民视闽南
-華視新聞,http://rihou.cc:555/tv/[mn]华视新闻
-中視新聞,http://rihou.cc:555/tv/[mn]中视新闻
-台視新聞,http://rihou.cc:555/tv/[mn]台视新闻
-民視新聞,http://rihou.cc:555/tv/[mn]民视新闻
 
 
 緯來日本,https://tuiliu.goiptv.us.ci/videolandjapan/videolandjapan.m3u8
