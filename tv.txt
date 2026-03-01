@@ -36,11 +36,8 @@ CatchPlay電影台,udp://@230.1.2.37:11111
 
 華視,udp://@230.1.2.229:11111
 中視,udp://@224.1.4.10:11111
-中視,udp://@230.1.2.228:11111
 台視,udp://@230.1.2.227:11111
-台視,udp://@224.1.4.8:11111
 民視,udp://@224.1.4.6:11111
-民視,udp://@230.1.2.226:11111
 
 TVBS新聞台,udp://@224.1.4.152:11111
 TVBS HD,udp://@224.1.4.153:11111
@@ -77,7 +74,6 @@ TVBS精采台,udp://@230.1.2.35:11111
 
 台灣油管新聞,#genre#
 
-CCTV13新闻,http://iptv.4666888.xyz/iptv2A.php?id=11
 TVBS新聞,http://iptv.4666888.xyz/iptv2A.php?id=43
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 東森財經,https://www.youtube.com/watch?v=1I2iq41Akmo
@@ -111,8 +107,6 @@ TBS NEWS DIG,https://www.youtube.com/live/Anr15FA9OCI
 函館山夜景,https://www.youtube.com/watch?v=s--MDmshT3I
 東京歌舞伎町1,https://www.youtube.com/watch?v=DjdUEyjx8GM
 東京歌舞伎町2,https://www.youtube.com/watch?v=gFRtAAmiFbE
-渋谷交差点1,https://www.youtube.com/watch?v=dfVK7ld38Ys
-渋谷交差点2,https://www.youtube.com/watch?v=tujkoXI8rWM
 草津温泉,https://www.youtube.com/watch?v=GrEEoEmmrKs
 草津温泉（移動式),https://www.youtube.com/watch?v=B_Sc1v1qR-g
 富士山忍野八海,https://www.youtube.com/watch?v=sm3xXTfDtGE
@@ -182,18 +176,17 @@ TVBS歡樂台,https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184
 
 69央视,#genre#
 
-1综合,http://69.30.245.50/live/cctv1.m3u8
-2财经,http://69.30.245.50/live/cctv2.m3u8
-3综艺,http://69.30.245.50/live/cctv3.m3u8
-4中文国际,http://69.30.245.50/live/cctv4.m3u8
-5体育,http://69.30.245.50/live/cctv5.m3u8
-6电影,http://69.30.245.50/live/cctv6.m3u8
-7国防军事,http://69.30.245.50/live/cctv7.m3u8
-8电视剧,http://69.30.245.50/live/cctv8.m3u8
-9纪录,http://69.30.245.50/live/cctv9.m3u8
+1綜合,http://69.30.245.50/live/cctv1.m3u8
+2財經,http://69.30.245.50/live/cctv2.m3u8
+3綜藝,http://69.30.245.50/live/cctv3.m3u8
+4中文國際,http://69.30.245.50/live/cctv4.m3u8
+5體育,http://69.30.245.50/live/cctv5.m3u8
+6電影,http://69.30.245.50/live/cctv6.m3u8
+7國防軍事,http://69.30.245.50/live/cctv7.m3u8
+8電視劇,http://69.30.245.50/live/cctv8.m3u8
+9紀錄,http://69.30.245.50/live/cctv9.m3u8
 10科教,http://69.30.245.50/live/cctv10.m3u8
-13新闻,http://69.30.246.194/live/cctv13.m3u8
-
+13新聞,http://69.30.246.194/live/cctv13.m3u8
 
 md央視衛視,#genre#
 
