@@ -48,18 +48,20 @@ TVBS精采台,udp://@230.1.2.35:11111
 
 69央视,#genre#
 
-1综合,http://69.30.245.50/live/cctv1.m3u8
-2财经,http://69.30.245.50/live/cctv2.m3u8
-3综艺,http://69.30.245.50/live/cctv3.m3u8
-4中文国际,http://69.30.245.50/live/cctv4.m3u8
-5体育,http://69.30.245.50/live/cctv5.m3u8
-6电影,http://69.30.245.50/live/cctv6.m3u8
-7国防军事,http://69.30.245.50/live/cctv7.m3u8
-8电视剧,http://69.30.245.50/live/cctv8.m3u8
-9纪录,http://69.30.245.50/live/cctv9.m3u8
-10科教,http://69.30.245.50/live/cctv10.m3u8
-13新闻,http://69.30.246.194/live/cctv13.m3u8
 
+69央视,#genre#
+
+1綜合,http://69.30.245.50/live/cctv1.m3u8
+2財經,http://69.30.245.50/live/cctv2.m3u8
+3綜藝,http://69.30.245.50/live/cctv3.m3u8
+4中文國際,http://69.30.245.50/live/cctv4.m3u8
+5體育,http://69.30.245.50/live/cctv5.m3u8
+6電影,http://69.30.245.50/live/cctv6.m3u8
+7國防軍事,http://69.30.245.50/live/cctv7.m3u8
+8電視劇,http://69.30.245.50/live/cctv8.m3u8
+9紀錄,http://69.30.245.50/live/cctv9.m3u8
+10科教,http://69.30.245.50/live/cctv10.m3u8
+13新聞,http://69.30.246.194/live/cctv13.m3u8
 央視,#genre#
 
 CCTV4K,webview://https://www.yangshipin.cn/tv/home?pid=600002264
