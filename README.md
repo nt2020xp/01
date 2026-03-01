@@ -8,7 +8,7 @@ UA：
 
 okHttp/Mod-1.5.0.0 
 
-=========================
+===============
 
 直播源  https://live.catvod.com/tv.m3u
 
@@ -16,7 +16,6 @@ okHttp/Mod-1.5.0.0
 
 寶盒live   https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/bhzb.m3u
 
-直播源  https://php.946985.filegear-sg.me/jackTV.m3u
 
 ============================================
 
@@ -37,8 +36,6 @@ https://www.gdtv.cn/tvChannelDetail/43
 
 ===========
 
-月光寶盒 https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/bhzb.m3u
-
 直播源論壇  https://bbs.livecodes.vip/forum.php?mod=forumdisplay&fid=6
 
 火星直播網頁 https://www.kds.tw
@@ -54,10 +51,6 @@ ipv4  https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3
 
 judy  https://github.com/judy-gotv/iptv
 
-4GTV  https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/4gtv.m3u
-
-SMART  https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/smart.m3u
-
 ==========
 
 天馬行空  https://tmxk.pp.ua
@@ -65,8 +58,6 @@ SMART  https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/smart.m3
 斯玛特镜像   https://hub.docker.com/r/instituteiptv/smart-v1 
 
 iptv-4gtv   https://hub.docker.com/r/instituteiptv/iptv-4gtv 
-
-litv php文件下载：https://pan.quark.cn/s/0411fa90d87c
 
 ========================
 
@@ -108,8 +99,6 @@ CCTV17農業農村,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoom
 
 ==========================
 
-火星直播網頁 https://www.kds.tw
-
 油桃TV https://www.utao.tv
 
 直播源解密 https://ua.fongmi.eu.org
@@ -118,24 +107,10 @@ CCTV17農業農村,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoom
 
 大陸直播源 https://freetv.fun/test_channels_china.txt
 
-tv543 https://tv543.cc/1.json
-
-TV543 http://tv543.cc/4gtv.m3u
-
 4gtv "ads": ["static-mozai.4gtv.tv","mozai.4gtv.tv"]
 
-直播源解密 https://ua.fongmi.eu.org
 
-===================================
-
-echo "litv頻道,#genre#\n";
-
-echo "\n";
-
-echo "$value[3],","$base_url/tv.php?token=" . urlencode($SECRET_TOKEN) . "&id=" . urlencode($key) . "\n";
-
-
-======================
+===============
 
 風雲秒播交流群 https://t.me/qytv888
 
