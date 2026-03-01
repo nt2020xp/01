@@ -112,6 +112,8 @@ CCTV17農業農村,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoom
 
 ===============
 
+pixman群 https://t.me/pixman_io
+
 風雲秒播交流群 https://t.me/qytv888
 
 (垃圾群) tmxk 交流群 https://t.me/+rgxyQeDLtjcxM2U1
