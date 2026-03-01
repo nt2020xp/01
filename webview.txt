@@ -162,32 +162,31 @@ NOW新聞台,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
 
 
 
-md央視衛視,#genre#
+63央視衛視,#genre#
 
+1綜合,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
+2財經,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
+3綜藝,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
+4中文國際,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4hd
+5體育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
+5+體育賽事,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p
+6電影,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv6hd
+7國防軍事,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd
+8電視劇,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8hd
+9紀錄,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd
+10科教,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv10hd
+11戲曲,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv11hd
+12社會與法,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv12hd
+13新聞,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd
+14少兒,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd
+15音樂,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd
+16奧林匹克,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd
+17農業農村,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
 
-cctv1hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
-cctv2hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
-cctv3hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
-cctv4hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4hd
-cctv5hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
-cctv5p,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p
-cctv6hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv6hd
-cctv7hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd
-cctv8hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8hd
-cctv9hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd
-cctv10hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv10hd
-cctv11hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv11hd
-cctv12hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv12hd
-cctv13hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd
-cctv14hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd
-cctv15hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd
-cctv16hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd
-cctv17hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
-
-hnwshd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hnwshd
-dfwshd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dfwshd
-zjwshd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=zjwshd
-jswshd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd
+湖南衛視,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hnwshd
+東方衛視,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dfwshd
+浙江衛視,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=zjwshd
+江蘇衛視,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd
 hbwshd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd
 gswshd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
 jlwshd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jlwshd
@@ -222,3 +221,21 @@ lbssxj,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lbssxj
 hyzxc,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hyzxc
 hycxldb,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hycxldb
 hylzy,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hylzy
+
+42央視,#genre#
+
+1綜合,http://42.238.234.34:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0			
+2財經,http://42.238.234.34:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0			
+3綜藝,http://42.238.234.34:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0			
+4中文國際,http://42.238.234.34:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0			
+5體育,http://42.238.234.34:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0			
+6電影,http://42.238.234.34:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0			
+7國防軍事,http://42.238.234.34:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0			
+8電視劇,http://42.238.234.34:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0			
+9紀錄,http://42.238.234.34:85/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0			
+10科教,http://42.238.234.34:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0			
+11戲曲,http://42.238.234.34:85/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0			
+12社會與法,http://42.238.234.34:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0			
+13新聞,http://42.238.234.34:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0			
+14少兒,http://42.238.234.34:85/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0			
+15音樂,http://42.238.234.34:85/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0	
