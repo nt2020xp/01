@@ -200,15 +200,6 @@ TVBS歡樂台,https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184
 
 md央視衛視,#genre#
 
-cctv1md,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1md
-cctv2md,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2md
-cctv3md,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3md
-cctv5md,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5md
-cctv6md,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv6md
-cctv8md,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8md
-cctv9md,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9md
-cctv10md,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv10md
-cctv13md,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13md
 
 cctv1hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
 cctv2hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
