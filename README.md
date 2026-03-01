@@ -160,6 +160,8 @@ echo "$value[3],","$base_url/tv.php?token=" . urlencode($SECRET_TOKEN) . "&id=" 
 
 訂閱頻道
 
+簡單IPTV https://t.me/jdiptvpub
+
 酷佬  https://t.me/stymei1
 
 iptv研究所 https://t.me/Q_IPTV
