@@ -77,7 +77,8 @@ TVBS精采台,udp://@230.1.2.35:11111
 
 台灣油管新聞,#genre#
 
-TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
+CCTV13新闻,http://iptv.4666888.xyz/iptv2A.php?id=11
+TVBS新聞,http://iptv.4666888.xyz/iptv2A.php?id=43
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 東森財經,https://www.youtube.com/watch?v=1I2iq41Akmo
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
