@@ -222,20 +222,3 @@ hyzxc,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hyzxc
 hycxldb,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hycxldb
 hylzy,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hylzy
 
-42央視,#genre#
-
-1綜合,http://42.238.234.34:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0			
-2財經,http://42.238.234.34:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0			
-3綜藝,http://42.238.234.34:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0			
-4中文國際,http://42.238.234.34:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0			
-5體育,http://42.238.234.34:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0			
-6電影,http://42.238.234.34:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0			
-7國防軍事,http://42.238.234.34:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0			
-8電視劇,http://42.238.234.34:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0			
-9紀錄,http://42.238.234.34:85/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0			
-10科教,http://42.238.234.34:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0			
-11戲曲,http://42.238.234.34:85/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0			
-12社會與法,http://42.238.234.34:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0			
-13新聞,http://42.238.234.34:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0			
-14少兒,http://42.238.234.34:85/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0			
-15音樂,http://42.238.234.34:85/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0	
