@@ -132,6 +132,8 @@ pixman群 https://t.me/pixman_io
 
 (垃圾群) gpt研究所 https://t.me/gpt_858
 
+酷69群 https://t.me/kuj8669
+
 
 ＋＋＋＋＋＋＋＋＋
 
