@@ -235,6 +235,7 @@ hycxldb,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hycxldb
 hylzy,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hylzy
 
 歡樂看,#genre#
+parse=1
 
 台視新聞台,https://www.faintv.com/channel/19366			
 寰宇新聞台灣台,https://www.faintv.com/channel/137			
