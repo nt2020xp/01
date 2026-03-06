@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/alantang1977/X/blob/main/X.json
+ofiii直播。https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/X.json
 
 
 
