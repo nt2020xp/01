@@ -1,3 +1,9 @@
+https://raw.githubusercontent.com/alantang1977/X/blob/main/X.json
+
+
+
+
+
 "rules": [{
    "name": "ofiii",
    "hosts": ["www.ofiii.com"],
