@@ -2429,9 +2429,7 @@
             ]
         }
     ],
-    "ads": [
-        "static-mozai.4gtv.tv,"mozai.4gtv.tv"
-    ],
+    "ads": ["static-mozai.4gtv.tv","mozai.4gtv.tv"],
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "logo": "assets://bhdc/宝盒/logo.gif",
     "disabled_wallpaper": "http://www.kf666888.cn/api/tvbox/img",
