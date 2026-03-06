@@ -1,4 +1,4 @@
-//      >>> 当前时间是：2026-03-06 13:02:54 <<<
+//      >>> 当前时间是：2026-03-06 16:50:16 <<<
 //     关注微信公众号【太太太硬了】有惊喜哦！！！
 
 //     当前接口：https://3043.kstore.space/bhvip/bh/bh2.json
@@ -2429,7 +2429,9 @@
             ]
         }
     ],
-    "ads": ["static-mozai.4gtv.tv","mozai.4gtv.tv"],
+    "ads": [
+        "static-mozai.4gtv.tv"
+    ],
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "logo": "assets://bhdc/宝盒/logo.gif",
     "disabled_wallpaper": "http://www.kf666888.cn/api/tvbox/img",
