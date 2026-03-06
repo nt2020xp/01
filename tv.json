@@ -2431,8 +2431,7 @@
     ],
     "ads": [
         "static-mozai.4gtv.tv"
-    ],
-    "rules": [{ "name": "ofiii", "hosts": ["www.ofiii.com"], "script": ["const play=document.getElementsByClassName('play_icon')[0],event=new MouseEvent('click',{bubbles:!0,cancelable:!0,view:window,screenX:100,screenY:100,clientX:50,clientY:50,button:0,shiftKey:!1,ctrlKey:!1,altKey:!1,metaKey:!1,modifierState:0});play.dispatchEvent(event);"] },
+    ],    
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "logo": "assets://bhdc/宝盒/logo.gif",
     "disabled_wallpaper": "http://www.kf666888.cn/api/tvbox/img",
