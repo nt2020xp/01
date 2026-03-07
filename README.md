@@ -124,6 +124,11 @@ CCTV17農業農村,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoom
 
 ===============
 
+
+所長 不要加 catvod tmxk gpt
+
++++++
+
 pixman群 https://t.me/pixman_io
 
 (垃圾群)風雲秒播交流群 https://t.me/qytv888
