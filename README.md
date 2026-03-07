@@ -126,7 +126,7 @@ CCTV17農業農村,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoom
 
 pixman群 https://t.me/pixman_io
 
-風雲秒播交流群 https://t.me/qytv888
+(垃圾群)風雲秒播交流群 https://t.me/qytv888
 
 (垃圾群) tmxk 交流群 https://t.me/+rgxyQeDLtjcxM2U1
 
@@ -142,10 +142,7 @@ pixman群 https://t.me/pixman_io
 
 (垃圾群) 點播直播交流群：https://t.me/doubebly001
 
-(垃圾群) gpt研究所 https://t.me/gpt_858
-
-酷69群 https://t.me/kuj8669
-
+(超大垃圾群) gpt研究所 https://t.me/gpt_858
 
 ＋＋＋＋＋＋＋＋＋
 
@@ -153,15 +150,15 @@ pixman群 https://t.me/pixman_io
 
 簡單IPTV https://t.me/jdiptvpub
 
-酷佬  https://t.me/stymei1
-
 iptv研究所 https://t.me/Q_IPTV
 
 tmxk 频道 https://t.me/tmxktg
 
-judy所長  https://t.me/Y_IPTV/185 
+judy所長 https://t.me/Y_IPTV/185 
 
-肥羊 https://t.me/feiyangofficalchannel
+肥羊
+
+https://t.me/feiyangofficalchannel
 
 安卓免費破解 https://t.me/pojieshare
 
