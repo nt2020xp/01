@@ -1,8 +1,6 @@
-ofiii直播。https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/X.json
+https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/X.json
 
-
-
-
+++++++++
 
 "rules": [{
    "name": "ofiii",
@@ -10,10 +8,7 @@ ofiii直播。https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/X
    "script": ["const play=document.getElementsByClassName('play_icon')[0],event=new MouseEvent('click',{bubbles:!0,cancelable:!0,view:window,screenX:100,screenY:100,clientX:50,clientY:50,button:0,shiftKey:!1,ctrlKey:!1,altKey:!1,metaKey:!1,modifierState:0});play.dispatchEvent(event);"]
   },
 
-
-
-
-
+++++++
 
 肥羊推荐的iptv替代品（机器人获取）：
 
