@@ -8,7 +8,15 @@ CCTV9纪录,http://43.156.8.127:5050/ysp?id=2024078601&pid=600004078&q=fhd
 CCTV10科教,http://43.156.8.127:5050/ysp?id=2024078701&pid=600001805&q=fhd
 
 
+江苏卫视,http://43.156.8.127:5050/ysp?id=2024171103&pid=600002521&q=fhd
 
+浙江卫视,http://43.156.8.127:5050/ysp?id=2024054703&pid=600002520&q=fhd
+
+湖南卫视,http://43.156.8.127:5050/ysp?id=2024054803&pid=600002475&q=fhd
+
+北京卫视,http://43.156.8.127:5050/ysp?id=2024052703&pid=600002309&q=fhd
+
+东方卫视,http://43.156.8.127:5050/ysp?id=2024054503&pid=600002483&q=fhd
 
 
 https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/X.json
