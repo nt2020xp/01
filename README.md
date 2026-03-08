@@ -1,3 +1,16 @@
+
+CCTV1综合,http://43.156.8.127:5050/ysp?id=2024078201&pid=600001859&q=fhd
+
+CCTV2财经,http://43.156.8.127:5050/ysp?id=2024075401&pid=600001800&q=fhd
+
+CCTV9纪录,http://43.156.8.127:5050/ysp?id=2024078601&pid=600004078&q=fhd
+
+CCTV10科教,http://43.156.8.127:5050/ysp?id=2024078701&pid=600001805&q=fhd
+
+
+
+
+
 https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/X.json
 
 ++++++++
