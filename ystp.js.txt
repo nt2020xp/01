@@ -1,0 +1,30 @@
+function main(item) {
+    const res = fetch('https://capi.yangshipin.cn/api/oms/pc/page/PG00000004.json');
+    const channels = [];
+    for (const channel of res.body.data.feedModuleList[0].dataTvChannelList) {
+        channels.push({
+            name: channel.channelName,
+            logo: channel.tvLogo,
+            seasons: [
+                {
+                    episodes: [
+                        {
+                            links: [
+                                {
+                                    url: 'http://43.156.8.127:5050/ysp?id=' + channel.streamId + '&pid=' + channel.pid + '&q=fhd'
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        })
+    }
+
+    return {
+        groups: [{
+            name: '央视投屏',
+            channels: channels
+        }]
+    }
+}
