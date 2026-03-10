@@ -298,8 +298,7 @@ CCTV卫生健康频道,http://43.156.8.127:5050/ysp?id=2025637003&pid=600099651&
 
 肥羊,#genre#
 
-4K60PSDR-H264-AAC测试,https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/sdr4kvideo/playlist.m3u8
-4K60PHLG-HEVC-EAC3测试,https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/hlg4kvideo/playlist.m3u8
+
 重温经典,https://other.ottiptv.cc/cwjd.m3u8?userid=8575192033&sign=fc1d28e18d98c53c503449adcb4e16d6f3d3f6dc93f2b9bab6906e90d03c91f0bdb0956a91386daef2c7ef74a9fbdb571a869f31b2c013f1037078682d6fa95821b7a0dafcad4a9ece707cea&auth_token=9a49b3ec9cf8e635389d6667625fa6b0
 五星体育,https://other.ottiptv.cc/wxty.m3u8?userid=8575192033&sign=d004c6142d34022ea61d4f13bda2395295c2f7c8a6f7b3a0ed581d8881c6e2b38688c54c96c348a435ecf43d56f6ed45a67a0934e4c107492211feb5120356aaf32950ae965764d12a684bb0&auth_token=9a49b3ec9cf8e635389d6667625fa6b0
  CCTV1综合,https://mgtv.ottiptv.cc/mg/608807420.m3u8?userid=8575192033&sign=c7dc640434a0645b4ea33cdd87ace16766a6418daa54493b9550fbdf47c5d23e19b1333fba8d3188fe4754368c3fe18cc23081e50150f0c49d7965c03fcaa07e031c0f7fc88b022aeb2c3ce466766ac21c&auth_token=9a49b3ec9cf8e635389d6667625fa6b0
