@@ -659,13 +659,14 @@ Smart知識台,webview://https://www.faintv.com/channel/68
 寰宇財經台,webview://https://www.faintv.com/channel/141
 寰宇新聞台,webview://https://www.faintv.com/channel/136
 寰宇新聞台灣台,webview://https://www.faintv.com/channel/137
-龍華日韓台,webview://https://www.faintv.com/channel/116
-龍華卡通台,webview://https://www.faintv.com/channel/89
-龍華洋片台,webview://https://www.faintv.com/channel/228
-龍華偶像台,webview://https://www.faintv.com/channel/122
 龍華經典台,webview://https://www.faintv.com/channel/234
 龍華電影台,webview://https://www.faintv.com/channel/132
+龍華洋片台,webview://https://www.faintv.com/channel/228
+龍華日韓台,webview://https://www.faintv.com/channel/116
+龍華偶像台,webview://https://www.faintv.com/channel/122
 龍華戲劇台,webview://https://www.faintv.com/channel/95
+龍華卡通台,webview://https://www.faintv.com/channel/89
+
 謝龍介直播,webview://https://www.faintv.com/channel/23092
 點相II 破局,webview://https://www.faintv.com/channel/22633
 雙軌(推薦),webview://https://www.faintv.com/channel/20370
