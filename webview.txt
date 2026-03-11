@@ -567,7 +567,6 @@ cctv8k-MCP,https://live.ottiptv.cc/mcp/cctv8k.m3u8?userid=8575192033&sign=e1a6b5
  快乐垂钓,https://mgtv.ottiptv.cc/mg/961930263.m3u8?userid=8575192033&sign=875a82baec7684a59912c4584e0773704c9c0fdb0050fba477cdf36b2a7299ffed02bb187b2fa3bafca3e70f373be8244a39773d03f9d54b979f486009bf625cf4e189fb99250d5d6fb037a89883f25f5f&auth_token=9a49b3ec9cf8e635389d6667625fa6b0
 
 faintv,#genre#
-parse=1
 
 ARIRANG NEWS,https://www.faintv.com/channel/16272
 CNA News,https://www.faintv.com/channel/23099
