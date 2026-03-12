@@ -1,8 +1,6 @@
 MOD電視,#genre#
 
 
-緯來日本,rtmp://f13h.mine.nu/sat/tv771
-
 CCTV世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 
 CBeebies,udp://@224.1.4.213:11111
