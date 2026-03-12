@@ -23,6 +23,8 @@ CatchPlay電影台,udp://@230.1.2.37:11111
 台視,http://rihou.cc:555/tv/[mn]台视闽南
 民視,http://rihou.cc:555/tv/[mn]民视闽南
 
+緯來日本,rtmp://f13h.mine.nu/sat/tv771
+
 MOD電視,#genre#
 
 CBeebies,udp://@224.1.4.213:11111
