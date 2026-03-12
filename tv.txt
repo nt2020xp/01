@@ -26,6 +26,7 @@ CatchPlay電影台,udp://@230.1.2.37:11111
 民視,http://rihou.cc:555/tv/[mn]民视闽南
 
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
+緯來綜合,https://hls.iill.top/api/VL-ONTV/index.m3u8
 
 MOD電視,#genre#
 
