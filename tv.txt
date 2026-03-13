@@ -29,6 +29,15 @@ CatchPlay電影台,udp://@230.1.2.37:11111
 緯來綜合,https://hls.iill.top/api/VL-ONTV/index.m3u8
 緯來體育,https://hls.iill.top/api/VL-Sports/index.m3u8
 
+東森洋片,https://hls.iill.top/api/ET-Foreign-Movie-Channel/index.m3u
+
+好萊塢電影,https://hls.iill.top/api/Hollywood-Movie/index.m3u8
+
+HBO,https://hls.iill.top/api/HBO/index.m3u8
+HBO Hits,https://hls.iill.top/api/HBO-Hits/index.m3u8
+HBO Family,https://hls.iill.top/api/HBO-Family/index.m3u8
+HBO Signature,https://hls.iill.top/api/HBO-
+
 MOD電視,#genre#
 
 CBeebies,udp://@224.1.4.213:11111
