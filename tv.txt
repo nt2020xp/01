@@ -33,10 +33,10 @@ CatchPlay電影台,udp://@230.1.2.37:11111
 
 好萊塢電影,https://hls.iill.top/api/Hollywood-Movie/index.m3u8
 
-HBO,https://hls.iill.top/api/HBO/index.m3u8
-HBO Hits,https://hls.iill.top/api/HBO-Hits/index.m3u8
-HBO Family,https://hls.iill.top/api/HBO-Family/index.m3u8
-HBO Signature,https://hls.iill.top/api/HBO-
+HBO HD,https://hls.iill.top/api/HBO/index.m3u8
+HBO 強檔,https://hls.iill.top/api/HBO-Hits/index.m3u8
+HBO 家庭,https://hls.iill.top/api/HBO-Family/index.m3u8
+HBO 獨特https://hls.iill.top/api/HBO-Signature/index.m3u8
 
 MOD電視,#genre#
 
