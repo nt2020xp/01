@@ -6,7 +6,7 @@ CCTV1综合,webview://https://tv.cctv.com/live/cctv1
 CCTV2财经,webview://https://tv.cctv.com/live/cctv2
 CCTV3综艺,webview://https://tv.cctv.com/live/cctv3
 CCTV4中文国际,webview://https://tv.cctv.com/live/cctv4
-CCTV4欧洲,webview://https://tv.cctv.com/live/cctveurope/index.shtml
+CCTV4欧洲,webview://https://tv.cctv.com/live/cctveurope
 CCTV4美洲,webview://https://tv.cctv.com/live/cctvamerica
 CCTV5体育,webview://https://tv.cctv.com/live/cctv5
 CCTV5+体育赛事,webview://https://tv.cctv.com/live/cctv5plus
