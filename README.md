@@ -1,3 +1,14 @@
+路堯影視  https://000.hfr1107.top/live/路尧.json
+
+{
+      "name": "央视频",
+      "url": "http://43.156.8.127:5050/m3u",
+      "type": 0,
+      "playerType": 2,
+      "epg": "http://diyp3.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://andysfly.3vcn.work/mitv/logo/{name}.png"
+    },
+    
 
 CCTV1综合,http://43.156.8.127:5050/ysp?id=2024078201&pid=600001859&q=fhd
 
