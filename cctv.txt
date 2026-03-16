@@ -1,4 +1,4 @@
-央視1,#genre#
+央視1,#genre#,JS=https://gongdian.top/tv/ku9/webview.js
 
 1綜合,webview://https://tv.cctv.com/live/cctv1
 2財經,webview://https://tv.cctv.com/live/cctv2
@@ -21,7 +21,7 @@
 16奧林匹克,webview://https://tv.cctv.com/live/cctv16
 17農業農村,webview://https://tv.cctv.com/live/cctv17
 
-央視2,#genre#
+央視2,#genre#,JS=https://gongdian.top/tv/ku9/webview.js
 
 CCTV4K,webview://https://www.yangshipin.cn/tv/home?pid=600002264
 CCTV8K,webview://https://www.yangshipin.cn/tv/home?pid=600156816
@@ -47,7 +47,7 @@ x16奧林匹克,webview://https://www.yangshipin.cn/tv/home?pid=600098637
 第一劇場,webview://https://yangshipin.cn/tv/home?pid=600099655
 懷舊劇場,webview://https://yangshipin.cn/tv/home?pid=600099620
 
-衛視,#genre#
+衛視,#genre#,JS=https://gongdian.top/tv/ku9/webview.js
 
 江蘇衛視,webview://https://yangshipin.cn/tv/home?pid=600002521
 浙江衛視,webview://https://yangshipin.cn/tv/home?pid=600002520
