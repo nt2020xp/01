@@ -11,7 +11,7 @@
 6電影,webview://https://tv.cctv.com/live/cctv6
 7國防軍事,webview://https://tv.cctv.com/live/cctv7
 8電視劇,webview://https://tv.cctv.com/live/cctv8
-9紀錄,webview://https://tv.cctv.com/live/cctvjilu
+x9紀錄,webview://https://tv.cctv.com/live/cctvjilu
 10科教,webview://https://tv.cctv.com/live/cctv10
 11戲曲,webview://https://tv.cctv.com/live/cctv11
 12社會與法,webview://https://tv.cctv.com/live/cctv12
