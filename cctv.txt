@@ -4,7 +4,7 @@
 2財經,webview://https://tv.cctv.com/live/cctv2
 3綜藝,webview://https://tv.cctv.com/live/cctv3
 4亞洲,webview://https://tv.cctv.com/live/cctv4
-4歐洲,webview://https://tv.cctv.com/live/cctveurope/index.shtml
+4歐洲,webview://https://tv.cctv.com/live/cctveurope
 4美洲,webview://https://tv.cctv.com/live/cctvamerica
 5體育,webview://https://tv.cctv.com/live/cctv5
 5+體育賽事,webview://https://tv.cctv.com/live/cctv5plus
