@@ -1,4 +1,32 @@
-央視,#genre#
+央視1,#genre#
+
+CCTV4K,webview://https://www.yangshipin.cn/tv/home?pid=600002264
+CCTV8K,webview://https://www.yangshipin.cn/tv/home?pid=600156816
+1綜合,webview://https://www.yangshipin.cn/tv/home?pid=600001859
+2財經,webview://https://www.yangshipin.cn/tv/home?pid=600001800
+3綜藝,webview://https://www.yangshipin.cn/tv/home?pid=600001801
+4亞洲,webview://https://www.yangshipin.cn/tv/home?pid=600001814
+4歐洲,webview://https://tv.cctv.com/live/cctveurope/index.shtml
+4美洲,webview://https://tv.cctv.com/live/cctvamerica
+x5體育,webview://https://www.yangshipin.cn/tv/home?pid=600001818
+x5+體育賽事,webview://https://www.yangshipin.cn/tv/home?pid=600001817
+6電影,webview://https://www.yangshipin.cn/tv/home?pid=600108442
+7國防軍事,webview://https://www.yangshipin.cn/tv/home?pid=600004092
+8電視劇,webview://https://www.yangshipin.cn/tv/home?pid=600001803
+9紀錄,webview://https://www.yangshipin.cn/tv/home?pid=600004078
+x10科教,webview://https://www.yangshipin.cn/tv/home?pid=600001805
+11戲曲,webview://https://www.yangshipin.cn/tv/home?pid=600001806
+12社會與法,webview://https://www.yangshipin.cn/tv/home?pid=600001807
+13新聞,webview://https://www.yangshipin.cn/tv/home?pid=600001811
+14少兒,webview://https://www.yangshipin.cn/tv/home?pid=600001809
+15音樂,webview://https://www.yangshipin.cn/tv/home?pid=600001815
+x16奧林匹克,webview://https://www.yangshipin.cn/tv/home?pid=600098637
+17農業農村,webview://https://www.yangshipin.cn/tv/home?pid=600001810
+風雲劇場,webview://https://yangshipin.cn/tv/home?pid=600099658
+第一劇場,webview://https://yangshipin.cn/tv/home?pid=600099655
+懷舊劇場,webview://https://yangshipin.cn/tv/home?pid=600099620
+
+央視2,#genre#
 
 CCTV4K,webview://https://www.yangshipin.cn/tv/home?pid=600002264
 CCTV8K,webview://https://www.yangshipin.cn/tv/home?pid=600156816
@@ -25,7 +53,6 @@ CCTV8K,webview://https://www.yangshipin.cn/tv/home?pid=600156816
 風雲劇場,webview://https://yangshipin.cn/tv/home?pid=600099658
 第一劇場,webview://https://yangshipin.cn/tv/home?pid=600099655
 懷舊劇場,webview://https://yangshipin.cn/tv/home?pid=600099620
-
 
 衛視,#genre#
 
