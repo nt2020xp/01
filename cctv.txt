@@ -1,5 +1,28 @@
 央視1,#genre#
 
+1綜合,webview://https://tv.cctv.com/live/cctv1
+2財經,webview://https://tv.cctv.com/live/cctv2
+3綜藝,webview://https://tv.cctv.com/live/cctv3
+4亞洲,webview://https://tv.cctv.com/live/cctv4
+4歐洲,webview://https://tv.cctv.com/live/cctveurope/index.shtml
+4美洲,webview://https://tv.cctv.com/live/cctvamerica
+5體育,webview://https://tv.cctv.com/live/cctv5
+5+體育賽事,webview://https://tv.cctv.com/live/cctv5plus
+6電影,webview://https://tv.cctv.com/live/cctv6
+7國防軍事,webview://https://tv.cctv.com/live/cctv7
+8電視劇,webview://https://tv.cctv.com/live/cctv8
+9紀錄,webview://https://tv.cctv.com/live/cctvjilu
+10科教,webview://https://tv.cctv.com/live/cctv10
+11戲曲,webview://https://tv.cctv.com/live/cctv11
+12社會與法,webview://https://tv.cctv.com/live/cctv12
+13新聞,webview://https://tv.cctv.com/live/cctv13
+14少兒,webview://https://tv.cctv.com/live/cctvchild
+15音樂,webview://https://tv.cctv.com/live/cctv15
+16奧林匹克,webview://https://tv.cctv.com/live/cctv16
+17農業農村,webview://https://tv.cctv.com/live/cctv17
+
+央視2,#genre#
+
 CCTV4K,webview://https://www.yangshipin.cn/tv/home?pid=600002264
 CCTV8K,webview://https://www.yangshipin.cn/tv/home?pid=600156816
 1綜合,webview://https://www.yangshipin.cn/tv/home?pid=600001859
@@ -26,33 +49,6 @@ x16奧林匹克,webview://https://www.yangshipin.cn/tv/home?pid=600098637
 第一劇場,webview://https://yangshipin.cn/tv/home?pid=600099655
 懷舊劇場,webview://https://yangshipin.cn/tv/home?pid=600099620
 
-央視2,#genre#
-
-CCTV4K,webview://https://www.yangshipin.cn/tv/home?pid=600002264
-CCTV8K,webview://https://www.yangshipin.cn/tv/home?pid=600156816
-1綜合,webview://https://tv.cctv.com/live/cctv1
-2財經,webview://https://tv.cctv.com/live/cctv2
-3綜藝,webview://https://tv.cctv.com/live/cctv3
-4亞洲,webview://https://tv.cctv.com/live/cctv4
-4歐洲,webview://https://tv.cctv.com/live/cctveurope/index.shtml
-4美洲,webview://https://tv.cctv.com/live/cctvamerica
-5體育,webview://https://tv.cctv.com/live/cctv5
-5+體育賽事,webview://https://tv.cctv.com/live/cctv5plus
-6電影,webview://https://tv.cctv.com/live/cctv6
-7國防軍事,webview://https://tv.cctv.com/live/cctv7
-8電視劇,webview://https://tv.cctv.com/live/cctv8
-9紀錄,webview://https://tv.cctv.com/live/cctvjilu
-10科教,webview://https://tv.cctv.com/live/cctv10
-11戲曲,webview://https://tv.cctv.com/live/cctv11
-12社會與法,webview://https://tv.cctv.com/live/cctv12
-13新聞,webview://https://tv.cctv.com/live/cctv13
-14少兒,webview://https://tv.cctv.com/live/cctvchild
-15音樂,webview://https://tv.cctv.com/live/cctv15
-16奧林匹克,webview://https://tv.cctv.com/live/cctv16
-17農業農村,webview://https://tv.cctv.com/live/cctv17
-風雲劇場,webview://https://yangshipin.cn/tv/home?pid=600099658
-第一劇場,webview://https://yangshipin.cn/tv/home?pid=600099655
-懷舊劇場,webview://https://yangshipin.cn/tv/home?pid=600099620
 
 衛視,#genre#
 
