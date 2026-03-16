@@ -29,8 +29,6 @@ CCTV8K,webview://https://www.yangshipin.cn/tv/home?pid=600156816
 2財經,webview://https://www.yangshipin.cn/tv/home?pid=600001800
 3綜藝,webview://https://www.yangshipin.cn/tv/home?pid=600001801
 4亞洲,webview://https://www.yangshipin.cn/tv/home?pid=600001814
-4歐洲,webview://https://tv.cctv.com/live/cctveurope/index.shtml
-4美洲,webview://https://tv.cctv.com/live/cctvamerica
 x5體育,webview://https://www.yangshipin.cn/tv/home?pid=600001818
 x5+體育賽事,webview://https://www.yangshipin.cn/tv/home?pid=600001817
 6電影,webview://https://www.yangshipin.cn/tv/home?pid=600108442
