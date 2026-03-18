@@ -1,5 +1,8 @@
 宫殿线路  https://gongdian.top/tv/iptv
 
+直播源 https://tv.iill.top/m3u/Gather
+
+
 TVBox配置接口解密  https://ua.fongmi.eu.org
 
 央視頻  http://43.156.8.127:5050/m3u
