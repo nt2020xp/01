@@ -1052,3 +1052,25 @@ CCTV央视台球,http://107.150.60.122/live/ystq.m3u8
 黑龙江卫视,http://112.123.243.37:50085/tsfile/live/0142_1.m3u8?key=txiptv
 黑龙江卫视,http://223.75.149.129:9906/tsfile/live/0143_1.m3u8?key=txiptv
 
+靖天龍華,#genre#
+
+靖天日本「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv047
+靖天電影「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv061
+靖天國際「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv063
+靖天歡樂「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv054
+靖天映畫「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv055
+靖天戲劇「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv058
+靖天綜合「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv046
+靖天育樂「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv062
+靖天資訊「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv065
+靖洋戲劇「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv045
+靖天卡通「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv044
+靖洋卡通「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv057
+
+龍華電影「ofiii」,https://tv.iill.top/ofiii/litv-xinchuang03
+龍華洋片「ofiii」,https://tv.iill.top/ofiii/litv-xinchuang02
+龍華經典「ofiii」,https://tv.iill.top/ofiii/litv-xinchuang21
+龍華偶像「ofiii」,https://tv.iill.top/ofiii/litv-xinchuang12
+龍華戲劇「ofiii」,https://tv.iill.top/ofiii/litv-xinchuang18
+龍華日韓「ofiii」,https://tv.iill.top/ofiii/litv-xinchuang11
+龍華卡通「ofiii」,https://tv.iill.top/ofiii/litv-xinchuang01
