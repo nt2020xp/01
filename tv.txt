@@ -775,16 +775,16 @@ CCTV央视台球,http://107.150.60.122/live/ystq.m3u8
 
 野原一家の故事,#genre#
 
-《野原一家の故事》 第001話,https://www.youtube.com/watch?v=fNeE-6KZu3M&list=PLDfDiflGwSuUygD64ruz47d0KihU7zFbO&index=1&pp=iAQB
-《野原一家の故事》 第002話,https://www.youtube.com/watch?v=1oEbHiebF6A&list=PLDfDiflGwSuUygD64ruz47d0KihU7zFbO&index=2&pp=iAQB
-《野原一家の故事》 第003話,https://www.youtube.com/watch?v=4rYIYeHI_SY&list=PLDfDiflGwSuUygD64ruz47d0KihU7zFbO&index=3&pp=iAQB0gcJCcUKAYcqIYzv
-《野原一家の故事》 第004話,https://www.youtube.com/watch?v=00aDn-jT3HY&list=PLDfDiflGwSuUygD64ruz47d0KihU7zFbO&index=4&pp=iAQB
-《野原一家の故事》 第005話,https://www.youtube.com/watch?v=eCOXYoU7EcA&list=PLDfDiflGwSuUygD64ruz47d0KihU7zFbO&index=5&pp=iAQB
-《野原一家の故事》 第006話,https://www.youtube.com/watch?v=QzCO_pPVwBg&list=PLDfDiflGwSuUygD64ruz47d0KihU7zFbO&index=6&pp=iAQB
-《野原一家の故事》 第007話,https://www.youtube.com/watch?v=y9Bvn6trC00&list=PLDfDiflGwSuUygD64ruz47d0KihU7zFbO&index=7&pp=iAQB
-《野原一家の故事》 第008話,https://www.youtube.com/watch?v=7-Z-Wmq1ttg&list=PLDfDiflGwSuUygD64ruz47d0KihU7zFbO&index=8&pp=iAQB
-《野原一家の故事》 第009話,https://www.youtube.com/watch?v=J6taFSYeik8&list=PLDfDiflGwSuUygD64ruz47d0KihU7zFbO&index=9&pp=iAQB
-《野原一家の故事》 第010話,https://www.youtube.com/watch?v=oHxT9OVWSh0&list=PLDfDiflGwSuUygD64ruz47d0KihU7zFbO&index=10&pp=iAQB
+《野原一家の故事》 第001話,https://www.youtube.com/watch?v=fNeE-6KZu3M
+《野原一家の故事》 第002話,https://www.youtube.com/watch?v=1oEbHiebF6A
+《野原一家の故事》 第003話,https://www.youtube.com/watch?v=4rYIYeHI_SY
+《野原一家の故事》 第004話,https://www.youtube.com/watch?v=00aDn-jT3HY
+《野原一家の故事》 第005話,https://www.youtube.com/watch?v=eCOXYoU7EcA
+《野原一家の故事》 第006話,https://www.youtube.com/watch?v=QzCO_pPVwBg
+《野原一家の故事》 第007話,https://www.youtube.com/watch?v=y9Bvn6trC00
+《野原一家の故事》 第008話,https://www.youtube.com/watch?v=7-Z-Wmq1ttg
+《野原一家の故事》 第009話,https://www.youtube.com/watch?v=J6taFSYeik8
+《野原一家の故事》 第010話,https://www.youtube.com/watch?v=oHxT9OVWSh0
 《野原一家の故事》 第011話,https://www.youtube.com/watch?v=4FUCiBgNXFE&list=PLDfDiflGwSuUygD64ruz47d0KihU7zFbO&index=11&pp=iAQB
 《野原一家の故事》 第012話,https://www.youtube.com/watch?v=gpMC98lz23s&list=PLDfDiflGwSuUygD64ruz47d0KihU7zFbO&index=12&t=8s&pp=iAQB
 《野原一家の故事》 第013話,https://www.youtube.com/watch?v=jLhhQK-Lxo0&list=PLDfDiflGwSuUygD64ruz47d0KihU7zFbO&index=13&pp=iAQB
