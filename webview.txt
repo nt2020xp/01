@@ -81,8 +81,9 @@ TVBS 精采「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv067
 
 CCTV4K,webview://https://www.yangshipin.cn/tv/home?pid=600002264
 CCTV8K,webview://https://www.yangshipin.cn/tv/home?pid=600156816
-1綜合,webview://https://tv.cctv.com/live/cctv1
+
 1綜合,webview://https://www.yangshipin.cn/tv/home?pid=600001859
+1綜合,webview://https://tv.cctv.com/live/cctv1
 2財經,webview://https://tv.cctv.com/live/cctv2
 2財經,webview://https://www.yangshipin.cn/tv/home?pid=600001800
 3綜藝,webview://https://tv.cctv.com/live/cctv3
