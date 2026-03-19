@@ -90,8 +90,8 @@ CCTV8K,webview://https://www.yangshipin.cn/tv/home?pid=600156816
 3綜藝,webview://https://www.yangshipin.cn/tv/home?pid=600001801
 4亞洲,webview://https://tv.cctv.com/live/cctv4
 4亞洲,webview://https://www.yangshipin.cn/tv/home?pid=600001814
-6電影,webview://https://www.yangshipin.cn/tv/home?pid=600108442
 6電影,webview://https://tv.cctv.com/live/cctv6
+6電影,webview://https://www.yangshipin.cn/tv/home?pid=600108442
 7國防軍事,webview://https://tv.cctv.com/live/cctv7
 7國防軍事,webview://https://www.yangshipin.cn/tv/home?pid=600004092
 8電視劇,webview://https://www.yangshipin.cn/tv/home?pid=600001803
