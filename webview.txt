@@ -1,5 +1,4 @@
-4gtv-GA,#genre#
-
+4gtv直播,#genre#
 
 TVBS新聞「4gTV」,https://tv.iill.top/4gtv/media-live072
 東森新聞「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv152
@@ -78,7 +77,7 @@ TVBS 精采「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv067
 影迷數位紀實「4gTV」,https://tv.iill.top/4gtv/litv-ftv15
 韓國娛樂台 KMTV「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv016
 
-央視1,#genre#
+央視,#genre#
 
 1綜合,webview://https://tv.cctv.com/live/cctv1
 2財經,webview://https://tv.cctv.com/live/cctv2
@@ -99,8 +98,6 @@ x9紀錄,webview://https://tv.cctv.com/live/cctvjilu
 15音樂,webview://https://tv.cctv.com/live/cctv15
 x16奧林匹克,webview://https://tv.cctv.com/live/cctv16
 17農業農村,webview://https://tv.cctv.com/live/cctv17
-
-央視2,#genre#
 
 CCTV4K,webview://https://www.yangshipin.cn/tv/home?pid=600002264
 CCTV8K,webview://https://www.yangshipin.cn/tv/home?pid=600156816
@@ -180,21 +177,6 @@ CCTV14少儿,http://74.91.26.218:82/live/cctv14hd.m3u8
 CCTV15音乐,http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV17农业农村,http://74.91.26.218:82/live/cctv17hd.m3u8
-
-
-
-
-香港,#genre#
-
-TVB翡翠台,http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
-TVB新聞台,http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
-TVB星河台,http://php.jdshipin.com/PLTV/iptv.php?id=tvbxh
-重溫經典,http://cdn6.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
-NOW新聞台,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
-77HOY TV,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
-78HOY 資訊台,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-天映频道,https://o11.163189.xyz/stream/live/typd/
-天映經典,https://o11.163189.xyz/stream/live/ccm/
 
 69央视,#genre#
 
@@ -765,6 +747,16 @@ CCTV央视台球,http://107.150.60.122/live/ystq.m3u8
 龍華卡通「ofiii」,https://tv.iill.top/ofiii/litv-xinchuang01
 
 
+
+香港,#genre#
+
+TVB翡翠台,http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
+TVB新聞台,http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
+TVB星河台,http://php.jdshipin.com/PLTV/iptv.php?id=tvbxh
+重溫經典,http://cdn6.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
+NOW新聞台,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
+天映频道,https://o11.163189.xyz/stream/live/typd/
+天映經典,https://o11.163189.xyz/stream/live/ccm/
 
 
 MOD電視,#genre#
