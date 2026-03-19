@@ -97,7 +97,7 @@ x9紀錄,webview://https://tv.cctv.com/live/cctvjilu
 13新聞,webview://https://tv.cctv.com/live/cctv13
 14少兒,webview://https://tv.cctv.com/live/cctvchild
 15音樂,webview://https://tv.cctv.com/live/cctv15
-16奧林匹克,webview://https://tv.cctv.com/live/cctv16
+x16奧林匹克,webview://https://tv.cctv.com/live/cctv16
 17農業農村,webview://https://tv.cctv.com/live/cctv17
 
 央視2,#genre#
@@ -114,7 +114,7 @@ x5+體育賽事,webview://https://www.yangshipin.cn/tv/home?pid=600001817
 7國防軍事,webview://https://www.yangshipin.cn/tv/home?pid=600004092
 8電視劇,webview://https://www.yangshipin.cn/tv/home?pid=600001803
 9紀錄,webview://https://www.yangshipin.cn/tv/home?pid=600004078
-10科教,webview://https://www.yangshipin.cn/tv/home?pid=600001805
+x10科教,webview://https://www.yangshipin.cn/tv/home?pid=600001805
 11戲曲,webview://https://www.yangshipin.cn/tv/home?pid=600001806
 12社會與法,webview://https://www.yangshipin.cn/tv/home?pid=600001807
 13新聞,webview://https://www.yangshipin.cn/tv/home?pid=600001811
