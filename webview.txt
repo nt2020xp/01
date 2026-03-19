@@ -91,7 +91,7 @@ CCTV8K,webview://https://www.yangshipin.cn/tv/home?pid=600156816
 6電影,webview://https://tv.cctv.com/live/cctv6
 7國防軍事,webview://https://tv.cctv.com/live/cctv7
 8電視劇,webview://https://tv.cctv.com/live/cctv8
-
+9紀錄,webview://https://www.yangshipin.cn/tv/home?pid=600004078
 10科教,webview://https://tv.cctv.com/live/cctv10
 11戲曲,webview://https://tv.cctv.com/live/cctv11
 12社會與法,webview://https://tv.cctv.com/live/cctv12
@@ -110,7 +110,7 @@ CCTV8K,webview://https://www.yangshipin.cn/tv/home?pid=600156816
 6電影,webview://https://www.yangshipin.cn/tv/home?pid=600108442
 7國防軍事,webview://https://www.yangshipin.cn/tv/home?pid=600004092
 8電視劇,webview://https://www.yangshipin.cn/tv/home?pid=600001803
-9紀錄,webview://https://www.yangshipin.cn/tv/home?pid=600004078
+
 
 11戲曲,webview://https://www.yangshipin.cn/tv/home?pid=600001806
 12社會與法,webview://https://www.yangshipin.cn/tv/home?pid=600001807
