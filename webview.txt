@@ -161,7 +161,10 @@ TVB新聞台,http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
 TVB星河台,http://php.jdshipin.com/PLTV/iptv.php?id=tvbxh
 重溫經典,http://cdn6.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
 NOW新聞台,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
-
+77HOY TV,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+78HOY 資訊台,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+天映频道,https://o11.163189.xyz/stream/live/typd/
+天映經典,https://o11.163189.xyz/stream/live/ccm/
 
 3台地波,#genre#
 
