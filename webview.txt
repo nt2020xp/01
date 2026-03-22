@@ -82,8 +82,8 @@ TVBS 精采「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv067
 CCTV-1综合,webview://https://tv.cctv.com/live/cctv1
 CCTV-2财经,webview://https://tv.cctv.com/live/cctv2
 CCTV-3综艺,webview://https://tv.cctv.com/live/cctv3
-4中文国际（亚）,webview://https://tv.cctv.com/live/cctv4
-4中文国际（欧）,webview://https://tv.cctv.com/live/cctveurope
+CCTV-4中文国际（亚）,webview://https://tv.cctv.com/live/cctv4
+CCTV-4中文国际（欧）,webview://https://tv.cctv.com/live/cctveurope
 CCTV-6电影,webview://https://tv.cctv.com/live/cctv6
 CCTV-7国防军事,webview://https://tv.cctv.com/live/cctv7
 CCTV-8电视剧,webview://https://tv.cctv.com/live/cctv8
