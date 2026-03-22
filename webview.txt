@@ -79,25 +79,25 @@ TVBS 精采「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv067
 
 天光云影央視,#genre#
 
-CCTV-1综合,webview://https://tv.cctv.com/live/cctv1
-CCTV-2财经,webview://https://tv.cctv.com/live/cctv2
-CCTV-3综艺,webview://https://tv.cctv.com/live/cctv3
-CCTV-4中文国际（亚）,webview://https://tv.cctv.com/live/cctv4
-CCTV-4中文国际（欧）,webview://https://tv.cctv.com/live/cctveurope
-CCTV-6电影,webview://https://tv.cctv.com/live/cctv6
-CCTV-7国防军事,webview://https://tv.cctv.com/live/cctv7
-CCTV-8电视剧,webview://https://tv.cctv.com/live/cctv8
-CCTV-9纪录,webview://https://www.yangshipin.cn/tv/home?pid=600004078
-CCTV-10科教,webview://https://tv.cctv.com/live/cctv10
-CCTV-11戏曲,webview://https://tv.cctv.com/live/cctv11
-CCTV-12社会与法,webview://https://tv.cctv.com/live/cctv12
-CCTV-13 新闻,webview://https://tv.cctv.com/live/cctv13
-CCTV-14少儿,webview://https://tv.cctv.com/live/cctvchild
-CCTV-15音乐,webview://https://tv.cctv.com/live/cctv15
-CCTV-17农业农村,webview://https://tv.cctv.com/live/cctv17
-CCTV风云剧场频道,webview://https://www.yangshipin.cn/tv/home?pid=600099658
-CCTV第一剧场频道,webview://https://www.yangshipin.cn/tv/home?pid=600099655
-CCTV怀旧剧场频道,webview://https://www.yangshipin.cn/tv/home?pid=600099620
+CCTV1综合,webview://https://tv.cctv.com/live/cctv1
+CCTV2财经,webview://https://tv.cctv.com/live/cctv2
+CCTV3综艺,webview://https://tv.cctv.com/live/cctv3
+CCTV4中文国际,webview://https://tv.cctv.com/live/cctv4
+CCTV4中文国际（欧）,webview://https://tv.cctv.com/live/cctveurope
+CCTV6电影,webview://https://tv.cctv.com/live/cctv6
+CCTV7国防军事,webview://https://tv.cctv.com/live/cctv7
+CCTV8电视剧,webview://https://tv.cctv.com/live/cctv8
+CCTV9纪录,webview://https://www.yangshipin.cn/tv/home?pid=600004078
+CCTV10科教,webview://https://tv.cctv.com/live/cctv10
+CCTV11戏曲,webview://https://tv.cctv.com/live/cctv11
+CCTV12社会与法,webview://https://tv.cctv.com/live/cctv12
+CCTV13 新闻,webview://https://tv.cctv.com/live/cctv13
+CCTV14少儿,webview://https://tv.cctv.com/live/cctvchild
+CCTV15音乐,webview://https://tv.cctv.com/live/cctv15
+CCTV17农业农村,webview://https://tv.cctv.com/live/cctv17
+风云剧场,webview://https://www.yangshipin.cn/tv/home?pid=600099658
+第一剧场,webview://https://www.yangshipin.cn/tv/home?pid=600099655
+怀旧剧场,webview://https://www.yangshipin.cn/tv/home?pid=600099620
 
 XCCTV-5体育,webview://https://tv.cctv.com/live/cctv5
 XCCTV-5+体育赛事,webview://https://tv.cctv.com/live/cctv5plus
