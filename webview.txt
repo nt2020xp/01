@@ -79,6 +79,9 @@ TVBS 精采「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv067
 
 天光云影央視,#genre#
 
+CCTV4K超高清,webview://https://www.yangshipin.cn/tv/home?pid=600002264
+CCTV8K超高清,webview://https://www.yangshipin.cn/tv/home?pid=600156816
+
 CCTV1综合,webview://https://tv.cctv.com/live/cctv1
 CCTV2财经,webview://https://tv.cctv.com/live/cctv2
 CCTV3综艺,webview://https://tv.cctv.com/live/cctv3
