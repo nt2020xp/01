@@ -187,7 +187,6 @@ juli直播源 https://t.me/tvzby
 
 pixman群 https://t.me/pixman_io
 
-(垃圾群)風雲秒播交流群 https://t.me/qytv888
 
 (垃圾群) tmxk 交流群 https://t.me/+rgxyQeDLtjcxM2U1
 
