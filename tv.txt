@@ -42,6 +42,8 @@ TVB星河,http://74.91.26.218:82/live/tvbxh.m3u8
 TVB千禧经典台,http://74.91.26.218:82/live/tvbjd.m3u8
 天映频道,http://74.91.26.218:82/live/typd.m3u8
 天映经典,http://74.91.26.218:82/live/tyjd.m3u8
+重溫經典,http://cdn6.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
+NOW新聞台,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
 
 MOD電視,#genre#
 
