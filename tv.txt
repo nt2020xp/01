@@ -241,7 +241,7 @@ TVBS新聞「4gTV」,https://tv.iill.top/4gtv/media-live072
 
 華視「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv041
 中視「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv040
-台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
+台視「4gTV」https://tv.iill.top/api/TTV/index.m3u8
 民視「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv002
 
 東森電影「Relay」,https://tv.iill.top/api/ET-Movie/index.m3u8
