@@ -143,6 +143,14 @@ CCTV15音乐,http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV17农业农村,http://74.91.26.218:82/live/cctv17hd.m3u8
 
+翡翠台,http://74.91.26.218:82/live/jade.m3u8
+无线新闻台,http://74.91.26.218:82/live/inews.m3u8
+TVB Plus,http://74.91.26.218:82/live/j2.m3u8
+TVB星河,http://74.91.26.218:82/live/tvbxh.m3u8
+TVB千禧经典台,http://74.91.26.218:82/live/tvbjd.m3u8
+天映频道,http://74.91.26.218:82/live/typd.m3u8
+天映经典,http://74.91.26.218:82/live/tyjd.m3u8
+
 69央视,#genre#
 
 1綜合,http://69.30.245.50/live/cctv1.m3u8
