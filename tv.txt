@@ -37,6 +37,8 @@ HBO 獨特,https://hls.iill.top/api/HBO-Signature/index.m3u8
 
 翡翠台,http://74.91.26.218:82/live/jade.m3u8
 无线新闻台,http://74.91.26.218:82/live/inews.m3u8
+77HOY TV,http://cdn.veryfast.filegear-sg.me/live/hoy/stream.m3u8
+78HOY资讯台,http://cdn.veryfast.filegear-sg.me/live/hoy78/stream.m3u8
 NOW新聞台,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
 天映频道,http://74.91.26.218:82/live/typd.m3u8
 天映经典,http://74.91.26.218:82/live/tyjd.m3u8
