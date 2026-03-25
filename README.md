@@ -1,3 +1,13 @@
+风云试看,http://iptv.4666888.xyz/FYTV.txt
+
+风云试看,http://iptv.4666888.xyz/FYTV.m3u
+
+風雲試看,http://iptv.4666888.xyz/FYTV.txt
+
+風雲試看,http://iptv.4666888.xyz/FYTV.m3u
+
+=================
+
 直播源 https://ufile.eu.org/juli.php
 
 直播源 https://raw.githubusercontent.com/hewittchoi/iptv-api/a883e22e8af18ec3d97cc59173e7445a0d723482/output/ipv4/result.txt
