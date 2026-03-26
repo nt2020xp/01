@@ -1,5 +1,6 @@
 蠟筆小新,#genre#
 
+東森幼幼,https://tv.iill.top/api/YoYo-TV/index.m3u8
 蠟筆小新,https://live.ottiptv.cc/huya/11352970
 櫻桃小丸子,https://live.ottiptv.cc/huya/11342394
 
@@ -23,11 +24,11 @@ CatchPlay電影台,udp://@230.1.2.37:11111
 台視,http://rihou.cc:555/tv/[mn]台视闽南
 民視,http://rihou.cc:555/tv/[mn]民视闽南
 
-緯來日本,https://hls.iill.top/api/VL-Japan/index.m3u8
-緯來綜合,https://hls.iill.top/api/VL-ONTV/index.m3u8
-緯來體育,https://hls.iill.top/api/VL-Sports/index.m3u8
+緯來日本,https://tv.iill.top/api/VL-Japan/index.m3u8
+緯來綜合,https://tv.iill.top/api/VL-ONTV/index.m3u8
+緯來體育,https://tv.iill.top/api/VL-Sports/index.m3u8
 
-東森洋片,https://hls.iill.top/api/ET-Foreign-Movie-Channel/index.m3u
+東森洋片,https://tv.iill.top/api/ET-Foreign-Movie-Channel/index.m3u8
 好萊塢電影,https://hls.iill.top/api/Hollywood-Movie/index.m3u8
 
 HBO HD,https://hls.iill.top/api/HBO/index.m3u8
