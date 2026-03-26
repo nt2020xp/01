@@ -310,7 +310,24 @@ TVBS 精采「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv067
 影迷數位紀實「4gTV」,https://tv.iill.top/4gtv/litv-ftv15
 韓國娛樂台 KMTV「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv016
 
-
+1綜合,https://tv.iill.top/api/CCTV1/index.m3u8
+2財經,https://tv.iill.top/api/CCTV2/index.m3u8
+3綜藝,https://tv.iill.top/api/CCTV3/index.m3u8
+4中文國際,https://snap.iill.top/youtube/
+5體育,https://tv.iill.top/api/CCTV5/index.m3u8
+5+體育賽事,https://tv.iill.top/api/CCTV5+/index.m3u8
+6電影,https://tv.iill.top/api/CCTV6/index.m3u8
+7國防軍事,https://tv.iill.top/api/CCTV7/index.m3u8
+8電視劇,https://tv.iill.top/api/CCTV8/index.m3u8
+9記錄,https://tv.iill.top/api/CCTV9/index.m3u8
+10科教,https://tv.iill.top/api/CCTV10/index.m3u8
+11戲曲,https://tv.iill.top/api/CCTV11/index.m3u8
+12社會與法,https://tv.iill.top/api/CCTV12/index.m3u8
+13新聞,https://tv.iill.top/api/CCTV13/index.m3u8
+14少兒,https://tv.iill.top/api/CCTV14/index.m3u8
+15音樂,https://tv.iill.top/api/CCTV15/index.m3u8
+16奥林匹克,https://tv.iill.top/api/CCTV16/index.m3u8
+17農業農村,https://tv.iill.top/api/CCTV17/index.m3u8
 
 
 MCP央視衛視,#genre#
