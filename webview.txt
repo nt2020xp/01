@@ -143,13 +143,6 @@ CCTV15音乐,http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV17农业农村,http://74.91.26.218:82/live/cctv17hd.m3u8
 
-翡翠台,http://74.91.26.218:82/live/jade.m3u8
-无线新闻台,http://74.91.26.218:82/live/inews.m3u8
-TVB Plus,http://74.91.26.218:82/live/j2.m3u8
-TVB星河,http://74.91.26.218:82/live/tvbxh.m3u8
-TVB千禧经典台,http://74.91.26.218:82/live/tvbjd.m3u8
-天映频道,http://74.91.26.218:82/live/typd.m3u8
-天映经典,http://74.91.26.218:82/live/tyjd.m3u8
 
 69央视,#genre#
 
@@ -696,94 +689,18 @@ CCTV央视台球,http://107.150.60.122/live/ystq.m3u8
 黑龙江卫视,http://112.123.243.37:50085/tsfile/live/0142_1.m3u8?key=txiptv
 黑龙江卫视,http://223.75.149.129:9906/tsfile/live/0143_1.m3u8?key=txiptv
 
-
-靖天龍華,#genre#
-
-靖天日本「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv047
-靖天電影「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv061
-靖天國際「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv063
-靖天歡樂「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv054
-靖天映畫「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv055
-靖天戲劇「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv058
-靖天綜合「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv046
-靖天育樂「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv062
-靖天資訊「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv065
-靖洋戲劇「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv045
-靖天卡通「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv044
-靖洋卡通「4gTV」,https://tv.iill.top/4gtv/4gtv-4gtv057
-
-龍華電影「ofiii」,https://tv.iill.top/ofiii/litv-xinchuang03
-龍華洋片「ofiii」,https://tv.iill.top/ofiii/litv-xinchuang02
-龍華經典「ofiii」,https://tv.iill.top/ofiii/litv-xinchuang21
-龍華偶像「ofiii」,https://tv.iill.top/ofiii/litv-xinchuang12
-龍華戲劇「ofiii」,https://tv.iill.top/ofiii/litv-xinchuang18
-龍華日韓「ofiii」,https://tv.iill.top/ofiii/litv-xinchuang11
-龍華卡通「ofiii」,https://tv.iill.top/ofiii/litv-xinchuang01
-
-
-
 香港,#genre#
 
-TVB翡翠台,http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
-TVB新聞台,http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
+翡翠台,http://74.91.26.218:82/live/jade.m3u8
+无线新闻台,http://74.91.26.218:82/live/inews.m3u8
+TVB星河,http://74.91.26.218:82/live/tvbxh.m3u8
+天映频道,http://74.91.26.218:82/live/typd.m3u8
+天映经典,http://74.91.26.218:82/live/tyjd.m3u8
 TVB星河台,http://php.jdshipin.com/PLTV/iptv.php?id=tvbxh
 重溫經典,http://cdn6.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
 NOW新聞台,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
 天映频道,https://o11.163189.xyz/stream/live/typd/
 天映經典,https://o11.163189.xyz/stream/live/ccm/
-
-
-MOD電視,#genre#
-
-CCTV世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
-CCTV世界地理,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl
-CCTV世界地理,http://107.150.60.122/live/sjdl.m3u8
-
-CBeebies,udp://@224.1.4.213:11111
-CBeebies,udp://@224.1.4.75:11111
-CatchPlay電影台,udp://@230.1.2.217:11111
-CatchPlay電影台,udp://@230.1.2.37:11111
-
-華視,udp://@230.1.2.229:11111
-中視,udp://@224.1.4.10:11111
-中視,udp://@230.1.2.228:11111
-台視,udp://@230.1.2.227:11111
-台視,udp://@224.1.4.8:11111
-民視,udp://@224.1.4.6:11111
-民視,udp://@230.1.2.226:11111
-
-TVBS新聞台,udp://@224.1.4.152:11111
-TVBS HD,udp://@224.1.4.153:11111
-TVBS HD,udp://@224.1.4.24:11111
-TVBS歡樂台,udp://@224.1.4.154:11111
-TVBS歡樂台,udp://@224.1.4.2:11111
-TVBS精采台,udp://@230.1.2.225:11111
-TVBS精采台,udp://@230.1.2.35:11111
-
-靖天日本台,udp://@230.1.2.221:11111
-靖天電影台,udp://@230.1.2.243:11111
-靖天戲劇台,udp://@230.1.2.163:11111
-靖天育樂台,udp://@230.1.2.194:11111
-靖天國際台,udp://@224.1.4.220:11111
-靖天映畫台,udp://@230.1.2.236:11111
-靖天資訊台,udp://@230.1.2.184:11111
-靖天綜合台,udp://@224.1.4.199:11111
-靖洋戲劇台,udp://@230.1.2.240:11111
-靖天卡通台,udp://@230.1.2.162:11111
-靖洋卡通台,udp://@230.1.2.161:11111
-
-龍華電影,udp://@224.1.4.251:11111
-龍華電影,udp://@224.1.4.36:11111
-龍華經典,udp://@224.1.4.172:11111
-龍華經典,udp://@224.1.4.44:11111
-龍華洋片,udp://@224.1.4.37:11111
-龍華洋片,udp://@230.1.2.211:11111
-龍華偶像,udp://@230.1.2.156:11111
-龍華影劇,udp://@230.1.2.167:11111
-龍華影劇,udp://@230.1.2.5:11111
-龍華戲劇,udp://@230.1.2.149:11111
-龍華動畫,udp://@224.1.4.109:11111
-龍華動畫,udp://@224.1.4.180:11111
 
 
 Gather直播,#genre#
