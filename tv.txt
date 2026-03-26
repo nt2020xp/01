@@ -31,6 +31,11 @@ CatchPlay電影台,udp://@230.1.2.37:11111
 緯來戲劇,https://tv.iill.top/api/VL-Drama/index.m3u8
 緯來育樂,https://tv.iill.top/api/VL-E/index.m3u8
 
+東森電影,https://tv.iill.top/api/ET-Movie/index.m3u8
+東森洋片,https://tv.iill.top/api/ET-Foreign-Movie-Channel/index.m3u8
+東森綜合,https://tv.iill.top/api/ET-Variety-Channel/index.m3u8
+東森戲劇,https://tv.iill.top/api/ET-Drama-Channel/index.m3u8
+東森幼幼,https://tv.iill.top/api/YoYo-TV/index.m3u8
 東森洋片,https://tv.iill.top/api/ET-Foreign-Movie-Channel/index.m3u8
 好萊塢電影,https://hls.iill.top/api/Hollywood-Movie/index.m3u8
 
