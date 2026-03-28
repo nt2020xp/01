@@ -17,7 +17,7 @@ CatchPlay電影台,udp://@230.1.2.37:11111
 柯南劇場版,https://live.ottiptv.cc/huya/30080236
 飢餓遊戲》點閱人氣榜,https://www.youtube.com/watch?v=UJgN7q6jpns
 飢餓遊戲》一次播到飽,https://www.youtube.com/watch?v=dKCewm0l1nM
-
+東森綜合2台.https://www.youtube.com/watch?v=cimbpAZUjzw
 華視,http://rihou.cc:555/tv/[mn]华视闽南
 中視,http://rihou.cc:555/tv/[mn]中视闽南
 台視,http://rihou.cc:555/tv/[mn]台视闽南
