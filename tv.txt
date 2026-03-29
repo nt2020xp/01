@@ -33,6 +33,7 @@ HBO 獨特,https://hls.iill.top/api/HBO-Signature/index.m3u8
 CCTV1綜合,http://cdn6.veryfast.filegear-sg.me/163189/cctv1
 CCTV13新聞,http://cdn3.veryfast.filegear-sg.me/live/cctv13/stream.m3u8
 TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 TVB星河台,http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
 77HOY TV,http://cdn.veryfast.filegear-sg.me/live/hoy/stream.m3u8
