@@ -164,6 +164,37 @@ NOW新聞台,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
 天映经典,http://74.91.26.218:82/live/tyjd.m3u8
 重温经典,https://cdn13.178.indevs.in/163189/21d79187db6e9793
 
+
+翡翠台,https://php.jdshipin.com:2096/smt.php?id=jade_twn
+翡翠台,https://php.jdshipin.com:2096/smt.php?id=jade_xue
+华丽翡翠台,https://php.jdshipin.com:2096/smt.php?id=Tvbjade
+华丽翡翠台,https://php.jdshipin.com:2096/smt.php?id=Wlt
+TVB星河,https://php.jdshipin.com:2096/smt.php?id=Xinhe
+明珠台,https://php.jdshipin.com:2096/smt.php?id=pearl_twn
+TVB Plus,https://php.jdshipin.com:2096/smt.php?id=j2_twn
+无线新闻,https://php.jdshipin.com:2096/smt.php?id=inews_twn
+TVB娱乐新闻台,https://php.jdshipin.com:2096/smt.php?id=Tvbentertainment
+ViuTV,https://php.jdshipin.com:2096/smt.php?id=viu1_twn
+ViuTVSix,https://php.jdshipin.com:2096/smt.php?id=viusix_twn
+HOY资讯台,https://php.jdshipin.com:2096/smt.php?id=hoycaijing_twn
+RTHK31,https://php.jdshipin.com:2096/smt.php?id=rhk31_twn
+RTHK32,https://php.jdshipin.com:2096/smt.php?id=rhk32_twn
+千禧经典台,https://php.jdshipin.com:2096/smt.php?id=Tvbclassic
+美亚电影台,https://php.jdshipin.com:2096/smt.php?id=meiyamovie_twn
+天映频道,https://php.jdshipin.com:2096/smt.php?id=Celestial
+天映经典,https://php.jdshipin.com:2096/smt.php?id=Celestial2
+凤凰中文,https://php.jdshipin.com:2096/smt.php?id=phoenixtv_hd
+凤凰资讯,https://php.jdshipin.com:2096/smt.php?id=phoenixinfo_hd
+凤凰香港,https://php.jdshipin.com:2096/smt.php?id=hkphoenix_twn
+八度空间,https://php.jdshipin.com:2096/smt.php?id=TV8
+Astro AOD,https://php.jdshipin.com:2096/smt.php?id=Aodhd
+Astro AEC,https://php.jdshipin.com:2096/smt.php?id=AEC
+爱奇艺,https://php.jdshipin.com:2096/smt.php?id=Qiyi
+Astro QJ,https://php.jdshipin.com:2096/smt.php?id=Quanjia
+Astro欢喜台,https://php.jdshipin.com:2096/smt.php?id=Huahee
+纬来电影,https://php.jdshipin.com:2096/smt.php?id=videolandmovie
+纬来体育,https://php.jdshipin.com:2096/smt.php?id=videolandsport
+
 4gtv網頁,#genre#
 parse=1
 
