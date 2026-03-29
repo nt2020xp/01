@@ -16,33 +16,11 @@ CatchPlay電影台,udp://@230.1.2.37:11111
 柯南國語,https://live.ottiptv.cc/huya/30080148
 柯南劇場版,https://live.ottiptv.cc/huya/30080236
 飢餓遊戲》點閱人氣榜,https://www.youtube.com/watch?v=UJgN7q6jpns
-飢餓遊戲》一次播到飽,https://www.youtube.com/watch?v=dKCewm0l1nM
-
+飢餓遊戲》一次播到飽,https://www.youtube.com/watch?v=6TsaEYaKueE
 華視,http://rihou.cc:555/tv/[mn]华视闽南
 中視,http://rihou.cc:555/tv/[mn]中视闽南
 台視,http://rihou.cc:555/tv/[mn]台视闽南
 民視,http://rihou.cc:555/tv/[mn]民视闽南
-
-
-
-HBO HD,https://hls.iill.top/api/HBO/index.m3u8
-HBO 強檔,https://hls.iill.top/api/HBO-Hits/index.m3u8
-HBO 家庭,https://hls.iill.top/api/HBO-Family/index.m3u8
-HBO 獨特,https://hls.iill.top/api/HBO-Signature/index.m3u8
-
-CCTV1綜合,http://cdn6.veryfast.filegear-sg.me/163189/cctv1
-CCTV13新聞,http://cdn3.veryfast.filegear-sg.me/live/cctv13/stream.m3u8
-TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-TVB星河台,http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
-77HOY TV,http://cdn.veryfast.filegear-sg.me/live/hoy/stream.m3u8
-78HOY资讯台,http://cdn.veryfast.filegear-sg.me/live/hoy78/stream.m3u8
-NOW新聞台,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
-天映频道,http://74.91.26.218:82/live/typd.m3u8
-天映经典,http://74.91.26.218:82/live/tyjd.m3u8
-重温经典,https://cdn13.178.indevs.in/163189/21d79187db6e9793
-
 
 MOD電視,#genre#
 
@@ -151,6 +129,19 @@ TBS NEWS DIG,https://www.youtube.com/live/Anr15FA9OCI
 龍華戲劇「ofiii」,https://tv.iill.top/ofiii/litv-xinchuang18
 龍華日韓「ofiii」,https://tv.iill.top/ofiii/litv-xinchuang11
 龍華卡通「ofiii」,https://tv.iill.top/ofiii/litv-xinchuang01
+
+香港頻道,#genre#
+
+TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+TVB星河台,http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
+华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+77HOY TV,http://cdn.veryfast.filegear-sg.me/live/hoy/stream.m3u8
+78HOY资讯台,http://cdn.veryfast.filegear-sg.me/live/hoy78/stream.m3u8
+NOW新聞台,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
+天映频道,http://74.91.26.218:82/live/typd.m3u8
+天映经典,http://74.91.26.218:82/live/tyjd.m3u8
+重温经典,https://cdn13.178.indevs.in/163189/21d79187db6e9793
 
 4gtv網頁,#genre#
 parse=1
