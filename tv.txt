@@ -35,7 +35,6 @@ CCTV13新聞,http://cdn3.veryfast.filegear-sg.me/live/cctv13/stream.m3u8
 TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 TVB星河台,http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
-TVB星河,https://cdn10.163189.xyz/stream/163189/xinghe
 77HOY TV,http://cdn.veryfast.filegear-sg.me/live/hoy/stream.m3u8
 78HOY资讯台,http://cdn.veryfast.filegear-sg.me/live/hoy78/stream.m3u8
 NOW新聞台,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
