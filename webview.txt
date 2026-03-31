@@ -1,4 +1,4 @@
-央視天光,#genre#
+央視,#genre#
 
 CCTV4K超高清,webview://https://www.yangshipin.cn/tv/home?pid=600002264
 CCTV8K超高清,webview://https://www.yangshipin.cn/tv/home?pid=600156816
@@ -22,7 +22,7 @@ CCTV17农业农村,webview://https://tv.cctv.com/live/cctv17
 第一剧场,webview://https://www.yangshipin.cn/tv/home?pid=600099655
 怀旧剧场,webview://https://www.yangshipin.cn/tv/home?pid=600099620
 
-衛視天光,#genre#
+衛視,#genre#
 
 江苏卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002521
 浙江卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002520
