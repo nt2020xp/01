@@ -59,7 +59,6 @@ CCTV17农业农村,webview://https://tv.cctv.com/live/cctv17
    
 4gtv天光,#genre#
 
-
 55 TVBS新聞台,webview://https://www.4gtv.tv/channel/media-live072?set=1&ch=473 
 51 東森新聞台,webview://https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292 
 56 東森財經台,webview://https://www.4gtv.tv/channel/4gtv-4gtv153?set=1&ch=293 
@@ -71,31 +70,14 @@ CCTV17农业农村,webview://https://tv.cctv.com/live/cctv17
 60 寰宇新聞台,webview://https://www.4gtv.tv/channel/litv-longturn14?set=1&ch=36 
 61 寰宇台灣台,webview://https://www.4gtv.tv/channel/4gtv-4gtv156?set=1&ch=280 
 50 鏡新聞台,webview://https://www.4gtv.tv/channel/4gtv-4gtv075?set=1&ch=268 
-
 12 華視,webview://https://www.4gtv.tv/channel/4gtv-4gtv041?set=1&ch=6 
 10 中視,webview://https://www.4gtv.tv/channel/4gtv-4gtv040?set=1&ch=4 
 6 民視,webview://https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3 
-
 116 Love Nature,webview://https://www.4gtv.tv/channel/4gtv-live208?set=1&ch=139 
 117 History 歷史頻道,webview://https://www.4gtv.tv/channel/4gtv-live026?set=1&ch=214 
-
 111 民視旅遊台,webview://https://www.4gtv.tv/channel/litv-ftv07?set=1&ch=61 
 113 亞洲旅遊台,webview://https://www.4gtv.tv/channel/4gtv-4gtv076?set=1&ch=250 
 120 愛爾達生活旅遊台,webview://https://www.4gtv.tv/channel/4gtv-live120?set=1&ch=237 
-
-33 Nick Jr. 兒童頻道,webview://https://www.4gtv.tv/channel/4gtv-live032?set=1&ch=219 
-34 尼克兒童頻道,webview://https://www.4gtv.tv/channel/4gtv-live105?set=1&ch=185 
-
-
-4 民視第一台,webview://https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=1 
-5 民視台灣台,webview://https://www.4gtv.tv/channel/4gtv-4gtv001?set=1&ch=2 
-9 大愛電視,webview://https://www.4gtv.tv/channel/4gtv-live007?set=1&ch=209 
-13 三立綜合台,webview://https://www.4gtv.tv/channel/4gtv-live207?set=1&ch=169 
-14 客家電視台,webview://https://www.4gtv.tv/channel/4gtv-4gtv043?set=1&ch=107 
-15 八大綜藝台,webview://https://www.4gtv.tv/channel/4gtv-4gtv039?set=1&ch=114 
-17 TVBS精采台,webview://https://www.4gtv.tv/channel/4gtv-4gtv067?set=1&ch=227 
-18 愛爾達娛樂台,webview://https://www.4gtv.tv/channel/4gtv-4gtv070?set=1&ch=19 
-
 20 靖天日本台,webview://https://www.4gtv.tv/channel/4gtv-4gtv047?set=1&ch=22 
 147 靖天電影台,webview://https://www.4gtv.tv/channel/4gtv-4gtv061?set=1&ch=82 
 19 靖天綜合台,webview://https://www.4gtv.tv/channel/4gtv-4gtv046?set=1&ch=21 
@@ -108,7 +90,16 @@ CCTV17农业农村,webview://https://tv.cctv.com/live/cctv17
 133 靖洋戲劇台,webview://https://www.4gtv.tv/channel/4gtv-4gtv045?set=1&ch=118 
 36 靖天卡通台,webview://https://www.4gtv.tv/channel/4gtv-4gtv044?set=1&ch=15 
 37 靖洋卡通台,webview://https://www.4gtv.tv/channel/4gtv-4gtv057?set=1&ch=59 
-
+4 民視第一台,webview://https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=1 
+5 民視台灣台,webview://https://www.4gtv.tv/channel/4gtv-4gtv001?set=1&ch=2 
+9 大愛電視,webview://https://www.4gtv.tv/channel/4gtv-live007?set=1&ch=209 
+13 三立綜合台,webview://https://www.4gtv.tv/channel/4gtv-live207?set=1&ch=169 
+14 客家電視台,webview://https://www.4gtv.tv/channel/4gtv-4gtv043?set=1&ch=107 
+15 八大綜藝台,webview://https://www.4gtv.tv/channel/4gtv-4gtv039?set=1&ch=114 
+17 TVBS精采台,webview://https://www.4gtv.tv/channel/4gtv-4gtv067?set=1&ch=227 
+18 愛爾達娛樂台,webview://https://www.4gtv.tv/channel/4gtv-4gtv070?set=1&ch=19 
+33 Nick Jr. 兒童頻道,webview://https://www.4gtv.tv/channel/4gtv-live032?set=1&ch=219 
+34 尼克兒童頻道,webview://https://www.4gtv.tv/channel/4gtv-live105?set=1&ch=185 
 67 TVBS,webview://https://www.4gtv.tv/channel/media-live073?set=1&ch=472 
 77 TVBS歡樂台,webview://https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184 
 153 amc電影台,webview://https://www.4gtv.tv/channel/4gtv-4gtv017?set=1&ch=39 
