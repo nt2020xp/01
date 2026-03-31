@@ -195,6 +195,8 @@ CCTV17農業農村,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoom
 
 +++++
 
+GEEK https://t.me/geekiptv888
+
 阿黃tv https://t.me/ahuangtv
 
 juli直播源 https://t.me/tvzby
