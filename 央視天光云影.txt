@@ -2,7 +2,7 @@
 
 CCTV4K,webview://https://www.yangshipin.cn/tv/home?pid=600002264
 CCTV8K,webview://https://www.yangshipin.cn/tv/home?pid=600156816
-CCTV1综合,webview://https://tv.cctv.com/live/cctv1
+CCTV1综合,webview://https://www.yangshipin.cn/tv/home?pid=600001859
 CCTV2财经,webview://https://tv.cctv.com/live/cctv2
 CCTV3综艺,webview://https://tv.cctv.com/live/cctv3
 CCTV4中文国际,webview://https://tv.cctv.com/live/cctv4
