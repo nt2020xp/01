@@ -1,3 +1,18 @@
+東森幼幼,https://tv.iill.top/api/YoYo-TV/index.m3u8
+
+緯來日本,https://tv.iill.top/api/VL-Japan/index.m3u8
+
+緯來綜合,https://tv.iill.top/api/VL-ONTV/index.m3u8
+
+緯來體育,https://tv.iill.top/api/VL-Sports/index.m3u8
+
+靖天日本,https://tv.iill.top/4gtv/4gtv-4gtv047?.m3u8
+
+東森洋片,https://tv.iill.top/api/ET-Foreign-Movie-Channel/index.m3u8
+
+好萊塢電影,https://tv.iill.top/api/Hollywood-Movie/index.m3u8
+
+
 央视频  http://43.156.8.127:5050/m3u
 
 风云试看,http://iptv.4666888.xyz/FYTV.txt
