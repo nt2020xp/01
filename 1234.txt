@@ -76,17 +76,10 @@ CCTV 12 社會與法「Relay」,https://tv.iill.top/api/CCTV12/index.m3u8
 CCTV 13 新聞「Relay」,https://tv.iill.top/api/CCTV13/index.m3u8
 CCTV 14 少兒「Relay」,https://tv.iill.top/api/CCTV14/index.m3u8
 CCTV 15 音樂「Relay」,https://tv.iill.top/api/CCTV15/index.m3u8
-CGTN「回看」,https://tv.iill.top/CGTN/cgtn
-CGTN Documentary「回看」,https://tv.iill.top/CGTN/cgtn_doc
-CGTN Русский「回看」,https://tv.iill.top/CGTN/cgtn_russian
-CGTN Français「回看」,https://tv.iill.top/CGTN/cgtn_francais
-CGTN Español「回看」,https://tv.iill.top/CGTN/cgtn_espanol
-CGTN العربية「回看」,https://tv.iill.top/CGTN/cgtn_arabic
+
 鳳凰衛視·中文「回看」,https://tv.iill.top/phenix/fhzw
 鳳凰衛視·資訊「回看」,https://tv.iill.top/phenix/fhzx
 鳳凰衛視·香港「回看」,https://tv.iill.top/phenix/fhhk
-雷霆881「电台」,https://881.touch-u.fun/playlist.m3u8
-叱咤903「电台」,https://903.touch-u.fun/playlist.m3u8
 Now新聞台,https://t.ttvb.eu.org/tvb/now-332/index.m3u8
 Now財經台,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
 Now Sports 精選,https://t.ttvb.eu.org/tvb/now-630/index.m3u8
