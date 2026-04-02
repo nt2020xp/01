@@ -114,7 +114,7 @@
 
 CCTV4K,http://A/ku9/js/webview.js?id=https://www.yangshipin.cn/tv/home?pid=600002264
 CCTV8K,http://A/ku9/js/webview.js?id=https://www.yangshipin.cn/tv/home?pid=600156816
-CCTV1综合,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv1
+CCTV1综合,http://A/ku9/js/webview.js?id=https://www.yangshipin.cn/tv/home?pid=600001859
 CCTV2财经,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv2
 CCTV3综艺,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv3
 CCTV4中文国际,http://A/ku9/js/webview.js?id=https://tv.cctv.com/live/cctv4
