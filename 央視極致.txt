@@ -6,7 +6,7 @@ order=14
 
 4K,https://www.yangshipin.cn/tv/home?pid=600002264
 8K,https://www.yangshipin.cn/tv/home?pid=600156816
-1綜合,https://tv.cctv.com/live/cctv1
+1綜合,https://www.yangshipin.cn/tv/home?pid=600001859
 2財經,https://tv.cctv.com/live/cctv2
 3綜藝,https://tv.cctv.com/live/cctv3
 4亞洲,https://tv.cctv.com/live/cctv4
