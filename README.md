@@ -1,3 +1,12 @@
+CCTV-1综合,https://www.yangshipin.cn/tv/home?pid=600001859
+
+CCTV-9纪录,https://www.yangshipin.cn/tv/home?pid=600004078
+
+CCTV-10科教,https://www.yangshipin.cn/tv/home?pid=600001805
+
+CCTV-13 新闻,https://www.yangshipin.cn/tv/home?pid=600001811
+
+
 東森幼幼,https://tv.iill.top/api/YoYo-TV/index.m3u8
 
 緯來日本,https://tv.iill.top/api/VL-Japan/index.m3u8
