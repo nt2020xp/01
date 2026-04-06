@@ -1,4 +1,4 @@
-央視,#genre#
+央視網頁,#genre#
 
 CCTV4K超高清,webview://https://www.yangshipin.cn/tv/home?pid=600002264
 CCTV8K超高清,webview://https://www.yangshipin.cn/tv/home?pid=600156816
@@ -24,7 +24,7 @@ CCTV17农业农村,webview://https://tv.cctv.com/live/cctv17
 
 
 
-衛視,#genre#
+衛視網頁,#genre#
 
 江苏卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002521
 浙江卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002520
@@ -59,7 +59,7 @@ CCTV17农业农村,webview://https://tv.cctv.com/live/cctv17
 黑龙江卫视,webview://https://www.yangshipin.cn/tv/home?pid=600002498
 
 
-4gtv,#genre#
+4gtv網頁,#genre#
 
 55 TVBS新聞台,webview://https://www.4gtv.tv/channel/media-live072?set=1&ch=473 
 51 東森新聞台,webview://https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292 
@@ -172,7 +172,7 @@ CCTV17农业农村,webview://https://tv.cctv.com/live/cctv17
 204 精選動漫台,webview://https://www.4gtv.tv/channel/4gtv-live024?set=1&ch=204 
 
 
-🍓┃央视频道,#genre#
+央視频道,#genre#
 CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=21
 CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=20
 CCTV-1,http://107.150.60.122/live/cctv1hd.m3u8
@@ -266,7 +266,6 @@ CCTV-12,http://111.56.90.5/000000000000/6000000001000022586/1.m3u8
 CCTV-12,http://111.56.90.5/000000000000/1000000001000032494/1.m3u8
 CCTV-12,http://111.56.90.5/000000000000/1000000005000265012/1.m3u8
 CCTV-12,http://153.0.171.163:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-13,http://pull-hls-f1.douyincdn.com/media/stream-695587197212689068/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260402173643D5E04F644E670D03FBE4-d4uyqM&wsSecret=80cece89334429e8a4dd99ae7f8ae56c&wsTime=69ce38ab
 CCTV-13,http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
 CCTV-13,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd
 CCTV-13,http://107.150.60.122/live/cctv13hd.m3u8
@@ -303,7 +302,7 @@ CCTV-17,http://111.56.90.5/000000000000/1000000006000268004/1.m3u8
 CCTV-17,http://111.56.90.5/000000000000/1000000005000265015/1.m3u8
 CCTV-17,http://111.56.90.5/000000000000/1000000005000056836/1.m3u8
 
-🐧┃卫视频道,#genre#
+衛視频道,#genre#
 东方卫视,http://107.150.60.122/live/dfwshd.m3u8
 东方卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dfwshd
 东方卫视,http://111.56.90.5/000000000000/1000000005000265018/1.m3u8
@@ -320,7 +319,6 @@ CCTV-17,http://111.56.90.5/000000000000/1000000005000056836/1.m3u8
 湖南卫视,http://111.56.90.5/000000000000/1000000005000265024/1.m3u8
 湖南卫视,http://111.56.90.5/000000000000/5000000004000006692/1.m3u8
 湖南卫视,http://111.56.90.5/000000000000/6000000001000018044/1.m3u8
-湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视,http://153.0.171.163:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd
 江苏卫视,http://107.150.60.122/live/jswshd.m3u8
@@ -449,7 +447,7 @@ CCTV-17,http://111.56.90.5/000000000000/1000000005000056836/1.m3u8
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 云南卫视,http://153.0.171.163:85/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 
-🚂┃湾区频道,#genre#
+香港频道,#genre#
 翡翠台,http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8
 翡翠台,http://api.mg.itv888.cn:8080/hls/ac8b06eb0c8/index.m3u8
 翡翠台,http://rihou.cc:555/tv/[PL]无线翡4k
